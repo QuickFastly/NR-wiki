@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Ozen%20(Continent).jpg)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Ozen (Continent).jpg|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -32,19 +32,19 @@ comments: true
   </table>  
 </div>  
   
-Ozen is the northeastern continent of [Earth](./Earth). The countries of [Alastor](./Alastor/Alastor), [Corstaea](./Corstaea/Corstaea), [Grenneria](./Grenneria/Grenneria), and [Osun Tanum](./Osun%20Tanum/Osun%20Tanum) are located here.  
+Ozen is the northeastern continent of [[./Earth|Earth]]. The countries of [[./Alastor/Alastor|Alastor]], [[./Corstaea/Corstaea|Corstaea]], [[./Grenneria/Grenneria|Grenneria]], and [[./Osun Tanum/Osun Tanum|Osun Tanum]] are located here.  
   
 ## Geography  
   
-Ozen is a heavily forested, extremely mountainous region, home to the [Himlavård](../Places/Himlav%C3%A5rd) mountain range and nearly all of the world's boreal and temperate forests.  
+Ozen is a heavily forested, extremely mountainous region, home to the [[../Places/Himlavård|Himlavård]] mountain range and nearly all of the world's boreal and temperate forests.  
   
 ### Resources  
   
-Ozen is extremely rich in wood and other farmable resources, as well as many rare materials like gems, but relatively poor in common metals, relying on trade with [Avangia](./Avangia) and [Yulentia](./Yulentia) for that.  
+Ozen is extremely rich in wood and other farmable resources, as well as many rare materials like gems, but relatively poor in common metals, relying on trade with [[./Avangia|Avangia]] and [[./Yulentia|Yulentia]] for that.  
   
 ## See also  
   
-[Ozen Federation](../Organizations/Ozen%20Federation)  
+[[../Organizations/Ozen Federation|Ozen Federation]]  
   
 -----  
 > [!cite] Author info  

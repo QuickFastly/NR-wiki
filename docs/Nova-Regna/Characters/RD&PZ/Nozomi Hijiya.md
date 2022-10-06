@@ -5,9 +5,9 @@ tags: RD
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-Heir to the [Hijiya Corporation](../../World/Organizations/Corporations/Hijiya%20Corporation), but not currently taking her position. Daughter of [Kaede Hijiya](../Kaede%20Hijiya) and [Hana Hijiya](../Hana%20Hijiya).  
+Heir to the [[../../World/Organizations/Corporations/Hijiya Corporation|Hijiya Corporation]], but not currently taking her position. Daughter of [[../Kaede Hijiya|Kaede Hijiya]] and [[../Hana Hijiya|Hana Hijiya]].  
   
-Friends and roommates with [Near Amago](./Near%20Amago) and [Suruko Zukeran](./Suruko%20Zukeran).  
+Friends and roommates with [[./Near Amago|Near Amago]] and [[./Suruko Zukeran|Suruko Zukeran]].  
   
 肱野のぞみ  
   

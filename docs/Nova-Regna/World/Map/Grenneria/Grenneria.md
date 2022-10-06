@@ -9,9 +9,9 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Grenneria%20flag.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../../assets/img/Grenneria flag.png|250]]</span>  
     
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Grenneria%20(Region).jpg)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Grenneria (Region).jpg|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -84,7 +84,7 @@ comments: true
   </table>  
 </div>  
   
-Grenneria, officially known as the Grennerian Federation, is a moderately sized country located on the eastern third of the continent of [Ozen](../Ozen), and is a member of the [Ozen Federation](../../Organizations/Ozen%20Federation). Its capital, [Norizgrad](Norizgrad), is located in the heart of the country near the sea in the province of [Roslaya](Roslaya). It is bordered by [Corstaea](../Corstaea/Corstaea) and [Osun Tanum](../Osun%20Tanum/Osun%20Tanum), and is also closely neighbored by [Destrea](../Destrea/Destrea).  
+Grenneria, officially known as the Grennerian Federation, is a moderately sized country located on the eastern third of the continent of [[../Ozen|Ozen]], and is a member of the [[../../Organizations/Ozen Federation|Ozen Federation]]. Its capital, [[Norizgrad]], is located in the heart of the country near the sea in the province of [[Roslaya]]. It is bordered by [[../Corstaea/Corstaea|Corstaea]] and [[../Osun Tanum/Osun Tanum|Osun Tanum]], and is also closely neighbored by [[../Destrea/Destrea|Destrea]].  
   
 Grenneria is a moderately developed country with a modest population, a troubled industrialized economy, and a modest military. Grenneria is credited for numerous developments in land-based combat strategy and tactics, as well as pioneering the use of gas-operated automatic rifles. However, troubling times befell the country in the early 20th century and greatly stunted their development, causing them to fall behind technologically. Their strategic prowess still shines despite their obsolete weaponry, allowing them to remain formidable in smaller scale land-based engagements.  
   
@@ -96,7 +96,7 @@ TBD
   
 ## Geography  
   
-Grenneria is an almost entirely flat region with the exception of the lower half of [Himlavård](../../Places/Himlav%C3%A5rd) cutting through it. The whole region is forested with a temperate climate to the south, a boreal climate through the center, and tundra to the north and surrounding the mountains.  
+Grenneria is an almost entirely flat region with the exception of the lower half of [[../../Places/Himlavård|Himlavård]] cutting through it. The whole region is forested with a temperate climate to the south, a boreal climate through the center, and tundra to the north and surrounding the mountains.  
   
 ## Government & Politics  
   
@@ -109,14 +109,14 @@ The second branch, the Grennerian Council, is an independent entity formed to mo
 ### Administrative divisions  
   
 Grenneria is divided into eight provinces, each overseen by at least one minister per department of the Administration. The provinces are governed exclusively by the Administration and have no autonomy, though they all have very distinct history and culture. These provinces are as follows.  
-- [Ivashni](Ivashni)  
-- [Khotka](Khotka)  
-- [Kielda](Kielda)  
-- [Markask](Markask)  
-- [Nazavat](Nazavat)  
-- [Roslaya](Roslaya)  
-- [Sarabey](Sarabey)  
-- [Ulavyr](Ulavyr)  
+- [[Ivashni]]  
+- [[Khotka]]  
+- [[Kielda]]  
+- [[Markask]]  
+- [[Nazavat]]  
+- [[Roslaya]]  
+- [[Sarabey]]  
+- [[Ulavyr]]  
   
 ### Military  
   
@@ -124,11 +124,11 @@ The Grennerian military is divided into four branches, being the Ground Forces, 
   
 ### Foreign relations  
   
-![Political relations chart (Grenneria).svg](Political%20relations%20chart%20(Grenneria).svg)  
+![[Political relations chart (Grenneria).svg]]  
   
 ## Economy  
   
-The Grennerian economy is worth 112.7 trillion [CR](Credit%20(currency)) per year with an expenditure of 61.2%, which is distributed as follows.  
+The Grennerian economy is worth 112.7 trillion [[Credit (currency)|CR]] per year with an expenditure of 61.2%, which is distributed as follows.  
 - Administration: 9.6%  
 - Defense: 14.7%  
 - Education & Science: 7.8%  
@@ -150,7 +150,7 @@ Some primary exports of Grenneria are manufacturing, unskilled labor, and lumber
   
 ## Demographics  
   
-Grenneria has historically acted towards [spirits](../../Inhabitants/Spirits) with total ignorance, and continues to do so today. The government operates as though spirits don't exist at all, leading to severe systemic discrimination against them. On top of this, many Grennerian people treat spirits as objects of fascination more than individuals. It is assumed that the spirit population of the country is very small as a result, but there is no concrete information to investigate this.  
+Grenneria has historically acted towards [[../../Inhabitants/Spirits|spirits]] with total ignorance, and continues to do so today. The government operates as though spirits don't exist at all, leading to severe systemic discrimination against them. On top of this, many Grennerian people treat spirits as objects of fascination more than individuals. It is assumed that the spirit population of the country is very small as a result, but there is no concrete information to investigate this.  
   
 ### Education  
   
@@ -174,7 +174,7 @@ TBD
   
 ## See also  
   
-[World military balance](../../../_meta/World%20military%20balance) (Meta)  
+[[../../../_meta/World military balance|World military balance]] (Meta)  
   
 -----  
 > [!cite] Author info  

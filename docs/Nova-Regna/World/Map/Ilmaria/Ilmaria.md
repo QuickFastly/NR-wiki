@@ -9,9 +9,9 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Ilmaria flag.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Ilmaria%20flag.png)</span>  
     
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Ilmaria (Region).jpg|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Ilmaria%20(Region).jpg)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -84,13 +84,13 @@ comments: true
   </table>  
 </div>  
   
-Ilmaria, officially known as the New Halcyon of the Ilmaria Free State, is a very small, very young country located on an entirely man-made landmass inside the eastern gulf of [[Shinzen]]. Its capital, [[Avalon]], is the colossal building in the center of the country that vertically connects the land.  
+Ilmaria, officially known as the New Halcyon of the Ilmaria Free State, is a very small, very young country located on an entirely man-made landmass inside the eastern gulf of [Shinzen](../Shinzen/Shinzen). Its capital, [Avalon](../../Places/Avalon), is the colossal building in the center of the country that vertically connects the land.  
   
 Being less than half a century old, Ilmaria has very little history to fall back on, but has already made history globally several times by being the first man-made landmass of its kind, the largest construction project ever undertaken, the first country to achieve a nationwide negative carbon footprint, and the home of numerous groundbreaking inventions and innovations. Not only that, but Ilmaria has also quickly become a post-industrial economic powerhouse, providing countless services for the rest of the world.  
   
 It is believed by many to be the first time in history that true utopia has been achieved, but many citizens of Ilmaria will debate that, stating that despite the incredible reality of a country that provides its citizens with everything they need to survive free of charge, the true cost is immense and unseen oppression and exploitation. These claims continue to be dismissed by most unaffected people and remain unproven on the international stage.  
   
-[[11K]] is headquartered in Avalon, the corporation also acting as the national government. A small but elite private military is maintained by 11K for defense and national security purposes exclusively, alongside defense contracts with both Shinzen and [[Ustonia]] to deter and repel any potential attempts at invasion.  
+[11K](../../Organizations/Corporations/11K) is headquartered in Avalon, the corporation also acting as the national government. A small but elite private military is maintained by 11K for defense and national security purposes exclusively, alongside defense contracts with both Shinzen and [Ustonia](../Ustonia/Ustonia) to deter and repel any potential attempts at invasion.  
   
 ## History  
   
@@ -106,7 +106,7 @@ Ilmaria is an oligarchy run by only a small handful of elite 11K employees. Orig
   
 ### Administrative divisions  
   
-Ilmaria is divided in two vertical tiers of land, each governed independently. The lower level, [[Nova]], is an incredibly dense city accounting for over 70% of the population, most being laborers living in poverty. The upper level, [[Ventura]], is a spacious and beautiful utopia populated almost exclusively by the wealthy and privileged. The colossal building in the center of the nation known as Avalon is a third independently governed region, serving as the national capital, albeit with a fraction of the population of Ventura.  
+Ilmaria is divided in two vertical tiers of land, each governed independently. The lower level, [Nova](Nova), is an incredibly dense city accounting for over 70% of the population, most being laborers living in poverty. The upper level, [Ventura](Ventura), is a spacious and beautiful utopia populated almost exclusively by the wealthy and privileged. The colossal building in the center of the nation known as Avalon is a third independently governed region, serving as the national capital, albeit with a fraction of the population of Ventura.  
   
 ### Military  
   
@@ -116,11 +116,11 @@ Further bolstering the defensive capability of the nation are defense contracts 
   
 ### Foreign relations  
   
-![[Political relations chart (Ilmaria).svg]]  
+![Political relations chart (Ilmaria).svg](Political%20relations%20chart%20(Ilmaria).svg)  
   
 ## Economy  
   
-The Ilmarian economy is worth 1.76 quadrillion [[Credit (currency)|CR]] per year with an expenditure of 13.6%, which is distributed as follows.  
+The Ilmarian economy is worth 1.76 quadrillion [CR](Credit%20(currency)) per year with an expenditure of 13.6%, which is distributed as follows.  
 - Administration: 13.1%  
 - Defense: 4.9%  
 - Education & Science: 19.5%  
@@ -142,7 +142,7 @@ Since 11K acts as the central government of Ilmaria, the goods and services of 1
   
 ## Demographics  
   
-Ilmaria is the second most welcoming towards [[Spirits|spirits]], second only to [[Alastor]]. There is no systemic discrimination whatsoever beyond simple identification, and societal discrimination is rare to see and minimal in effect, mostly coming in the form of innocent fascination from people who have never seen a spirit before.  
+Ilmaria is the second most welcoming towards [spirits](../../Inhabitants/Spirits), second only to [Alastor](../Alastor/Alastor). There is no systemic discrimination whatsoever beyond simple identification, and societal discrimination is rare to see and minimal in effect, mostly coming in the form of innocent fascination from people who have never seen a spirit before.  
   
 Spirit population according to state records: 804,434  
 - Cat: 503,252  
@@ -173,7 +173,7 @@ TBD
   
 ## See also  
   
-[[World military balance]] (Meta)  
+[World military balance](../../../_meta/World%20military%20balance) (Meta)  
   
 -----  
 > [!cite] Author info  

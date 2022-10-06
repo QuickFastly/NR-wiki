@@ -5,7 +5,7 @@ comments: true
 > [!bug] Issue  
 > The main article could use some rewrites, so this page is also subject to change.  
   
-The Internal Society of the [[Children of the Flame]] shares very little with the other branches, instead operating much like a dynastic harem. They stay even further out of the public eye than the [[Enforcers]] branch due to their immoral, unethical, and illegal activity.  
+The Internal Society of the [Children of the Flame](./Children%20of%20the%20Flame) shares very little with the other branches, instead operating much like a dynastic harem. They stay even further out of the public eye than the [Enforcers](./Enforcers) branch due to their immoral, unethical, and illegal activity.  
   
 The continued presence of this part of the organization is a point of extreme contention among those who are aware of it, as nobody outside of the Internal Society believes it should be allowed to exist, nor do they understand how it persists. The true amount of influence the Internal Society holds over the organization is still unknown.  
   

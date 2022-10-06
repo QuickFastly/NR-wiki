@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -104,11 +104,11 @@ comments: true
   </table>  
 </div>  
   
-Dvalinn is a [Deer spirit](../../World/Inhabitants/Deer) and one of the five mortal [Incarnations](../../World/Concepts/Incarnations). He is loyal to [Freya](./Freya) and the [Risky Witches](../../World/Organizations/Risky%20Witches), and participated in [The Big Event](../../World/History%20&%20Events/The%20Big%20Event).  
+Dvalinn is a [[../../World/Inhabitants/Deer|Deer spirit]] and one of the five mortal [[../../World/Concepts/Incarnations|Incarnations]]. He is loyal to [[./Freya|Freya]] and the [[../../World/Organizations/Risky Witches|Risky Witches]], and participated in [[../../World/History & Events/The Big Event|The Big Event]].  
   
 ## Summary  
   
-As a mortal incarnation, Dvalinn has been several people throughout history. Every incarnation of Dvalinn shares a number of constant traits, including whitetail antlers - something no other deer spirits have - eyes that never open until adulthood, and extreme cataracts. Despite this, they can "see" everything around them thanks to their [Alignment](../../World/Concepts/Alignment), which also grants them a 360 degree field of vision and the ability to see around corners. They also possess [Attunement](../../World/Concepts/Attunement), manifesting as near total dominion over flora and fauna. Dvalinn always turns to the fringe faction of deer spirits, but typically maintains a pacifist approach to their cause. Should they resort to violence, however, their ability to twist and bend the land to their will can be terrifyingly effective.  
+As a mortal incarnation, Dvalinn has been several people throughout history. Every incarnation of Dvalinn shares a number of constant traits, including whitetail antlers - something no other deer spirits have - eyes that never open until adulthood, and extreme cataracts. Despite this, they can "see" everything around them thanks to their [[../../World/Concepts/Alignment|Alignment]], which also grants them a 360 degree field of vision and the ability to see around corners. They also possess [[../../World/Concepts/Attunement|Attunement]], manifesting as near total dominion over flora and fauna. Dvalinn always turns to the fringe faction of deer spirits, but typically maintains a pacifist approach to their cause. Should they resort to violence, however, their ability to twist and bend the land to their will can be terrifyingly effective.  
   
 Aside from this summary, the rest of this page applies only to the current incarnation of Dvalinn.  
   
@@ -175,13 +175,13 @@ With enough convincing, Freya used his violent heart to sway him to join the Ris
   
 Dvalinn was the most difficult of the incarnations for Freya to recruit due to having no particular attachment to the outside world or the people in it, and he remains the most distant from her in the group, mostly treating her as a superior rather than a friend.  
   
-He has a rather sour relationship with [Garm](./Garm) because of her constant bullying and pestering, but still tries to treat her with respect. He views [Kuhai](./Kuhai) as little more than a colleague and mostly treats her as such. He enjoys speaking with [Neven](./Neven) when she's alone, but finds her annoying when others are around. He is closest with [Haida](./Haida) and deeply values her wisdom, showing her the most respect in the group.  
+He has a rather sour relationship with [[./Garm|Garm]] because of her constant bullying and pestering, but still tries to treat her with respect. He views [[./Kuhai|Kuhai]] as little more than a colleague and mostly treats her as such. He enjoys speaking with [[./Neven|Neven]] when she's alone, but finds her annoying when others are around. He is closest with [[./Haida|Haida]] and deeply values her wisdom, showing her the most respect in the group.  
   
 In truth, he is quite bad at hiding his true feelings, especially when teased about them. While it's true that he was distant at first, over time he did grow very close with everyone in the group and would do a lot for them, but he will never admit that to them.  
   
 ### Affiliations  
   
-He is a member of the Risky Witches [Task Force 5555](Risky%20Witches#Special%20forces) with the effective rank of O-6.  
+He is a member of the Risky Witches [[Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
   
 ## History  
   

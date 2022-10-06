@@ -12,7 +12,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/Avangian%20Alliance%20flag.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/Avangian Alliance flag.png|250]]</span>  
     
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -40,11 +40,11 @@ comments: true
   </table>  
 </div>  
   
-The Avangian Alliance is a political agreement formed between [Sangyon](../Map/Sangyon/Sangyon), [Shaohou](../Map/Shaohou/Shaohou), and [Shinzen](../Map/Shinzen/Shinzen) in 1957 as a way to ensure a lasting peace between the nations after the new leadership of Shinzen abruptly withdrew all troops from Sangyon and Shaohou, ending an era of Shinzenese expansionism. This sudden withdrawal was met with intense negative public backlash from the patriotic Shinzenese population, which was a primary motivating factor for the new leadership of Shinzen to propose the Alliance in an attempt to quiet the concerns of the public.  
+The Avangian Alliance is a political agreement formed between [[../Map/Sangyon/Sangyon|Sangyon]], [[../Map/Shaohou/Shaohou|Shaohou]], and [[../Map/Shinzen/Shinzen|Shinzen]] in 1957 as a way to ensure a lasting peace between the nations after the new leadership of Shinzen abruptly withdrew all troops from Sangyon and Shaohou, ending an era of Shinzenese expansionism. This sudden withdrawal was met with intense negative public backlash from the patriotic Shinzenese population, which was a primary motivating factor for the new leadership of Shinzen to propose the Alliance in an attempt to quiet the concerns of the public.  
   
 ## History  
   
-The original terms of the Alliance were remarkably similar to that of the [Ozen Federation](./Ozen%20Federation), with all three member nations openly sharing military strength and technology while also enjoying free trade and lasting peace. One notable difference between the Alliance and the Federation is that rather than forming an independent, international council to maintain it, Shinzen was the commanding authority with total control. Shinzen led a relief effort in this time and led the Alliance into a golden era. Over time, however, the power and meaning of the Alliance has been slowly eroding.   
+The original terms of the Alliance were remarkably similar to that of the [[./Ozen Federation|Ozen Federation]], with all three member nations openly sharing military strength and technology while also enjoying free trade and lasting peace. One notable difference between the Alliance and the Federation is that rather than forming an independent, international council to maintain it, Shinzen was the commanding authority with total control. Shinzen led a relief effort in this time and led the Alliance into a golden era. Over time, however, the power and meaning of the Alliance has been slowly eroding.   
   
 Today, the Alliance is hardly more than a historical symbol and traditional ideal. Nearly all of the military agreements have not been allowed to lapse, Shinzen has ceded its authority over the other regions entirely, and international trade while still being open is no longer unconditionally free. Shinzen, by far the strongest of the three, maintains a one sided agreement to offer military protection to Sangyon, the weakest, but Shaohou is fully independent.  
   
@@ -54,7 +54,7 @@ TBD
   
 ## See also  
   
-[Avangia](../Map/Avangia)  
+[[../Map/Avangia|Avangia]]  
   
 -----  
 > [!cite] Author info  

@@ -4,20 +4,20 @@ share: true
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-[Inazuma Clan](./Inazuma%20Clan)  
-[Kagetsu Clan](Kagetsu%20Clan)  
-[Seki Clan](Seki%20Clan)  
-[Yō Clan](Y%C5%8D%20Clan)  
-[Itō Clan](It%C5%8D%20Clan)  
-[Endō Clan](End%C5%8D%20Clan)  
-[Ikute Clan](Ikute%20Clan)  
-[Iwahara Clan](Iwahara%20Clan)  
-[Miura Clan](Miura%20Clan)  
-[Suzuka Clan](Suzuka%20Clan)  
+[[./Inazuma Clan|Inazuma Clan]]  
+[[Kagetsu Clan]]  
+[[Seki Clan]]  
+[[Yō Clan]]  
+[[Itō Clan]]  
+[[Endō Clan]]  
+[[Ikute Clan]]  
+[[Iwahara Clan]]  
+[[Miura Clan]]  
+[[Suzuka Clan]]  
   
-[Miwa Family](./Miwa%20Family)  
+[[./Miwa Family|Miwa Family]]  
   
-[Shisuya](../../Cultures%20&%20Ethnicities/Shisuya/Shisuya)  
+[[../../Cultures & Ethnicities/Shisuya/Shisuya|Shisuya]]  
   
 %%  
 廝子野 shisuya (servant child field)  

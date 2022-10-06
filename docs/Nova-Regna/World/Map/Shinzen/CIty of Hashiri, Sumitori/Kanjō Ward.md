@@ -5,13 +5,13 @@ tags: PG
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-[[Hashiri]]  
+[Hashiri](./Hashiri)  
   
-[[Ginya]]  
-[[Sanzan]]  
-[[Wahara]]  
-[[Yurihama]]  
-[[Ryōgan]]  
+[Ginya](./Ginya)  
+[Sanzan](./Sanzan)  
+[Wahara](./Wahara)  
+[Yurihama](./Yurihama)  
+[Ryōgan](./Ry%C5%8Dgan)  
   
 -----  
 > [!cite] Author info  

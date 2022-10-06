@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -104,11 +104,11 @@ comments: true
   </table>  
 </div>  
   
-Haida is a [[Mouse|Mouse spirit]] and one of the five mortal [[Incarnations]]. She is loyal to [[Freya]] and the [[Risky Witches]], and participated in [[The Big Event]].  
+Haida is a [Mouse spirit](../../World/Inhabitants/Mouse) and one of the five mortal [Incarnations](../../World/Concepts/Incarnations). She is loyal to [Freya](./Freya) and the [Risky Witches](../../World/Organizations/Risky%20Witches), and participated in [The Big Event](../../World/History%20&%20Events/The%20Big%20Event).  
   
 ## Summary  
   
-As a mortal incarnation, Haida has been several people throughout history. Every incarnation of Haida shares a number of constant traits, including naturally gray hair from birth, distinctly mouse-like feet and claws, innate knowledge of the location of [[The Absolute Library]], and a freakishly exceptional ability to learn new things. They utilize both [[Alignment]] and [[Attunement]] to project their senses long distances, communicate telepathically, and create grand illusions. Unlike the other incarnations, Haida often takes an active role in society by acting as a teacher and mentor to mouse children, and offering advice to young people in need while in disguise, making her legend uniquely prevalent in living memory.  
+As a mortal incarnation, Haida has been several people throughout history. Every incarnation of Haida shares a number of constant traits, including naturally gray hair from birth, distinctly mouse-like feet and claws, innate knowledge of the location of [The Absolute Library](../../World/Places/The%20Absolute%20Library), and a freakishly exceptional ability to learn new things. They utilize both [Alignment](../../World/Concepts/Alignment) and [Attunement](../../World/Concepts/Attunement) to project their senses long distances, communicate telepathically, and create grand illusions. Unlike the other incarnations, Haida often takes an active role in society by acting as a teacher and mentor to mouse children, and offering advice to young people in need while in disguise, making her legend uniquely prevalent in living memory.  
   
 Aside from this summary, the rest of this page applies only to the current incarnation of Haida.  
   
@@ -145,7 +145,7 @@ Aside from this summary, the rest of this page applies only to the current incar
   
 Her alignment and attunement go hand in hand to enable her to project her senses over long distances, effectively allowing her to listen to conversations from the other side of the world as though she were in the room, communicate telepathically with, read the emotions of, or create grand, complex, extremely convincing illusions for one person at a time over long distances, or up to 50 people at a time within visual range.  
   
-Her abilities can also synergize with the abilities of others through physical contact if they're compatible. For instance, when she and Freya work together, her telepathic abilities become limitless, but Freya takes full control over them, using Haida as a conduit to telepathically communicate through. With [[Neven]], Haida gains the ability to additionally read the thoughts and memories of people within her typical limitations, and Neven shares the full experience.  
+Her abilities can also synergize with the abilities of others through physical contact if they're compatible. For instance, when she and Freya work together, her telepathic abilities become limitless, but Freya takes full control over them, using Haida as a conduit to telepathically communicate through. With [Neven](./Neven), Haida gains the ability to additionally read the thoughts and memories of people within her typical limitations, and Neven shares the full experience.  
   
 Unlike the rest of the incarnations, her attunement does not grant her any kind of increase in physical strength or durability. Instead, it allows her to survive without food, water, or sleep.  
   
@@ -161,13 +161,13 @@ She calls herself a pacifist, but not only does she support the violence caused 
   
 Haida, for the most part, has a strange mix of close familiarity and cold distance with everyone around her, which makes most people feel safe and comfortable around her at first, then slowly become more and more uncomfortable without understanding why.  
   
-Out of everyone in the Risky Witches, Neven is the only one she is truly close to, and she greatly enjoys their time together. [[Dvalinn]] is close to her as well, even though she treats him the same as everyone else, because he views her strange coldness as something to look up to. [[Garm]] is dense enough to simply not care, and [[Kuhai]] is simply unfazed.  
+Out of everyone in the Risky Witches, Neven is the only one she is truly close to, and she greatly enjoys their time together. [Dvalinn](./Dvalinn) is close to her as well, even though she treats him the same as everyone else, because he views her strange coldness as something to look up to. [Garm](./Garm) is dense enough to simply not care, and [Kuhai](./Kuhai) is simply unfazed.  
   
-She is also close with [[Minerva]] and all of the mouse spirits working and living with her, showing them more affection than anyone else, though Neven has earned second place in her heart.  
+She is also close with [Minerva](./Minerva) and all of the mouse spirits working and living with her, showing them more affection than anyone else, though Neven has earned second place in her heart.  
   
 ### Affiliations  
   
-She is a member of the Risky Witches [[Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
+She is a member of the Risky Witches [Task Force 5555](Risky%20Witches#Special%20forces) with the effective rank of O-6.  
   
 ## History  
   

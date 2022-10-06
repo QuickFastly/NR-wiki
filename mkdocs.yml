@@ -98,6 +98,11 @@ plugins:
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
   - meta-descriptions
+  - social:
+      cards: true
+      cards_color:
+          fill: "#910000"
+          text: "FFFFFF"
 extra_javascript:
   - assets/js/mathjax.js
   - assets/js/utils.js

@@ -5,9 +5,9 @@ tags: PG
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-[Shakotan Ward](./Shakotan%20Ward)  
+[[./Shakotan Ward|Shakotan Ward]]  
   
-[Kitabe Proving Grounds](../../../Places/Kitabe%20Proving%20Grounds)  
+[[../../../Places/Kitabe Proving Grounds|Kitabe Proving Grounds]]  
   
 -----  
 > [!cite] Author info  

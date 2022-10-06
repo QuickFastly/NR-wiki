@@ -1,3 +1,7 @@
 .md-footer__inner.md-grid {
   display: none;
 }
+:root > * {
+  --md-primary-fg-color:        #C10000;
+  --md-accent-fg-color:         #910000;
+}

@@ -155,7 +155,7 @@ Another thing to keep in mind is that your contributions to this wiki will autom
   
 I *strongly* suggest that if you choose to use another license, you use another [Creative Commons](https://creativecommons.org/licenses/) license. You can try another license if you really want to, but I'll have to look over it and decide whether or not it aligns with the purpose of this wiki. I am very critical of intellectual property law and want this world to remain fully open, so "All Rights Reserved" will never be accepted on this wiki. Restrictions may be applied, but *all* content on this wiki *must* remain free to use and share to some degree.  
   
-Now then, onto the ways to contribute.  
+Now then, on to some of the ways you can contribute.  
   
 ### Issues (The easiest option for you)  
   

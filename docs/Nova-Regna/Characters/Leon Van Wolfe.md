@@ -12,7 +12,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -107,7 +107,7 @@ comments: true
   </table>  
 </div>  
   
-Leon Van Wolfe is the current High Cardinal of the [Children of the Flame](../World/Organizations/Religions%20&%20Cults/Children%20of%20the%20Flame), and is the primary advisor to [The Sixth Storyteller](./The%20Sixth%20Storyteller).  
+Leon Van Wolfe is the current High Cardinal of the [[../World/Organizations/Religions & Cults/Children of the Flame|Children of the Flame]], and is the primary advisor to [[./The Sixth Storyteller|The Sixth Storyteller]].  
   
 ## Physical description  
   
@@ -119,13 +119,13 @@ working on it
   
 ## Relationships  
   
-He is devoted to The Sixth Storyteller, but oblivious to his casual nature, leading to a lot of awkward exchanges. He views [Mae Seraphine Walker](./Mae%20Seraphine%20Walker) as a potentially dangerous rival, believing that she is undermining the status of the Storyteller.  
+He is devoted to The Sixth Storyteller, but oblivious to his casual nature, leading to a lot of awkward exchanges. He views [[./Mae Seraphine Walker|Mae Seraphine Walker]] as a potentially dangerous rival, believing that she is undermining the status of the Storyteller.  
   
-He frequently meets with [Florian](./Incarnations%20&%20Gods/Florian), both to relay information between him and the Storyteller, and to work directly under Florian on his projects.  
+He frequently meets with [[./Incarnations & Gods/Florian|Florian]], both to relay information between him and the Storyteller, and to work directly under Florian on his projects.  
   
 ### Affiliations  
   
-Leon is the firstborn of his generation in the Van Wolfe family, which is one of the oldest families registered in the [Osterfeld](Osterfeld) Patriciaat, granting him status equivalent to the nobility within the state, and even a measure of special privilege throughout the rest of [Osun Tanum](../World/Map/Osun%20Tanum/Osun%20Tanum).  
+Leon is the firstborn of his generation in the Van Wolfe family, which is one of the oldest families registered in the [[Osterfeld]] Patriciaat, granting him status equivalent to the nobility within the state, and even a measure of special privilege throughout the rest of [[../World/Map/Osun Tanum/Osun Tanum|Osun Tanum]].  
   
 ## History  
   

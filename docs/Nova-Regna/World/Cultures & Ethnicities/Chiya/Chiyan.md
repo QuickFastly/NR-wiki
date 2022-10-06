@@ -6,7 +6,7 @@ comments: true
 > This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until enough detail is added to a given subgroup to be moved to its own page, it will remain here.  
   
 > [!example]- Real-world influences  
-> Of course because there is so much potential detail to be added to pages like these, inspiration must be drawn from somewhere. More subgroups may be added in the future as well, but under specific circumstances. For a lot more detail about all that, check the meta page on [[Appropriate real-world influences|appropriate real-world influences]].  
+> Of course because there is so much potential detail to be added to pages like these, inspiration must be drawn from somewhere. More subgroups may be added in the future as well, but under specific circumstances. For a lot more detail about all that, check the meta page on [appropriate real-world influences](../../../_meta/Appropriate%20real-world%20influences).  
 >    
 > Here is the abridged version for this page specifically:  
 > - **Chiya** | Inspired by = Korea  
@@ -47,9 +47,9 @@ comments: true
   </table>  
 </div>  
   
-The Chiyan people are one of the seven major [[Cultures & Ethnicities|ethnic groups]] of [[Earth|the world]], occupying approximately 3% of the global population, primarily in [[Sangyon]] on the continent of [[Avangia]]. It is also one of the three ethnic and cultural groups that has retained its own prominence to this day since ancient times, even after the ethnogenesis of its numerous subgroups.  
+The Chiyan people are one of the seven major [ethnic groups](../Cultures%20&%20Ethnicities) of [the world](../../Map/Earth), occupying approximately 3% of the global population, primarily in [Sangyon](../../Map/Sangyon/Sangyon) on the continent of [Avangia](../../Map/Avangia). It is also one of the three ethnic and cultural groups that has retained its own prominence to this day since ancient times, even after the ethnogenesis of its numerous subgroups.  
   
-They speak Nalamal, a distant evolution of the Proto-Chiyanic language, which has yet to be fully reconstructed. The earliest translated artifacts date back to approximately 40 AO, and they describe the challenges of coexisting without a common language, suggesting that some of the ethnic subgroups of the Chiyans may have been present since [[Era Dira]], and may in fact have been more genetically distinct than previously thought.  
+They speak Nalamal, a distant evolution of the Proto-Chiyanic language, which has yet to be fully reconstructed. The earliest translated artifacts date back to approximately 40 AO, and they describe the challenges of coexisting without a common language, suggesting that some of the ethnic subgroups of the Chiyans may have been present since [Era Dira](../../History%20&%20Events/Era%20Dira), and may in fact have been more genetically distinct than previously thought.  
   
 More TBD  
   
@@ -88,7 +88,7 @@ More TBD
   </table>  
 </div>  
   
-The Sun people are the first new ethnic group to be formed from the [[Chiyan]] people, migrating south from what is now [[Dangje]] to what is now [[Tanbaek]], [[Sangyon]]. The ethnogenesis of this group seems to have been caused by lingual differences, as their language, Nirukti, has been found in ancient writings at least as old as the first Chiyan people alongside some of the oldest known Nalamal texts.  
+The Sun people are the first new ethnic group to be formed from the [Chiyan](Chiyan) people, migrating south from what is now [Dangje](Dangje) to what is now [Tanbaek](Tanbaek), [Sangyon](../../Map/Sangyon/Sangyon). The ethnogenesis of this group seems to have been caused by lingual differences, as their language, Nirukti, has been found in ancient writings at least as old as the first Chiyan people alongside some of the oldest known Nalamal texts.  
   
 ### Taesian people  
   
@@ -120,7 +120,7 @@ The Sun people are the first new ethnic group to be formed from the [[Chiyan]] p
   </table>  
 </div>  
   
-The Taesian people are the second ethnic group of [[Chiyan]] lineage that came to be through the growing regional differences among the first Sun people, migrating south from what is now [[Tanbaek]] to what is now [[Tanje]], [[Sangyon]]. Their language, Talidah, is a relative of the Sun language, Nirukti, but today only shares a small number of common words. Their language shares some similarity with Yáhuà, the language spoken by the Suo people, suggesting frequent cultural exchange despite the distance.  
+The Taesian people are the second ethnic group of [Chiyan](Chiyan) lineage that came to be through the growing regional differences among the first Sun people, migrating south from what is now [Tanbaek](Tanbaek) to what is now [Tanje](Tanje), [Sangyon](../../Map/Sangyon/Sangyon). Their language, Talidah, is a relative of the Sun language, Nirukti, but today only shares a small number of common words. Their language shares some similarity with Yáhuà, the language spoken by the Suo people, suggesting frequent cultural exchange despite the distance.  
   
 ### Jeonese people  
   
@@ -152,7 +152,7 @@ The Taesian people are the second ethnic group of [[Chiyan]] lineage that came t
   </table>  
 </div>  
   
-The Jeonese people are the third ethnic group of [[Chiyan]] lineage that came to be after the Taesian people settled what is now [[Jeonsan]], [[Sangyon]], and developed their own unique culture around the dense rainforest and tall hills of their new land, in stark contrast to the reliance on the sea found in [[Tanje]]. Their language, Jalisah, is a very close relative of the Taesian  language, Talidah, and they are generally mutually intelligible.  
+The Jeonese people are the third ethnic group of [Chiyan](Chiyan) lineage that came to be after the Taesian people settled what is now [Jeonsan](Jeonsan), [Sangyon](../../Map/Sangyon/Sangyon), and developed their own unique culture around the dense rainforest and tall hills of their new land, in stark contrast to the reliance on the sea found in [Tanje](Tanje). Their language, Jalisah, is a very close relative of the Taesian  language, Talidah, and they are generally mutually intelligible.  
   
 ### Cheosan people  
   
@@ -184,7 +184,7 @@ The Jeonese people are the third ethnic group of [[Chiyan]] lineage that came to
   </table>  
 </div>  
   
-The Cheosan people are the fourth ethnic group of [[Chiyan]] lineange that came to be after being pushed to the edges of the mainland by the first Chiyans for speaking a different language, first identifying themselves as a unique culture a century after settling the islands of [[Cheosu]], [[Sangyon]]. They seem to have originally spoken Nirukti, but eventually developed into the unique language they speak today.  
+The Cheosan people are the fourth ethnic group of [Chiyan](Chiyan) lineange that came to be after being pushed to the edges of the mainland by the first Chiyans for speaking a different language, first identifying themselves as a unique culture a century after settling the islands of [Cheosu](Cheosu), [Sangyon](../../Map/Sangyon/Sangyon). They seem to have originally spoken Nirukti, but eventually developed into the unique language they speak today.  
   
 -----  
 > [!cite] Author info  

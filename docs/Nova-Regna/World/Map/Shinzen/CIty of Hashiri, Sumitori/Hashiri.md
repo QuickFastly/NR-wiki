@@ -5,30 +5,30 @@ tags: PG, CM
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-![300](../../../../../assets/img/Hashiri%20map.jpg)  
+![[../../../../../assets/img/Hashiri map.jpg|300]]  
   
-[Sumitori](Sumitori)  
+[[Sumitori]]  
   
-[Kanjō Ward](./Kanj%C5%8D%20Ward)  
-[Kaidō Ward](./Kaid%C5%8D%20Ward)  
-[Shakotan Ward](./Shakotan%20Ward)  
+[[./Kanjō Ward|Kanjō Ward]]  
+[[./Kaidō Ward|Kaidō Ward]]  
+[[./Shakotan Ward|Shakotan Ward]]  
   
-[Ginya](./Ginya)  
-[Sanzan](./Sanzan)  
-[Wahara](./Wahara)  
-[Yurihama](./Yurihama)  
-[Ryōgan](./Ry%C5%8Dgan)  
+[[./Ginya|Ginya]]  
+[[./Sanzan|Sanzan]]  
+[[./Wahara|Wahara]]  
+[[./Yurihama|Yurihama]]  
+[[./Ryōgan|Ryōgan]]  
   
-[Asakawa](./Asakawa)  
-[Iwaji](./Iwaji)  
-[Kayamori](./Kayamori)  
-[Shizuyama](./Shizuyama)  
+[[./Asakawa|Asakawa]]  
+[[./Iwaji|Iwaji]]  
+[[./Kayamori|Kayamori]]  
+[[./Shizuyama|Shizuyama]]  
   
-[Okamiwa](./Okamiwa)  
-[Teruno](./Teruno)  
-[Etazu](./Etazu)  
-[Kitabe](./Kitabe)  
-[Jatōge](./Jat%C5%8Dge)  
+[[./Okamiwa|Okamiwa]]  
+[[./Teruno|Teruno]]  
+[[./Etazu|Etazu]]  
+[[./Kitabe|Kitabe]]  
+[[./Jatōge|Jatōge]]  
   
 -----  
 > [!cite] Author info  

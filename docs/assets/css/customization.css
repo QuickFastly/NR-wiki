@@ -17,14 +17,11 @@
 .md-typeset a:focus, .md-typeset a:hover {
   color: #B1000099;
 }
-.md-typeset h1, .md-typeset h5 {
-  color: #C10000AA;
+.md-typeset h1 {
+  color: #C10000;
 }
-.md-typeset h4, .md-typeset h6 {
-  color: #C15555AA;
-}
-.md-typeset h2, .md-typeset h3 {
-  color: #C96666AA;
+.md-typeset h5, .md-typeset h6 {
+  color: #C10000AA
 }
 .md-header {
   background-color: #910000;

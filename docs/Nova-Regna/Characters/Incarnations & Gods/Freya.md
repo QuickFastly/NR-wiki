@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Freya portrait.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/Freya%20portrait.png)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -104,17 +104,17 @@ comments: true
   </table>  
 </div>  
   
-<span style="font-size:smaller; float:right; clear:right; width:260px; margin:14 0 7 14;">![[freya ref (madbuns).jpg]]<br>First Freya reference - <i>Artist: <a href=https://twitter.com/Mad_buns>Madbuns</a></i></span>  
+<span style="font-size:smaller; float:right; clear:right; width:260px; margin:14 0 7 14;">![freya ref (madbuns).jpg](freya%20ref%20(madbuns).jpg)<br>First Freya reference - <i>Artist: <a href=https://twitter.com/Mad_buns>Madbuns</a></i></span>  
   
-Freya is a [[Cat|cat spirit]] and one of the three immortal [[Incarnations]]. She is one of the three deities of the [[Children of the Flame]], along with [[Florian]] and [[Kerosyn]]. She is also the leader of the [[Risky Witches]] and was responsible for [[The Big Event]].  
+Freya is a [cat spirit](../../World/Inhabitants/Cat) and one of the three immortal [Incarnations](../../World/Concepts/Incarnations). She is one of the three deities of the [Children of the Flame](../../World/Organizations/Religions%20&%20Cults/Children%20of%20the%20Flame), along with [Florian](./Florian) and [Kerosyn](./Kerosyn). She is also the leader of the [Risky Witches](../../World/Organizations/Risky%20Witches) and was responsible for [The Big Event](../../World/History%20&%20Events/The%20Big%20Event).  
   
 ## Physical description  
   
 Freya is a very tall, caramel skinned woman with an athletic, pear shaped build. Her upper body is slender and toned, while her lower body is more shapely. She has sharp, narrow, bright yellow eyes with vertical pupils that have a subtle glow, with wrinkles and dark rings underneath. She also has sharp pointed teeth, long and subtly pointed fingernails capable of extending and morphing into cat claws, and two long black cat tails with white tips, matching her short and messy hair.  
   
-The [[The Brand (Children of the Flame).png|Brand]] is burned into her back in white with a red outline. It glows just bright enough to shine through one layer of clothing in daylight, and it stands out strongly in the dark unless covered.  
+The [Brand](The%20Brand%20(Children%20of%20the%20Flame).png) is burned into her back in white with a red outline. It glows just bright enough to shine through one layer of clothing in daylight, and it stands out strongly in the dark unless covered.  
   
-Four blue flame wisps float around her, but are rarely seen. They don't appear on any camera or in any mirror, and they only become faintly visible to the naked eye when she allows them to, or is too focused on something else to continue hiding them. Some people with [[Alignment]] can see them more clearly and in more circumstances though.  
+Four blue flame wisps float around her, but are rarely seen. They don't appear on any camera or in any mirror, and they only become faintly visible to the naked eye when she allows them to, or is too focused on something else to continue hiding them. Some people with [Alignment](../../World/Concepts/Alignment) can see them more clearly and in more circumstances though.  
   
 ##### Clothing  
   
@@ -126,7 +126,7 @@ She virtually always chooses full length pants and boots, but on the rare occasi
   
 ## Special abilities  
   
-She wields [[Attunement]] to its fullest potential, able to do quite literally anything short of a feat of creation on her own, but when she, Kerosyn, and Florian work together, they become seemingly omnipotent, capable of reality-altering feats of unknown magnitude. The three of them also seem to share some type of primitive telepathic link, which allows them to always know each other's location and to share strong feelings, but does not allow them to communicate directly.  
+She wields [Attunement](../../World/Concepts/Attunement) to its fullest potential, able to do quite literally anything short of a feat of creation on her own, but when she, Kerosyn, and Florian work together, they become seemingly omnipotent, capable of reality-altering feats of unknown magnitude. The three of them also seem to share some type of primitive telepathic link, which allows them to always know each other's location and to share strong feelings, but does not allow them to communicate directly.  
   
 Her alignment makes her capable of seeing, hearing, and feeling everything on a global scale, possibly even further. She may not be omniscient, but she'd be the prime candidate for it. With that it mind, it must be said that her hearing, vision, and reflexes are almost supernaturally good even without utilizing her alignment.  
   
@@ -164,32 +164,32 @@ She sees Florian as a brother, but they treat each other more like workplace col
   
 The relationship between these three can sometimes appear more parental than that of siblings due to Kerosyn's childlike nature, though they all reject the idea of that.  
   
-Freya is extremely close friends with [[Minerva]]. They met several years before she met Kerosyn, when Freya was only a teenager. Minerva was isolated in hiding, and Freya was a runaway looking for somewhere to hide. They brought out the best in each other, helped each other overcome their weaknesses, and quickly became best friends. She makes regular visits to this day, often times bringing Kerosyn and Florian with her.  
+Freya is extremely close friends with [Minerva](./Minerva). They met several years before she met Kerosyn, when Freya was only a teenager. Minerva was isolated in hiding, and Freya was a runaway looking for somewhere to hide. They brought out the best in each other, helped each other overcome their weaknesses, and quickly became best friends. She makes regular visits to this day, often times bringing Kerosyn and Florian with her.  
   
-Freya is something of an adoptive mother to [[Garm]], though their relationship often outwardly appears more like that of a master and their loyal dog. They both have fun with that arrangement, but when it's quiet, they do truly act like mother and daughter. Anybody familiar with the two of them can see that bond even through the odd public appearance.  
+Freya is something of an adoptive mother to [Garm](./Garm), though their relationship often outwardly appears more like that of a master and their loyal dog. They both have fun with that arrangement, but when it's quiet, they do truly act like mother and daughter. Anybody familiar with the two of them can see that bond even through the odd public appearance.  
   
-She also has very close friendly relationships with [[Dvalinn]] and [[Kuhai]], who she enjoys playfully picking on, plus [[Haida]] and [[Neven]], who she treats much more respectfully. The five of them are like Freya's second family. [[Seth Alden]] is close to this group as well, and as much as they like him, he maintains a degree of professional separation.  
+She also has very close friendly relationships with [Dvalinn](./Dvalinn) and [Kuhai](./Kuhai), who she enjoys playfully picking on, plus [Haida](./Haida) and [Neven](./Neven), who she treats much more respectfully. The five of them are like Freya's second family. [Seth Alden](../RD&PZ/Seth%20Alden) is close to this group as well, and as much as they like him, he maintains a degree of professional separation.  
   
 Seeing all of those people happy has become Freya's primary - if not *only* - source of genuine happiness over the centuries, so she goes out of her way to spend time with them, protect them, and help them with whatever she can. She cherishes them all more than anything and is quite protective of them.  
   
-Additionally, she has a friendly relationship with [[Nikolai Anatolyevich Litvyak]], the only fighter pilot to outlast her in a dogfight. Once she recovered from being shot down, she fiercely, single-mindedly tracked him down, her intention being merely to learn his name, but the moment he learned who she was, he defected to the Risky Witches, his intention being merely to fly with her again. His granddaughter, [[Raisa Ivanovna Litvyak]], resents them both and vowed to shoot them both down herself should they ever meet in the sky.  
+Additionally, she has a friendly relationship with [Nikolai Anatolyevich Litvyak](Nikolai%20Anatolyevich%20Litvyak), the only fighter pilot to outlast her in a dogfight. Once she recovered from being shot down, she fiercely, single-mindedly tracked him down, her intention being merely to learn his name, but the moment he learned who she was, he defected to the Risky Witches, his intention being merely to fly with her again. His granddaughter, [Raisa Ivanovna Litvyak](Raisa%20Ivanovna%20Litvyak), resents them both and vowed to shoot them both down herself should they ever meet in the sky.  
   
 ### Affiliations  
   
-Being one of the three deities of the Children of the Flame, Freya is very strongly affiliated with them. She finds what their followers think about her to be pretty funny, but really hates being treated like a god, so she tries very hard to avoid the organization and its members, even going so far as to tell [[The Sixth Storyteller]] not to share any identifiable information about her with the members so she can avoid being recognized. She does occasionally meet with him personally though, mostly to keep him informed.  
+Being one of the three deities of the Children of the Flame, Freya is very strongly affiliated with them. She finds what their followers think about her to be pretty funny, but really hates being treated like a god, so she tries very hard to avoid the organization and its members, even going so far as to tell [The Sixth Storyteller](../The%20Sixth%20Storyteller) not to share any identifiable information about her with the members so she can avoid being recognized. She does occasionally meet with him personally though, mostly to keep him informed.  
   
 ## History  
   
-Some of Freya's history during [[Era Dira]] is described in [[The Account]].  
+Some of Freya's history during [Era Dira](../../World/History%20&%20Events/Era%20Dira) is described in [The Account](../../World/History%20&%20Events/The%20Account).  
   
 Freya has had a long career of interfering with military affairs. Here is a list of military units that Freya directly joined.  
-- [[Deadeye Relics]] - Scout infantry  
-- [[Iron Wings]] - Cavalry unit  
-- [[Sandman (unit)]] - Night attack infantry  
-- [[Werewolf (unit)]] - Night attack infantry  
-- [[Vampire Squadron]] - Ground strike fighter squadron  
-- [[Sorcerer Squadron]] - Air superiority fighter squadron  
-- [[Witch Squadron]] - Multirole fighter squadron  
+- [Deadeye Relics](Deadeye%20Relics) - Scout infantry  
+- [Iron Wings](Iron%20Wings) - Cavalry unit  
+- [Sandman (unit)](Sandman%20(unit)) - Night attack infantry  
+- [Werewolf (unit)](Werewolf%20(unit)) - Night attack infantry  
+- [Vampire Squadron](Vampire%20Squadron) - Ground strike fighter squadron  
+- [Sorcerer Squadron](Sorcerer%20Squadron) - Air superiority fighter squadron  
+- [Witch Squadron](Witch%20Squadron) - Multirole fighter squadron  
 - Witchblades - Guerrillas, precursor to the Risky Witches  
   
 ## Trivia  

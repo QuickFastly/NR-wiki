@@ -5,7 +5,7 @@ tags: PG, CM
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-[[Shakotan Ward]]  
+[Shakotan Ward](./Shakotan%20Ward)  
   
 -----  
 > [!cite] Author info  

@@ -5,7 +5,7 @@ comments: true
 > [!bug] Issue  
 > More detail is needed here eventually.  
   
-Sublimation is a technology service introduced in Q4 2027 provided by [[11K]] through the [[SensNet]] interface that creates a living digital copy of the user within the [[Avalon]] data center. This digital existence persists after the physical death of the user, effectively granting the user immortality. It was a paid service that required a hefty upfront fee and ongoing subscription or a special grant to use, but it became free to start for all in Q4 2032 in exchange for the sublimated users' ongoing performance of various tasks, in essence making them digital employees of 11K. The process is a tightly guarded secret, nobody outside of a select few within 11K are aware of how it works.  
+Sublimation is a technology service introduced in Q4 2027 provided by [11K](../Organizations/Corporations/11K) through the [SensNet](./SensNet) interface that creates a living digital copy of the user within the [Avalon](../Places/Avalon) data center. This digital existence persists after the physical death of the user, effectively granting the user immortality. It was a paid service that required a hefty upfront fee and ongoing subscription or a special grant to use, but it became free to start for all in Q4 2032 in exchange for the sublimated users' ongoing performance of various tasks, in essence making them digital employees of 11K. The process is a tightly guarded secret, nobody outside of a select few within 11K are aware of how it works.  
   
 ## Reception  
   

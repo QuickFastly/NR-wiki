@@ -13,9 +13,9 @@ tags: HT
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Inazuma kamon.jpg|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Inazuma%20kamon.jpg)</span>  
     
-  <span align="center"  style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Inazuma hanko.jpg|150]]</span>  
+  <span align="center"  style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![150](../../../../assets/img/Inazuma%20hanko.jpg)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -43,17 +43,17 @@ tags: HT
   </table>  
 </div>  
   
-The Inazuma [[Clans of Shinzen|Clan]] (電) was a small family of [[Fox|fox spirits]] that lived in relative seclusion, known primarily for their affinity with lightning - known now to have been a method of utilizing [[Attunement]] passed down through the family as tradition - who were given their noble status and lordship over their land by the Imperial Court. Their ancestral lands are historically known as [[Shizumori]], found in northern [[Hayagawa]]. The family resisted the [[Kagetsu Clan|Kagetsu]] shogunate and was almost completely wiped out prior to the [[Siege of Soukotan]] at the end of the [[History of Shinzen#Ikute period 1253-1504|Ikute period]].  
+The Inazuma [Clan](./Clans%20of%20Shinzen) (電) was a small family of [fox spirits](../../Inhabitants/Fox) that lived in relative seclusion, known primarily for their affinity with lightning - known now to have been a method of utilizing [Attunement](../../Concepts/Attunement) passed down through the family as tradition - who were given their noble status and lordship over their land by the Imperial Court. Their ancestral lands are historically known as [Shizumori](../Map/Shizumori), found in northern [Hayagawa](Hayagawa). The family resisted the [Kagetsu](Kagetsu%20Clan) shogunate and was almost completely wiped out prior to the [Siege of Soukotan](Siege%20of%20Soukotan) at the end of the [Ikute period](History%20of%20Shinzen#Ikute%20period%201253-1504).  
   
-They maintained isolationist behavior for their entire reign and were entirely self supported. Being secluded deep within a forest, extremely few outsiders ever visited their lands, and most that did got there on accident while traveling, but outsiders were almost always treated with uncanny hospitality, leading to the clan eventually building a rather mystical reputation that slowly spread throughout northern [[Shinzen]].  
+They maintained isolationist behavior for their entire reign and were entirely self supported. Being secluded deep within a forest, extremely few outsiders ever visited their lands, and most that did got there on accident while traveling, but outsiders were almost always treated with uncanny hospitality, leading to the clan eventually building a rather mystical reputation that slowly spread throughout northern [Shinzen](../Map/Shinzen).  
   
-Another result of their seclusion is that unfortunately, not much is known about the Inazuma, due to the fact that a huge amount of the knowledge about their existence comes from likely exaggerated stories and rumors, and the biased and defunct Kagetsu shogunate. The words of [[Nori Inazuma|Nori]] and [[Shun Inazuma|Shun]] - the only surviving members of the Inazuma - are hotly debated.  
+Another result of their seclusion is that unfortunately, not much is known about the Inazuma, due to the fact that a huge amount of the knowledge about their existence comes from likely exaggerated stories and rumors, and the biased and defunct Kagetsu shogunate. The words of [Nori](../../../Characters/HT/Nori%20Inazuma) and [Shun](../../../Characters/HT/Shun%20Inazuma) - the only surviving members of the Inazuma - are hotly debated.  
   
-In 1966, Nori and Shun returned to Shinzen and their noble status was officially recognized as a symbolic gesture. They now reside in rural [[Shiga]] in the state of [[Onsai]].  
+In 1966, Nori and Shun returned to Shinzen and their noble status was officially recognized as a symbolic gesture. They now reside in rural [Shiga](Shiga) in the state of [Onsai](Onsai).  
   
 ## History  
   
-![[Inazuma family tree.svg]]  
+![Inazuma family tree.svg](../../../../assets/img/Inazuma%20family%20tree.svg)  
   
 ### Origins  
   
@@ -91,9 +91,9 @@ There is a folk tale common in the state of Hayagawa of a traveling monk who fel
   
 The Inazuma were remarkable sword crafters, as shown by the small handful of surviving examples. They were forged with a technique entirely unique to the Inazuma that has never been perfectly replicated, and were decorated much more ornately than any other swords throughout the history of Shinzen, most notably with vividly colored blades. One daishō was allegedly given as a gift to the shogun at the start of the Ikute period, but was later lost under unknown circumstances. Historians believe this daishō is one of the two examples in the national heritage museum, but are not sure which one.  
   
-There are numerous reports of yōkai sightings in several northern forest trails around the border between the states of Hayagawa and [[Miwae]]. According to several historical accounts, the Inazuma were most commonly sighted around that area and were viewed as guardians of the forest. This leads some to believe that these yōkai are the ghosts of the Inazuma, still guarding their homeland against outsiders.[^1]  
+There are numerous reports of yōkai sightings in several northern forest trails around the border between the states of Hayagawa and [Miwae](Miwae). According to several historical accounts, the Inazuma were most commonly sighted around that area and were viewed as guardians of the forest. This leads some to believe that these yōkai are the ghosts of the Inazuma, still guarding their homeland against outsiders.[^1]  
   
-[^1]: This is true, though the people don't know the full truth. See [[On the soul, living or otherwise#Paranormality|Paranormality]] (Meta)  
+[^1]: This is true, though the people don't know the full truth. See [Paranormality](On%20the%20soul,%20living%20or%20otherwise#Paranormality) (Meta)  
   
 %% Name bank  
   

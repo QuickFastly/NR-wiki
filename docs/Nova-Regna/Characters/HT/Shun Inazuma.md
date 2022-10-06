@@ -13,7 +13,7 @@ tags: HT
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -104,7 +104,7 @@ tags: HT
   </table>  
 </div>  
   
-Shun Inazuma is a [[Fox|fox spirit]], and one of two surviving members of the [[Inazuma Clan]]. Together with his wife, [[Nori Inazuma]], he traveled the world for several centuries and appears in many disparate historical events as a result. He currently lives in rural [[Shiga]] in [[Onsai]], [[Shinzen]].  
+Shun Inazuma is a [fox spirit](../../World/Inhabitants/Fox), and one of two surviving members of the [Inazuma Clan](../../World/History%20&%20Events/Shinzen/Inazuma%20Clan). Together with his wife, [Nori Inazuma](./Nori%20Inazuma), he traveled the world for several centuries and appears in many disparate historical events as a result. He currently lives in rural [Shiga](Shiga) in [Onsai](Onsai), [Shinzen](../../World/Map/Shinzen/Shinzen).  
   
 ## Physical description  
   
@@ -114,9 +114,9 @@ He lost his right arm entirely in (year).
   
 ## Special abilities  
   
-Like all fox spirits, he has both [[Alignment]] and [[Attunement]]. He was a master of the traditional Inazuma sword arts despite only receiving one short year of training from another master, and mastered them with the standard right handed technique despite being left handed. This combined with his ability to slow his perception of time and force his body to move proportionally faster made him one of the most feared swordmasters of Shinzen.  
+Like all fox spirits, he has both [Alignment](../../World/Concepts/Alignment) and [Attunement](../../World/Concepts/Attunement). He was a master of the traditional Inazuma sword arts despite only receiving one short year of training from another master, and mastered them with the standard right handed technique despite being left handed. This combined with his ability to slow his perception of time and force his body to move proportionally faster made him one of the most feared swordmasters of Shinzen.  
   
-After losing his right arm, he immediately displayed an even more fearsome mastery of left handed swordsmanship by combining the Inazuma sword arts with a traditional sword and swordsmanship of his homeland of [[Shaohou]]. He never drew a sword again since then.  
+After losing his right arm, he immediately displayed an even more fearsome mastery of left handed swordsmanship by combining the Inazuma sword arts with a traditional sword and swordsmanship of his homeland of [Shaohou](../../World/Map/Shaohou/Shaohou). He never drew a sword again since then.  
   
 ## Personality  
   
@@ -130,7 +130,7 @@ He has been married to Nori Inazuma for centuries. Based on recent findings in t
   
 ## History  
   
-He was born in [[Taihua]], [[Yuezou]], Shaohou to a Shisuya mother and Yao father, the names of both unknown, but history suggests that his mother was the third daughter of the first Inazuma. According to Shun, his mother raised him as a daughter to protect him from the rulers of the time, and it was her that taught him swordsmanship in secret and crafted the Shaohan sword he still holds today. He was sent away on his long solitary journey eastward through Shinzen by his mother after the rulers discovered that she was hiding Shun's true nature from them.  
+He was born in [Taihua](Taihua), [Yuezou](Yuezou), Shaohou to a Shisuya mother and Yao father, the names of both unknown, but history suggests that his mother was the third daughter of the first Inazuma. According to Shun, his mother raised him as a daughter to protect him from the rulers of the time, and it was her that taught him swordsmanship in secret and crafted the Shaohan sword he still holds today. He was sent away on his long solitary journey eastward through Shinzen by his mother after the rulers discovered that she was hiding Shun's true nature from them.  
   
 -----  
 > [!cite] Author info  

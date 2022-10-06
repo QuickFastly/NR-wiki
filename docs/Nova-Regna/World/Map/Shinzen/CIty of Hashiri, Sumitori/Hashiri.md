@@ -5,30 +5,30 @@ tags: PG, CM
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-![[Hashiri map.jpg|300]]  
+![300](../../../../../assets/img/Hashiri%20map.jpg)  
   
-[[Sumitori]]  
+[Sumitori](Sumitori)  
   
-[[Kanjō Ward]]  
-[[Kaidō Ward]]  
-[[Shakotan Ward]]  
+[Kanjō Ward](./Kanj%C5%8D%20Ward)  
+[Kaidō Ward](./Kaid%C5%8D%20Ward)  
+[Shakotan Ward](./Shakotan%20Ward)  
   
-[[Ginya]]  
-[[Sanzan]]  
-[[Wahara]]  
-[[Yurihama]]  
-[[Ryōgan]]  
+[Ginya](./Ginya)  
+[Sanzan](./Sanzan)  
+[Wahara](./Wahara)  
+[Yurihama](./Yurihama)  
+[Ryōgan](./Ry%C5%8Dgan)  
   
-[[Asakawa]]  
-[[Iwaji]]  
-[[Kayamori]]  
-[[Shizuyama]]  
+[Asakawa](./Asakawa)  
+[Iwaji](./Iwaji)  
+[Kayamori](./Kayamori)  
+[Shizuyama](./Shizuyama)  
   
-[[Okamiwa]]  
-[[Teruno]]  
-[[Etazu]]  
-[[Kitabe]]  
-[[Jatōge]]  
+[Okamiwa](./Okamiwa)  
+[Teruno](./Teruno)  
+[Etazu](./Etazu)  
+[Kitabe](./Kitabe)  
+[Jatōge](./Jat%C5%8Dge)  
   
 -----  
 > [!cite] Author info  

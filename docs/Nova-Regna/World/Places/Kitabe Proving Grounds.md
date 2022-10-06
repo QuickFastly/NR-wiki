@@ -3,7 +3,7 @@ share: true
 comments: true  
 tags: PG  
 ---  
-Kitabe Proving Grounds was a large automotive testing compound, primarily focused on testing the top speeds of high-performance vehicles, as well as their handling characteristics, endurance, and stability at high speeds. It is located in the [[Kitabe]] area of [[Hashiri]] in [[Sumitori]], [[Shinzen]], built near the coastline and surrounded by hills on all other sides to reduce noise pollution. It was also previously a popular location for motorsport events before its closure. It was recently reopened by [[Haruna Kitami]] and [[EXCEED]], and has become the central point of the revival of traditional motorsport and automotive performance.  
+Kitabe Proving Grounds was a large automotive testing compound, primarily focused on testing the top speeds of high-performance vehicles, as well as their handling characteristics, endurance, and stability at high speeds. It is located in the [Kitabe](../Map/Shinzen/CIty%20of%20Hashiri,%20Sumitori/Kitabe) area of [Hashiri](../Map/Shinzen/CIty%20of%20Hashiri,%20Sumitori/Hashiri) in [Sumitori](Sumitori), [Shinzen](../Map/Shinzen/Shinzen), built near the coastline and surrounded by hills on all other sides to reduce noise pollution. It was also previously a popular location for motorsport events before its closure. It was recently reopened by [Haruna Kitami](../../Characters/PG/Haruna%20Kitami) and [EXCEED](../Organizations/EXCEED), and has become the central point of the revival of traditional motorsport and automotive performance.  
   
 The primary feature of the compound is the massive four-lane oval constructed in the same manner as the nation's expressways, featuring two 1.5 kilometer (0.93 mile) long straight sections with extremely high banked turns, reaching a maximum banking of 33°. The total length of the oval is 4.5 kilometers (2.8 miles). This road is surrounded with high walls and steel catch fencing, both for safety reasons and to help further reduce noise pollution in the surrounding area. On the inside of one of the straight sections is a 1 kilometer (0.62 mi) long pit road lined with garages and workshops.  
   
@@ -12,9 +12,9 @@ Contained within the oval is a complex network of interconnected racetracks that
 > [!example]+ Meta  
 > These images are from Cities Skylines and aren't very good, but it definitely gets the point across. The banked corners aren't shown, there is almost no elevation change anywhere on the inner tracks, and the entrance tunnel is shown as a bridge instead. Eventually a better map will be made.  
   
-![[kitabe proving grounds badmap.png]]  
+![kitabe proving grounds badmap.png](../../../assets/img/kitabe%20proving%20grounds%20badmap.png)  
   
-![[Cities_2021-02-19_05-32-51.jpg]]  
+![Cities_2021-02-19_05-32-51.jpg](../../../assets/img/Cities_2021-02-19_05-32-51.jpg)  
   
 -----  
 > [!cite] Author info  

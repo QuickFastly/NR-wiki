@@ -11,7 +11,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Yulentia Trade Union flag.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![250](../../../assets/img/Yulentia%20Trade%20Union%20flag.png)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -39,7 +39,7 @@ comments: true
   </table>  
 </div>  
   
-The Yulentia Trade Union is an independently governed legislative body formed originally for the economic benefit of its members, but later developed further into becoming an technology and intelligence sharing initiative. The founding members were [[Ustonia]], [[Destrea]], and [[Ilmaria]], and [[Alastor]] was later strong-armed into the Union to force an economic advantage for the Union over the soon-to-be-formed [[Ozen Federation]]. After the [[Reclamation War]] destroyed any positive relations with Destrea the rest of the Union may have had, the Union ultimately shifted function to de facto Ustonian benefit.  
+The Yulentia Trade Union is an independently governed legislative body formed originally for the economic benefit of its members, but later developed further into becoming an technology and intelligence sharing initiative. The founding members were [Ustonia](../Map/Ustonia/Ustonia), [Destrea](../Map/Destrea/Destrea), and [Ilmaria](../Map/Ilmaria/Ilmaria), and [Alastor](../Map/Alastor/Alastor) was later strong-armed into the Union to force an economic advantage for the Union over the soon-to-be-formed [Ozen Federation](./Ozen%20Federation). After the [Reclamation War](../History%20&%20Events/Reclamation%20War) destroyed any positive relations with Destrea the rest of the Union may have had, the Union ultimately shifted function to de facto Ustonian benefit.  
   
 ## History  
   
@@ -51,7 +51,7 @@ TBD
   
 ## See also  
   
-[[Yulentia]]  
+[Yulentia](../Map/Yulentia)  
   
 -----  
 > [!cite] Author info  

@@ -6,7 +6,7 @@ share: true
   
 this religion has no gods, only deified people, fictional spirit creatures, and ancestral worship. there are lots of shrines all over the place and lots of very old traditions. based on buddhism and shinto.  
   
-headquartered in [[Hashiyaku]], [[Kiyoshiri]], [[Shinzen]].  
+headquartered in [Hashiyaku](Hashiyaku), [Kiyoshiri](Kiyoshiri), [Shinzen](../../Map/Shinzen/Shinzen).  
   
 %% 開手(hirate) %%  
   

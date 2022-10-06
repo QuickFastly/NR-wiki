@@ -4,7 +4,7 @@ comments: true
 ---  
 Until the day someone goes hog wild and creates a large handful of fictional languages just for this world, real-world languages will be used. However, this will be handled in a specific way.  
   
-**Real-world languages shall not be named at any point in any stories set in this world, nor on any page of this wiki, *except those in the [[Cultures & Ethnicities]] section.***  
+**Real-world languages shall not be named at any point in any stories set in this world, nor on any page of this wiki, *except those in the [Cultures & Ethnicities](../World/Cultures%20&%20Ethnicities/Cultures%20&%20Ethnicities) section.***  
   
 Personally, I do want to define fictional languages for this world one day, even if they end up just being modified versions of real languages, but it's extremely low on my list of priorities. Using real-world etymology to create names for fictional people and places doesn't bother me, but despite that, I find it awkward and uncomfortable to use the real names of real-world languages in a fictional world with none of the same people, places, or development. For the time being, the languages of this world will be given names and nothing more.  
   

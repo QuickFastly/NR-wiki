@@ -9,9 +9,9 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Shaohou flag.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Shaohou%20flag.png)</span>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Shaohou (Region).jpg|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Shaohou%20(Region).jpg)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -84,7 +84,7 @@ comments: true
   </table>  
 </div>  
   
-Shaohou, officially known as the Imperial Lands of Shaohou, is a relatively small country located on the continent of [[Avangia]]. Its capital, [[Hangjing]], is located in the extremely mountainous heart of the country in the [[Qihua]] territory. It is encircled by a land border with [[Shinzen]].  
+Shaohou, officially known as the Imperial Lands of Shaohou, is a relatively small country located on the continent of [Avangia](../Avangia). Its capital, [Hangjing](Hangjing), is located in the extremely mountainous heart of the country in the [Qihua](Qihua) territory. It is encircled by a land border with [Shinzen](../Shinzen/Shinzen).  
 %% Hangjing coordinates: 29°19'W 125°1'S (?) %%  
   
 Shaohou is a poorly developed country with a modest population, a deeply troubled economy with massive agricultural and industrial sectors, poor infrastructure, and a large but poorly outfitted military. Shaohou is also known for its extreme restrictions on both civil rights and political freedoms, and for its incredibly cheap manufacturing and engineering labor exports.  
@@ -108,12 +108,12 @@ The Department of Chancellery controls the Ministry of Personnel, responsible fo
 ### Administrative divisions  
   
 The country is divided into six territories, all under the control of the ruling dynasty. These territories are as follows.  
-- [[Nanjiang]]  
-- [[Qihua]]  
-- [[Suwei]]  
-- [[Xinshu]]  
-- [[Xinwei]]  
-- [[Yuezou]]  
+- [Nanjiang](Nanjiang)  
+- [Qihua](Qihua)  
+- [Suwei](Suwei)  
+- [Xinshu](Xinshu)  
+- [Xinwei](Xinwei)  
+- [Yuezou](Yuezou)  
   
 ### Military  
   
@@ -121,11 +121,11 @@ The Shaohan military, better known as the People's Protection Army or PPA, is di
   
 ### Foreign relations  
   
-![[Political relations chart (Shaohou).svg]]  
+![Political relations chart (Shaohou).svg](Political%20relations%20chart%20(Shaohou).svg)  
   
 ## Economy  
   
-The economy of Shaohou is worth 84.2 trillion [[Credit (currency)|CR]] per year with an expenditure of 83.4%, which is distributed as follows.  
+The economy of Shaohou is worth 84.2 trillion [CR](Credit%20(currency)) per year with an expenditure of 83.4%, which is distributed as follows.  
 - Administration: 16.4%  
 - Defense: 18.5%  
 - Education & Science: 5.6%  
@@ -147,7 +147,7 @@ Some primary exports of Shaohou are unskilled labor, manufacturing, and agricult
   
 ## Demographics  
   
-Shaohou is extremely prejudiced against [[Spirits|spirits]], systemically and societally, leading to extreme oppression in addition to the already great challenges associated with living under Shaohan rule. Accurate statistics are not available for spirit population even though it is known that the country keeps track of them.  
+Shaohou is extremely prejudiced against [spirits](../../Inhabitants/Spirits), systemically and societally, leading to extreme oppression in addition to the already great challenges associated with living under Shaohan rule. Accurate statistics are not available for spirit population even though it is known that the country keeps track of them.  
   
 ### Education  
   
@@ -167,7 +167,7 @@ TBD
   
 ## See also  
   
-[[World military balance]] (Meta)  
+[World military balance](../../../_meta/World%20military%20balance) (Meta)  
   
 -----  
 > [!cite] Author info  

@@ -5,9 +5,9 @@ tags: PG
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-[[LAW]]  
+[LAW](./LAW)  
   
-A racing team founded by [[Yoshida]] many years before [[Masashi Kitami]] even started his shop. Run Free instantly gained a reputation for speed as they were already far faster than anyone else on the road from the day they formed, and were always one step ahead of everyone else since. They also famously never accepted wagers in any race. The team officially disbanded not long after Masashi disappeared, yet they still prowl the streets.  
+A racing team founded by [Yoshida](../../Characters/PG/Yoshida) many years before [Masashi Kitami](../../Characters/PG/Masashi%20Kitami) even started his shop. Run Free instantly gained a reputation for speed as they were already far faster than anyone else on the road from the day they formed, and were always one step ahead of everyone else since. They also famously never accepted wagers in any race. The team officially disbanded not long after Masashi disappeared, yet they still prowl the streets.  
   
 -----  
 > [!cite] Author info  

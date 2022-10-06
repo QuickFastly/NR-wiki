@@ -11,7 +11,7 @@ share: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/blankpage.png)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -34,11 +34,11 @@ share: true
   </table>  
 </div>  
   
-A pseudo-noble family of [[Fox]] [[Spirits]] with centuries of history and folklore centered around them from the [[Okamiwa]] area of [[Hashiri]] in [[Sumitori]], [[Shinzen]].  
+A pseudo-noble family of [Fox](../../Inhabitants/Fox) [Spirits](../../Inhabitants/Spirits) with centuries of history and folklore centered around them from the [Okamiwa](../Map/CIty%20of%20Hashiri,%20Sumitori/Okamiwa) area of [Hashiri](../Map/CIty%20of%20Hashiri,%20Sumitori/Hashiri) in [Sumitori](Sumitori), [Shinzen](../Map/Shinzen).  
   
 They own an operate a historic, traditional inn and hot spring on the mountainside overlooking the city.  
   
-[[Chinatsu Miwa]], [[Masuyo Miwa]], and [[Fuyumi Miwa]] are the youngest members of this family.  
+[Chinatsu Miwa](../../../Characters/CM/Chinatsu%20Miwa), [Masuyo Miwa](../../../Characters/CM/Masuyo%20Miwa), and [Fuyumi Miwa](../../../Characters/CM/Fuyumi%20Miwa) are the youngest members of this family.  
   
 -----  
 > [!cite] Author info  

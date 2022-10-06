@@ -5,7 +5,7 @@ comments: true
 > [!bug] Issue  
 > The main article could use some rewrites, so this page is also subject to change.  
   
-The Law and Lore branch of the [[Children of the Flame]] is responsible for the administration, bureaucracy, and other official dealings, as well as maintaining order within the organization through management and enforcement of laws, and keeping the lore, prophecies, and other history organized and prevalent in teachings. They are the highest ranking members of the organization with authority over all other branches.  
+The Law and Lore branch of the [Children of the Flame](./Children%20of%20the%20Flame) is responsible for the administration, bureaucracy, and other official dealings, as well as maintaining order within the organization through management and enforcement of laws, and keeping the lore, prophecies, and other history organized and prevalent in teachings. They are the highest ranking members of the organization with authority over all other branches.  
   
 ## Structure  
   
@@ -35,7 +35,7 @@ The bureaucrats of the organization, these are the people responsible for all ad
   
 ### Firekeepers  
   
-The mystics of the organization, these elite few are [[Attunement]] users with an affinity for flames. These are the people responsible for performing sacraments, meting out internal punishments, and mystifying the people in public demonstrations. They wear light and wavy vestments with open or no footwear, exuding an aura of exotic elegance. Firekeepers are chosen for their powers and asked to perform the Mystic Dance, only allowed to become a Firekeeper if their dance impresses the High Cardinal and High Seeker.  
+The mystics of the organization, these elite few are [Attunement](../../Concepts/Attunement) users with an affinity for flames. These are the people responsible for performing sacraments, meting out internal punishments, and mystifying the people in public demonstrations. They wear light and wavy vestments with open or no footwear, exuding an aura of exotic elegance. Firekeepers are chosen for their powers and asked to perform the Mystic Dance, only allowed to become a Firekeeper if their dance impresses the High Cardinal and High Seeker.  
   
 ## Sacramental rites  
   

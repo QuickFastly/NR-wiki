@@ -4,7 +4,7 @@ comments: true
 ---  
 To get a quick at-a-glance idea of the power balance between the countries of the world in the modern era, this chart exists. Of course there can be as much or as little additional nuance as you choose to think about, but this should get you on the right track no matter what.  
   
-![[militarybalance.png]]  
+![militarybalance.png](../../assets/img/militarybalance.png)  
   
 The "other" section on this chart includes anything irregular. Private militaries, militias, espionage, whatever you can think of that doesn't fit army, navy, or air force.  
   
@@ -28,7 +28,7 @@ Some other things:
   
 Also here's a version of the current year foreign relations chart from all the country pages without any emphasis on any particular country, because I don't know where else to put it.  
   
-![[Political relations chart.svg]]  
+![Political relations chart.svg](../../assets/img/Political%20relations%20chart.svg)  
   
 -----  
 > [!cite] Author info  

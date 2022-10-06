@@ -2,7 +2,7 @@
 share: true  
 comments: true  
 ---  
-In this world, there is [[Mystic Matter|mystic matter]] - a substance with supernatural properties on its own that can cause certain supernatural phenomena in the natural world - and characters with [[Attunement|attunement]] can manipulate it to perform all kinds of supernatural feats. One might even call it magic, who would have guessed?  
+In this world, there is [mystic matter](../World/Concepts/Mystic%20Matter) - a substance with supernatural properties on its own that can cause certain supernatural phenomena in the natural world - and characters with [attunement](../World/Concepts/Attunement) can manipulate it to perform all kinds of supernatural feats. One might even call it magic, who would have guessed?  
   
 All living things in this world, and everything they create, are inherently intertwined with mystic matter. Without it, there would be no life, there may not even be existence at all. It could be said, then, that in a way, everything that exists is part of the same greater whole, whether anyone or anything is aware of that or not. Theoretically, absolutely anything is possible through the use of mystic matter. However...  
   
@@ -20,7 +20,7 @@ The reason having *less* knowledge may be beneficial to a user is because they w
   
 For instance, one person may develop a magnet-like ability if they studied magnets a lot and find themselves incapable of using it on anything that isn't naturally magnetic, while another person may develop a similar ability that they can use on all metals, magnetic or not, if they grew up uneducated in the middle of nowhere.  
   
-It is extremely difficult, but not completely impossible, for a user to teach another their techniques and abilities. The main exception to this rule is for those raised under strict hereditary tradition, like the people of the [[Inazuma Clan]] for example, but the *incredibly vast majority* of people with attunement will learn and develop entirely on their own.  
+It is extremely difficult, but not completely impossible, for a user to teach another their techniques and abilities. The main exception to this rule is for those raised under strict hereditary tradition, like the people of the [Inazuma Clan](../World/History%20&%20Events/Shinzen/Inazuma%20Clan) for example, but the *incredibly vast majority* of people with attunement will learn and develop entirely on their own.  
   
 The only other consideration for where this power comes from is that it's based on the manipulation of mystic matter, a physical substance that exists in the world. This ability doesn't create new matter, it uses existing mystic matter to reshape into what the user desires, or to perform otherwise impossible tasks.  
   
@@ -28,7 +28,7 @@ If you want to overthink it, the main aspects of this usage are quantum fields a
   
 Some areas of the world have higher or lower concentrations of this matter than normal, and that will have an effect on attunement users in those areas. Less proficient users may find themselves completely unable to use their abilities in particularly desolate regions.  
   
-An additional important consideration would be whether or not the user also has [[Alignment]]. Not all do, and someone without alignment is *far* less likely to ever discover their attunement, and it will be harder to learn.  
+An additional important consideration would be whether or not the user also has [Alignment](../World/Concepts/Alignment). Not all do, and someone without alignment is *far* less likely to ever discover their attunement, and it will be harder to learn.  
   
 Also remember that mystic matter itself is a very recent discovery in the world. If you plan to write anything that takes place before the late 20th century, pretty much everyone in the world will believe it's magic, witchcraft, divine, or demonic, and that might be taboo in some areas. Even for some time after the discovery, it took a while for the rest of the world to catch up and realize that it's not magic, and for the taboos to fade away.  
   
@@ -62,7 +62,7 @@ With elements out of the way and remembering that imagination is one of the main
   
 It's theoretically possible for a person to become more powerful than a god with this ability, but nobody does, *and nobody should,* because it would destroy the balance of power for the entire world.  
   
-The reason the [[Fox|fox spirits]] are the most proficient users of this ability is entirely because of how long they live and how few they are. Even with a thousand years of practice, they still struggle to even come *close* to the powers of the [[Incarnations|incarnations]], because the incarnations *are the gods*. Or at least what's left of them.  
+The reason the [fox spirits](../World/Inhabitants/Fox) are the most proficient users of this ability is entirely because of how long they live and how few they are. Even with a thousand years of practice, they still struggle to even come *close* to the powers of the [incarnations](../World/Concepts/Incarnations), because the incarnations *are the gods*. Or at least what's left of them.  
   
 How you limit your character's proficiency with their attunement is open to just as much creativity as the abilities you give them. Are they too highly educated to be able to get in the mindset? Do they overthink it and fizzle out? Are they simply not creative enough? Maybe they're neurodivergent and that makes it more (or maybe less!) difficult for them than otherwise.  
   
@@ -74,9 +74,9 @@ Anything you can imagine, it can be done as long as you can make it believable a
   
 Now, with all that in mind, there *is* one universal limitation to consider. The creation of living material is the most difficult thing an attunement user could possibly do, even if it's as simple as seaweed. Creating more complex things like meat would be nearly impossible for anyone to pull off, even among the oldest fox spirits. *Manipulation* of living material is easy, but *creation* of living material will nearly always fail one way or another due to the immense complexity of it. So no steak dinners appearing out of thin air! Maybe an attunement user could keep themselves alive without a food source for a while by materializing some of the base components of nutrition, but it certainly wouldn't be appetizing. A much more practical, appealing, and *possible* application of attunement for the creation of food would be supplying personal crops (i.e. small scale, not for mass production) with nutrients to grow food faster, or in places where it normally couldn't grow at all.  
   
-Oh, by the way, stuff like ghosts? Haunted woods? That's all connected to mystic matter too in this world. It's exceedingly rare, but [[On the soul, living or otherwise#Paranormality|paranormal activity]] in the world can be justified with mystic matter. For instance, a ghost might be the soul of a person with attunement that remained alive after the person was murdered.  
+Oh, by the way, stuff like ghosts? Haunted woods? That's all connected to mystic matter too in this world. It's exceedingly rare, but [paranormal activity](On%20the%20soul,%20living%20or%20otherwise#Paranormality) in the world can be justified with mystic matter. For instance, a ghost might be the soul of a person with attunement that remained alive after the person was murdered.  
   
-Of course, this implies that [[On the soul, living or otherwise|souls]] exist - and they do. Everyone has a soul, and it's made of mystic matter. The world is not aware of this.  
+Of course, this implies that [souls](./On%20the%20soul,%20living%20or%20otherwise) exist - and they do. Everyone has a soul, and it's made of mystic matter. The world is not aware of this.  
   
 Go wild with that one.  
   
@@ -86,7 +86,7 @@ And finally, the topic of balance. Attunement as an ability is inherently unbala
   
 So what is "balanced" then? Obviously one-on-one matchups against an attunement user will never be balanced, so you have to consider a larger scale. Can the character take on an army, head first? You've gone too far. Can they take on an armed squad of eight people, unarmed? Sure, if you can make it believable. Perhaps a more interesting *and* believable overpowered scenario, however, would be a character that utilizes supernatural eyesight and telepathy to control a battlefield from the background as a tactician.  
   
-You should also bear in mind that this ability is incredibly rare, occurring in less than 1/25,000 [[Human|humans]], 1/3,000 minor [[Spirits|spirits]], and 1/1,000 major spirits. Even among such small numbers, the majority of these people have weak abilities, or might not have even noticed their abilities themselves. A character with attunement is going to stand out, and the more powerful their ability, the more eyes will be on them... perhaps even drawing the attention of authorities or shadowy organizations. Remember that impact, because it wouldn't be very believable to have a character with the ability to level a building with their mind that still goes to school every day like a normal kid. At least, not if anybody *knows* they can do that.  
+You should also bear in mind that this ability is incredibly rare, occurring in less than 1/25,000 [humans](../World/Inhabitants/Human), 1/3,000 minor [spirits](../World/Inhabitants/Spirits), and 1/1,000 major spirits. Even among such small numbers, the majority of these people have weak abilities, or might not have even noticed their abilities themselves. A character with attunement is going to stand out, and the more powerful their ability, the more eyes will be on them... perhaps even drawing the attention of authorities or shadowy organizations. Remember that impact, because it wouldn't be very believable to have a character with the ability to level a building with their mind that still goes to school every day like a normal kid. At least, not if anybody *knows* they can do that.  
   
 You may have noticed that the word "believable" has been used a lot here. In the end, that's the most important thing for this ability. It doesn't have to be realistic, it doesn't have to be fair, it doesn't even have to make logical sense, as long as you can write it in a *believable* way in the context of this world. Make us believe that the character should be capable of what you say they are.  
   

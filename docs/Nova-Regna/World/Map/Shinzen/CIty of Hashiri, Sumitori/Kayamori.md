@@ -5,7 +5,7 @@ tags: PG
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-[[Kaidō Ward]]  
+[Kaidō Ward](./Kaid%C5%8D%20Ward)  
   
 -----  
 > [!cite] Author info  

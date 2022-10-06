@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -46,7 +46,7 @@ comments: true
   </table>  
 </div>  
   
-Chameleon [[Spirits|spirits]] are a type of major spirit, and make up approximately 8% of all spirits on [[Earth]]. They have existed since [[Era Dira]].  
+Chameleon [spirits](./Spirits) are a type of major spirit, and make up approximately 8% of all spirits on [Earth](../Map/Earth). They have existed since [Era Dira](../History%20&%20Events/Era%20Dira).  
   
 ## History  
   
@@ -54,11 +54,11 @@ Nothing for now
   
 ## Anatomy & physiology  
   
-All chameleon spirits have [[Alignment]], independently movable eyes, are [double-jointed](https://en.wikipedia.org/wiki/Hypermobility_(joints)) with above average grip strength and endurance, and have the ability to change their hair and eye colors at will, even to unnatural hues. Many can even freely control the amount of melanin in their skin.  
+All chameleon spirits have [Alignment](../Concepts/Alignment), independently movable eyes, are [double-jointed](https://en.wikipedia.org/wiki/Hypermobility_(joints)) with above average grip strength and endurance, and have the ability to change their hair and eye colors at will, even to unnatural hues. Many can even freely control the amount of melanin in their skin.  
   
 A somewhat uncommon feature possessed by some chameleon spirits is a prehensile tail covered in scales, also capable of changing colors at will. Rarely, they may even possess color-changing scales on some other parts of their body.  
   
-They are slightly hard of hearing and have poor senses of taste and smell compared to average [[Human|humans]], but have an extremely precisely developed sense of touch, allowing them to accurately perceive even the smallest vibrations in the air and through the ground, including sound waves, leading some to be able to "hear" with their bodies. They also have slightly denser muscles than humans, granting them much higher physical endurance.  
+They are slightly hard of hearing and have poor senses of taste and smell compared to average [humans](./Human), but have an extremely precisely developed sense of touch, allowing them to accurately perceive even the smallest vibrations in the air and through the ground, including sound waves, leading some to be able to "hear" with their bodies. They also have slightly denser muscles than humans, granting them much higher physical endurance.  
   
 ### Life cycle  
   
@@ -66,11 +66,11 @@ Chameleon spirits grow at the same rate as humans until the age of 20 years, aft
   
 ## Geographic distribution  
   
-Chameleon spirits typically prefer warm and dry regions, and are primarily found in [[Shaohou]]. They are also a somewhat common sight in [[Alastor]], where they are often relied upon to make impartial rulings in the judicial system.  
+Chameleon spirits typically prefer warm and dry regions, and are primarily found in [Shaohou](../Map/Shaohou/Shaohou). They are also a somewhat common sight in [Alastor](../Map/Alastor/Alastor), where they are often relied upon to make impartial rulings in the judicial system.  
   
 ## Sociology  
   
-Chameleon spirits mostly prefer to live away from dense civilization and with little in the way of technology, not unlike the [[Wolf|wolf spirits]], and have historically avoided conflict by relocating without complaint if their first attempt at peaceful negotiation fails.  
+Chameleon spirits mostly prefer to live away from dense civilization and with little in the way of technology, not unlike the [wolf spirits](./Wolf), and have historically avoided conflict by relocating without complaint if their first attempt at peaceful negotiation fails.  
   
 Their quiet and passive personalities surround them with an enigmatic air, leading to the common idea that they are extremely wise and humble. In truth, they tend to be rather simple-minded country bumpkins, which is often made very apparent when one is found bewildered in a city.  
   
@@ -84,7 +84,7 @@ They hold neutral views on all races, often going to great lengths to remain dis
   
 ## See also  
   
-[[Neven]]  
+[Neven](../../Characters/Incarnations%20&%20Gods/Neven)  
   
 -----  
 > [!cite] Author info  

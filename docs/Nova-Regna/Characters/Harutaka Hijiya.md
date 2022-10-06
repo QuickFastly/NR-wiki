@@ -4,7 +4,7 @@ share: true
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-Founder of the [[Hijiya Corporation]]. Father of [[Kaede Hijiya]]. Died in 2016.  
+Founder of the [Hijiya Corporation](../World/Organizations/Corporations/Hijiya%20Corporation). Father of [Kaede Hijiya](./Kaede%20Hijiya). Died in 2016.  
   
 -----  
 > [!cite] Author info  

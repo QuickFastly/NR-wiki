@@ -12,7 +12,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../assets/img/blankpage.png)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -107,7 +107,7 @@ comments: true
   </table>  
 </div>  
   
-Mae Seraphine Walker is the current High Seeker of the [[Children of the Flame]], and the right hand of [[The Sixth Storyteller]].  
+Mae Seraphine Walker is the current High Seeker of the [Children of the Flame](../World/Organizations/Religions%20&%20Cults/Children%20of%20the%20Flame), and the right hand of [The Sixth Storyteller](./The%20Sixth%20Storyteller).  
   
 ## Physical description  
   
@@ -115,7 +115,7 @@ nothing for now
   
 ## Special abilities  
   
-She has [[Attunement]] and is aware of it, but is not aware of how to utilize it effectively. She does, however, believe that it has subconsciously protected her from serious injury on some occasions.  
+She has [Attunement](../World/Concepts/Attunement) and is aware of it, but is not aware of how to utilize it effectively. She does, however, believe that it has subconsciously protected her from serious injury on some occasions.  
   
 ## Personality  
   
@@ -123,17 +123,17 @@ working on it
   
 ## Relationships  
   
-She is close to The Sixth Storyteller and treats him more as a friend than a superior, even questioning his plans and challenging his authority at times. She is also particularly friendly with [[Leon Van Wolfe]] due to their proximity, although she is very aware that he does not feel the same way towards her.  
+She is close to The Sixth Storyteller and treats him more as a friend than a superior, even questioning his plans and challenging his authority at times. She is also particularly friendly with [Leon Van Wolfe](./Leon%20Van%20Wolfe) due to their proximity, although she is very aware that he does not feel the same way towards her.  
   
-She has met [[Kerosyn]] on two occasions, and was struck both times by how humble and lowly they seemed. She looks forward to meeting them again, because they promised to tell her about the history of the Children of the Flame. She also often meets [[Florian]] due to proximity, and while she finds what he talks about interesting, she finds him too unnerving to get closer to.  
+She has met [Kerosyn](./Incarnations%20&%20Gods/Kerosyn) on two occasions, and was struck both times by how humble and lowly they seemed. She looks forward to meeting them again, because they promised to tell her about the history of the Children of the Flame. She also often meets [Florian](./Incarnations%20&%20Gods/Florian) due to proximity, and while she finds what he talks about interesting, she finds him too unnerving to get closer to.  
   
 ### Affiliations  
   
-Mae is loosely affiliated with both the church of [[Rethianity]] and [[The Open Hand]] due to her nature as a descendant of [[Saint Serafina]], but does not associate with them personally. This lineage also grants her some degree of status in [[Savorra]], where her parents emigrated from.  
+Mae is loosely affiliated with both the church of [Rethianity](../World/Organizations/Religions%20&%20Cults/Rethianity) and [The Open Hand](../World/Organizations/Religions%20&%20Cults/The%20Open%20Hand) due to her nature as a descendant of [Saint Serafina](./Saint%20Serafina), but does not associate with them personally. This lineage also grants her some degree of status in [Savorra](Savorra), where her parents emigrated from.  
   
 ## History  
   
-When she was 19, she decided to marry a man from [[Arkbay]] and move there with him. Rather than simply take his last name, she took the opportunity to change her full name to sound more Arkan. Their marriage lasted less than two years, but she took quite a liking to her new name and kept it.  
+When she was 19, she decided to marry a man from [Arkbay](Arkbay) and move there with him. Rather than simply take his last name, she took the opportunity to change her full name to sound more Arkan. Their marriage lasted less than two years, but she took quite a liking to her new name and kept it.  
   
 -----  
 > [!cite] Author info  

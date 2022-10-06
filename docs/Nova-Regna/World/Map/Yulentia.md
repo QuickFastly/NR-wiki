@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Yulentia (Continent).jpg|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Yulentia%20(Continent).jpg)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -32,7 +32,7 @@ comments: true
   </table>  
 </div>  
   
-Yulentia is the southeastern continent of [[Earth]]. The countries of [[Destrea]] and [[Ustonia]] are located here.  
+Yulentia is the southeastern continent of [Earth](./Earth). The countries of [Destrea](./Destrea/Destrea) and [Ustonia](./Ustonia/Ustonia) are located here.  
   
 ## Geography  
   
@@ -40,11 +40,11 @@ Yulentia is an expansive, mostly flat region with some small mountains and hills
   
 ### Resources  
   
-Yulentia is relatively rich in iron and oil, and while many other metals can be found as well, they require complex and expensive extraction methods, making trade with [[Avangia]] and [[Ozen]] much more attractive.  
+Yulentia is relatively rich in iron and oil, and while many other metals can be found as well, they require complex and expensive extraction methods, making trade with [Avangia](./Avangia) and [Ozen](./Ozen) much more attractive.  
   
 ## See also  
   
-[[Yulentia Trade Union]]  
+[Yulentia Trade Union](../Organizations/Yulentia%20Trade%20Union)  
   
 -----  
 > [!cite] Author info  

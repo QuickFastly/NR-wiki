@@ -6,7 +6,7 @@ comments: true
 > This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until enough detail is added to a given subgroup to be moved to its own page, it will remain here.  
   
 > [!example]- Real-world influences  
-> Of course because there is so much potential detail to be added to pages like these, inspiration must be drawn from somewhere. More subgroups may be added in the future as well, but under specific circumstances. For a lot more detail about all that, check the meta page on [appropriate real-world influences](../../../_meta/Appropriate%20real-world%20influences).  
+> Of course because there is so much potential detail to be added to pages like these, inspiration must be drawn from somewhere. More subgroups may be added in the future as well, but under specific circumstances. For a lot more detail about all that, check the meta page on [[../../../_meta/Appropriate real-world influences|appropriate real-world influences]].  
 >    
 > Here is the abridged version for this page specifically:  
 > - **Roslan** | Inspired by = Russia  
@@ -45,9 +45,9 @@ comments: true
   </table>  
 </div>  
   
-The Farodet people are one of the seven major [ethnic groups](../Cultures%20&%20Ethnicities) of [the world](../../Map/Earth), occupying approximately 5% of the global population, primarily in [Grenneria](../../Map/Grenneria/Grenneria) on the continent of [Ozen](../../Map/Ozen).  
+The Farodet people are one of the seven major [[../Cultures & Ethnicities|ethnic groups]] of [[../../Map/Earth|the world]], occupying approximately 5% of the global population, primarily in [[../../Map/Grenneria/Grenneria|Grenneria]] on the continent of [[../../Map/Ozen|Ozen]].  
   
-The first Farodet people disappeared sometime in the 3rd century, the only trace of their original culture being a small number of consistent components in the mythology and folklore of the many ethnic groups that came from them, the earliest of which being the consistent idea across all of the oldest subgroups that the Farodet people "emerged from the mountains" before spreading across the land, similar to stories of [Irovell](../Irovell/Irovell) mythology.  
+The first Farodet people disappeared sometime in the 3rd century, the only trace of their original culture being a small number of consistent components in the mythology and folklore of the many ethnic groups that came from them, the earliest of which being the consistent idea across all of the oldest subgroups that the Farodet people "emerged from the mountains" before spreading across the land, similar to stories of [[../Irovell/Irovell|Irovell]] mythology.  
   
 More TBD  
   
@@ -86,7 +86,7 @@ More TBD
   </table>  
 </div>  
   
-The Roslan people are the first new ethnic group to be formed from the [Farodet](Farodet) people, settling in what is now known as [Roslaya](Roslaya), [Grenneria](../../Map/Grenneria/Grenneria). The Roslan language is an evolution of the lost Farodet language and sounds similar to Vyrran and Kiel, but with enough difference to make cross-lingual communication difficult. It has changed so much since ancient times - both in speech and in writing - that ancient Farodet text is unreadable to Roslans and remains untranslated.  
+The Roslan people are the first new ethnic group to be formed from the [[Farodet|Farodet]] people, settling in what is now known as [[Roslaya]], [[../../Map/Grenneria/Grenneria|Grenneria]]. The Roslan language is an evolution of the lost Farodet language and sounds similar to Vyrran and Kiel, but with enough difference to make cross-lingual communication difficult. It has changed so much since ancient times - both in speech and in writing - that ancient Farodet text is unreadable to Roslans and remains untranslated.  
   
 ### Vyrran people  
   
@@ -118,7 +118,7 @@ The Roslan people are the first new ethnic group to be formed from the [Farodet]
   </table>  
 </div>  
   
-The Vyrran people are the second new ethnic group to be formed from the [Farodet](Farodet) people, settling in what is now known as [Ulavyr](Ulavyr), [Grenneria](../../Map/Grenneria/Grenneria). The Vyrran language is an evolution of the lost Farodet language and sounds similar to Roslan and Kiel, but with enough difference to make cross-lingual communication difficult. It has changed so much since ancient times - both in speech and in writing - that ancient Farodet text is unreadable to Vyrrans and remains untranslated.  
+The Vyrran people are the second new ethnic group to be formed from the [[Farodet|Farodet]] people, settling in what is now known as [[Ulavyr]], [[../../Map/Grenneria/Grenneria|Grenneria]]. The Vyrran language is an evolution of the lost Farodet language and sounds similar to Roslan and Kiel, but with enough difference to make cross-lingual communication difficult. It has changed so much since ancient times - both in speech and in writing - that ancient Farodet text is unreadable to Vyrrans and remains untranslated.  
   
 ### Kiel people  
   
@@ -150,7 +150,7 @@ The Vyrran people are the second new ethnic group to be formed from the [Farodet
   </table>  
 </div>  
   
-The Kiel people are the third new ethnic group to be formed from the [Farodet](Farodet) people, settling in what is now known as [Kielda](Kielda), [Grenneria](../../Map/Grenneria/Grenneria). The Kiel language is an evolution of the lost Farodet language and sounds similar to Roslan and Vyrran, but with enough difference to make cross-lingual communication difficult. It has changed so much since ancient times - both in speech and in writing - that ancient Farodet text is unreadable to Kiel people and remains untranslated.  
+The Kiel people are the third new ethnic group to be formed from the [[Farodet|Farodet]] people, settling in what is now known as [[Kielda]], [[../../Map/Grenneria/Grenneria|Grenneria]]. The Kiel language is an evolution of the lost Farodet language and sounds similar to Roslan and Vyrran, but with enough difference to make cross-lingual communication difficult. It has changed so much since ancient times - both in speech and in writing - that ancient Farodet text is unreadable to Kiel people and remains untranslated.  
   
 ### Valosian people  
   
@@ -182,7 +182,7 @@ The Kiel people are the third new ethnic group to be formed from the [Farodet](F
   </table>  
 </div>  
   
-The Valosian people are the fourth new ethnic group to be formed from the [Farodet](Farodet) people, settling in what is now known as [Ivashni](Ivashni), [Grenneria](../../Map/Grenneria/Grenneria). The Valosian language is an evolution of the lost Farodet language, but has changed so much since ancient times that it is almost unrecognizable.  
+The Valosian people are the fourth new ethnic group to be formed from the [[Farodet|Farodet]] people, settling in what is now known as [[Ivashni]], [[../../Map/Grenneria/Grenneria|Grenneria]]. The Valosian language is an evolution of the lost Farodet language, but has changed so much since ancient times that it is almost unrecognizable.  
   
 ### Markaskian people  
   
@@ -214,7 +214,7 @@ The Valosian people are the fourth new ethnic group to be formed from the [Farod
   </table>  
 </div>  
   
-The Markaskian people are the fifth new ethnic group to be formed from the [Farodet](Farodet) people, settling in what is now known as [Markask](Markask), [Grenneria](../../Map/Grenneria/Grenneria). The Kaskan language is an evolution of the lost Farodet language, but has changed so much since ancient times that it is almost unrecognizable.  
+The Markaskian people are the fifth new ethnic group to be formed from the [[Farodet|Farodet]] people, settling in what is now known as [[Markask]], [[../../Map/Grenneria/Grenneria|Grenneria]]. The Kaskan language is an evolution of the lost Farodet language, but has changed so much since ancient times that it is almost unrecognizable.  
   
 ### Sarab people  
   
@@ -246,7 +246,7 @@ The Markaskian people are the fifth new ethnic group to be formed from the [Faro
   </table>  
 </div>  
   
-The Sarab people are an ethnic group descended from the Markaskian people, formed from a colonial expedition to the island they called [Sarabey](Sarabey), located in what is now [Grenneria](../../Map/Grenneria/Grenneria). The Sarask language is a descendant of Kaskan, but has diverged over time to the point that mutual intelligibility is low.  
+The Sarab people are an ethnic group descended from the Markaskian people, formed from a colonial expedition to the island they called [[Sarabey]], located in what is now [[../../Map/Grenneria/Grenneria|Grenneria]]. The Sarask language is a descendant of Kaskan, but has diverged over time to the point that mutual intelligibility is low.  
   
 ### Storran people  
   
@@ -278,7 +278,7 @@ The Sarab people are an ethnic group descended from the Markaskian people, forme
   </table>  
 </div>  
   
-The Storran people are an ethnic group descended from the Valosian people, originally formed from an expedition across the [Himlavård](../../Places/Himlav%C3%A5rd) mountains that settled in what is now [Elgård](Elg%C3%A5rd), [Osun Tanum](../../Map/Osun%20Tanum/Osun%20Tanum). The Storran people originally spoke a unique dialect of Valosian, but since the influx of fleeing colonials from [Tolred](Tolred), their language quickly changed to have more in common with the [Irovell](../Irovell/Irovell) Amari than any modern [Farodet](Farodet) language.  
+The Storran people are an ethnic group descended from the Valosian people, originally formed from an expedition across the [[../../Places/Himlavård|Himlavård]] mountains that settled in what is now [[Elgård]], [[../../Map/Osun Tanum/Osun Tanum|Osun Tanum]]. The Storran people originally spoke a unique dialect of Valosian, but since the influx of fleeing colonials from [[Tolred]], their language quickly changed to have more in common with the [[../Irovell/Irovell|Irovell]] Amari than any modern [[Farodet|Farodet]] language.  
   
 ### Nazene people  
   
@@ -310,7 +310,7 @@ The Storran people are an ethnic group descended from the Valosian people, origi
   </table>  
 </div>  
   
-The Nazene people were originally descended from the ancient [Farodet](Farodet) people, but after settling what is now known as [Nazavat](Nazavat), [Grenneria](../../Map/Grenneria/Grenneria), and their proximity to the coast of what is now [Destrea](../../Map/Destrea/Destrea), they experienced heavy [Cirazan](../Ciraza/Cirazan) influence through much of history and even had close relations with the [Alessan Empire](Alessan%20Empire). The Nazene language today has much more in common with Common Alessan than any Farodet language.  
+The Nazene people were originally descended from the ancient [[Farodet|Farodet]] people, but after settling what is now known as [[Nazavat]], [[../../Map/Grenneria/Grenneria|Grenneria]], and their proximity to the coast of what is now [[../../Map/Destrea/Destrea|Destrea]], they experienced heavy [[../Ciraza/Cirazan|Cirazan]] influence through much of history and even had close relations with the [[Alessan Empire]]. The Nazene language today has much more in common with Common Alessan than any Farodet language.  
   
 -----  
 > [!cite] Author info  

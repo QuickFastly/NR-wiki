@@ -3,5 +3,8 @@
 }
 :root > * {
   --md-primary-fg-color:        #C10000;
+  --md-primary-fg-color--light: #C10000;
+  --md-primary-fg-color--dark:  #C10000;
   --md-accent-fg-color:         #910000;
+  --md-accent-fg-color--transparent: #910000, 0.1;
 }

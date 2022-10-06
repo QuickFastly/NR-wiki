@@ -165,4 +165,5 @@ Are you suggesting a small edit, correction, or improvement to a page? Paste a l
   
 Are you suggesting the addition of an entirely new page? Write a little bit about what your new page is and why you want to add it, then attach the page as a separate file. It's strongly preferred to attach `.md` files with proper Markdown formatting, but `.txt` `.odt` `.rtf` and `.docx` files are acceptable. If you want to be credited for your work, make sure you use the [author info](https://raw.githubusercontent.com/QuickFastly/Nova-Regna/main/_templates/Author%20info.md) template at the bottom of your page!  
   
-Once your issue goes through and the proposed changes are accepted, they will be added to the main vault on your behalf, potentially with some changes to the basic formatting for consistency.
+Once your issue goes through and the proposed changes are accepted, they will be added to the main vault on your behalf, potentially with some changes to the basic formatting for consistency.  
+  

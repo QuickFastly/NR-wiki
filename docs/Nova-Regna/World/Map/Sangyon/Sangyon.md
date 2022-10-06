@@ -9,9 +9,9 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Sangyon.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Sangyon.png)</span>  
     
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Sangyon (Region).jpg|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Sangyon%20(Region).jpg)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -84,7 +84,7 @@ comments: true
   </table>  
 </div>  
   
-Sangyon, officially known as the People's Republic of Sangyon, is a small country encompassing the northern archipelago of the continent of [[Avangia]]. Its capital, [[Dangje]], is located in the center of the country on the main island. It is closely neighbored by [[Shinzen]] to the south, separated by a large strait.  
+Sangyon, officially known as the People's Republic of Sangyon, is a small country encompassing the northern archipelago of the continent of [Avangia](../Avangia). Its capital, [Dangje](Dangje), is located in the center of the country on the main island. It is closely neighbored by [Shinzen](../Shinzen/Shinzen) to the south, separated by a large strait.  
   
 Sangyon is a highly developed country with a small but incredibly dense population, a reasonable post-industrial economy, extensive infrastructure, and a small but well outfitted military kept exclusively for defensive purposes. Sangyon is known most famously for its beautiful, lush, undisturbed landscapes, balanced in delicate harmony with its massive, bustling city centers, making the country a global tourist favorite. It is also considered one of the world leaders in the development of robotics, microelectronics, artificial intelligence, and biotechnology, in close competition with Shinzen despite its incredible disadvantages in population and spending power.  
   
@@ -107,22 +107,22 @@ The country follows a remarkably similar system of government as Shinzen, as it 
 ### Administrative divisions  
   
 The country is divided into 16 prefectures, many of which are their own islands or archipelagos. These prefectures are controlled by the central government with no autonomy, instead having a set of locally elected representatives to petition the central government on issues. These states are as follows.  
-- [[Cheosu]]  
-- [[Dangje]]  
-- [[Gangsu]]  
-- [[Gwasu]]  
-- [[Haesu]]  
-- [[Jeonsan]]  
-- [[Kimje]]  
-- [[Kimsong]]  
-- [[Manjin]]  
-- [[Ranan]]  
-- [[Rasan]]  
-- [[Rawang]]  
-- [[Sinju]]  
-- [[Tanbaek]]  
-- [[Tanje]]  
-- [[Wonsan]]  
+- [Cheosu](Cheosu)  
+- [Dangje](Dangje)  
+- [Gangsu](Gangsu)  
+- [Gwasu](Gwasu)  
+- [Haesu](Haesu)  
+- [Jeonsan](Jeonsan)  
+- [Kimje](Kimje)  
+- [Kimsong](Kimsong)  
+- [Manjin](Manjin)  
+- [Ranan](Ranan)  
+- [Rasan](Rasan)  
+- [Rawang](Rawang)  
+- [Sinju](Sinju)  
+- [Tanbaek](Tanbaek)  
+- [Tanje](Tanje)  
+- [Wonsan](Wonsan)  
   
 ### Military  
   
@@ -130,11 +130,11 @@ The military of Sangyon, better known as the Republic of Sangyon Armed forces or
   
 ### Foreign relations  
   
-![[Political relations chart (Sangyon).svg]]  
+![Political relations chart (Sangyon).svg](Political%20relations%20chart%20(Sangyon).svg)  
   
 ## Economy  
   
-The economy of Sangyon is worth 119.3 trillion [[Credit (currency)|CR]] per year with an expenditure of 38.1%, which is distributed as follows.  
+The economy of Sangyon is worth 119.3 trillion [CR](Credit%20(currency)) per year with an expenditure of 38.1%, which is distributed as follows.  
 - Administration: 13%  
 - Defense: 1.2%  
 - Education & Science: 21.5%  
@@ -156,7 +156,7 @@ The largest contributor to the economy of Sangyon is the tourism industry, but s
   
 ## Demographics  
   
-Sangyon experiences nearly the opposite problem as Shinzen regarding [[Spirits|spirit]] acceptance. Systemic discrimination is nonexistent and spirits technically have absolute equality with humans in the country, but societal discrimination still runs rampant as many people are overly wary based on outdated ideas, old stories, and xenophobia. A happy spirit is a rare sight in Sangyon.  
+Sangyon experiences nearly the opposite problem as Shinzen regarding [spirit](../../Inhabitants/Spirits) acceptance. Systemic discrimination is nonexistent and spirits technically have absolute equality with humans in the country, but societal discrimination still runs rampant as many people are overly wary based on outdated ideas, old stories, and xenophobia. A happy spirit is a rare sight in Sangyon.  
   
 Spirit population as of the 2030 census: 7,075,287  
 - Cat: 4,835,200  
@@ -193,7 +193,7 @@ TBD
   
 ## See also  
   
-[[World military balance]] (Meta)  
+[World military balance](../../../_meta/World%20military%20balance) (Meta)  
   
 -----  
 > [!cite] Author info  

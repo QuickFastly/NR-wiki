@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -104,11 +104,11 @@ comments: true
   </table>  
 </div>  
   
-Kuhai is a [Shark spirit](../../World/Inhabitants/Shark) and one of the five mortal [Incarnations](../../World/Concepts/Incarnations). She is loyal to [Freya](./Freya) and the [Risky Witches](../../World/Organizations/Risky%20Witches), and participated in [The Big Event](../../World/History%20&%20Events/The%20Big%20Event).  
+Kuhai is a [[../../World/Inhabitants/Shark|Shark spirit]] and one of the five mortal [[../../World/Concepts/Incarnations|Incarnations]]. She is loyal to [[./Freya|Freya]] and the [[../../World/Organizations/Risky Witches|Risky Witches]], and participated in [[../../World/History & Events/The Big Event|The Big Event]].  
   
 ## Summary  
   
-As a mortal incarnation, Kuhai has been several people throughout history. Every incarnation of Kuhai shares a number of constant traits, including their towering stature, piercing blue eyes, and ever since [the sacrifice](Shark#Myths%20and%20legends), a scar in the middle of their forehead resembling a bullet wound. They possess [Attunement](../../World/Concepts/Attunement) that manifests as monstrous physical strength and durability, and an invisible force that increases their offensive range and perception, both of which they wield consciously with calculated consideration. Typically, Kuhai is an independent person with natural leadership skills, but occasionally chooses to follow another to some extent if their goals align. They do not possess [Alignment](../../World/Concepts/Alignment).  
+As a mortal incarnation, Kuhai has been several people throughout history. Every incarnation of Kuhai shares a number of constant traits, including their towering stature, piercing blue eyes, and ever since [[Shark#Myths and legends|the sacrifice]], a scar in the middle of their forehead resembling a bullet wound. They possess [[../../World/Concepts/Attunement|Attunement]] that manifests as monstrous physical strength and durability, and an invisible force that increases their offensive range and perception, both of which they wield consciously with calculated consideration. Typically, Kuhai is an independent person with natural leadership skills, but occasionally chooses to follow another to some extent if their goals align. They do not possess [[../../World/Concepts/Alignment|Alignment]].  
   
 Aside from this summary, the rest of this page applies only to the current incarnation of Kuhai.  
   
@@ -158,7 +158,7 @@ Kuhai's attunement primarily manifests itself as an invisible force that increas
   
 As an incarnation, her attunement also gives her immense, supernatural strength and physical durability, allowing her to lift more than six times her body weight, punch and kick with the force of a truck, remain standing when hit with force up to that of a small car at 12 miles per hour, jump twice as high as her own height, sustain severe blood loss without losing strength, and not just survive falls from 30 stories, but hit the ground running with no injuries.  
   
-Out of all the incarnations, including the immortal three, Kuhai is the strongest, most imposing, and most fearsome. Even Freya fears her strength, despite the fact she doesn't fear Kuhai as a person. This combined with her strong leadership and small army of loyal followers also makes her appear more like a god than any of the other incarnations, aside from [Kerosyn](./Kerosyn). Her personality does not live up to her appearance, however.  
+Out of all the incarnations, including the immortal three, Kuhai is the strongest, most imposing, and most fearsome. Even Freya fears her strength, despite the fact she doesn't fear Kuhai as a person. This combined with her strong leadership and small army of loyal followers also makes her appear more like a god than any of the other incarnations, aside from [[./Kerosyn|Kerosyn]]. Her personality does not live up to her appearance, however.  
   
 ## Personality  
   
@@ -170,7 +170,7 @@ In smaller scale, more social environments, her adamant nature dissolves. Being 
   
 ### Motivation  
   
-Kuhai is primarily concerned with the safety of her people in her homeland of [Isla Sofia](Isla%20Sofia), and secondarily concerned with the safety of Isla Sofia itself and all the people in it, and will go to extreme lengths to ensure no harm comes to them.  
+Kuhai is primarily concerned with the safety of her people in her homeland of [[Isla Sofia]], and secondarily concerned with the safety of Isla Sofia itself and all the people in it, and will go to extreme lengths to ensure no harm comes to them.  
   
 Of course, that made her very easy for Freya to recruit to the Risky Witches by promising the safety of the island. Over time, Kuhai became invested in the greater cause of the Risky Witches and devoted herself to it entirely on the condition that Isla Sofia take priority should it ever be threatened.  
   
@@ -178,11 +178,11 @@ Of course, that made her very easy for Freya to recruit to the Risky Witches by 
   
 Kuhai's blunt and serious outward nature combined with her awkward and naive inner nature on top of her revered status in her homeland have historically made it difficult for her to form close relationships, but Freya changed that. She developed a huge crush on Freya at first sight and immediately accepted the invitation to the Risky Witches, which ended up being full of people much easier for her to talk to.  
   
-She treats [Dvalinn](./Dvalinn), [Haida](./Haida), and [Neven](./Neven) with great respect and considers them great friends worth protecting. [Garm](./Garm), meanwhile, she sees more like an annoying younger relative, and is a little jealous of her closeness with Freya. Still someone worth protecting, but with less respect, leading to a lot of childish bickering and challenges. Despite that (or perhaps because of that) she is closest with Garm out of everyone in the unit, and they can often be found sparring together.  
+She treats [[./Dvalinn|Dvalinn]], [[./Haida|Haida]], and [[./Neven|Neven]] with great respect and considers them great friends worth protecting. [[./Garm|Garm]], meanwhile, she sees more like an annoying younger relative, and is a little jealous of her closeness with Freya. Still someone worth protecting, but with less respect, leading to a lot of childish bickering and challenges. Despite that (or perhaps because of that) she is closest with Garm out of everyone in the unit, and they can often be found sparring together.  
   
 ### Affiliations  
   
-She is a member of the Risky Witches [Task Force 5555](Risky%20Witches#Special%20forces) with the effective rank of O-6.  
+She is a member of the Risky Witches [[Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
   
 ## History  
   

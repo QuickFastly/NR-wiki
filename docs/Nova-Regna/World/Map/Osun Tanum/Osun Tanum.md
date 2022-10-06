@@ -9,9 +9,9 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Osun%20Tanum%20flag.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../../assets/img/Osun Tanum flag.png|250]]</span>  
     
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Osun%20Tanum%20(Region).jpg)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Osun Tanum (Region).jpg|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -84,9 +84,9 @@ comments: true
   </table>  
 </div>  
   
-Osun Tanum, officially known as the Democratic Republic of Osun Tanum, is a moderately sized country located on the southern third of the continent of [Ozen](../Ozen), and is a member of the [Ozen Federation](../../Organizations/Ozen%20Federation). Its capital, [Grendelholt](Grendelholt), is located in the center of the country near the sea in the state of [Sondergård](Sonderg%C3%A5rd). It is bordered by [Corstaea](../Corstaea/Corstaea), [Grenneria](../Grenneria/Grenneria), and [Ustonia](../Ustonia/Ustonia), and is also closely neighbored by [Alastor](../Alastor/Alastor) and [Destrea](../Destrea/Destrea).  
+Osun Tanum, officially known as the Democratic Republic of Osun Tanum, is a moderately sized country located on the southern third of the continent of [[../Ozen|Ozen]], and is a member of the [[../../Organizations/Ozen Federation|Ozen Federation]]. Its capital, [[Grendelholt]], is located in the center of the country near the sea in the state of [[Sondergård]]. It is bordered by [[../Corstaea/Corstaea|Corstaea]], [[../Grenneria/Grenneria|Grenneria]], and [[../Ustonia/Ustonia|Ustonia]], and is also closely neighbored by [[../Alastor/Alastor|Alastor]] and [[../Destrea/Destrea|Destrea]].  
   
-Osun Tanum is a well developed country with a modest population, a weak but stable post-industrial economy, and a small but very well outfitted military. Osun Tanum is famously recognized as the world's foremost leader in the aerospace sector with countless world-first records to their name, including being the first to fly, first to exit the atmosphere, first to successfully deploy a satellite, and first to land on the moon. They also were the primary contributor to the [Global Space Platform](../../Things/Global%20Space%20Platform), and are currently developing a space elevator. All the while, their in-atmosphere developments are also second to none. Pilots trained in Osun Tanum are near-universally at the top of their class, and many of the finest aircraft in the world of many different varieties come from the country as well.  
+Osun Tanum is a well developed country with a modest population, a weak but stable post-industrial economy, and a small but very well outfitted military. Osun Tanum is famously recognized as the world's foremost leader in the aerospace sector with countless world-first records to their name, including being the first to fly, first to exit the atmosphere, first to successfully deploy a satellite, and first to land on the moon. They also were the primary contributor to the [[../../Things/Global Space Platform|Global Space Platform]], and are currently developing a space elevator. All the while, their in-atmosphere developments are also second to none. Pilots trained in Osun Tanum are near-universally at the top of their class, and many of the finest aircraft in the world of many different varieties come from the country as well.  
   
 Osun Tanum's model of social democracy is considered the global benchmark of efficiency and fairness, and their welfare, healthcare, and education programs are remarkably far ahead of the rest of the world. It is the only country in the world to have solved the problems of homelessness and unemployment. While Osun Tanum still has numerous problems, its citizens are the happiest and healthiest in the world.  
   
@@ -98,7 +98,7 @@ TBD
   
 ## Geography  
   
-Osun Tanum is an almost entirely temperate region with forests throughout most of it, several large rivers, and a fairly equal distribution of flatlands and rolling hills. [Himlavård](../../Places/Himlav%C3%A5rd) runs across much of the northern border of the country.  
+Osun Tanum is an almost entirely temperate region with forests throughout most of it, several large rivers, and a fairly equal distribution of flatlands and rolling hills. [[../../Places/Himlavård|Himlavård]] runs across much of the northern border of the country.  
   
 ## Government & Politics  
   
@@ -109,12 +109,12 @@ It's a highly complex system and can be confusing to foreigners, but has been hi
 ### Administrative divisions  
   
 Osun Tanum is divided into six states, each with their own state government overseen by an elected governor with limited autonomy under the federal government, along with a set of elected parliamentary representatives. Each state has their own unique history and culture, which greatly influences legislature. These states are as follows.  
-- [Elgård](Elg%C3%A5rd)  
-- [Kolgård](Kolg%C3%A5rd)  
-- [Macdon](Macdon)  
-- [Osterfeld](Osterfeld)  
-- [Sondergård](Sonderg%C3%A5rd)  
-- [Vastdal](Vastdal)  
+- [[Elgård]]  
+- [[Kolgård]]  
+- [[Macdon]]  
+- [[Osterfeld]]  
+- [[Sondergård]]  
+- [[Vastdal]]  
   
 ### Military  
   
@@ -124,11 +124,11 @@ More than any other nation, Osun Tanum is extremely dedicated to international p
   
 ### Foreign relations  
   
-![Political relations chart (Osun Tanum).svg](Political%20relations%20chart%20(Osun%20Tanum).svg)  
+![[Political relations chart (Osun Tanum).svg]]  
   
 ## Economy  
   
-The economy of Osun Tanum is worth 133.4 trillion [CR](Credit%20(currency)) per year with an expenditure of 39.8%, which is distributed as follows.  
+The economy of Osun Tanum is worth 133.4 trillion [[Credit (currency)|CR]] per year with an expenditure of 39.8%, which is distributed as follows.  
 - Administration: 10.3%  
 - Defense: 5.7%  
 - Education & Science: 14.2%  
@@ -150,7 +150,7 @@ Some primary exports of Osun Tanum are aerospace technology, wine, and organic f
   
 ## Demographics  
   
-Osun Tanum has a very high population of [spirits](../../Inhabitants/Spirits) and is extremely welcoming towards them, largely following in the footsteps of Corstaea to raise awareness and acceptance as well as reduce discrimination. However, the country has not gone so far as to remove spirit identification from the census entirely, like Corstaea has done, much to the delight of statisticians the world over.  
+Osun Tanum has a very high population of [[../../Inhabitants/Spirits|spirits]] and is extremely welcoming towards them, largely following in the footsteps of Corstaea to raise awareness and acceptance as well as reduce discrimination. However, the country has not gone so far as to remove spirit identification from the census entirely, like Corstaea has done, much to the delight of statisticians the world over.  
   
 Spirit population according to the 2030 census: 19,614,205  
 - Cat: 7,447,121  
@@ -187,7 +187,7 @@ TBD
   
 ## See also  
   
-[World military balance](../../../_meta/World%20military%20balance) (Meta)  
+[[../../../_meta/World military balance|World military balance]] (Meta)  
   
 -----  
 > [!cite] Author info  

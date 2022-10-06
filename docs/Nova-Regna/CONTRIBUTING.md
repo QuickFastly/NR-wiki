@@ -1,10 +1,6 @@
 ---  
 share: true  
 ---  
-- [[CONTRIBUTING#Guidelines|Guidelines]]  
-- [[CONTRIBUTING#How to contribute|How to contribute]]  
-- [[CONTRIBUTING#Style guide|Style guide]]  
-  
 ## Guidelines  
   
 Contributions require approval, but requirements are light and expectations are low.  
@@ -22,18 +18,6 @@ Additionally, if what you intend to contribute will *directly reference*, or be 
 Basically, be cool and stay true to the fiction, and you'll probably be fine.  
   
 Be sure to also look over the meta notes, as they contain valuable real-world points of comparison for creators, like [[On the languages of the world|how to handle foreign language]], [[Using mystic matter and magic|using mystic matter and attunement]], and [[Appropriate real-world influences|where to draw and apply real-world influences]].  
-  
-## How to contribute  
-  
-This entire wiki is written with [Obsidian](https://obsidian.md/) in mind, and readability is focused on Obsidian first. I highly recommend that anyone who wishes to contribute to this wiki use Obsidian to do so. With that said, it is not a requirement and you are free to use whatever method you want to contribute to this wiki.  
-  
-Another thing to keep in mind is that your contributions to this wiki will automatically be licensed under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by default, like everything else. You can instead choose to use a different license for your contributions by including it explicitly on your pages, and if you make it easy for others to contact you, you can make separate agreements with individuals as well. For instance, using a non-commercial license publicly, but separately allowing commercial usage only with your explicit permission or under your own terms.  
-  
-I *strongly* suggest that if you choose to use another license, you use another [Creative Commons](https://creativecommons.org/licenses/) license. You can try another license if you really want to, but I'll have to look over it and decide whether or not it aligns with the purpose of this wiki. I am very critical of intellectual property law and want this world to remain fully open, so "All Rights Reserved" will never be accepted on this wiki. Restrictions may be applied, but *all* content on this wiki *must* remain free to use and share to some degree.  
-%%  
-https://github.com/github/docs/blob/30fe9c6e604582c85d1d5c59b4f772f3e8d9589f/CONTRIBUTING.md  
-https://github.com/github/docs/blob/30fe9c6e604582c85d1d5c59b4f772f3e8d9589f/CODE_OF_CONDUCT.md  
-%%  
   
 ## Style guide  
   
@@ -99,6 +83,12 @@ Both in article titles and inside the articles themselves, unnecessary capitaliz
   
 In-world media and works of art of any kind should *always* be italicized. The names of historical events, organizations, or other articles should *never* be italicized. As you can see here, using italics for emphasis is also acceptable, and you should do that rather than using boldface, but ideally your sentences should be explicit enough to not need emphasis at all.  
   
+##### Headings  
+  
+Do not use H1 (#) headings at all. Ever. Period. The name of the file is treated as an H1 heading, so the highest heading you should ever use is H2 (##). Headings are automatically parsed into a table of contents, so every heading in a file needs to be H2 or smaller so that they are all correctly nested under the file name.  
+  
+Provided you keep that in mind, you can as few or as many headings as you like. You can nest them as deep as H6 (######) if you want to get really crazy.  
+  
 ##### Admonitions/Callouts  
   
 Obsidian supports 12 distinct types of admonition (or callout) natively since v0.14.0. They support markdown and wikilinks. For more specific details about them, check the [Obsidian documentation](https://help.obsidian.md/How+to/Use+callouts).  
@@ -155,4 +145,16 @@ Of course, you can still use the other natively supported options if you want to
 > example  
   
 > [!quote]- quote, cite  
-> example
+> example  
+  
+## How to contribute  
+  
+This entire wiki is written with [Obsidian](https://obsidian.md/) in mind, and readability is focused on Obsidian first. I highly recommend that anyone who wishes to contribute to this wiki use Obsidian to do so. With that said, it is not a requirement and you are free to use whatever method you want to contribute to this wiki.  
+  
+Another thing to keep in mind is that your contributions to this wiki will automatically be licensed under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by default, like everything else. You can instead choose to use a different license for your contributions by including it explicitly on your pages, and if you make it easy for others to contact you, you can make separate agreements with individuals as well. For instance, using a non-commercial license publicly, but separately allowing commercial usage only with your explicit permission or under your own terms.  
+  
+I *strongly* suggest that if you choose to use another license, you use another [Creative Commons](https://creativecommons.org/licenses/) license. You can try another license if you really want to, but I'll have to look over it and decide whether or not it aligns with the purpose of this wiki. I am very critical of intellectual property law and want this world to remain fully open, so "All Rights Reserved" will never be accepted on this wiki. Restrictions may be applied, but *all* content on this wiki *must* remain free to use and share to some degree.  
+%%  
+https://github.com/github/docs/blob/30fe9c6e604582c85d1d5c59b4f772f3e8d9589f/CONTRIBUTING.md  
+https://github.com/github/docs/blob/30fe9c6e604582c85d1d5c59b4f772f3e8d9589f/CODE_OF_CONDUCT.md  
+%%

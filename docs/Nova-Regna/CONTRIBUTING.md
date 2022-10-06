@@ -157,22 +157,50 @@ I *strongly* suggest that if you choose to use another license, you use another 
   
 Now then, on to some of the ways you can contribute.  
   
-### Issues (The easiest option for you)  
+### Issues  
   
-If you would rather not fiddle with git but you still want to contribute something, you can [submit an issue](https://github.com/QuickFastly/Nova-Regna/issues) without the need for anything more than a GitHub account. Click on the New Issue button at the top right and off you go.  
+If you would rather not fiddle with git but you still want to contribute something, you can [submit an issue](https://github.com/QuickFastly/Nova-Regna/issues) without the need for anything more than a GitHub account. Click on the New Issue button at the top right and off you go. If you aren't familiar with git, this will be the easiest for you.  
   
 Are you suggesting a small edit, correction, or improvement to a page? Paste a link to the page in question (either from [the wiki](https://wiki.kitabe.link) or [the repo](https://github.com/QuickFastly/Nova-Regna)), then include the text you want changed, followed by your proposed changes. If you're suggesting an addition rather than a change, just say so.  
   
-Are you suggesting the addition of an entirely new page? Write a little bit about what your new page is and why you want to add it, then attach the page as a separate file. It's strongly preferred to attach `.md` files with proper Markdown formatting, but `.txt` `.odt` `.rtf` and `.docx` files are acceptable. If you want to be credited for your work, make sure you use the [author info](https://raw.githubusercontent.com/QuickFastly/Nova-Regna/main/_templates/Author%20info.md) template at the bottom of your page!  
+Are you suggesting the addition of an entirely new page? Write a little bit about what your new page is and why you want to add it, then attach the page as a separate file. It's strongly preferred to attach `.md` files with [Obsidian Markdown](https://help.obsidian.md/How+to/Format+your+notes) formatting, but `.txt`, `.odt`, `.rtf`, and `.docx` files are acceptable. If you want to be credited for your work, make sure you use the [author info](https://raw.githubusercontent.com/QuickFastly/Nova-Regna/main/_templates/Author%20info.md) template at the bottom of your page!  
+  
+*If you don't have a Markdown editor and don't want to download anything, [you have options](https://www.google.com/search?q=online+markdown+editors).*  
   
 Once your issue goes through and the proposed changes are accepted, they will be added to the main vault on your behalf, potentially with some changes to the basic formatting for consistency.  
   
-## H2 test  
+### Pull requests  
   
-### H3 test  
+If you *are* relatively familiar with git, this route will be preferable to submitting an issue because rather than submitting a proposal for edits or attaching an extra file, you can just make the edits directly to the files or add a new file directly to the collection yourself and submit them for approval, *and* you can submit several things at once. Since this whole project is just words instead of code, though, this shouldn't be too difficult even if you aren't familiar with git.  
   
-#### H4 test  
+At the top right of the repo (in the Code tab), click on the Fork button to create your own copy of the repo under your GitHub account.  
   
-##### H5 test  
+If you don't want to download anything or you don't know what cloning a repo means, you can actually edit files and upload new ones to your forked repo from right here in the browser.  
   
-###### H6 test
+For edits, just find the `.md` file you want to edit and click on it, then click on the small pencil button on the top right corner of the container with all the text in it. It'll be on the same line as the button that says "Raw".  
+  
+To add a new page, navigate into the folder where your new page belongs, click on the Add file button in the top right, and you can either create a new file from scratch or upload a file you already wrote.  
+  
+In both cases, from there, you can edit the file and preview it, and when you're done, just enter a summary of your edits in the Commit Changes area, then hit the green button. After making changes, you should see a new button on your forked repo to create a new pull request, or in other words, submit your changes for review.  
+  
+Be aware that the more changes you make for your pull request, the more difficult it might be to accept! If your pull request has some accepted changes and some rejected ones, it will be closed without merging, then I will work with you to get the accepted changes in anyway.  
+  
+You should also remember to synchronize your fork before getting to work on any changes, because there may have been other changes already merged into the main branch that you don't have yet! If ever you see the sync fork button near the top right corner, click on it.  
+  
+Have a look at the GitHub documentation if you want to learn more about [git](https://docs.github.com/en/get-started/quickstart/set-up-git), [forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks), and [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). If you take the time to learn the basics of this stuff, you can download your fork to your computer locally and use any program you want to write with, and you can do all of this without even opening your browser if you're so inclined.  
+  
+Of course, if you know what cloning is and how to do it, you don't need me to tell you that.  
+  
+### Obsidian git  
+  
+If you're an [Obsidian](https://obsidian.md) user, you can use the [Obsidian git](https://github.com/denolehov/obsidian-git) plugin for this. This is the method I recommend, because the vault looks best in Obsidian, was made in Obsidian, and is most convenient to work with through Obsidian.  
+  
+First, fork the repo as decribed earlier, then (assuming you're a Windows user who doesn't like the command line) follow [this guide](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md) with one major difference. That guide tells you to start with a new, empty repo, but for our purposes your repo will already have a vault in it, so you can skip the whole "making your vault a repository" step. GitHub Desktop has a Mac version too, but you're on your own there.  
+  
+In the Obsidian git plugin settings, I recommend enabling pull updates on startup, push on backup, and pull changes before push. You will still (to my knowledge) have to manually sync your fork with the main repo every now and then, but with these settings, you can sync your fork and then open Obsidian and it will automatically be up to date as well.  
+  
+I also would recommend leaving automatic backups turned off, and instead do it manually for every file you change by pressing ctrl+P, searching for "backup", and choosing "create backup with specific message" so you can be descriptive about what changed instead of having 500 of the same commit message. But ultimately, it's in your hands, not mine.  
+  
+I will admit, setting this up for the first time did not go smoothly for me, but it's been long enough that I don't remember what my problem was. What I do know for sure, however, is that it wasn't the fault of the plugin, it was something to do with my git setup being wrong. Your mileage may vary, look through the plugin [issues](https://github.com/denolehov/obsidian-git/issues?q=is%3Aissue) and use Google if you have trouble.  
+  
+It's also entirely possible to use Obsidian and simply upload your changes through the browser as described in the pull requests section without using the git plugin, but it's less cool.

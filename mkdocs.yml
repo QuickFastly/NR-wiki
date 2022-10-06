@@ -17,7 +17,7 @@ theme:
     palette:
     
     # Dark mode
-    - scheme: slate
+    - scheme: good
       primary: blue grey
       accent: indigo
       toggle:

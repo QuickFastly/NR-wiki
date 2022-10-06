@@ -13,7 +13,7 @@ tags: HT
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666;border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666;border-collapse:collapse">![[../../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -104,7 +104,7 @@ tags: HT
   </table>  
 </div>  
   
-Nori Inazuma is a [fox spirit](../../World/Inhabitants/Fox), and one of two surviving members of the [Inazuma Clan](../../World/History%20&%20Events/Shinzen/Inazuma%20Clan). Together with her husband, [Shun Inazuma](./Shun%20Inazuma), she traveled the world for several centuries and appears in many disparate historical events as a result. She currently lives in rural [Shiga](Shiga) in [Onsai](Onsai), [Shinzen](../../World/Map/Shinzen/Shinzen).  
+Nori Inazuma is a [[../../World/Inhabitants/Fox|fox spirit]], and one of two surviving members of the [[../../World/History & Events/Shinzen/Inazuma Clan|Inazuma Clan]]. Together with her husband, [[./Shun Inazuma|Shun Inazuma]], she traveled the world for several centuries and appears in many disparate historical events as a result. She currently lives in rural [[Shiga]] in [[Onsai]], [[../../World/Map/Shinzen/Shinzen|Shinzen]].  
   
 ## Physical description  
   
@@ -116,7 +116,7 @@ Since (year), she has needed prosthetic legs starting just below the knees.
   
 ## Special abilities  
   
-Like all fox spirits, she has both [Alignment](../../World/Concepts/Alignment) and [Attunement](../../World/Concepts/Attunement). Despite spending all of her early life being trained in the traditional sword arts of the Inazuma, she never mastered them due to her physical weakness and lack of stamina. Instead, she developed her own unique variation of Inazuma swordsmanship with the help of Shun that focuses primarily on the command of lightning rather than the blade itself. She essentially uses her sword as a catalyst to aim her lightning attacks, and prioritizes maintaining some distance rather than engaging in close combat.  
+Like all fox spirits, she has both [[../../World/Concepts/Alignment|Alignment]] and [[../../World/Concepts/Attunement|Attunement]]. Despite spending all of her early life being trained in the traditional sword arts of the Inazuma, she never mastered them due to her physical weakness and lack of stamina. Instead, she developed her own unique variation of Inazuma swordsmanship with the help of Shun that focuses primarily on the command of lightning rather than the blade itself. She essentially uses her sword as a catalyst to aim her lightning attacks, and prioritizes maintaining some distance rather than engaging in close combat.  
   
 Also with the help of Shun, she developed the ability to slow down her perception of time, effectively speeding up her reaction time dramatically, nearly to the point of becoming foresight, which she uses to conserve her limited stamina.  
   
@@ -130,7 +130,7 @@ She has been married to Shun Inazuma for centuries. Based on recent findings in 
   
 ## History  
   
-Her mother was [Anzu Inazuma](Anzu%20Inazuma) and her father was [Kaki Inazuma](Kaki%20Inazuma).  
+Her mother was [[Anzu Inazuma]] and her father was [[Kaki Inazuma]].  
   
 -----  
 > [!cite] Author info  

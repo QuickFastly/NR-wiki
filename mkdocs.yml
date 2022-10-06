@@ -15,7 +15,7 @@ theme:
         code: Red Hat Mono
     language: en
     palette:
-    
+
     # Dark mode
     - scheme: slate
       primary: red

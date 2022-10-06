@@ -18,12 +18,16 @@ theme:
     
     # Dark mode
     - scheme: slate
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-night
         name: Switch to light mode
 
     # Light mode
     - scheme: default
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode

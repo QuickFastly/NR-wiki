@@ -7,11 +7,11 @@ comments: true
   
 Mortality, expiration, oblivion, departure, passing, or what is most simply known as death, Pestilence is that which brings it about.  
   
-For the most part, only the highest ranking members of the [[Children of the Flame]] know the truth of Pestilence. They guard this knowledge with their very lives, and have gone so far as to silence those who threaten to leak it to the public. That's not stopping anyone from carrying out their own research in secret though, especially if they know how to avoid the organization's prying eyes.  
+For the most part, only the highest ranking members of the [Children of the Flame](../Organizations/Religions%20&%20Cults/Children%20of%20the%20Flame) know the truth of Pestilence. They guard this knowledge with their very lives, and have gone so far as to silence those who threaten to leak it to the public. That's not stopping anyone from carrying out their own research in secret though, especially if they know how to avoid the organization's prying eyes.  
   
-Areas with a very *low* density of [[Mystic Matter|mystic matter]] are *more* susceptible to the effects of pestilence, and areas with a very *high* density of mystic matter are *less* susceptible to the effects of pestilence.  
+Areas with a very *low* density of [mystic matter](./Mystic%20Matter) are *more* susceptible to the effects of pestilence, and areas with a very *high* density of mystic matter are *less* susceptible to the effects of pestilence.  
   
-[[Florian]] has dedicated himself almost entirely to the study of pestilence, and is the foremost authority on its nature. His goal is to eradicate it and defeat death once and for all.  
+[Florian](../../Characters/Incarnations%20&%20Gods/Florian) has dedicated himself almost entirely to the study of pestilence, and is the foremost authority on its nature. His goal is to eradicate it and defeat death once and for all.  
   
 ## Deathlessness  
   

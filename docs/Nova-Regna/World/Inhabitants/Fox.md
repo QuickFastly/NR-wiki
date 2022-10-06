@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -46,7 +46,7 @@ comments: true
   </table>  
 </div>  
   
-Fox [Spirits](./Spirits) are a type of major spirit, and make up less than half of one percent of all spirits on [Earth](../Map/Earth). They have existed since [Era Dira](../History%20&%20Events/Era%20Dira).  
+Fox [[./Spirits|Spirits]] are a type of major spirit, and make up less than half of one percent of all spirits on [[../Map/Earth|Earth]]. They have existed since [[../History & Events/Era Dira|Era Dira]].  
   
 ## History  
   
@@ -54,13 +54,13 @@ Nothing for now.
   
 ### Myths and legends  
   
-Throughout history, fox spirits have believed a unique version of the common [creation myth](../History%20&%20Events/Creation%20myths). In their version, the world was purged at the end of Era Dira and rebuilt by [Kerosyn](../../Characters/Incarnations%20&%20Gods/Kerosyn), no other god. Fox spirits were the only ones to believe this until the publication of [The Account](../History%20&%20Events/The%20Account), which they then accepted as a correction of their version.  
+Throughout history, fox spirits have believed a unique version of the common [[../History & Events/Creation myths|creation myth]]. In their version, the world was purged at the end of Era Dira and rebuilt by [[../../Characters/Incarnations & Gods/Kerosyn|Kerosyn]], no other god. Fox spirits were the only ones to believe this until the publication of [[../History & Events/The Account|The Account]], which they then accepted as a correction of their version.  
   
-A common legend told by [cat spirits](./Cat) involves fox spirits. It is said that in ancient times, fox spirits taught [humans](./Human) how to manipulate [mystic matter](../Concepts/Mystic%20Matter), then unleashed a horde of house cats on the humans, distracting them and causing the accidental creation of cat spirits.  
+A common legend told by [[./Cat|cat spirits]] involves fox spirits. It is said that in ancient times, fox spirits taught [[./Human|humans]] how to manipulate [[../Concepts/Mystic Matter|mystic matter]], then unleashed a horde of house cats on the humans, distracting them and causing the accidental creation of cat spirits.  
   
 ## Anatomy & physiology  
   
-All fox spirits inherently have [Alignment](../Concepts/Alignment) and [Attunement](../Concepts/Attunement).  
+All fox spirits inherently have [[../Concepts/Alignment|Alignment]] and [[../Concepts/Attunement|Attunement]].  
   
 Fox spirits all possess animal ears and at least one tail. Rarely, they may also possess claws that may or may not be retractable, or fur anywhere on the body, the amount, density, and location of which varies wildly. In extremely rare cases, they can even possess digitigrade feet. Their fur, where present, becomes thicker in the winter and may change color depending on their region. All of these rare features seem to be hereditary.  
   
@@ -84,7 +84,7 @@ Fox spirits undergo a physical change every century after their first. Most comm
   
 Fox spirits have no preference for climate or terrain, and can be found anywhere in the world. With their tiny population, they are an incredibly rare sight.  
   
-Statistically, they are most likely to be seen in [Alastor](../Map/Alastor/Alastor), but even there they remain a rare sight. The only known surviving multi-generational settlement of fox spirits in the world is located there with a population of 193.  
+Statistically, they are most likely to be seen in [[../Map/Alastor/Alastor|Alastor]], but even there they remain a rare sight. The only known surviving multi-generational settlement of fox spirits in the world is located there with a population of 193.  
   
 ## Sociology  
   

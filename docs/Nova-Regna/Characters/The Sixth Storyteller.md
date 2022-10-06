@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../assets/img/Storyteller%20portrait.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../assets/img/Storyteller portrait.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -99,19 +99,19 @@ comments: true
   </table>  
 </div>  
   
-The Sixth Storyteller is the current Storyteller of the [Children of the Flame](../World/Organizations/Religions%20&%20Cults/Children%20of%20the%20Flame). His real name is not known, nor his origins or even appearance. The only part of his body that is ever visible is his hair. His true age is also not known, only that he is over 473, since he became Storyteller in the year 1560. Being effectively nameless, he allows others to call him by the name "Six" outside of formal or official settings.  
+The Sixth Storyteller is the current Storyteller of the [[../World/Organizations/Religions & Cults/Children of the Flame|Children of the Flame]]. His real name is not known, nor his origins or even appearance. The only part of his body that is ever visible is his hair. His true age is also not known, only that he is over 473, since he became Storyteller in the year 1560. Being effectively nameless, he allows others to call him by the name "Six" outside of formal or official settings.  
   
 ## Physical description  
   
 Due to the fact that the only part of his body ever seen is his hair, and that he is always seen wearing heavy clothing no matter the weather or temperature, the only description of his appearance that can be given is that he has very long and wiry brown hair, is slightly above average height for a human, and appears to be of an average build. He is severely underweight, but that is hidden well by his clothing.  
   
-While he does not display any obvious signs of being a [spirit](../World/Inhabitants/Spirits) and appears to be relatively average size for a human, nobody knows for certain whether or not he truly is human.  
+While he does not display any obvious signs of being a [[../World/Inhabitants/Spirits|spirit]] and appears to be relatively average size for a human, nobody knows for certain whether or not he truly is human.  
   
 He wears a black cap with his hair threaded through its back, a black neck gaiter, hugely oversized mirror glasses, black formal gloves, a thick gray long sleeved shirt, a heavy green jacket with a high collar, heavy blue jeans, and gray slip-on shoes. He uses a black wooden cane with a carved handle to walk.  
   
 ## Special abilities  
   
-Six is [Deathless](Pestilence#Deathlessness), and is the reason that anyone in the general public is aware of such a concept. He has said that death is not natural, it is a curse, and that for an incredible cost, the curse can be broken. Nobody knows how he became deathless, or what his "incredible cost" was, however. His existence is of great interest to governments and scientists around the world, but his power within the Children of the Flame allows him to keep their meddling at bay, keeping his secret safe.  
+Six is [[Pestilence#Deathlessness|Deathless]], and is the reason that anyone in the general public is aware of such a concept. He has said that death is not natural, it is a curse, and that for an incredible cost, the curse can be broken. Nobody knows how he became deathless, or what his "incredible cost" was, however. His existence is of great interest to governments and scientists around the world, but his power within the Children of the Flame allows him to keep their meddling at bay, keeping his secret safe.  
   
 ## Personality  
   
@@ -121,13 +121,13 @@ Beyond the empty outward appearance, he has shown two main traits. An insatiable
   
 ## Relationships  
   
-The only people close to him are [Leon Van Wolfe](./Leon%20Van%20Wolfe), his advisor, and [Mae Seraphine Walker](./Mae%20Seraphine%20Walker), his right hand. He places great trust in them and allows them to know more about himself and his knowledge than anyone else, but still hides much from them. They are the only ones to have seen any of his body, for instance, but even they don't know where he was born, how old he truly is, or if he is even human.  
+The only people close to him are [[./Leon Van Wolfe|Leon Van Wolfe]], his advisor, and [[./Mae Seraphine Walker|Mae Seraphine Walker]], his right hand. He places great trust in them and allows them to know more about himself and his knowledge than anyone else, but still hides much from them. They are the only ones to have seen any of his body, for instance, but even they don't know where he was born, how old he truly is, or if he is even human.  
   
-He is also acquainted with [Kerosyn](./Incarnations%20&%20Gods/Kerosyn), [Freya](./Incarnations%20&%20Gods/Freya), and [Florian](./Incarnations%20&%20Gods/Florian). He regularly makes contact with them to keep them informed about the state of the organization and his plans, but despite the fact that they are gods to him, he respects the wishes of Kerosyn and Freya to be treated as equals and to keep them out of the spotlight. With Florian, however, he is in frequent contact as they assist each other with their research.  
+He is also acquainted with [[./Incarnations & Gods/Kerosyn|Kerosyn]], [[./Incarnations & Gods/Freya|Freya]], and [[./Incarnations & Gods/Florian|Florian]]. He regularly makes contact with them to keep them informed about the state of the organization and his plans, but despite the fact that they are gods to him, he respects the wishes of Kerosyn and Freya to be treated as equals and to keep them out of the spotlight. With Florian, however, he is in frequent contact as they assist each other with their research.  
   
 ## History  
   
-He wrote [The Account](../World/History%20&%20Events/The%20Account) over 200 years ago.  
+He wrote [[../World/History & Events/The Account|The Account]] over 200 years ago.  
   
 When he became Storyteller in 1560, a huge number of ranking individuals across all four branches of the Children of the Flame disappeared overnight, seemingly without a trace. He has never spoken of this event, but in recent times after deeper study of historical records, some theorize that Six had actually usurped control of the faith and disposed of those who opposed somehow. He has never responded to this theory, nor have any of those studying the history been met with any kind of resistance.  
   

@@ -1,8 +1,5 @@
 ---  
 share: true  
-comments: false  
-hide:  
-    - footer  
 ---  
 ## Guidelines  
   

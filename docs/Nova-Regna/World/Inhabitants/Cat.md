@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -46,7 +46,7 @@ comments: true
   </table>  
 </div>  
   
-Cat [spirits](./Spirits) are a type of major spirit, and make up over 43% of all spirits on [Earth](../Map/Earth). They have existed since [Era Dira](../History%20&%20Events/Era%20Dira).  
+Cat [[./Spirits|spirits]] are a type of major spirit, and make up over 43% of all spirits on [[../Map/Earth|Earth]]. They have existed since [[../History & Events/Era Dira|Era Dira]].  
   
 ## History  
   
@@ -54,11 +54,11 @@ Nothing for now.
   
 ### Myths and legends  
   
-A common legend shared by cat spirits is that they were created by [humans](./Human), not by gods. In ancient times, when humans were first learning to manipulate [mystic matter](../Concepts/Mystic%20Matter) under the guidance of the [fox spirits](./Fox), they began to thirst for power. The foxes did not like that, so they quietly plotted to humble the humans. One day, when a group of humans were attempting to imbue themselves with greater power, the foxes unleashed a horde of house cats on the humans, distracting them and causing them to combine themselves with the cats on accident. This story is mainly shared as a comedy, but is still believed to be true by some.  
+A common legend shared by cat spirits is that they were created by [[./Human|humans]], not by gods. In ancient times, when humans were first learning to manipulate [[../Concepts/Mystic Matter|mystic matter]] under the guidance of the [[./Fox|fox spirits]], they began to thirst for power. The foxes did not like that, so they quietly plotted to humble the humans. One day, when a group of humans were attempting to imbue themselves with greater power, the foxes unleashed a horde of house cats on the humans, distracting them and causing them to combine themselves with the cats on accident. This story is mainly shared as a comedy, but is still believed to be true by some.  
   
 ## Anatomy & physiology  
   
-Cat spirits all possess at least one tail, but may possess a maximum of two in extremely rare cases. Most, but not all, also possess animal ears. Rarely, they may possess vertical slit pupils, pronounced fangs, or a rough textured tongue. It is believed by many that the more cat-like the person is, the stronger their [Attunement](../Concepts/Attunement) may be, if present.  
+Cat spirits all possess at least one tail, but may possess a maximum of two in extremely rare cases. Most, but not all, also possess animal ears. Rarely, they may possess vertical slit pupils, pronounced fangs, or a rough textured tongue. It is believed by many that the more cat-like the person is, the stronger their [[../Concepts/Attunement|Attunement]] may be, if present.  
   
 Their eyes are adapted to see in the dark, requiring approximately one sixth the amount of light that humans need to see clearly. Those with human ears have hearing abilities noticeably higher than the average human, while those with animal ears have greatly enhanced hearing compared to those without. Their sense of smell is also noticeably above average.  
   
@@ -74,7 +74,7 @@ Cat spirits grow at the same rate as humans until the age of 30 years, after whi
   
 Cat spirits are by far the largest group among spirits and are found all around the world, living happily alongside humans. Their preferences for climate and geography are typically the same as humans.  
   
-They are also a very common sight throughout [Alastor](../Map/Alastor/Alastor).  
+They are also a very common sight throughout [[../Map/Alastor/Alastor|Alastor]].  
   
 ## Sociology  
   
@@ -86,13 +86,13 @@ Some cat spirits have more cat-like traits than others, such as a particular att
   
 ### Interracial relations  
   
-They typically view all races of people as equals, but none can deny that they tend to pick on or even bully [mouse spirits](./Mouse) more than they should. They also don't care to admit their unusual discomfort around [chameleon spirits](./Chameleon) and reptiles.  
+They typically view all races of people as equals, but none can deny that they tend to pick on or even bully [[./Mouse|mouse spirits]] more than they should. They also don't care to admit their unusual discomfort around [[./Chameleon|chameleon spirits]] and reptiles.  
   
 They tend to receive the best treatment from humans compared to other spirits.  
   
 ## See also  
   
-[Freya](../../Characters/Incarnations%20&%20Gods/Freya)  
+[[../../Characters/Incarnations & Gods/Freya|Freya]]  
   
 -----  
 > [!cite] Author info  

@@ -4,7 +4,7 @@ comments: true
 ---  
 As part of the global peace initiative that began in 19XX, the Non-Proliferation of Civilian Firearms and Projectile Weapons Treaty, commonly abbreviated as NPCF, was proposed as an important step for the initiative.  
   
-The intention of the treaty was to ban or strictly regulate civilian access to dangerous weapons to reduce the frequency and severity of violent crime around the world. Every country except [[Destrea]] agreed to the treaty.  
+The intention of the treaty was to ban or strictly regulate civilian access to dangerous weapons to reduce the frequency and severity of violent crime around the world. Every country except [Destrea](../Map/Destrea/Destrea) agreed to the treaty.  
   
 ### Clauses  
   
@@ -18,7 +18,7 @@ Also defined in the document are classifications for non-projectile weapons. Cat
   
 ### Enforcement  
   
-Civilians found to be in unlawful possession of Category 2 Weapons are to be faced with a minimum fine of 500,000 [[Credit (currency)|CR]] or equivalent in local currency, or up to a maximum of 30% of their annual income, AND a minimum of one year jail time, or up to five years if they cannot afford the fine.  
+Civilians found to be in unlawful possession of Category 2 Weapons are to be faced with a minimum fine of 500,000 [CR](Credit%20(currency)) or equivalent in local currency, or up to a maximum of 30% of their annual income, AND a minimum of one year jail time, or up to five years if they cannot afford the fine.  
   
 Civilians found to be in unlawful possession of Category 1 Weapons are to be faced with a minimum fine of 2,000,000 CR or equivalent in local currency, or up to a maximum of 65% of their annual income, AND a minimum of five years jail time, or up to thirty years if they cannot afford the fine.  
   
@@ -28,7 +28,7 @@ While it is not specified in the treaty, some countries also restrict concealmen
   
 ### Public reception  
   
-Public reception was largely positive when this treaty was proposed, notable exceptions being Destrea, who fully opposed the treaty and refused to sign, and both [[Grenneria]] and [[Ustonia]], citing high border tensions with Destrea as a concern, though they ultimately did sign.  
+Public reception was largely positive when this treaty was proposed, notable exceptions being Destrea, who fully opposed the treaty and refused to sign, and both [Grenneria](../Map/Grenneria/Grenneria) and [Ustonia](../Map/Ustonia/Ustonia), citing high border tensions with Destrea as a concern, though they ultimately did sign.  
   
 As the legal proceedings carried on, it was also made public that the proposal included total restriction of non-projectile weapons, which led to public outcry in many countries and caused these restrictions to be heavily relaxed.  
   

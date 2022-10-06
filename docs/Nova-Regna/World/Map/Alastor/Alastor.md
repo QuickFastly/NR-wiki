@@ -9,9 +9,9 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Alastor%20flag.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../../assets/img/Alastor flag.png|250]]</span>  
     
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Alastor%20(Region).jpg)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Alastor (Region).jpg|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -84,13 +84,13 @@ comments: true
   </table>  
 </div>  
   
-Alastor, officially known as the Commonwealth of the Alastor Isles, is a very small island country on the southern edge of the continent of [Ozen](../Ozen). Its capital, [Alexandria](Alexandria), is the central major island of the country. It is neighbored by [Osun Tanum](../Osun%20Tanum/Osun%20Tanum), [Destrea](../Destrea/Destrea), and [Ustonia](../Ustonia/Ustonia).  
+Alastor, officially known as the Commonwealth of the Alastor Isles, is a very small island country on the southern edge of the continent of [[../Ozen|Ozen]]. Its capital, [[Alexandria]], is the central major island of the country. It is neighbored by [[../Osun Tanum/Osun Tanum|Osun Tanum]], [[../Destrea/Destrea|Destrea]], and [[../Ustonia/Ustonia|Ustonia]].  
   
 Alastor is a lightly developed country with the world's smallest population while also having a very high population density, a very weak economy, no industrial sector, and no established military force. They maintain strict diplomatic neutrality towards all things that do not pose a threat to the country, its people, or their way of life.  
   
-They have openly expressed their desire to become part of the [Ozen Federation](../../Organizations/Ozen%20Federation) as their support would prove invaluable to the nation, but remain part of the [Yulentia Trade Union](../../Organizations/Yulentia%20Trade%20Union) under the massive weight of Destrean and Ustonian influence. Despite this, Osun Tanum has negotiated numerous trade deals exclusively with Alastor independent of the Union or Federation.  
+They have openly expressed their desire to become part of the [[../../Organizations/Ozen Federation|Ozen Federation]] as their support would prove invaluable to the nation, but remain part of the [[../../Organizations/Yulentia Trade Union|Yulentia Trade Union]] under the massive weight of Destrean and Ustonian influence. Despite this, Osun Tanum has negotiated numerous trade deals exclusively with Alastor independent of the Union or Federation.  
   
-The nation carries incredible notoriety around the world for being populated almost exclusively by [spirits](../../Inhabitants/Spirits) and their extreme reluctance to allow humans inside their borders. Perhaps the most infamous aspect of this reputation comes from when the [Risky Witches](../../Organizations/Risky%20Witches) swore to protect the nation and its people from all hostilities during [The Big Event](../../History%20&%20Events/The%20Big%20Event) in 1991.  
+The nation carries incredible notoriety around the world for being populated almost exclusively by [[../../Inhabitants/Spirits|spirits]] and their extreme reluctance to allow humans inside their borders. Perhaps the most infamous aspect of this reputation comes from when the [[../../Organizations/Risky Witches|Risky Witches]] swore to protect the nation and its people from all hostilities during [[../../History & Events/The Big Event|The Big Event]] in 1991.  
   
 ## History  
   
@@ -98,7 +98,7 @@ TBD
   
 ## Geography  
   
-Alastor encompasses an archipelago primarily comprised of three large islands, each with their own very distinct topography and climate. The eastern island, [Panacea](Panacea), is home to a dense, thriving temperate rainforest, and is a sanctuary for many endangered species of fauna. The central island, [Alexandria](Alexandria), is a fairly unexceptional temperate seasonal forest region. The western island, [Electra](Electra), is home to cold desert with almost no natural plant or animal life to be found. The extraordinary states of the eastern and western islands is known to be caused by [mystic matter](../../Concepts/Mystic%20Matter) density, but exactly how or why this happened remains a mystery.  
+Alastor encompasses an archipelago primarily comprised of three large islands, each with their own very distinct topography and climate. The eastern island, [[Panacea]], is home to a dense, thriving temperate rainforest, and is a sanctuary for many endangered species of fauna. The central island, [[Alexandria]], is a fairly unexceptional temperate seasonal forest region. The western island, [[Electra]], is home to cold desert with almost no natural plant or animal life to be found. The extraordinary states of the eastern and western islands is known to be caused by [[../../Concepts/Mystic Matter|mystic matter]] density, but exactly how or why this happened remains a mystery.  
   
 ## Government & Politics  
   
@@ -114,7 +114,7 @@ There is no standing military force in Alastor. The full extent of their militar
   
 ### Foreign relations  
   
-![Political relations chart (Alastor).svg](Political%20relations%20chart%20(Alastor).svg)  
+![[Political relations chart (Alastor).svg]]  
   
 ## Economy  
   
@@ -139,7 +139,7 @@ Some primary exports of Alastor are low volume skilled crafts, arts and entertai
   
 ## Demographics  
   
-Alastor, being populated almost exclusively by spirits, is of course the most welcoming towards them by far as the entire country is based around and run by them. In fact, while many other countries struggle with discrimination against spirits, Alastor struggles with discrimination against [humans](../../Inhabitants/Human), as they are seen by many in the country as their natural enemy, and not everyone can move past that prejudice even if the human in question manages to fully integrate into Alastoran society and proves to be an ally.  
+Alastor, being populated almost exclusively by spirits, is of course the most welcoming towards them by far as the entire country is based around and run by them. In fact, while many other countries struggle with discrimination against spirits, Alastor struggles with discrimination against [[../../Inhabitants/Human|humans]], as they are seen by many in the country as their natural enemy, and not everyone can move past that prejudice even if the human in question manages to fully integrate into Alastoran society and proves to be an ally.  
   
 Population data according to Alastor foreign relations: ~99% Spirits  
 - Cat: ~23%  
@@ -165,7 +165,7 @@ The Alastoran educational system produces very poor results in international tes
   
 Healthcare in Alastor is entirely public and provided to all patients free of charge, funded entirely by taxes and donations. As a result, insurance is not a concept in Alastor, nor are patients even required to prove citizenship to receive care.  
   
-Due to the small size of the country and its economy, access to equipment and pharmaceuticals is limited, but Alastoran doctors and surgeons receive some of the best training in the world despite that. Alastor is also the only country in the world currently utilizing [Attunement](../../Concepts/Attunement) in medical practice.  
+Due to the small size of the country and its economy, access to equipment and pharmaceuticals is limited, but Alastoran doctors and surgeons receive some of the best training in the world despite that. Alastor is also the only country in the world currently utilizing [[../../Concepts/Attunement|Attunement]] in medical practice.  
   
 The overall health of Alastoran citizens is above average.  
   
@@ -175,7 +175,7 @@ TBD
   
 ## See also  
   
-[World military balance](../../../_meta/World%20military%20balance) (Meta)  
+[[../../../_meta/World military balance|World military balance]] (Meta)  
   
 -----  
 > [!cite] Author info  

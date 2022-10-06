@@ -9,9 +9,9 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Ustonia flag.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Ustonia%20flag.png)</span>  
     
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Ustonia (Region).jpg|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Ustonia%20(Region).jpg)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -84,18 +84,18 @@ comments: true
   </table>  
 </div>  
   
-Ustonia, officially known as the Federated States of Ustonia, or more commonly the FSU, is an expansive country and international superpower located on the continent of [[Yulentia]], encompassing its entire western half. Its capital, [[Northfair]], is located near the west coast in the northwestern state of [[Arkbay]]. It is bordered by [[Destrea]] to the east and [[Osun Tanum]] to the north, also closely neighbored by [[Alastor]] to the northeast.  
+Ustonia, officially known as the Federated States of Ustonia, or more commonly the FSU, is an expansive country and international superpower located on the continent of [Yulentia](../Yulentia), encompassing its entire western half. Its capital, [Northfair](Northfair), is located near the west coast in the northwestern state of [Arkbay](Arkbay). It is bordered by [Destrea](../Destrea/Destrea) to the east and [Osun Tanum](../Osun%20Tanum/Osun%20Tanum) to the north, also closely neighbored by [Alastor](../Alastor/Alastor) to the northeast.  
 %% Northfair coordinates: La. 5°58' Lo. -2°3' (?) %%  
   
 Ustonia is a highly developed country with the world's largest population, a thriving semi-industrial economy, and an incredibly well-outfitted military thought to be elite in all aspects. Ustonia is also considered one of the world leaders in engineering, as well as military development, production, and training, and enjoys sweeping success in exporting these goods and services in particular.  
   
-Ustonia held aggressive expansionist ideologies for a time and annexed many territories, most notably including a significant portion of Osun Tanum. Many wars were caused as a direct result of Ustonia's aggressive nature, eventually leading the people to grow weary and adopt a much more peaceful ideology through the [[Mistletoe Revolution]] of 1972, rescinding most of their annexations in the process. The only annexed areas from this time that have not been rescinded are [[Isla Sofia]], [[West Vastdal]], and [[South Macdon]].  
+Ustonia held aggressive expansionist ideologies for a time and annexed many territories, most notably including a significant portion of Osun Tanum. Many wars were caused as a direct result of Ustonia's aggressive nature, eventually leading the people to grow weary and adopt a much more peaceful ideology through the [Mistletoe Revolution](../../History%20&%20Events/Mistletoe%20Revolution) of 1972, rescinding most of their annexations in the process. The only annexed areas from this time that have not been rescinded are [Isla Sofia](Isla%20Sofia), [West Vastdal](West%20Vastdal), and [South Macdon](South%20Macdon).  
   
 ## History  
   
-Ustonia is the second youngest new nation in the world, being less than 400 years old as we know it, even before its formation. The overwhelming majority of the Ustonian population today is of Exilan descent, but the entire continent of Yulentia was populated almost exclusively by the Cirazan peoples prior to the settling of three colonies from nations in [[Ozen]]; With the assistance of the people of [[Torstrøm]] to navigate the sea, the colony of [[Roxware]] was settled by people of [[Manden]], the colony of [[Centralia]] was settled by people of [[Hartmond]], and the colony of [[Gravenwood]] was settled by people of [[Osterfeld]]. The people of Torstrøm spoke only in their native language for all three of the long voyages - from planning to landfall - despite the vital importance of effective communication with the crew and settlers, which led to the [[Exilan]] settlers adoption of their language.  
+Ustonia is the second youngest new nation in the world, being less than 400 years old as we know it, even before its formation. The overwhelming majority of the Ustonian population today is of Exilan descent, but the entire continent of Yulentia was populated almost exclusively by the Cirazan peoples prior to the settling of three colonies from nations in [Ozen](../Ozen); With the assistance of the people of [Torstrøm](Torstr%C3%B8m) to navigate the sea, the colony of [Roxware](Roxware) was settled by people of [Manden](Manden), the colony of [Centralia](Centralia) was settled by people of [Hartmond](Hartmond), and the colony of [Gravenwood](Gravenwood) was settled by people of [Osterfeld](Osterfeld). The people of Torstrøm spoke only in their native language for all three of the long voyages - from planning to landfall - despite the vital importance of effective communication with the crew and settlers, which led to the [Exilan](../../Cultures%20&%20Ethnicities/Exilan/Exilan) settlers adoption of their language.  
   
-In 1973, the states of [[Prestona]] and [[Verace]] defected from Destrea and declared to the world that they would become part of Ustonia instead. Ustonia, while they did not know of this in advance, shocked the world by immediately annexing the states in response and stationing an overwhelming military force along their borders to deter Destrean aggression. This action is still a subject of heated debate around the world, and was even used by Destrea to justify the [[Reclamation War]], but is generally believed to have been an acceptable action.  
+In 1973, the states of [Prestona](Prestona) and [Verace](Verace) defected from Destrea and declared to the world that they would become part of Ustonia instead. Ustonia, while they did not know of this in advance, shocked the world by immediately annexing the states in response and stationing an overwhelming military force along their borders to deter Destrean aggression. This action is still a subject of heated debate around the world, and was even used by Destrea to justify the [Reclamation War](../../History%20&%20Events/Reclamation%20War), but is generally believed to have been an acceptable action.  
   
 ## Geography  
   
@@ -108,25 +108,25 @@ Ustonia is a democratic federal republic, spearheaded by an executive branch led
 ### Administrative divisions  
   
 The country is divided into 19 states, each with their own state government overseen by an elected governor with some degree of autonomy under the federal government, most with their own unique cultural views that influence their legislation. These states are as follows.  
-- [[Aldbell]]  
-- [[Alraine]]  
-- [[Arkbay]]  
-- [[Buxwin]]  
-- [[Corburn]]  
-- [[Exford]]  
-- [[Isla Sofia]]  
-- [[Lonfolk]]  
-- [[Morwick]]  
-- [[Norston]]  
-- [[Orness]]  
-- [[Oxbalt]]  
-- [[Prestona]]  
-- [[South Macdon]]  
-- [[Stonesea]]  
-- [[Talles]]  
-- [[Venfair]]  
-- [[Verace]]  
-- [[West Vastdal]]  
+- [Aldbell](Aldbell)  
+- [Alraine](Alraine)  
+- [Arkbay](Arkbay)  
+- [Buxwin](Buxwin)  
+- [Corburn](Corburn)  
+- [Exford](Exford)  
+- [Isla Sofia](Isla%20Sofia)  
+- [Lonfolk](Lonfolk)  
+- [Morwick](Morwick)  
+- [Norston](Norston)  
+- [Orness](Orness)  
+- [Oxbalt](Oxbalt)  
+- [Prestona](Prestona)  
+- [South Macdon](South%20Macdon)  
+- [Stonesea](Stonesea)  
+- [Talles](Talles)  
+- [Venfair](Venfair)  
+- [Verace](Verace)  
+- [West Vastdal](West%20Vastdal)  
   
 ### Military  
   
@@ -134,11 +134,11 @@ The Ustonian military is divided into six primary branches, being the Army, Navy
   
 ### Foreign relations  
   
-![[Political relations chart (Ustonia).svg]]  
+![Political relations chart (Ustonia).svg](Political%20relations%20chart%20(Ustonia).svg)  
   
 ## Economy  
   
-The Ustonian economy is worth 1.98 quadrillion [[Credit (currency)|CR]] per year with an expenditure of 17.3%, which is distributed as follows.  
+The Ustonian economy is worth 1.98 quadrillion [CR](Credit%20(currency)) per year with an expenditure of 17.3%, which is distributed as follows.  
 - Administration: 12.5%  
 - Defense: 30.1%  
 - Education & Science: 6.3%  
@@ -160,7 +160,7 @@ Some primary exports of Ustonia are military equipment and training, plastics, a
   
 ## Demographics  
   
-The official stance the Ustonian government holds on [[Spirits|spirits]] is one of welcoming and acceptance, but in practice things don't quite match up. While spirits aren't legally oppressed in Ustonia, they still face serious systemic and societal discrimination in day to day life, and often have to work several times as hard as most humans to maintain a positive reputation, good grades, career standing, and so on.  
+The official stance the Ustonian government holds on [spirits](../../Inhabitants/Spirits) is one of welcoming and acceptance, but in practice things don't quite match up. While spirits aren't legally oppressed in Ustonia, they still face serious systemic and societal discrimination in day to day life, and often have to work several times as hard as most humans to maintain a positive reputation, good grades, career standing, and so on.  
   
 Spirit population as of the 2030 census: 8,574,200  
 - Cat: 4,734,192  
@@ -199,7 +199,7 @@ TBD
   
 ## See also  
   
-[[World military balance]] (Meta)  
+[World military balance](../../../_meta/World%20military%20balance) (Meta)  
   
 -----  
 > [!cite] Author info  

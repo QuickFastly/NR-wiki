@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/Kerosyn%20portrait.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/Kerosyn portrait.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -104,13 +104,13 @@ comments: true
     </table>  
 </div>  
   
-<span style="font-size:smaller; float:right; clear:right; width:260px; margin:14 0 7 14;" >![kerosyn ref (rain).jpg](kerosyn%20ref%20(rain).jpg)<br>First Kerosyn reference - <i>Artist: <a href=https://twitter.com/RanqiLi>Rain</a></i></span>  
+<span style="font-size:smaller; float:right; clear:right; width:260px; margin:14 0 7 14;" >![[kerosyn ref (rain).jpg]]<br>First Kerosyn reference - <i>Artist: <a href=https://twitter.com/RanqiLi>Rain</a></i></span>  
   
-Kerosyn is a [fox spirit](../../World/Inhabitants/Fox) and one of the three immortal [Incarnations](../../World/Concepts/Incarnations). They are one of the three deities of the [Children of the Flame](../../World/Organizations/Religions%20&%20Cults/Children%20of%20the%20Flame), along with [Freya](./Freya) and [Florian](./Florian).  
+Kerosyn is a [[../../World/Inhabitants/Fox|fox spirit]] and one of the three immortal [[../../World/Concepts/Incarnations|Incarnations]]. They are one of the three deities of the [[../../World/Organizations/Religions & Cults/Children of the Flame|Children of the Flame]], along with [[./Freya|Freya]] and [[./Florian|Florian]].  
   
 ## Physical description  
   
-Kerosyn has a short, slim, androgynous build. They are largely featureless, something like a living silhouette. They have large fox ears, very pronounced fangs, four large tails, and digitigrade feet. Perhaps most immediately noticeable is their complete lack of eyes and eye sockets, with only the [Brand](The%20Brand%20(Children%20of%20the%20Flame).png) glowing bright red in their place.  
+Kerosyn has a short, slim, androgynous build. They are largely featureless, something like a living silhouette. They have large fox ears, very pronounced fangs, four large tails, and digitigrade feet. Perhaps most immediately noticeable is their complete lack of eyes and eye sockets, with only the [[The Brand (Children of the Flame).png|Brand]] glowing bright red in their place.  
   
 Their body is primarily made of white flames, which is most apparent by looking at their ears, "hair", or tails. These flames grow and shrink in size, become brighter and dimmer, and "burn" at different speeds depending on their mood. Small wisps of the same white flames are also kicked up where they step. None of these flames burn things, and are cool to the touch. Despite being made of flame, one can still touch Kerosyn and aside from the cold temperature, it would feel as you would expect as though it were skin and fur.  
   
@@ -126,7 +126,7 @@ Kerosyn may occasionally take off the jacket to suit certain situations, but is 
   
 ## Special abilities  
   
-Kerosyn wields [Attunement](../../World/Concepts/Attunement) to its fullest potential, able to do quite literally anything short of a feat of creation on his own, but when they, Freya, and Florian work together, they become seemingly omnipotent, capable of reality-altering feats of unknown magnitude. The three of them also seem to share some type of primitive telepathic link, which allows them to always know each other's location and to share strong feelings, but does not allow them to communicate directly. Finally, their [Alignment](../../World/Concepts/Alignment) gives them some kind of esoteric connection to the world. They may not be able to match their sister's perception skills, but their gut feelings are always pertinent and never wrong.   
+Kerosyn wields [[../../World/Concepts/Attunement|Attunement]] to its fullest potential, able to do quite literally anything short of a feat of creation on his own, but when they, Freya, and Florian work together, they become seemingly omnipotent, capable of reality-altering feats of unknown magnitude. The three of them also seem to share some type of primitive telepathic link, which allows them to always know each other's location and to share strong feelings, but does not allow them to communicate directly. Finally, their [[../../World/Concepts/Alignment|Alignment]] gives them some kind of esoteric connection to the world. They may not be able to match their sister's perception skills, but their gut feelings are always pertinent and never wrong.   
   
 Their power manifests primarily as fire, most notably by the fact that their entire body is a supernatural white fire, but can take any form. Unlike Freya and Florian, they don't really have a signature use of power, instead preferring to just do whatever they want with it, be it for entertainment, convenience, the benefit of others, or any other reason. They use their power far more liberally than their siblings, willing to perform miracles for others on a whim and completely oblivious to what others think of that. Also comes in handy when they burn their clothes to ashes for the thousandth time, because they can just materialize some new duds. The same power should actually help them prevent burning their clothes off in the first place, but let's just say they aren't perfect.   
   
@@ -181,11 +181,11 @@ The relationship between these three can sometimes appear more parental than tha
   
 ### Affiliations  
   
-Being one of the three deities of the Children of the Flame, Kerosyn is very strongly affiliated with them. They hate the attention though, and especially hate being worshiped, so they try very hard to avoid the organization and its members. The one exception to that is [The Sixth Storyteller](../The%20Sixth%20Storyteller), because he respects Kerosyn's wish to be treated as an equal, so he keeps Kerosyn informed and relays information from them back to the organization.  
+Being one of the three deities of the Children of the Flame, Kerosyn is very strongly affiliated with them. They hate the attention though, and especially hate being worshiped, so they try very hard to avoid the organization and its members. The one exception to that is [[../The Sixth Storyteller|The Sixth Storyteller]], because he respects Kerosyn's wish to be treated as an equal, so he keeps Kerosyn informed and relays information from them back to the organization.  
   
 ## History  
   
-Most of Kerosyn's history during [Era Dira](../../World/History%20&%20Events/Era%20Dira) is described in [The Account](../../World/History%20&%20Events/The%20Account).  
+Most of Kerosyn's history during [[../../World/History & Events/Era Dira|Era Dira]] is described in [[../../World/History & Events/The Account|The Account]].  
   
 ## Trivia  
   

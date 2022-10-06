@@ -1,6 +1,6 @@
 ---  
 share: true  
-comments: true  
+comments: false  
 hide:  
     - footer  
 ---  

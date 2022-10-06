@@ -9,9 +9,9 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Corstaea%20flag.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../../assets/img/Corstaea flag.png|250]]</span>  
     
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Corstaea%20(Region).jpg)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Corstaea (Region).jpg|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -84,7 +84,7 @@ comments: true
   </table>  
 </div>  
   
-Corstaea, officially known as the Democratic Federation of Corstaea, is a moderately sized country located on the western third of the continent of [Ozen](../Ozen), and is a member of the [Ozen Federation](../../Organizations/Ozen%20Federation). Its capital, [Østerlund](%C3%98sterlund), is located on the lower eastern coast of the country in the state of [Vallastad](Vallastad). It is bordered by [Grenneria](../Grenneria/Grenneria) and [Osun Tanum](../Osun%20Tanum/Osun%20Tanum).  
+Corstaea, officially known as the Democratic Federation of Corstaea, is a moderately sized country located on the western third of the continent of [[../Ozen|Ozen]], and is a member of the [[../../Organizations/Ozen Federation|Ozen Federation]]. Its capital, [[Østerlund]], is located on the lower eastern coast of the country in the state of [[Vallastad]]. It is bordered by [[../Grenneria/Grenneria|Grenneria]] and [[../Osun Tanum/Osun Tanum|Osun Tanum]].  
   
 Corstaea is a well developed country with a relatively large population, a reasonable post-industrial economy, and a moderately sized but highly specialized military. Corstaea is highly renowned for their naval prowess with numerous world-first records to their name, including being the first to sail, first to circumnavigate the globe, and first to construct an all-metal ship, as well as pioneering many naval technologies such as propeller drives, jet drives, submarines, and aircraft carriers. They are the foremost world leader in naval technology to this day.  
   
@@ -96,7 +96,7 @@ TBD
   
 ## Geography  
   
-Corstaea contains highly varied topography, from flatlands to extreme mountains, but is almost entirely boreal in climate, and is heavily forested in all areas that support it. [Himlavård](../../Places/Himlav%C3%A5rd) spans the entire eastern border of the country.  
+Corstaea contains highly varied topography, from flatlands to extreme mountains, but is almost entirely boreal in climate, and is heavily forested in all areas that support it. [[../../Places/Himlavård|Himlavård]] spans the entire eastern border of the country.  
   
 ## Government & Politics  
   
@@ -108,17 +108,17 @@ The Council is composed of seven seats with the Prime Minister reigning supreme.
   
 ### Administrative divisions  
   
-- [Affolstein](Affolstein)  
-- [Allenthal](Allenthal)  
-- [Carlow](Carlow)  
-- [Halstrand](Halstrand)  
-- [Hartmond](Hartmond)  
-- [Manden](Manden)  
-- [Sarrac](Sarrac)  
-- [Tolred](Tolred)  
-- [Torstrøm](Torstr%C3%B8m)  
-- [Vallastad](Vallastad)  
-- [Vinesse](Vinesse)  
+- [[Affolstein]]  
+- [[Allenthal]]  
+- [[Carlow]]  
+- [[Halstrand]]  
+- [[Hartmond]]  
+- [[Manden]]  
+- [[Sarrac]]  
+- [[Tolred]]  
+- [[Torstrøm]]  
+- [[Vallastad]]  
+- [[Vinesse]]  
   
 ### Military  
   
@@ -126,11 +126,11 @@ The Corstaean military is divided into five main branches, being the Army, Navy,
   
 ### Foreign relations  
   
-![Political relations chart (Corstaea).svg](Political%20relations%20chart%20(Corstaea).svg)  
+![[Political relations chart (Corstaea).svg]]  
   
 ## Economy  
   
-The Corstaean economy is worth 292.3 trillion [CR](Credit%20(currency)) per year with an expenditure of 47.3%, which is distributed as follows.  
+The Corstaean economy is worth 292.3 trillion [[Credit (currency)|CR]] per year with an expenditure of 47.3%, which is distributed as follows.  
 - Administration: 8.1%  
 - Defense: 6.8%  
 - Education & Science: 18.8%  
@@ -152,7 +152,7 @@ Some primary exports of Corstaea are cheese, energy technology, and skilled labo
   
 ## Demographics  
   
-Corstaea has the highest known total population of [spirits](../../Inhabitants/Spirits) in the world, with over 20,000,000 spirits of several varieties, though the overwhelming majority are wolves with the second most common variety being cats. Precise population information of spirits is not available as Corstaea does not record such information in their census anymore, as part of their aggressive initiative to allow spirits to fully integrate into their society and be free from discrimination. The initiative is showing signs of success as the country is the third most welcoming towards spirits in the world, but it has a ways to go.  
+Corstaea has the highest known total population of [[../../Inhabitants/Spirits|spirits]] in the world, with over 20,000,000 spirits of several varieties, though the overwhelming majority are wolves with the second most common variety being cats. Precise population information of spirits is not available as Corstaea does not record such information in their census anymore, as part of their aggressive initiative to allow spirits to fully integrate into their society and be free from discrimination. The initiative is showing signs of success as the country is the third most welcoming towards spirits in the world, but it has a ways to go.  
   
 ### Education  
   
@@ -176,7 +176,7 @@ TBD
   
 ## See also  
   
-[World military balance](../../../_meta/World%20military%20balance) (Meta)  
+[[../../../_meta/World military balance|World military balance]] (Meta)  
   
 -----  
 > [!cite] Author info  

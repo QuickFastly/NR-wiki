@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](hijiya%20logo%20(text).png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[hijiya logo (text).png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -47,9 +47,9 @@ comments: true
   </table>  
 </div>  
   
-The Hijiya Corporation is a family owned business headquartered in [Hijiya Tower](../../Places/Hijiya%20Tower), located in the city of [Hashiri](../../Map/Shinzen/CIty%20of%20Hashiri,%20Sumitori/Hashiri) in [Sumitori](Sumitori), [Shinzen](../../Map/Shinzen/Shinzen). It is well known for its groundbreaking innovations in several fields, most notably in energy generation with the invention of the [EVA Driver](../../Things/EVA%20Driver), a palm-sized device capable of powering a home with no fuel or byproducts, plus development of what are by far the world's most advanced artificial intelligence.  
+The Hijiya Corporation is a family owned business headquartered in [[../../Places/Hijiya Tower|Hijiya Tower]], located in the city of [[../../Map/Shinzen/CIty of Hashiri, Sumitori/Hashiri|Hashiri]] in [[Sumitori]], [[../../Map/Shinzen/Shinzen|Shinzen]]. It is well known for its groundbreaking innovations in several fields, most notably in energy generation with the invention of the [[../../Things/EVA Driver|EVA Driver]], a palm-sized device capable of powering a home with no fuel or byproducts, plus development of what are by far the world's most advanced artificial intelligence.  
   
-While Hijiya products are a rare sight in most of the world, they're everywhere in their home country of Shinzen, where the company is a national icon celebrated for not just it's work and products, but also for both its extensive humanitarian efforts and its staunch dedication to remaining independent, never outsourcing work or selling to foreign companies like [11K](./11K) and [Concordia](./Concordia). Among past, current, and prospective employees, the company is also renowned for its highly considerate people-first attitude, making it one of only a handful of corporations in Shinzen that are not victim to the rampant workaholism of the country.  
+While Hijiya products are a rare sight in most of the world, they're everywhere in their home country of Shinzen, where the company is a national icon celebrated for not just it's work and products, but also for both its extensive humanitarian efforts and its staunch dedication to remaining independent, never outsourcing work or selling to foreign companies like [[./11K|11K]] and [[./Concordia|Concordia]]. Among past, current, and prospective employees, the company is also renowned for its highly considerate people-first attitude, making it one of only a handful of corporations in Shinzen that are not victim to the rampant workaholism of the country.  
   
 ## Assets  
   
@@ -57,7 +57,7 @@ Known primarily for their EVA Drivers, Hijiya naturally owns a significant porti
   
 While their total revenue is still massive, their profits are so minuscule that there is a quite significant risk of taking losses significant to require making further cuts to avoid bankruptcy if they meet too difficult of competition. In an attempt to mitigate that risk while also working back to their former glory, Hijiya has begun to diversify into new fields, most notably in finance, and also rents out most of its defunct office space.  
   
-One unexpected venture for Hijiya, though, was their contract with a virtual idol group in Shinzen. Their prototype android, [K-17 T0](../../../Characters/K-17%20T0), was scouted by the idol group during one of its video game livestreams, a form of media that had seen explosive growth in Shinzen that various idol groups capitalized on. K-17 T0's live streams from then on became a surprisingly significant source of not only revenue, but positive public reception and interest for the company, becoming the unofficial face of Hijiya among virtual idol fans.  
+One unexpected venture for Hijiya, though, was their contract with a virtual idol group in Shinzen. Their prototype android, [[../../../Characters/K-17 T0|K-17 T0]], was scouted by the idol group during one of its video game livestreams, a form of media that had seen explosive growth in Shinzen that various idol groups capitalized on. K-17 T0's live streams from then on became a surprisingly significant source of not only revenue, but positive public reception and interest for the company, becoming the unofficial face of Hijiya among virtual idol fans.  
   
 Company activity by revenue share:  
 1. Artificial Intelligence - 22.2%  
@@ -96,11 +96,11 @@ Company activity by revenue share:
   
 ## History  
   
-Originally founded by [Harutaka Hijiya](../../../Characters/Harutaka%20Hijiya) as a simple household appliance manufacturer to provide for the family, his son, [Kaede Hijiya](../../../Characters/Kaede%20Hijiya), showed great ambition and desire to work towards them, so it wasn't long before ownership of the company was passed down to him.  
+Originally founded by [[../../../Characters/Harutaka Hijiya|Harutaka Hijiya]] as a simple household appliance manufacturer to provide for the family, his son, [[../../../Characters/Kaede Hijiya|Kaede Hijiya]], showed great ambition and desire to work towards them, so it wasn't long before ownership of the company was passed down to him.  
   
 Kaede quickly revolutionized the company by establishing a technological research division, where he spent most of his time, and branching out into the energy and electronics fields. The company board had full confidence in Kaede's ability to manage the company despite his rare appearances at meetings, evidenced by the rapid growth of the company and his impeccable foresight.  
   
-When he later married a woman named [Hana](../../../Characters/Hana%20Hijiya) and immediately gave her the position of chairman of the board, suspicions began to arise as his appearances became even less frequent, and even she regularly failed to appear for meetings. Only stressing matters further, for a few years, nearly all company profit was directed to the research division, the work of which was kept strictly secret to all but the people working in it.  
+When he later married a woman named [[../../../Characters/Hana Hijiya|Hana]] and immediately gave her the position of chairman of the board, suspicions began to arise as his appearances became even less frequent, and even she regularly failed to appear for meetings. Only stressing matters further, for a few years, nearly all company profit was directed to the research division, the work of which was kept strictly secret to all but the people working in it.  
   
 All suspicions and concerns were immediately dispelled in 1998 when both Kaede and Hana interrupted a meeting with the fruits of their labor: The EVA Driver prototype. After several demonstrations within the company, the technology was prepared for production and a dedicated department was formed in the energy division to further develop, manufacture, and maintain these devices.  
   
@@ -110,9 +110,9 @@ With their laser focus, the company became the world leader in almost everything
   
 As the company continued to branch out, it also continued to struggle with its performance in the international market, as they were stuck behind an unbreakable international perception of the Hijiya Corporation as "the company that made the EVA Driver" and couldn't bring enough awareness to their other products, even as they continued to push the boundaries of science.  
   
-That was ultimately their downfall, when in 2016, the Hijiya family was involved in a lethal plane crash in a private plane made by their company, which was powered by an experimental EVA Driver. The only survivor of the crash was their five year old daughter [Nozomi](../../../Characters/RD&PZ/Nozomi%20Hijiya), though she was permanently crippled.  
+That was ultimately their downfall, when in 2016, the Hijiya family was involved in a lethal plane crash in a private plane made by their company, which was powered by an experimental EVA Driver. The only survivor of the crash was their five year old daughter [[../../../Characters/RD&PZ/Nozomi Hijiya|Nozomi]], though she was permanently crippled.  
   
-News of this incident quickly became global news, and the company reputation tanked all around the world, devastating the company as their international market virtually dissolved within a week. However, their standing in Shinzen was largely unaffected, even slightly improved, as by this point the company had become a celebrated and treasured national icon. As the country mourned the loss of Kaede and Hana Hijiya, the company devoted itself almost entirely to developing far more advanced safety protocols for all EVA Drivers after the former head of the experimental research division, [Minori Sakaguchi](../../../Characters/Minori%20Sakaguchi), was appointed as interim president.  
+News of this incident quickly became global news, and the company reputation tanked all around the world, devastating the company as their international market virtually dissolved within a week. However, their standing in Shinzen was largely unaffected, even slightly improved, as by this point the company had become a celebrated and treasured national icon. As the country mourned the loss of Kaede and Hana Hijiya, the company devoted itself almost entirely to developing far more advanced safety protocols for all EVA Drivers after the former head of the experimental research division, [[../../../Characters/Minori Sakaguchi|Minori Sakaguchi]], was appointed as interim president.  
   
 To stay afloat after the loss of their international market, several branches of the company were shut down entirely, including the majority of its research centers, and funding was decreased significantly for many others. While they still remained the world leader in some fields by quite a significant margin, it was a massive hit to morale as the company began to stagnate.  
   

@@ -3,20 +3,20 @@ share: true
 comments: true  
 ---  
 > [!bug] Issue  
-> This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until there has been enough development for this notice to be removed, refer to the page on [Appropriate real-world influences](../../_meta/Appropriate%20real-world%20influences) for some context and inspiration on the differences between these groups.  
+> This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until there has been enough development for this notice to be removed, refer to the page on [[../../_meta/Appropriate real-world influences|Appropriate real-world influences]] for some context and inspiration on the differences between these groups.  
   
-The population of [Earth](../Map/Earth), both [human](../Inhabitants/Human) and [spirit](../Inhabitants/Spirits), is comprised of many distinct ethnic and cultural groups that have developed, proliferated, appeared, and disappeared throughout history. Today, ethnicity is typically associated primarily with the ancestry and culture of the many nations and states of the world, but archaeological discoveries dated between 2000 and 3000 years old have shown that the many distinct groups that exist today all diverged from seven major ethnic groups.  
+The population of [[../Map/Earth|Earth]], both [[../Inhabitants/Human|human]] and [[../Inhabitants/Spirits|spirit]], is comprised of many distinct ethnic and cultural groups that have developed, proliferated, appeared, and disappeared throughout history. Today, ethnicity is typically associated primarily with the ancestry and culture of the many nations and states of the world, but archaeological discoveries dated between 2000 and 3000 years old have shown that the many distinct groups that exist today all diverged from seven major ethnic groups.  
   
-<span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse; font-size:10px">![250](../../../assets/img/cc%20_parents.png)<br><i>World population by major ethnic groups</i><br><br>![250](Flat%20(Indigenous%20skin%20tones).jpg)<br><i>Average skin tone distribution of indigenous peoples and early generation first settlers</i></span>  
+<span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse; font-size:10px">![[../../../assets/img/cc _parents.png|250]]<br><i>World population by major ethnic groups</i><br><br>![[Flat (Indigenous skin tones).jpg|250]]<br><i>Average skin tone distribution of indigenous peoples and early generation first settlers</i></span>  
   
 The seven major ethnic groups are as follows.  
-- [Chiyan](./Chiya/Chiyan), originating from central [Sangyon](../Map/Sangyon/Sangyon)  
-- [Cirazan](./Ciraza/Cirazan), originating from eastern [Destrea](../Map/Destrea/Destrea)  
-- [Exilan](./Exilan/Exilan), originating from northern [Corstaea](../Map/Corstaea/Corstaea)  
-- [Farodet](./Farodet/Farodet), originating from central [Grenneria](../Map/Grenneria/Grenneria)  
-- [Irovell](./Irovell/Irovell), originating from northern [Osun Tanum](../Map/Osun%20Tanum/Osun%20Tanum)  
-- [Shisuya](./Shisuya/Shisuya), originating from southern [Shinzen](../Map/Shinzen/Shinzen)  
-- [Yinsha](./Yinsha/Yinsha), originating from western [Shaohou](../Map/Shaohou/Shaohou)  
+- [[./Chiya/Chiyan|Chiyan]], originating from central [[../Map/Sangyon/Sangyon|Sangyon]]  
+- [[./Ciraza/Cirazan|Cirazan]], originating from eastern [[../Map/Destrea/Destrea|Destrea]]  
+- [[./Exilan/Exilan|Exilan]], originating from northern [[../Map/Corstaea/Corstaea|Corstaea]]  
+- [[./Farodet/Farodet|Farodet]], originating from central [[../Map/Grenneria/Grenneria|Grenneria]]  
+- [[./Irovell/Irovell|Irovell]], originating from northern [[../Map/Osun Tanum/Osun Tanum|Osun Tanum]]  
+- [[./Shisuya/Shisuya|Shisuya]], originating from southern [[../Map/Shinzen/Shinzen|Shinzen]]  
+- [[./Yinsha/Yinsha|Yinsha]], originating from western [[../Map/Shaohou/Shaohou|Shaohou]]  
   
 While these seven groups have been scientifically proven to exist, are recognizable as genetically distinct from one another, and typically each share some distinct common physical features, the common perspective on the existence of the many other ethnic groups descended from the first seven is that they are primarily social constructs, with identities formed through the natural development of new cultures that tended to remain grouped together throughout history, especially with the development of new languages, and that the apparent physical features shared by some smaller, more recently developed ethnic groups being features that were always present, but had become more localized to these new ethnic groups over time due to societal rules and preferences.  
   

@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Avangia%20(Continent).jpg)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Avangia (Continent).jpg|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -32,7 +32,7 @@ comments: true
   </table>  
 </div>  
   
-Avangia is the western continent of [Earth](./Earth). The countries of [Shinzen](./Shinzen/Shinzen), [Shaohou](./Shaohou/Shaohou), [Sangyon](./Sangyon/Sangyon), and [Ilmaria](./Ilmaria/Ilmaria) are located here.  
+Avangia is the western continent of [[./Earth|Earth]]. The countries of [[./Shinzen/Shinzen|Shinzen]], [[./Shaohou/Shaohou|Shaohou]], [[./Sangyon/Sangyon|Sangyon]], and [[./Ilmaria/Ilmaria|Ilmaria]] are located here.  
   
 ## Geography  
   
@@ -40,11 +40,11 @@ Avangia is the continent with the most diverse terrain and biome distribution in
   
 ### Resources  
   
-Avangia is extremely rich in metals, silicon, and oil, likely containing more than both [Ozen](./Ozen) and [Yulentia](./Yulentia) combined.  
+Avangia is extremely rich in metals, silicon, and oil, likely containing more than both [[./Ozen|Ozen]] and [[./Yulentia|Yulentia]] combined.  
   
 ## See also  
   
-[Avangian Alliance](../Organizations/Avangian%20Alliance)  
+[[../Organizations/Avangian Alliance|Avangian Alliance]]  
   
 -----  
 > [!cite] Author info  

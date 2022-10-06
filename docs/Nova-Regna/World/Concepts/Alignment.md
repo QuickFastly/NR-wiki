@@ -2,9 +2,9 @@
 share: true  
 comments: true  
 ---  
-Alignment is a fundamental change in a person's physiology that typically occurs during infancy, theorized to be caused by exposure to high concentrations of [[Mystic Matter|mystic matter]]. It also appears to be affected by genetics, making some more likely to have this condition than others. Much like mystic matter itself, very little is understood about how alignment works.  
+Alignment is a fundamental change in a person's physiology that typically occurs during infancy, theorized to be caused by exposure to high concentrations of [mystic matter](./Mystic%20Matter). It also appears to be affected by genetics, making some more likely to have this condition than others. Much like mystic matter itself, very little is understood about how alignment works.  
   
-Some have theorized that alignment is directly linked to [[Attunement|attunement]], but this has been proven untrue as both conditions are entirely unique, and it is possible to have either one without the other.  
+Some have theorized that alignment is directly linked to [attunement](./Attunement), but this has been proven untrue as both conditions are entirely unique, and it is possible to have either one without the other.  
   
 ## Effects  
   
@@ -14,7 +14,7 @@ The secondary symptom, exceedingly rare, estimated to appear in less than 10% of
   
 ## Affected groups  
   
-[[Fox]], [[Deer]], [[Mouse]], [[Chameleon]], and [[Crow]] [[Spirits|spirits]] all possess alignment inherently from birth, along with approximately 60% of all other spirits.  
+[Fox](../Inhabitants/Fox), [Deer](../Inhabitants/Deer), [Mouse](../Inhabitants/Mouse), [Chameleon](../Inhabitants/Chameleon), and [Crow](../Inhabitants/Crow) [spirits](../Inhabitants/Spirits) all possess alignment inherently from birth, along with approximately 60% of all other spirits.  
   
 Humans can also be born with alignment, albeit with drastically lower odds. Here is how those odds break down:  
 - 0.1% of humans with two human parents, neither with alignment  

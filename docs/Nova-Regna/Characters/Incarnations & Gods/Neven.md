@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -104,11 +104,11 @@ comments: true
   </table>  
 </div>  
   
-Neven is a [Chameleon spirit](../../World/Inhabitants/Chameleon) and one of the five mortal [Incarnations](../../World/Concepts/Incarnations). She is loyal to [Freya](./Freya) and the [Risky Witches](../../World/Organizations/Risky%20Witches), and participated in [The Big Event](../../World/History%20&%20Events/The%20Big%20Event).  
+Neven is a [[../../World/Inhabitants/Chameleon|Chameleon spirit]] and one of the five mortal [[../../World/Concepts/Incarnations|Incarnations]]. She is loyal to [[./Freya|Freya]] and the [[../../World/Organizations/Risky Witches|Risky Witches]], and participated in [[../../World/History & Events/The Big Event|The Big Event]].  
   
 ## Summary  
   
-As a mortal incarnation, Neven has been several people throughout history. Unlike the other incarnations, Neven does not carry any constant physical traits throughout their generations. It is impossible to identify Neven until they reach adulthood, at which point their [Alignment](../../World/Concepts/Alignment) and [Attunement](../../World/Concepts/Attunement) develop fully, giving them psychometry, telepathy, and extremely powerful telekinesis. Unless they make it apparent that they have these abilities, they can go their entire life without being identified. After realizing their own identity, typically they will become nomadic and work to maintain balance in the world however they see fit.  
+As a mortal incarnation, Neven has been several people throughout history. Unlike the other incarnations, Neven does not carry any constant physical traits throughout their generations. It is impossible to identify Neven until they reach adulthood, at which point their [[../../World/Concepts/Alignment|Alignment]] and [[../../World/Concepts/Attunement|Attunement]] develop fully, giving them psychometry, telepathy, and extremely powerful telekinesis. Unless they make it apparent that they have these abilities, they can go their entire life without being identified. After realizing their own identity, typically they will become nomadic and work to maintain balance in the world however they see fit.  
   
 Aside from this summary, the rest of this page applies only to the current incarnation of Neven.  
   
@@ -175,13 +175,13 @@ She was swayed to join the Risky Witches with the promise of liberation for spir
   
 ## Relationships  
   
-Neven is very close and friendly with [Dvalinn](./Dvalinn), [Garm](./Garm), and [Kuhai](./Kuhai), treating them all like younger siblings and offering her support to them in every way she can, provided Freya isn't nearby to change her personality. She is especially close with [Haida](./Haida), because she looks up to her as a role model, and feels honored that Haida opened up to her in return. Out of the whole group, Neven is the most skeptical of Freya and tries to keep her at arm's length, which tends to appear outwardly as a rivalry.  
+Neven is very close and friendly with [[./Dvalinn|Dvalinn]], [[./Garm|Garm]], and [[./Kuhai|Kuhai]], treating them all like younger siblings and offering her support to them in every way she can, provided Freya isn't nearby to change her personality. She is especially close with [[./Haida|Haida]], because she looks up to her as a role model, and feels honored that Haida opened up to her in return. Out of the whole group, Neven is the most skeptical of Freya and tries to keep her at arm's length, which tends to appear outwardly as a rivalry.  
   
-She also wishes to be close with [Seth Alden](../RD&PZ/Seth%20Alden) and offers him support wherever possible, but he makes it difficult with his attitude of deliberate distance. Unlike the others, though, Neven makes an active effort to break through his walls.  
+She also wishes to be close with [[../RD&PZ/Seth Alden|Seth Alden]] and offers him support wherever possible, but he makes it difficult with his attitude of deliberate distance. Unlike the others, though, Neven makes an active effort to break through his walls.  
   
 ### Affiliations  
   
-She is a member of the Risky Witches [Task Force 5555](Risky%20Witches#Special%20forces) with the effective rank of O-6.  
+She is a member of the Risky Witches [[Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
   
 ## History  
   
@@ -190,7 +190,7 @@ sorry nothing
 ## Trivia  
   
 - Her nickname, "Dizzy", is probably from her clumsy and scatterbrained nature during downtime with the Risky Witches. Or maybe it's from how she can switch from that to the cold and efficient super soldier so quickly that it makes people's heads spin. Who knows?  
-- Another reason she is so close with Haida is because Haida's [abilities](Haida#Special%20abilities) quiet the chaos in her head, allowing her some rare respite without solitude. She will often be leaning on Haida, holding her shoulders, or carrying Haida on her own shoulders for that reason.  
+- Another reason she is so close with Haida is because Haida's [[Haida#Special abilities|abilities]] quiet the chaos in her head, allowing her some rare respite without solitude. She will often be leaning on Haida, holding her shoulders, or carrying Haida on her own shoulders for that reason.  
   
 ## See Also  
   

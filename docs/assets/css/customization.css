@@ -2,10 +2,12 @@
   display: none;
 }
 :root > * {
-  --md-primary-fg-color:        #C10000;
+  --md-primary-fg-color: #C10000;
   --md-primary-fg-color--light: #C10000;
-  --md-primary-fg-color--dark:  #C10000;
-  --md-accent-fg-color:         #910000;
-  --md-accent-fg-color--transparent: #910000, 0.1;
-  --md-typeset-a-color:         #C10000;
+  --md-primary-fg-color--lighter: #C10000CC;
+  --md-primary-fg-color--lightest: #C10000AA;
+  --md-primary-fg-color--dark: #A10000;
+  --md-accent-fg-color: #C1000099;
+  --md-accent-fg-color--transparent: #C100005C;
+  --md-typeset-a-color: #C100009C;
 }

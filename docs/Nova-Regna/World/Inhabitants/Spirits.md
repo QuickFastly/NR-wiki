@@ -2,7 +2,7 @@
 share: true  
 comments: true  
 ---  
-Spirits are a unique species alongside [humans](./Human), visually distinguished primarily by their animalistic or otherwise unusual features. These can manifest as features from nearly any type of animal - or in rare cases, even many types of plant - on [Earth](../Map/Earth), but are typically limited to minor additions or changes to the otherwise humanlike body. They share the same [cultures and ethnicities](../Cultures%20&%20Ethnicities/Cultures%20&%20Ethnicities) as humans do, although some groups of spirits additionally have their own subcultures, which can be either consistent worldwide or regional. They are also notable for having a strong affinity with [mystic matter](../Concepts/Mystic%20Matter), even among individuals that possess neither [alignment](../Concepts/Alignment) nor [attunement](../Concepts/Attunement).  
+Spirits are a unique species alongside [[./Human|humans]], visually distinguished primarily by their animalistic or otherwise unusual features. These can manifest as features from nearly any type of animal - or in rare cases, even many types of plant - on [[../Map/Earth|Earth]], but are typically limited to minor additions or changes to the otherwise humanlike body. They share the same [[../Cultures & Ethnicities/Cultures & Ethnicities|cultures and ethnicities]] as humans do, although some groups of spirits additionally have their own subcultures, which can be either consistent worldwide or regional. They are also notable for having a strong affinity with [[../Concepts/Mystic Matter|mystic matter]], even among individuals that possess neither [[../Concepts/Alignment|alignment]] nor [[../Concepts/Attunement|attunement]].  
   
 While spirits appear remarkably similar to humans, even to the point of being effectively identical in most anatomical aspects, they are still a distinctly different species: H. varius. Additionally, each of the many varieties of spirit is also classified with at least one subspecies. For example, the trinomial H. varius catus, or the polynomial H. varius lupus albus.  
   
@@ -12,7 +12,7 @@ All other varieties of spirit are referred to as "minor spirits" and are typical
   
 ## History  
   
-Spirits have existed on Earth since [Era Dira](../History%20&%20Events/Era%20Dira), as confirmed by the existence of various artifacts dated at over 3000 years old, but there is yet to be a consensus on just how old they are, or their origins.  
+Spirits have existed on Earth since [[../History & Events/Era Dira|Era Dira]], as confirmed by the existence of various artifacts dated at over 3000 years old, but there is yet to be a consensus on just how old they are, or their origins.  
   
 Throughout the history of the world, spirits have been subject to extreme prejudice. Many believe that this was rooted in fear, but there is little consensus on why it persisted for so long.  
   
@@ -38,24 +38,24 @@ Two different types of spirit can also reproduce, but the resulting offspring wi
   
 Spirits are found all over the world, with certain types preferring certain climates and landscapes. Today, spirits make up approximately 5% of the world population, with major spirits making up approximately 91.5% of all spirits, and minor spirits only 8.5%.  
   
-![spirit demography.png](../../../assets/img/spirit%20demography.png)  
+![[../../../assets/img/spirit demography.png|spirit demography.png]]  
   
 Major spirits:  
-- [Cat](./Cat)  
-- [Chameleon](./Chameleon)  
-- [Crow](./Crow)  
-- [Deer](./Deer)  
-- [Fox](./Fox)  
-- [Mouse](./Mouse)  
-- [Shark](./Shark)  
-- [Wolf](./Wolf)  
+- [[./Cat|Cat]]  
+- [[./Chameleon|Chameleon]]  
+- [[./Crow|Crow]]  
+- [[./Deer|Deer]]  
+- [[./Fox|Fox]]  
+- [[./Mouse|Mouse]]  
+- [[./Shark|Shark]]  
+- [[./Wolf|Wolf]]  
   
 Minor spirits:  
 - N/A for now  
   
 ## See also  
   
-[Incarnations](../Concepts/Incarnations)  
+[[../Concepts/Incarnations|Incarnations]]  
   
 -----  
 > [!cite] Author info  

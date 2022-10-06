@@ -9,9 +9,9 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Shinzen%20flag.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../../assets/img/Shinzen flag.png|250]]</span>  
     
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Shinzen%20(Region).jpg)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Shinzen (Region).jpg|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -84,7 +84,7 @@ comments: true
   </table>  
 </div>  
   
-Shinzen, officially known as the State of Shinzen (真善国), is an expansive country and international superpower located on the continent of [Avangia](../Avangia). Its capital, [Takagawa](Takagawa), is located near the southern coast of the state of [Asahi](Asahi). It is bordered by [Shaohou](../Shaohou/Shaohou) to the west, and closely neighbored by [Sangyon](../Sangyon/Sangyon) to the northwest and [Ilmaria](../Ilmaria/Ilmaria) in the eastern gulf.  
+Shinzen, officially known as the State of Shinzen (真善国), is an expansive country and international superpower located on the continent of [[../Avangia|Avangia]]. Its capital, [[Takagawa]], is located near the southern coast of the state of [[Asahi]]. It is bordered by [[../Shaohou/Shaohou|Shaohou]] to the west, and closely neighbored by [[../Sangyon/Sangyon|Sangyon]] to the northwest and [[../Ilmaria/Ilmaria|Ilmaria]] in the eastern gulf.  
 %% Takagawa coordinates: La. -10°8' Lo. -37°28' (?) %%  
 %% Shiga Coordinates: 5°26'S 108°23'W (?) %%  
   
@@ -92,11 +92,11 @@ Shinzen is a highly developed nation with the second largest population in the w
   
 ## History  
   
-Nothing for now. [History of Shinzen](../History%20&%20Events/History%20of%20Shinzen) for later.  
+Nothing for now. [[../History & Events/History of Shinzen|History of Shinzen]] for later.  
   
 ## Geography  
   
-Well over half of Shinzen is covered in dense, untouched forests, rolling hills, and mountains. The whole country minus the state of [Kenshiri](Kenshiri) has a tropical climate. Rivers are extremely prevalent in the country and even flow directly through many cities. Shinzen is also home to the most diverse ecology in the world, and is revered for its natural beauty.  
+Well over half of Shinzen is covered in dense, untouched forests, rolling hills, and mountains. The whole country minus the state of [[Kenshiri]] has a tropical climate. Rivers are extremely prevalent in the country and even flow directly through many cities. Shinzen is also home to the most diverse ecology in the world, and is revered for its natural beauty.  
   
 ## Government & Politics  
   
@@ -105,17 +105,17 @@ Shinzen is a federal republic under constitutional monarchy, in which the power 
 ### Administrative divisions  
   
 The country is divided into 11 states, each with their own state government overseen by an elected governor with some degree of autonomy under the federal government, most with their own unique cultural views that influence their legislation. These states are as follows.  
-- [Asahi](Asahi)  
-- [Futou](Futou)  
-- [Hayagawa](Hayagawa)  
-- [Kenshiri](Kenshiri)  
-- [Kiyoshiri](Kiyoshiri)  
-- [Kuminachi](Kuminachi)  
-- [Miwae](Miwae)  
-- [Okina](Okina)  
-- [Onsai](Onsai)  
-- [Sumitori](Sumitori)  
-- [Tozawa](Tozawa)  
+- [[Asahi]]  
+- [[Futou]]  
+- [[Hayagawa]]  
+- [[Kenshiri]]  
+- [[Kiyoshiri]]  
+- [[Kuminachi]]  
+- [[Miwae]]  
+- [[Okina]]  
+- [[Onsai]]  
+- [[Sumitori]]  
+- [[Tozawa]]  
   
 ### Military  
   
@@ -123,11 +123,11 @@ The Shinzenese military, better known as the Shinzen Regional Defense Forces or 
   
 ### Foreign relations  
   
-![Political relations chart (Shinzen).svg](Political%20relations%20chart%20(Shinzen).svg)  
+![[Political relations chart (Shinzen).svg]]  
   
 ## Economy  
   
-The economy of Shinzen is worth 2.25 quadrillion [CR](Credit%20(currency)) per year with an expenditure of 24.8%, distributed as follows.  
+The economy of Shinzen is worth 2.25 quadrillion [[Credit (currency)|CR]] per year with an expenditure of 24.8%, distributed as follows.  
 - Administration: 2.8%  
 - Defense: 3.1%  
 - Education & Science: 19.3%  
@@ -149,7 +149,7 @@ Some primary exports of Shinzen are electronics, cars and trucks, and biotechnol
   
 ## Demographics  
   
-Shinzen has a unique struggle with acceptance of [spirits](../../Inhabitants/Spirits), as their official stance is a welcoming one and most people in the country are openly accepting and supportive of spirits, but systemic discrimination still remains, particularly in education and career opportunities. Nevertheless, many spirits are quite happy with their treatment in Shinzen, even though they have fewer opportunities.  
+Shinzen has a unique struggle with acceptance of [[../../Inhabitants/Spirits|spirits]], as their official stance is a welcoming one and most people in the country are openly accepting and supportive of spirits, but systemic discrimination still remains, particularly in education and career opportunities. Nevertheless, many spirits are quite happy with their treatment in Shinzen, even though they have fewer opportunities.  
   
 Spirit population as of the 2030 census: 14,158,605  
 - Cat: 8,312,945  
@@ -186,7 +186,7 @@ TBD
   
 ## See also  
   
-[World military balance](../../../_meta/World%20military%20balance) (Meta)  
+[[../../../_meta/World military balance|World military balance]] (Meta)  
   
   
 %%  

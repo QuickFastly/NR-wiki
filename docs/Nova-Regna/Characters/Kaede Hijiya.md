@@ -4,7 +4,7 @@ share: true
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-Second president of the [Hijiya Corporation](../World/Organizations/Corporations/Hijiya%20Corporation). Son of [Harutaka Hijiya](./Harutaka%20Hijiya), husband to [Hana Hijiya](./Hana%20Hijiya), father of [Nozomi Hijiya](./RD&PZ/Nozomi%20Hijiya). Died in 2016.  
+Second president of the [[../World/Organizations/Corporations/Hijiya Corporation|Hijiya Corporation]]. Son of [[./Harutaka Hijiya|Harutaka Hijiya]], husband to [[./Hana Hijiya|Hana Hijiya]], father of [[./RD&PZ/Nozomi Hijiya|Nozomi Hijiya]]. Died in 2016.  
   
 -----  
 > [!cite] Author info  

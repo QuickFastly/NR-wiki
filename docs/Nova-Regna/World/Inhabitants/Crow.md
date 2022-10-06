@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -46,7 +46,7 @@ comments: true
   </table>  
 </div>  
   
-Crow [spirits](./Spirits) are a type of major spirit, and make up less than 1% of all spirits on [Earth](../Map/Earth). They have existed since [Era Dira](../History%20&%20Events/Era%20Dira).  
+Crow [[./Spirits|spirits]] are a type of major spirit, and make up less than 1% of all spirits on [[../Map/Earth|Earth]]. They have existed since [[../History & Events/Era Dira|Era Dira]].  
   
 ## History  
   
@@ -58,19 +58,19 @@ Crow spirits believe that spirits were not only created by gods in ancient times
   
 This goddess, called Morrigan, was the first of the crow spirits. She was created by the other gods of the old world as a servant to them, but she rejected the gods and went on to become known as the physical manifestation of terror and death itself, killing hundreds of thousands of people in her furious defiance.  
   
-Her first child, [Florian](../../Characters/Incarnations%20&%20Gods/Florian), rejected her violent ways and dedicated himself to the pursuit of knowledge to end disputes without bloodshed. The sight of his dedication and the sound of his constant pleading eventually mellowed her heart, and she humbly allowed him to teach her many things, leading her to become repentant for her actions. The gods later plotted to wipe out all of her children in retaliation for her crimes, but as one final act of atonement, she gave her own life in exchange for their survival.  
+Her first child, [[../../Characters/Incarnations & Gods/Florian|Florian]], rejected her violent ways and dedicated himself to the pursuit of knowledge to end disputes without bloodshed. The sight of his dedication and the sound of his constant pleading eventually mellowed her heart, and she humbly allowed him to teach her many things, leading her to become repentant for her actions. The gods later plotted to wipe out all of her children in retaliation for her crimes, but as one final act of atonement, she gave her own life in exchange for their survival.  
   
 Florian himself has expressed his distaste for this belief on many occassions, but has never offered an alternative or correction to the story.  
   
 ## Anatomy & physiology  
   
-All crow spirits inherently have [Alignment](../Concepts/Alignment) and [Attunement](../Concepts/Attunement).  
+All crow spirits inherently have [[../Concepts/Alignment|Alignment]] and [[../Concepts/Attunement|Attunement]].  
   
 Crow spirits are the only type of major spirit that occasionally displays no physical animalistic features. Most of them possess a set of black, iridescent tail feathers, and some can also display feathers on other parts of their body, most often on their forearms. Sometimes, their hair may appear iridescent as well. They have only been seen with black or gray hair.  
   
 In extremely rare cases, their arms can develop wings that grant them the ability to glide short distances and break falls from any height, provided there is enough ground space to glide along and slow down. These wings do not enable flight, and cause significant challenges with fitting clothes and performing many day to day tasks.  
   
-Aside from those features, crow spirits come in all the same shapes and sizes as [humans](./Human), but are much thinner on average, have significantly weaker bones, are extremely susceptible to developing dark circles around their eyes, and tend to have naturally unruly hair. They typically look rather tired and disheveled because of this and their rapidly aging appearances.  
+Aside from those features, crow spirits come in all the same shapes and sizes as [[./Human|humans]], but are much thinner on average, have significantly weaker bones, are extremely susceptible to developing dark circles around their eyes, and tend to have naturally unruly hair. They typically look rather tired and disheveled because of this and their rapidly aging appearances.  
   
 Crow spirits, like birds, are capable of perceiving the magnetic field of the planet, giving them an internal compass. They also tend to be extremely proficient in mimicry and ingenuity.  
   
@@ -80,7 +80,7 @@ Crow spirits grow at the same rate as humans until the age of 15 years, after wh
   
 ## Geographic distribution  
   
-They have no preferences for climate or geography and can be found all around the world. They are spread quite thin, making them a rare sight. Some live on the desolate island of [Electra](Electra) in the country of [Alastor](../Map/Alastor/Alastor), and seem to be the only people capable of remaining there for extended periods of time.  
+They have no preferences for climate or geography and can be found all around the world. They are spread quite thin, making them a rare sight. Some live on the desolate island of [[Electra]] in the country of [[../Map/Alastor/Alastor|Alastor]], and seem to be the only people capable of remaining there for extended periods of time.  
   
 ## Sociology  
   

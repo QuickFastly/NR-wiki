@@ -31,13 +31,13 @@ comments: true
   </table>  
 </div>  
   
-Humans (H. sapiens) are humans, you know what they are already, I'm not about to write my own whole [wikipedia article](https://en.wikipedia.org/wiki/Human) for them. They come in [[Cultures & Ethnicities|many varieties]].  
+Humans (H. sapiens) are humans, you know what they are already, I'm not about to write my own whole [wikipedia article](https://en.wikipedia.org/wiki/Human) for them. They come in [many varieties](../Cultures%20&%20Ethnicities/Cultures%20&%20Ethnicities).  
   
-They are distinct from [[Spirits]] due to their lack of anything special or unique.  
+They are distinct from [Spirits](./Spirits) due to their lack of anything special or unique.  
   
 ## History  
   
-Humans have existed on [[Earth]] since [[Era Dira]], as confirmed by the existence of various artifacts dated at over 3000 years old, but there is yet to be a consensus on just how old the human species is thought to be, or its origin.  
+Humans have existed on [Earth](../Map/Earth) since [Era Dira](../History%20&%20Events/Era%20Dira), as confirmed by the existence of various artifacts dated at over 3000 years old, but there is yet to be a consensus on just how old the human species is thought to be, or its origin.  
   
 ### Anatomy & physiology  
   

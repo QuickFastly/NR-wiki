@@ -5,13 +5,13 @@ tags: PG
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-[Hashiri](./Hashiri)  
+[[./Hashiri|Hashiri]]  
   
-[Okamiwa](./Okamiwa)  
-[Teruno](./Teruno)  
-[Etazu](./Etazu)  
-[Kitabe](./Kitabe)  
-[Jatōge](./Jat%C5%8Dge)  
+[[./Okamiwa|Okamiwa]]  
+[[./Teruno|Teruno]]  
+[[./Etazu|Etazu]]  
+[[./Kitabe|Kitabe]]  
+[[./Jatōge|Jatōge]]  
   
 -----  
 > [!cite] Author info  

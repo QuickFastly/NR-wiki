@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -46,7 +46,7 @@ comments: true
   </table>  
 </div>  
   
-Wolf [[Spirits|spirits]] are a type of major spirit, and make up approximately 22% of all spirits on [[Earth]]. They have existed since [[Era Dira]].  
+Wolf [spirits](./Spirits) are a type of major spirit, and make up approximately 22% of all spirits on [Earth](../Map/Earth). They have existed since [Era Dira](../History%20&%20Events/Era%20Dira).  
   
 ## History  
   
@@ -56,15 +56,15 @@ Nothing for now.
   
 ### Myths and legends  
   
-It is said that in ancient times, before the wolf spirits were a warrior people, they were savagely attacked by a band of [[Deer|deer spirits]]. Some believe it was out of sheer malice, others believe it was because the wolf spirits slighted them, or even that the deer were sent by the gods to deliver divine retribution.  
+It is said that in ancient times, before the wolf spirits were a warrior people, they were savagely attacked by a band of [deer spirits](./Deer). Some believe it was out of sheer malice, others believe it was because the wolf spirits slighted them, or even that the deer were sent by the gods to deliver divine retribution.  
   
-The wolf spirits took devastating losses in the attack and were ultimately bound in chains. But, in their darkest hour, [[Garm]] broke free of their chains and slaughtered their captors, a bloody display of strength so great that the deer spirits fled at the sight of it. Ever since that day, the wolf spirits picked up the sword and shield to become fierce warriors in the interest of self preservation.  
+The wolf spirits took devastating losses in the attack and were ultimately bound in chains. But, in their darkest hour, [Garm](../../Characters/Incarnations%20&%20Gods/Garm) broke free of their chains and slaughtered their captors, a bloody display of strength so great that the deer spirits fled at the sight of it. Ever since that day, the wolf spirits picked up the sword and shield to become fierce warriors in the interest of self preservation.  
   
 ## Anatomy & physiology  
   
 Wolf spirits are the only type of major spirit to have fully consistent anatomy, with all of them possessing animal ears, a tail, pronounced fangs, and a very limited range of hair and eye colors. Their hair comes almost exclusively in black, white, silver, dark gray, or dull brown.  
   
-They have significantly stronger bones and muscles than [[Human|humans]], and grow noticeably taller than them on average. Their senses are also enhanced to near equivalency with their animal counterparts, with a sense of smell almost 100 times greater than that of humans, the ability to hear some sounds up to 60 kHz and others as far as eight miles away, and exceptional eyesight, particularly in peripheral vision and motion detection, along with night vision around 50% more effective than that of humans. They are unfortunately also partially colorblind, mostly lacking vision of the color green.  
+They have significantly stronger bones and muscles than [humans](./Human), and grow noticeably taller than them on average. Their senses are also enhanced to near equivalency with their animal counterparts, with a sense of smell almost 100 times greater than that of humans, the ability to hear some sounds up to 60 kHz and others as far as eight miles away, and exceptional eyesight, particularly in peripheral vision and motion detection, along with night vision around 50% more effective than that of humans. They are unfortunately also partially colorblind, mostly lacking vision of the color green.  
   
 ### Life cycle  
   
@@ -72,13 +72,13 @@ Wolf spirits grow at the same rate as humans until the age of 50 years, at which
   
 They are all born with extremely deep and vibrant blue eyes, which they retain until around 20 years of age, at which point their eye color typically changes to a similarly deep and vibrant yellow. Between the ages of 40 and 50, that yellow color may lose its luster or even change again to a shade of brown. Beyond 50 years of age, their eyes begin to slowly lose all color and become a silvery gray.  
   
-Very rarely, some may retain their blue eyes for most of their life, but nearly all wolf spirits eventually lose their eye color. However, those with [[Attunement]] typically retain their blue eyes until death.  
+Very rarely, some may retain their blue eyes for most of their life, but nearly all wolf spirits eventually lose their eye color. However, those with [Attunement](../Concepts/Attunement) typically retain their blue eyes until death.  
   
 ## Geographic distribution  
   
-Wolf spirits have a strong preference for cold climates, and enjoy mountainous terrain. The vast majority of them are found in the northern and central regions of [[Corstaea]].  
+Wolf spirits have a strong preference for cold climates, and enjoy mountainous terrain. The vast majority of them are found in the northern and central regions of [Corstaea](../Map/Corstaea/Corstaea).  
   
-They are also a common sight in [[Alastor]].  
+They are also a common sight in [Alastor](../Map/Alastor/Alastor).  
   
 ## Sociology  
   

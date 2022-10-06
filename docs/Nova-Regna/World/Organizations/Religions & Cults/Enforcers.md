@@ -5,7 +5,7 @@ comments: true
 > [!bug] Issue  
 > The main article could use some rewrites, so this page is also subject to change.  
   
-The Enforcers branch of the [[Children of the Flame]] is a quite small but very powerful force of militaristic people, responsible for all the dirty work of the organization. They operate from the shadows for the most part, killing their targets quietly, simply gathering intelligence, or manipulating people for their own ends, though occasionally they will make large, organized, very public attacks when ordered.  
+The Enforcers branch of the [Children of the Flame](./Children%20of%20the%20Flame) is a quite small but very powerful force of militaristic people, responsible for all the dirty work of the organization. They operate from the shadows for the most part, killing their targets quietly, simply gathering intelligence, or manipulating people for their own ends, though occasionally they will make large, organized, very public attacks when ordered.  
   
 > [!warning]  
 > Very few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame.  
@@ -14,7 +14,7 @@ The Enforcers branch of the [[Children of the Flame]] is a quite small but very 
   
 ### Inquisitors  
   
-These are the people responsible for identifying and dealing with heretics and any others marked by the higher-ups of the organization. They are most known for their use of gruesome torture methods and seeming to take pleasure in carrying them out, but are most commonly sent out purely for espionage. Notably, no Inquisitors possess [[Attunement|attunement]]. Becoming an Inquisitor requires a test to prove oneself dedicated. This test is decided on a case by case basis and must be carried out alone.  
+These are the people responsible for identifying and dealing with heretics and any others marked by the higher-ups of the organization. They are most known for their use of gruesome torture methods and seeming to take pleasure in carrying them out, but are most commonly sent out purely for espionage. Notably, no Inquisitors possess [attunement](../../Concepts/Attunement). Becoming an Inquisitor requires a test to prove oneself dedicated. This test is decided on a case by case basis and must be carried out alone.  
   
 ### The Sanctified  
   

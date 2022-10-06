@@ -9,11 +9,11 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/Risky%20Witches%20Flag.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/Risky Witches Flag.png|250]]</span>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/Risky%20Witches%20Emblem.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/Risky Witches Emblem.png|250]]</span>  
     
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![150](../../../assets/img/Risky%20Witches%20Roundel.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/Risky Witches Roundel.png|150]]</span>  
     
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -49,9 +49,9 @@ comments: true
   </table>  
 </div>  
   
-The Risky Witches are a paramilitary group led by [Freya](../../Characters/Incarnations%20&%20Gods/Freya) and comprised primarily of Destrean separatists, [spirits](../Inhabitants/Spirits), and humans with [attunement](../Concepts/Attunement). They present themselves primarily as a revolutionary group seeking independence, but also offer their services as private military contractors and security professionals. They are headquartered at [Presidia de la Bruja](Presidia%20de%20la%20Bruja) in the [Espada](Espada) prefecture of [Destrea](../Map/Destrea/Destrea), and also control [Presidio de Tiburón](Presidio%20de%20Tibur%C3%B3n) in the [Nalano](Nalano) prefecture.  
+The Risky Witches are a paramilitary group led by [[../../Characters/Incarnations & Gods/Freya|Freya]] and comprised primarily of Destrean separatists, [[../Inhabitants/Spirits|spirits]], and humans with [[../Concepts/Attunement|attunement]]. They present themselves primarily as a revolutionary group seeking independence, but also offer their services as private military contractors and security professionals. They are headquartered at [[Presidia de la Bruja]] in the [[Espada]] prefecture of [[../Map/Destrea/Destrea|Destrea]], and also control [[Presidio de Tiburón]] in the [[Nalano]] prefecture.  
   
-They are known globally for their extraordinary military strength, rumored to be capable of turning the tides of battle while outnumbered ten to one, and most infamous for executing [The Big Event](../History%20&%20Events/The%20Big%20Event). They lean heavily into their reputation by choosing to mobilize the smallest force possible for most operations. Because of this, the intimidation factor can be so great when they do rarely mobilize a large force that their enemies may sometimes surrender entirely without a fight.  
+They are known globally for their extraordinary military strength, rumored to be capable of turning the tides of battle while outnumbered ten to one, and most infamous for executing [[../History & Events/The Big Event|The Big Event]]. They lean heavily into their reputation by choosing to mobilize the smallest force possible for most operations. Because of this, the intimidation factor can be so great when they do rarely mobilize a large force that their enemies may sometimes surrender entirely without a fight.  
   
 Because of their strong focus on the protection of spirits and marginalized humans, the Risky Witches emblem is seen as a symbol of hope for many of those people. At the same time, many people loyal to their countries or ignorant of the issues the Risky Witches call attention to see their emblem as a symbol of death and suffering due to the frightening military prowess they flaunt.  
   
@@ -61,11 +61,11 @@ While the Risky Witches are not affiliated with any political entities, they are
   
 The rank of O-8, Grand Marshal, is only held by Freya, though there isn't any official record of her. Most members of the Risky Witches only know of her existence and authority through legend or description, and foreign entities are given false information if they inquire.  
   
-Since she has the ability to monitor the entire world all at once, she's always informed, but since she's not particularly interested in personally running an entire military herself, she hand picks the Field, Air, and Sea Marshals and distributes information through them. On the rare occasion she personally takes control, it's usually to turn the tide of battle in her favor, as her direct control can increase effective strength to that of a force five times their size, or to the point of being virtually undefeatable with the assistance of [Haida](../../Characters/Incarnations%20&%20Gods/Haida).  
+Since she has the ability to monitor the entire world all at once, she's always informed, but since she's not particularly interested in personally running an entire military herself, she hand picks the Field, Air, and Sea Marshals and distributes information through them. On the rare occasion she personally takes control, it's usually to turn the tide of battle in her favor, as her direct control can increase effective strength to that of a force five times their size, or to the point of being virtually undefeatable with the assistance of [[../../Characters/Incarnations & Gods/Haida|Haida]].  
   
-Freya and Haida are also both members of Task Force 5555 along with [Garm](../../Characters/Incarnations%20&%20Gods/Garm), [Dvalinn](../../Characters/Incarnations%20&%20Gods/Dvalinn), [Kuhai](../../Characters/Incarnations%20&%20Gods/Kuhai), and [Neven](../../Characters/Incarnations%20&%20Gods/Neven). No official record of any of them - or even their unit - exists, but their existence is nevertheless known to members of the Risky Witches. Outside the unit, all of the incarnations aside from Freya hold the effective rank of O-6, and everyone else holds the effective rank of O-5. The hierarchy within the unit is informal at best and a disorganized mess at worst.  
+Freya and Haida are also both members of Task Force 5555 along with [[../../Characters/Incarnations & Gods/Garm|Garm]], [[../../Characters/Incarnations & Gods/Dvalinn|Dvalinn]], [[../../Characters/Incarnations & Gods/Kuhai|Kuhai]], and [[../../Characters/Incarnations & Gods/Neven|Neven]]. No official record of any of them - or even their unit - exists, but their existence is nevertheless known to members of the Risky Witches. Outside the unit, all of the incarnations aside from Freya hold the effective rank of O-6, and everyone else holds the effective rank of O-5. The hierarchy within the unit is informal at best and a disorganized mess at worst.  
   
-![Risky Witches structure.drawio.svg](../../../assets/img/Risky%20Witches%20structure.drawio.svg)  
+![[../../../assets/img/Risky Witches structure.drawio.svg|Risky Witches structure.drawio.svg]]  
   
 ### Army  
   
@@ -139,9 +139,9 @@ The Special Forces branch of the Risky Witches is comprised of the hand picked e
   
 Task Force 1743, Irregular Security (ISEC) is a unit classified as top secret, known by name only to all but a select handful of high ranking individuals. Their influence is global, and as such their numbers are impossible to ascertain. They operate in the shadows, outside of international law, and always accomplish their mission no matter the cost. Nothing is off limits for them.  
   
-Task Force 5555, "Party Regiment" is an all weather, day and night shock unit comprised of the pinnacle of the elite, trained for absolute superiority both on the ground and in the air, led personally by Freya and the [Incarnations](../Concepts/Incarnations). While the unit is technically classified to prevent vital information from leaking, the name and strength of this unit is well known to all of the Risky Witches and is a huge morale booster. Part of the nickname comes from that fact, as simply hearing that the unit is joining the battle causes effective allied strength to surge. The other reason for the nickname is from the extreme freedom enjoyed within this unit, leading to a lot of highly unprofessional activity, like frequent wild parties.  
+Task Force 5555, "Party Regiment" is an all weather, day and night shock unit comprised of the pinnacle of the elite, trained for absolute superiority both on the ground and in the air, led personally by Freya and the [[../Concepts/Incarnations|Incarnations]]. While the unit is technically classified to prevent vital information from leaking, the name and strength of this unit is well known to all of the Risky Witches and is a huge morale booster. Part of the nickname comes from that fact, as simply hearing that the unit is joining the battle causes effective allied strength to surge. The other reason for the nickname is from the extreme freedom enjoyed within this unit, leading to a lot of highly unprofessional activity, like frequent wild parties.  
   
-They have their own dedicated armory and a large, extremely varied aircraft inventory, all sporting distinctive paint jobs, and none of which is counted in their official statistics. They number 328 personnel, and all but three of them have both [alignment](../Concepts/Alignment) and attunement. The exceptions are Garm and Kuhai, who lack alignment, and [Nikolai Anatolyevich Litvyak](Nikolai%20Anatolyevich%20Litvyak), who lacks both abilities.  
+They have their own dedicated armory and a large, extremely varied aircraft inventory, all sporting distinctive paint jobs, and none of which is counted in their official statistics. They number 328 personnel, and all but three of them have both [[../Concepts/Alignment|alignment]] and attunement. The exceptions are Garm and Kuhai, who lack alignment, and [[Nikolai Anatolyevich Litvyak]], who lacks both abilities.  
   
 ### Non-combatants  
   
@@ -244,7 +244,7 @@ Some, but not all, of the many weapons in service, roughly in order of prominenc
 > [!bug] Issue  
 > Need to rethink the Risky Witches history and rewrite it to be more descriptive of the group rather than some of the people in it.  
   
-The Risky Witches began to form in 1981, originally a multirole fighter squadron in the Destrean air force commanded by Freya, known as the [Witch Squadron](Witch%20Squadron). Their flying prowess combined with Destrean affiliation caused the Witch Squadron to slowly grow infamous, and their repeated insubordination caused the Destrean military to grow tired of their presence. Rather than disband the unit, its resources were quietly reallocated and the unit was sent into increasingly dangerous operations.  
+The Risky Witches began to form in 1981, originally a multirole fighter squadron in the Destrean air force commanded by Freya, known as the [[Witch Squadron]]. Their flying prowess combined with Destrean affiliation caused the Witch Squadron to slowly grow infamous, and their repeated insubordination caused the Destrean military to grow tired of their presence. Rather than disband the unit, its resources were quietly reallocated and the unit was sent into increasingly dangerous operations.  
   
 They lost several pilots, including Freya herself who was shot down over enemy territory and could not eject. Before impact, she ordered her squadron to withdraw, after which they were swiftly grounded by the wing commander. Having grown rather close, the surviving members of the Witch Squadron mourned Freya, but days later she walked into the dormitory wielding a revolver, shot the supervisor in front of her squad mates, and deserted with them. Word spread quickly and their infamy grew explosively.  
   
@@ -254,42 +254,42 @@ During a planned ambush on a Destrean transport, a young Garm was found being us
   
 Garm was raised to adulthood in the company of Freya and the Witchblades, who treated her warmly like their own family. During this time, Freya was also seizing every opportunity to track down Dvalinn, Haida, Kuhai, and Neven, and Destrean soldiers continued to desert. Desertions by spirits and people with attunement also skyrocketed.  
   
-On new year's day in 1991, the Risky Witches carried out [The Big Event](../History%20&%20Events/The%20Big%20Event).  
+On new year's day in 1991, the Risky Witches carried out [[../History & Events/The Big Event|The Big Event]].  
   
 ## Foreign relations  
   
 As a paramilitary group not officially recognized as a state or nation, foreign relations take on a unique tone with the Risky Witches as leaders and diplomats fear the potential implications of relations with them. Most contact is handled unofficially as a result, perpetuating a "don't ask, don't tell" attitude regarding the Risky Witches in the international community.  
   
-![Political relations chart (Risky Witches).svg](Political%20relations%20chart%20(Risky%20Witches).svg)  
+![[Political relations chart (Risky Witches).svg]]  
   
-**[Alastor](../Map/Alastor/Alastor)**\  
+**[[../Map/Alastor/Alastor|Alastor]]**\  
 Shortly after their establishment in 1991, the Risky Witches issued an international statement swearing to defend Alastor from all threats under any circumstances. In return, the Risky Witches are the only foreign entity allowed to pass freely through Alastor territory as they please, and Alastor provides them whatever support they can offer as needed.  
   
-**[Corstaea](../Map/Corstaea/Corstaea)**\  
+**[[../Map/Corstaea/Corstaea|Corstaea]]**\  
 Corstaea remains neutral towards the Risky Witches, having no need for their services and no reason to offer them support. The feeling is mutual.  
   
-**[Destrea](../Map/Destrea/Destrea)**\  
+**[[../Map/Destrea/Destrea|Destrea]]**\  
 Obviously, they are sworn enemies. There is no repairing the relationship between the Risky Witches and Destrea, not without a total revolution by the Destrean people.  
   
-**[Grenneria](../Map/Grenneria/Grenneria)**\  
+**[[../Map/Grenneria/Grenneria|Grenneria]]**\  
 Grenneria is of the opinion that the Risky Witches are terrorists, but isn't brave enough to publicly denounce them. Relations are very passive aggressive as a result.  
   
-**[Ilmaria](../Map/Ilmaria/Ilmaria)**\  
+**[[../Map/Ilmaria/Ilmaria|Ilmaria]]**\  
 While Ilmaria has turned a blind eye to the Risky Witches, the Risky Witches have a keen interest in Ilmaria as an enemy. They just need an excuse to attack.  
   
-**[Osun Tanum](../Map/Osun%20Tanum/Osun%20Tanum)**\  
+**[[../Map/Osun Tanum/Osun Tanum|Osun Tanum]]**\  
 Osun Tanum is cautious towards the Risky Witches, but fully support their goal of independence. The Risky Witches are cautiously optimistic regarding Osun Tanum as they are in full support of their policies and cultural treatment towards spirits and those with attunement, but neither offers services nor accepts support from them due to the possible consequences for Osun Tanum.  
   
-**[Sangyon](../Map/Sangyon/Sangyon)**\  
+**[[../Map/Sangyon/Sangyon|Sangyon]]**\  
 Sangyon is very wary of the Risky Witches because they know their military strength cannot compare. However, the Risky Witches have no issue with Sangyon and regularly offer their services.  
   
-**[Shaohou](../Map/Shaohou/Shaohou)**\  
+**[[../Map/Shaohou/Shaohou|Shaohou]]**\  
 Shaohou, as a friend to Destrea, shares their hostile opinion against the Risky Witches, but not quite to the same degree. Relations are still possible between the two, though under extreme tension.  
   
-**[Shinzen](../Map/Shinzen/Shinzen)**\  
+**[[../Map/Shinzen/Shinzen|Shinzen]]**\  
 Shinzen has a very negative opinion of the Risky Witches as they are highly opposed to war. However, the Risky Witches have no issue with Shinzen, so tensions may be high but they amount to nothing.  
   
-**[Ustonia](../Map/Ustonia/Ustonia)**\  
+**[[../Map/Ustonia/Ustonia|Ustonia]]**\  
 As Ustonia had negative relations with Destrea already, they seized an opportunity when the Risky Witches formed and formed a pact. Ustonia provides the Risky Witches with supplies and arms regularly in return for a heavy discount on their services and mutual defense when called for.  
   
 -----  

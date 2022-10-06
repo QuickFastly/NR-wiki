@@ -5,7 +5,7 @@ tags: PG
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-[Kanjō Ward](./Kanj%C5%8D%20Ward)  
+[[./Kanjō Ward|Kanjō Ward]]  
   
 -----  
 > [!cite] Author info  

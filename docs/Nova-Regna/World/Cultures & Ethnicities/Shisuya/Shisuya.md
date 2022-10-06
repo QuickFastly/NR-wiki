@@ -6,7 +6,7 @@ comments: true
 > This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until enough detail is added to a given subgroup to be moved to its own page, it will remain here.  
   
 > [!example]- Real-world influences  
-> Of course because there is so much potential detail to be added to pages like these, inspiration must be drawn from somewhere. More subgroups may be added in the future as well, but under specific circumstances. For a lot more detail about all that, check the meta page on [appropriate real-world influences](../../../_meta/Appropriate%20real-world%20influences).  
+> Of course because there is so much potential detail to be added to pages like these, inspiration must be drawn from somewhere. More subgroups may be added in the future as well, but under specific circumstances. For a lot more detail about all that, check the meta page on [[../../../_meta/Appropriate real-world influences|appropriate real-world influences]].  
 >    
 > Here is the abridged version for this page specifically:  
 > - **Shisuya** | Inspired by = Yamato people  
@@ -47,9 +47,9 @@ comments: true
   </table>  
 </div>  
   
-The Shisuya people are one of the seven major [ethnic groups](../Cultures%20&%20Ethnicities) of [the world](../../Map/Earth), occupying approximately 23% of the global population, primarily in [Shinzen](../../Map/Shinzen/Shinzen) on the continent of [Avangia](../../Map/Avangia). It is also one of the three ethnic and cultural groups that has retained its own prominence to this day since ancient times, even after the ethnogenesis of its numerous subgroups.  
+The Shisuya people are one of the seven major [[../Cultures & Ethnicities|ethnic groups]] of [[../../Map/Earth|the world]], occupying approximately 23% of the global population, primarily in [[../../Map/Shinzen/Shinzen|Shinzen]] on the continent of [[../../Map/Avangia|Avangia]]. It is also one of the three ethnic and cultural groups that has retained its own prominence to this day since ancient times, even after the ethnogenesis of its numerous subgroups.  
   
-They speak Suyago, a distant evolution of the ancient Proto-Avanic language, which has yet to be fully reconstructed. The earliest translated artifacts date back to approximately 15 AO, and they document the procedures used to divide the first Shisuya people into five migratory groups, suggesting that the oldest ethnic subgroups of the Shisuya may have been present since [Era Dira](../../History%20&%20Events/Era%20Dira), and may in fact have been more genetically distinct than previously thought.  
+They speak Suyago, a distant evolution of the ancient Proto-Avanic language, which has yet to be fully reconstructed. The earliest translated artifacts date back to approximately 15 AO, and they document the procedures used to divide the first Shisuya people into five migratory groups, suggesting that the oldest ethnic subgroups of the Shisuya may have been present since [[../../History & Events/Era Dira|Era Dira]], and may in fact have been more genetically distinct than previously thought.  
   
 More TBD  
   
@@ -88,7 +88,7 @@ More TBD
   </table>  
 </div>  
   
-The Kinu people are an ethnic group thought to be descended from the [Shisuya](Shisuya) that first settled what is known today as [Tozawa](Tozawa), [Shinzen](../../Map/Shinzen/Shinzen). Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 15 AO which points to the origins of the Kinu people has yet to be discovered. Their language, known as Kinugo by the government of Shinzen, is entirely unique and isolated from the rest of the Shisuya languages, making it one of two languages in the world with no known relatives, alongside the [Irovell](../Irovell/Irovell)-Tollan language, Avannarnipi. It is at risk of becoming endangered, as fewer Kinu youths are learning the language with every generation.  
+The Kinu people are an ethnic group thought to be descended from the [[Shisuya|Shisuya]] that first settled what is known today as [[Tozawa]], [[../../Map/Shinzen/Shinzen|Shinzen]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 15 AO which points to the origins of the Kinu people has yet to be discovered. Their language, known as Kinugo by the government of Shinzen, is entirely unique and isolated from the rest of the Shisuya languages, making it one of two languages in the world with no known relatives, alongside the [[../Irovell/Irovell|Irovell]]-Tollan language, Avannarnipi. It is at risk of becoming endangered, as fewer Kinu youths are learning the language with every generation.  
   
 ### Okyu people  
   
@@ -120,7 +120,7 @@ The Kinu people are an ethnic group thought to be descended from the [Shisuya](S
   </table>  
 </div>  
   
-The Okyu people are an ethnic group thought to be descended from the [Shisuya](Shisuya) that first settled what is known today as [Okina](Okina), [Shinzen](../../Map/Shinzen/Shinzen). Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 15 AO which points to the origins of the Okyu people has yet to be discovered. Their language, known as Okyugo by the government of Shinzen, is a distant evolution of the ancient Proto-Avanic language, and is largely unintelligible to speakers of other languages from the same family. It is at risk of becoming endangered, as fewer Okyu youths are learning the language with every generation.  
+The Okyu people are an ethnic group thought to be descended from the [[Shisuya|Shisuya]] that first settled what is known today as [[Okina]], [[../../Map/Shinzen/Shinzen|Shinzen]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 15 AO which points to the origins of the Okyu people has yet to be discovered. Their language, known as Okyugo by the government of Shinzen, is a distant evolution of the ancient Proto-Avanic language, and is largely unintelligible to speakers of other languages from the same family. It is at risk of becoming endangered, as fewer Okyu youths are learning the language with every generation.  
   
 ### Anzu people  
   
@@ -152,7 +152,7 @@ The Okyu people are an ethnic group thought to be descended from the [Shisuya](S
   </table>  
 </div>  
   
-The Anzu people are an ethnic group thought to be descended from the [Shisuya](Shisuya) that first settled what is known today as [Kiyoshiri](Kiyoshiri), [Shinzen](../../Map/Shinzen/Shinzen). Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 15 AO which points to the origins of the Anzu people has yet to be discovered. They speak Anzugo, a unique dialect of Suyago that can cause confusion for some native speakers of Suyago, but is generally perceived as a more melodic, fun, and boisterous way of speaking.  
+The Anzu people are an ethnic group thought to be descended from the [[Shisuya|Shisuya]] that first settled what is known today as [[Kiyoshiri]], [[../../Map/Shinzen/Shinzen|Shinzen]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 15 AO which points to the origins of the Anzu people has yet to be discovered. They speak Anzugo, a unique dialect of Suyago that can cause confusion for some native speakers of Suyago, but is generally perceived as a more melodic, fun, and boisterous way of speaking.  
   
 ### Toru people  
   
@@ -184,7 +184,7 @@ The Anzu people are an ethnic group thought to be descended from the [Shisuya](S
   </table>  
 </div>  
   
-The Toru people are an ethnic group thought to be descended from the [Shisuya](Shisuya) that first settled what is known today as [Kenshiri](Kenshiri), [Shinzen](../../Map/Shinzen/Shinzen). Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 15 AO which points to the origins of the Toru people has yet to be discovered. They speak Torugo, a unique dialect of Suyago that can cause confusion for some native speakers of Suyago, but is generally perceived as a more passionate, direct, and forceful way of speaking.  
+The Toru people are an ethnic group thought to be descended from the [[Shisuya|Shisuya]] that first settled what is known today as [[Kenshiri]], [[../../Map/Shinzen/Shinzen|Shinzen]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 15 AO which points to the origins of the Toru people has yet to be discovered. They speak Torugo, a unique dialect of Suyago that can cause confusion for some native speakers of Suyago, but is generally perceived as a more passionate, direct, and forceful way of speaking.  
   
 -----  
 > [!cite] Author info  

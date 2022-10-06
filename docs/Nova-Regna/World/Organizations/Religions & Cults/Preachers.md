@@ -5,7 +5,7 @@ comments: true
 > [!bug] Issue  
 > The main article could use some rewrites, so this page is also subject to change.  
   
-The Preachers branch of the [Children of the Flame](./Children%20of%20the%20Flame) is not quite what one would expect by the name. Their primary responsibility lies not in spreading the word of their faith, but rather in public relations, leaving the actual preaching to the lowest ranked members. These people are the face of the group, the only part that the vast majority of people know.  
+The Preachers branch of the [[./Children of the Flame|Children of the Flame]] is not quite what one would expect by the name. Their primary responsibility lies not in spreading the word of their faith, but rather in public relations, leaving the actual preaching to the lowest ranked members. These people are the face of the group, the only part that the vast majority of people know.  
   
 ## Structure  
   
@@ -13,7 +13,7 @@ The Preachers branch of the [Children of the Flame](./Children%20of%20the%20Flam
   
 The "fatherly" types of the organization, these are the people that the entire Preachers wing answer to. They wear extravagant vestments and are rarely seen in public except for ceremonial occasions, but those within the organization beneath them tend to look up to the Patriarchs as role models.  
   
-Mostly unknown to everyone, however, the Patriarchs also play a part in the [Internal Society](./Internal%20Society) of the organization, evaluating Initiates to see whether or not they would fit as Eunuchs and sometimes engaging in debauchery with the Sisters behind closed doors. Patriarchs are appointed personally by the Seekers.  
+Mostly unknown to everyone, however, the Patriarchs also play a part in the [[./Internal Society|Internal Society]] of the organization, evaluating Initiates to see whether or not they would fit as Eunuchs and sometimes engaging in debauchery with the Sisters behind closed doors. Patriarchs are appointed personally by the Seekers.  
   
 ### Reverends  
   

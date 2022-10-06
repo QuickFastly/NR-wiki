@@ -8,11 +8,11 @@ The standard was not made retroactive, so any dates and times found in documents
   
 | Country       | Year adopted    | Country        | Year Adopted    |  
 | ------------- | --------------- | -------------- | --------------- |  
-| [Alastor](../Map/Alastor/Alastor)   | 1530            | [Osun Tanum](../Map/Osun%20Tanum/Osun%20Tanum) | Since formation |  
-| [Corstaea](../Map/Corstaea/Corstaea)  | 1537            | [Sangyon](../Map/Sangyon/Sangyon)    | 1524            |  
-| [Destrea](../Map/Destrea/Destrea)   | Since formation | [Shaohou](../Map/Shaohou/Shaohou)    | 1549            |  
-| [Grenneria](../Map/Grenneria/Grenneria) | 1532            | [Shinzen](../Map/Shinzen/Shinzen)    | 1540            |  
-| [Ilmaria](../Map/Ilmaria/Ilmaria)   | Since formation | [Ustonia](../Map/Ustonia/Ustonia)    | Since formation |  
+| [[../Map/Alastor/Alastor|Alastor]]   | 1530            | [[../Map/Osun Tanum/Osun Tanum|Osun Tanum]] | Since formation |  
+| [[../Map/Corstaea/Corstaea|Corstaea]]  | 1537            | [[../Map/Sangyon/Sangyon|Sangyon]]    | 1524            |  
+| [[../Map/Destrea/Destrea|Destrea]]   | Since formation | [[../Map/Shaohou/Shaohou|Shaohou]]    | 1549            |  
+| [[../Map/Grenneria/Grenneria|Grenneria]] | 1532            | [[../Map/Shinzen/Shinzen|Shinzen]]    | 1540            |  
+| [[../Map/Ilmaria/Ilmaria|Ilmaria]]   | Since formation | [[../Map/Ustonia/Ustonia|Ustonia]]    | Since formation |  
   
 ## Dates  
   
@@ -49,7 +49,7 @@ This practice was first proposed in 1815 by a Ustonian man as a joke, but was ad
   
 Only Ustonia has continued to use daylight saving time, but as industrialization and urbanization continued to transform the country, public opinion of daylight saving time continued to decline sharply, citing public health risk, increased traffic fatalities (particularly among commuting schoolchildren), lost productivity, increased rate of workplace injuries, stock market disruption, and even more grievances caused by the changing of the clocks.  
   
-In 2022, after four failed attempts, Ustonia revised the federal law regarding daylight saving time, allowing individual states to choose whether they will observe daylight saving time seasonally, or permanently observe either daylight saving time or standard time. Within the year, 17 of the 19 states of Ustonia voted with overwhelming support to permanently observe standard time, while the state of [Stonesea](Stonesea) voted for permanent daylight saving time, and the state of [Arkbay](Arkbay) voted to continue seasonally changing clocks. Stonesea reverted to permanent standard time only two years later after severe backlash from its citizens, the majority of whom were previously in favor of daylight saving time.  
+In 2022, after four failed attempts, Ustonia revised the federal law regarding daylight saving time, allowing individual states to choose whether they will observe daylight saving time seasonally, or permanently observe either daylight saving time or standard time. Within the year, 17 of the 19 states of Ustonia voted with overwhelming support to permanently observe standard time, while the state of [[Stonesea]] voted for permanent daylight saving time, and the state of [[Arkbay]] voted to continue seasonally changing clocks. Stonesea reverted to permanent standard time only two years later after severe backlash from its citizens, the majority of whom were previously in favor of daylight saving time.  
   
 To this day, the state of Arkbay is the only place in the world that observes daylight saving time, and it continues to attract mockery and cause international confusion and frustration.  
   

@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/Florian%20portrait.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/Florian portrait.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -104,9 +104,9 @@ comments: true
   </table>  
 </div>  
   
-<span style="font-size:smaller; float:right; clear:right; width:260px; margin:14 0 7 14;">![florian ref (wrathes).png](florian%20ref%20(wrathes).png)<br>First Florian reference - <i>Artist: <a href=https://twitter.com/wrathes>wrathes</a></i></span>  
+<span style="font-size:smaller; float:right; clear:right; width:260px; margin:14 0 7 14;">![[florian ref (wrathes).png]]<br>First Florian reference - <i>Artist: <a href=https://twitter.com/wrathes>wrathes</a></i></span>  
   
-Florian is a [crow spirit](../../World/Inhabitants/Crow) and one of the three immortal [Incarnations](../../World/Concepts/Incarnations). He is one of the three deities of the [Children of the Flame](../../World/Organizations/Religions%20&%20Cults/Children%20of%20the%20Flame), along with [Freya](./Freya) and [Kerosyn](./Kerosyn).  
+Florian is a [[../../World/Inhabitants/Crow|crow spirit]] and one of the three immortal [[../../World/Concepts/Incarnations|Incarnations]]. He is one of the three deities of the [[../../World/Organizations/Religions & Cults/Children of the Flame|Children of the Flame]], along with [[./Freya|Freya]] and [[./Kerosyn|Kerosyn]].  
   
 ## Physical description  
   
@@ -114,7 +114,7 @@ Florian is an extremely tall, pale skinned man with a very lanky build. His arms
   
 His arms are covered in iridescent black feathers, and his fingers are also primarily feathers, though they can still grab and hold things without issue. These feathers are also capable of hardening and sharpening at will, allowing him to use his fingers as incredibly sharp knives. An inky black smoke pours off his arms at all times and rises from his sleeves and collar. He seems to be capable of altering the rate of this process along with the consistency of the smoke, but cannot stop it.  
   
-The [Brand](The%20Brand%20(Children%20of%20the%20Flame).png) is burned into his chest in white, glowing so faintly that it's only noticeable in the dark, making it quite difficult to see against his colorless skin. His skin is cold to the touch, rough, and incredibly thick and durable. His whole torso is wrapped in bandages, except for the area displaying the Brand, and aside from himself, Freya, and Kerosyn, nobody knows what's under them, only that he's always bleeding. He apparently changes them frequently though, as he is only rarely seen with bloodied bandages.  
+The [[The Brand (Children of the Flame).png|Brand]] is burned into his chest in white, glowing so faintly that it's only noticeable in the dark, making it quite difficult to see against his colorless skin. His skin is cold to the touch, rough, and incredibly thick and durable. His whole torso is wrapped in bandages, except for the area displaying the Brand, and aside from himself, Freya, and Kerosyn, nobody knows what's under them, only that he's always bleeding. He apparently changes them frequently though, as he is only rarely seen with bloodied bandages.  
   
 Despite what his slim frame may suggest, Florian is actually extremely heavy. His weight comes from having supernaturally dense skin, muscles, and bones, along with having a significantly higher mass of blood in his veins than their total available volume should be capable of containing.  
   
@@ -126,7 +126,7 @@ He claims to own other clothes, but nobody can tell if that's true since he alwa
   
 ## Special abilities  
   
-He wields [Attunement](../../World/Concepts/Attunement) to its fullest potential, able to do quite literally anything short of a feat of creation on his own, but when he, Kerosyn, and Freya work together, they become seemingly omnipotent, capable of reality-altering feats of unknown magnitude. The three of them also seem to share some type of primitive telepathic link, which allows them to always know each other's location and to share strong feelings, but does not allow them to communicate directly. Finally, his [Alignment](../../World/Concepts/Alignment) gives him the ability to directly perceive the current health of all living things, as well as [psychometry](https://powerlisting.fandom.com/wiki/Psychometry) and the ability to immediately understand what a living thing is feeling on a primitive level through physical contact. Interestingly, that's all it gives him, as he experiences no other effects of the condition and cannot directly perceive [Mystic Matter](../../World/Concepts/Mystic%20Matter) itself.   
+He wields [[../../World/Concepts/Attunement|Attunement]] to its fullest potential, able to do quite literally anything short of a feat of creation on his own, but when he, Kerosyn, and Freya work together, they become seemingly omnipotent, capable of reality-altering feats of unknown magnitude. The three of them also seem to share some type of primitive telepathic link, which allows them to always know each other's location and to share strong feelings, but does not allow them to communicate directly. Finally, his [[../../World/Concepts/Alignment|Alignment]] gives him the ability to directly perceive the current health of all living things, as well as [psychometry](https://powerlisting.fandom.com/wiki/Psychometry) and the ability to immediately understand what a living thing is feeling on a primitive level through physical contact. Interestingly, that's all it gives him, as he experiences no other effects of the condition and cannot directly perceive [[../../World/Concepts/Mystic Matter|Mystic Matter]] itself.   
   
 The obvious manifestation of his power is the inky black smoke pouring off of him, but that's only the visible result. That smoke is actually caused by his blood boiling in the veins of his arms. His body produces such an incredible amount of blood that it becomes thick and very dark, and the pressure rises to such extreme levels that the boiling occurs. To control the flow of that smoke, he actually changes the flow rate of his own blood, which is his signature use of power, blood manipulation. Should he wish to, he could slow or stop the flow of blood in another being with a slight gesture, control a body like a marionette by pushing and pulling on its blood, make himself look larger and scarier by drawing out his own blood and shaping it into things like giant wings, and so on. He can also use the smoke from his arms to influence the health of other living things by allowing it to be inhaled, or by allowing his blood to be consumed. He draws his own blood out from underneath the bandages on his abdomen.   
   
@@ -162,7 +162,7 @@ He sees Freya as a sister, but they treat each other more like workplace colleag
   
 The relationship between these three can sometimes appear more parental than that of siblings due to Kerosyn's childlike nature, though they all reject the idea of that.  
   
-Despite being in regular contact with [The Sixth Storyteller](../The%20Sixth%20Storyteller), and often in close proximity as well, Florian calls him an ally, but not a friend. They work together on many things, but Florian feels that there's something off about him and ignores his attempts to be friendly. Proximity to the Storyteller also means being close to [Leon Van Wolfe](../Leon%20Van%20Wolfe) and [Mae Seraphine Walker](../Mae%20Seraphine%20Walker), both of whom Florian is on much friendlier terms with.  
+Despite being in regular contact with [[../The Sixth Storyteller|The Sixth Storyteller]], and often in close proximity as well, Florian calls him an ally, but not a friend. They work together on many things, but Florian feels that there's something off about him and ignores his attempts to be friendly. Proximity to the Storyteller also means being close to [[../Leon Van Wolfe|Leon Van Wolfe]] and [[../Mae Seraphine Walker|Mae Seraphine Walker]], both of whom Florian is on much friendlier terms with.  
   
 ### Affiliations  
   
@@ -170,7 +170,7 @@ Being one of the three deities of the Children of the Flame, Florian is very str
   
 ## History  
   
-Some of Florian's history during [Era Dira](../../World/History%20&%20Events/Era%20Dira) is described in [The Account](../../World/History%20&%20Events/The%20Account).  
+Some of Florian's history during [[../../World/History & Events/Era Dira|Era Dira]] is described in [[../../World/History & Events/The Account|The Account]].  
   
 ## Trivia  
   

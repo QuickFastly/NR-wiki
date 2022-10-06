@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -104,11 +104,11 @@ comments: true
   </table>  
 </div>  
   
-Garm is a [Wolf spirit](../../World/Inhabitants/Wolf) and one of the five mortal [Incarnations](../../World/Concepts/Incarnations). She is loyal to [Freya](./Freya) and the [Risky Witches](../../World/Organizations/Risky%20Witches), and participated in [The Big Event](../../World/History%20&%20Events/The%20Big%20Event).  
+Garm is a [[../../World/Inhabitants/Wolf|Wolf spirit]] and one of the five mortal [[../../World/Concepts/Incarnations|Incarnations]]. She is loyal to [[./Freya|Freya]] and the [[../../World/Organizations/Risky Witches|Risky Witches]], and participated in [[../../World/History & Events/The Big Event|The Big Event]].  
   
 ## Summary  
   
-As a mortal incarnation, Garm has been several people throughout history. Every incarnation of Garm shares a number of constant traits, including wild black hair, deep silver eyes, absolute ambidexterity, and an unusual, rather unsettling gait. They possess [Attunement](../../World/Concepts/Attunement) that manifests as monstrous physical strength and durability, and an invisible force that increases their offensive range and perception, but these abilities are both utilized subconsciously. Garm is a frighteningly powerful and vicious fighter thanks not only to brute strength, but also their lightning fast instincts and reflexes. They do not possess [Alignment](../../World/Concepts/Alignment).  
+As a mortal incarnation, Garm has been several people throughout history. Every incarnation of Garm shares a number of constant traits, including wild black hair, deep silver eyes, absolute ambidexterity, and an unusual, rather unsettling gait. They possess [[../../World/Concepts/Attunement|Attunement]] that manifests as monstrous physical strength and durability, and an invisible force that increases their offensive range and perception, but these abilities are both utilized subconsciously. Garm is a frighteningly powerful and vicious fighter thanks not only to brute strength, but also their lightning fast instincts and reflexes. They do not possess [[../../World/Concepts/Alignment|Alignment]].  
   
 Garm has an undying loyalty to their master, provided that master has the tenacity to maintain authority. Until they find a master, they wander like a wild dog, flattening anything in their path. Because their master can have varying goals and ideals through the generations, so too does Garm themselves. Should their master show weakness one too many times, Garm will kill them and begin the search again.  
   
@@ -177,13 +177,13 @@ Unlike the rest of the incarnations, Garm has no particular motivation of her ow
   
 Garm was effectively raised by Freya and sees her both as her master and as a mother, though their relationship often outwardly appears more like that of a pet owner and their loyal dog. They both have fun with that arrangement, but when it's quiet, they do truly act like mother and daughter. Anybody familiar with the two of them can see that bond even through the odd public appearance.  
   
-Since she was taken in by Freya in the early days of the Risky Witches, she is quite close with many of the oldest members of the organization as well - who are very proud of her - and is quite protective of them. She is also very close with [Dvalinn](./Dvalinn), [Kuhai](./Kuhai), [Haida](./Haida), and [Neven](./Neven) thanks to Freya bringing them all together.  
+Since she was taken in by Freya in the early days of the Risky Witches, she is quite close with many of the oldest members of the organization as well - who are very proud of her - and is quite protective of them. She is also very close with [[./Dvalinn|Dvalinn]], [[./Kuhai|Kuhai]], [[./Haida|Haida]], and [[./Neven|Neven]] thanks to Freya bringing them all together.  
   
 She treats Dvalinn like a little brother (despite being younger than him) and picks on him a lot, much to his dismay. She sees Kuhai as a rival and enjoys fighting with her. She looks up to Neven like an older sister, and to Haida like a grandmother.  
   
 ### Affiliations  
   
-She is a member of the Risky Witches [Task Force 5555](Risky%20Witches#Special%20forces) with the effective rank of O-6.  
+She is a member of the Risky Witches [[Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
   
 ## History  
   

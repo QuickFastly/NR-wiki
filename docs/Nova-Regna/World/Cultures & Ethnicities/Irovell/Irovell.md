@@ -6,7 +6,7 @@ comments: true
 > This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until enough detail is added to a given subgroup to be moved to its own page, it will remain here.  
   
 > [!example]- Real-world influences  
-> Of course because there is so much potential detail to be added to pages like these, inspiration must be drawn from somewhere. More subgroups may be added in the future as well, but under specific circumstances. For a lot more detail about all that, check the meta page on [appropriate real-world influences](../../../_meta/Appropriate%20real-world%20influences).  
+> Of course because there is so much potential detail to be added to pages like these, inspiration must be drawn from somewhere. More subgroups may be added in the future as well, but under specific circumstances. For a lot more detail about all that, check the meta page on [[../../../_meta/Appropriate real-world influences|appropriate real-world influences]].  
 >    
 > Here is the abridged version for this page specifically:  
 > - **Tollan** | Inspired by = Greenland  
@@ -45,7 +45,7 @@ comments: true
   </table>  
 </div>  
   
-The Irovell people are one of the seven major [ethnic groups](../Cultures%20&%20Ethnicities) of [the world](../../Map/Earth), occupying approximately 13% of the global population, primarily in [Corstaea](../../Map/Corstaea/Corstaea) and [Osun Tanum](../../Map/Osun%20Tanum/Osun%20Tanum) on the continent of [Ozen](../../Map/Ozen), as well as [Alastor](../../Map/Alastor/Alastor).  
+The Irovell people are one of the seven major [[../Cultures & Ethnicities|ethnic groups]] of [[../../Map/Earth|the world]], occupying approximately 13% of the global population, primarily in [[../../Map/Corstaea/Corstaea|Corstaea]] and [[../../Map/Osun Tanum/Osun Tanum|Osun Tanum]] on the continent of [[../../Map/Ozen|Ozen]], as well as [[../../Map/Alastor/Alastor|Alastor]].  
   
 The first Irovell people disappeared sometime in the 8th century, far removed from and overtaken by the many ethnic groups that came from them, leaving behind swathes of unique myth and lore prized by museums around the world, but little else. The most notable and extensive of myths left behind by the Irovell is the story of their emergence, and the experience of "stepping out from the mountain" in the first years of Anno Ortu.  
   
@@ -86,7 +86,7 @@ More TBD
   </table>  
 </div>  
   
-The Tollan people are descended from the ancient [Irovell](Irovell) people that first settled the land now known as [Tolred](Tolred), [Corstaea](../../Map/Corstaea/Corstaea), and are the only living ethnic group in the world known to have originated during [Era Dira](../../History%20&%20Events/Era%20Dira) while also being a subgroup of one of the [major seven](../Cultures%20&%20Ethnicities). Extensive Irovell artifacts corroborate the origins of the Tollan people and their relationship to the Irovell, but their time of origin remains unknown. Very few Tollan people remain due to hostile [Farodet](../Farodet/Farodet) colonials and later being outnumbered in their own lands by the Amari. They speak Avannarnipi, which is the oldest known living language in the world, and one of only two languages in the world with no known relatives, alongside the [Shisuya](../Shisuya/Shisuya)-Kinu language, Kinugo. It is considered endangered with mostly elderly speakers today.  
+The Tollan people are descended from the ancient [[Irovell|Irovell]] people that first settled the land now known as [[Tolred]], [[../../Map/Corstaea/Corstaea|Corstaea]], and are the only living ethnic group in the world known to have originated during [[../../History & Events/Era Dira|Era Dira]] while also being a subgroup of one of the [[../Cultures & Ethnicities|major seven]]. Extensive Irovell artifacts corroborate the origins of the Tollan people and their relationship to the Irovell, but their time of origin remains unknown. Very few Tollan people remain due to hostile [[../Farodet/Farodet|Farodet]] colonials and later being outnumbered in their own lands by the Amari. They speak Avannarnipi, which is the oldest known living language in the world, and one of only two languages in the world with no known relatives, alongside the [[../Shisuya/Shisuya|Shisuya]]-Kinu language, Kinugo. It is considered endangered with mostly elderly speakers today.  
   
 ### Halli people  
   
@@ -118,7 +118,7 @@ The Tollan people are descended from the ancient [Irovell](Irovell) people that 
   </table>  
 </div>  
   
-The Halli people are potentially the first new ethnic group to be formed from the [Irovell](Irovell) people, first settling in what is now known as [Halstrand](Halstrand), [Corstaea](../../Map/Corstaea/Corstaea). Whether the Halli or the Sarians came first is a question still under debate that requires further study. The Halli language is a simplified evolution of the ancient Irovell language, and thanks to how easy it is to learn for the people of [Ozen](../../Map/Ozen) and [Yulentia](../../Map/Yulentia), plus the colonization of [Ustonia](../../Map/Ustonia/Ustonia), Halli has become the world's most commonly spoken language.  
+The Halli people are potentially the first new ethnic group to be formed from the [[Irovell|Irovell]] people, first settling in what is now known as [[Halstrand]], [[../../Map/Corstaea/Corstaea|Corstaea]]. Whether the Halli or the Sarians came first is a question still under debate that requires further study. The Halli language is a simplified evolution of the ancient Irovell language, and thanks to how easy it is to learn for the people of [[../../Map/Ozen|Ozen]] and [[../../Map/Yulentia|Yulentia]], plus the colonization of [[../../Map/Ustonia/Ustonia|Ustonia]], Halli has become the world's most commonly spoken language.  
   
 ### Svalli people  
   
@@ -150,7 +150,7 @@ The Halli people are potentially the first new ethnic group to be formed from th
   </table>  
 </div>  
   
-The Svalli people are the second new ethnic group to be formed by the [Irovell](Irovell) people, originally part of the same group that became the Halli, but choosing to separate from them by crossing the [Himlavård](../../Places/Himlav%C3%A5rd) mountains and settling what is now known as [Sondergård](Sonderg%C3%A5rd), [Osun Tanum](../../Map/Osun%20Tanum/Osun%20Tanum). The Svalli language is very similar to Halli as a result.  
+The Svalli people are the second new ethnic group to be formed by the [[Irovell|Irovell]] people, originally part of the same group that became the Halli, but choosing to separate from them by crossing the [[../../Places/Himlavård|Himlavård]] mountains and settling what is now known as [[Sondergård]], [[../../Map/Osun Tanum/Osun Tanum|Osun Tanum]]. The Svalli language is very similar to Halli as a result.  
   
 ### Kolli people  
   
@@ -182,7 +182,7 @@ The Svalli people are the second new ethnic group to be formed by the [Irovell](
   </table>  
 </div>  
   
-The Kolli people are an ethnic group descended from the Svalli people, originating after a small number of families took issue with the governance of the Svalli people and chose to migrate south, first settling in what is now known as [Kolgård](Kolg%C3%A5rd), [Osun Tanum](../../Map/Osun%20Tanum/Osun%20Tanum), attracting more and more Svalli people within decades, eventually identifying themselves as distinct. The Kolli language is very similar to Svalli as a result, but grew more complex over time.  
+The Kolli people are an ethnic group descended from the Svalli people, originating after a small number of families took issue with the governance of the Svalli people and chose to migrate south, first settling in what is now known as [[Kolgård]], [[../../Map/Osun Tanum/Osun Tanum|Osun Tanum]], attracting more and more Svalli people within decades, eventually identifying themselves as distinct. The Kolli language is very similar to Svalli as a result, but grew more complex over time.  
   
 ### Amari people  
   
@@ -214,7 +214,7 @@ The Kolli people are an ethnic group descended from the Svalli people, originati
   </table>  
 </div>  
   
-The Amari people are an ethnic group originally descended from the ancient [Irovell](Irovell) that chose to separate at the same time as the Halli, migrating north and settling in what is now known as [Amaransk](Amaransk), [Tolred](Tolred), [Corstaea](../../Map/Corstaea/Corstaea). They did not at first consider themselves distinctly different people and worked to coexist peacefully with the Tollan people, but after many generations of intermingling both with the Tollan people and with [Farodet](../Farodet/Farodet) colonials, their culture developed into something very unique, and the Amari language developed into something more similar to Storran than any modern Irovell language.  
+The Amari people are an ethnic group originally descended from the ancient [[Irovell|Irovell]] that chose to separate at the same time as the Halli, migrating north and settling in what is now known as [[Amaransk]], [[Tolred]], [[../../Map/Corstaea/Corstaea|Corstaea]]. They did not at first consider themselves distinctly different people and worked to coexist peacefully with the Tollan people, but after many generations of intermingling both with the Tollan people and with [[../Farodet/Farodet|Farodet]] colonials, their culture developed into something very unique, and the Amari language developed into something more similar to Storran than any modern Irovell language.  
   
 ### Jomsson people  
   
@@ -246,7 +246,7 @@ The Amari people are an ethnic group originally descended from the ancient [Irov
   </table>  
 </div>  
   
-The Jomsson people are a cultural group descended from the Halli people, formed by traditionalists that rejected the changing beliefs and customs of the Halli, particularly with regard to militarism, choosing to settle the island of [Jomsgård](Jomsg%C3%A5rd) for the sake of keeping their traditions alive and continue to keep weapons in their homes. The Jomsson people were both prized and feared around the world for some time for their martial prowess.  
+The Jomsson people are a cultural group descended from the Halli people, formed by traditionalists that rejected the changing beliefs and customs of the Halli, particularly with regard to militarism, choosing to settle the island of [[Jomsgård]] for the sake of keeping their traditions alive and continue to keep weapons in their homes. The Jomsson people were both prized and feared around the world for some time for their martial prowess.  
   
 ### Sarian people  
   
@@ -278,7 +278,7 @@ The Jomsson people are a cultural group descended from the Halli people, formed 
   </table>  
 </div>  
   
-The Sarian people are potentially the first new ethnic group to be formed from the ancient [Irovell](Irovell) people that settled the island now known as [Sarrac](Sarrac), [Corstaea](../../Map/Corstaea/Corstaea). Whether the Sarians or the Halli came first is a question still under debate that requires further study. The Sarian language is an evolution of the ancient Irovell language, but is not mutually intelligible with other Irovell languages.  
+The Sarian people are potentially the first new ethnic group to be formed from the ancient [[Irovell|Irovell]] people that settled the island now known as [[Sarrac]], [[../../Map/Corstaea/Corstaea|Corstaea]]. Whether the Sarians or the Halli came first is a question still under debate that requires further study. The Sarian language is an evolution of the ancient Irovell language, but is not mutually intelligible with other Irovell languages.  
   
 ### Alastorri people  
   
@@ -310,7 +310,7 @@ The Sarian people are potentially the first new ethnic group to be formed from t
   </table>  
 </div>  
   
-The Alastorri people were originally a direct descendant of the ancient [Irovell](Irovell) people that may have separated and become nomadic as early as 40 AO, but during their travels to the south, many Halli, Svalli, and Kolli people joined their ranks and brought elements of their cultures with them. In 784 AO, the group settled the central island of [Alastor](../../Map/Alastor/Alastor) and became known as Alastorri. Today, the Alastorri people are an ethnic and cultural melting pot comprised of [spirits](../../Inhabitants/Spirits) from all over the world, and is the only ethnic group with more spirits than humans. They speak Andarǫdd, the closest relative to the ancient Irovell language. It remains similar enough to ancient Irovell that native speakers of Andarǫdd have little difficulty reading text found on ancient Irovell artifacts, but have nearly no mutual intelligibility with other modern Irovell languages.  
+The Alastorri people were originally a direct descendant of the ancient [[Irovell|Irovell]] people that may have separated and become nomadic as early as 40 AO, but during their travels to the south, many Halli, Svalli, and Kolli people joined their ranks and brought elements of their cultures with them. In 784 AO, the group settled the central island of [[../../Map/Alastor/Alastor|Alastor]] and became known as Alastorri. Today, the Alastorri people are an ethnic and cultural melting pot comprised of [[../../Inhabitants/Spirits|spirits]] from all over the world, and is the only ethnic group with more spirits than humans. They speak Andarǫdd, the closest relative to the ancient Irovell language. It remains similar enough to ancient Irovell that native speakers of Andarǫdd have little difficulty reading text found on ancient Irovell artifacts, but have nearly no mutual intelligibility with other modern Irovell languages.  
   
 -----  
 > [!cite] Author info  

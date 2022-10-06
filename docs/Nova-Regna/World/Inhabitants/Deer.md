@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -46,7 +46,7 @@ comments: true
   </table>  
 </div>  
   
-Deer [spirits](./Spirits) are a type of major spirit, and make up approximately 6% of all spirits on [Earth](../Map/Earth). They have existed since [Era Dira](../History%20&%20Events/Era%20Dira).  
+Deer [[./Spirits|spirits]] are a type of major spirit, and make up approximately 6% of all spirits on [[../Map/Earth|Earth]]. They have existed since [[../History & Events/Era Dira|Era Dira]].  
   
 ## History  
   
@@ -54,13 +54,13 @@ Nothing for now.
   
 ### Myths and legends  
   
-It is said that in ancient times, [Dvalinn](../../Characters/Incarnations%20&%20Gods/Dvalinn) led an attack on the [wolf spirits](./Wolf) when they were vulnerable, claiming that the wolves were ravaging the nature around them and could not be allowed to continue. They overwhelmed the wolves and severely thinned their numbers, but just before the battle was won, [Garm](../../Characters/Incarnations%20&%20Gods/Garm) single-handedly turned the battle around, mercilessly slaughtering many deer spirits in desperation, including Dvalinn.  
+It is said that in ancient times, [[../../Characters/Incarnations & Gods/Dvalinn|Dvalinn]] led an attack on the [[./Wolf|wolf spirits]] when they were vulnerable, claiming that the wolves were ravaging the nature around them and could not be allowed to continue. They overwhelmed the wolves and severely thinned their numbers, but just before the battle was won, [[../../Characters/Incarnations & Gods/Garm|Garm]] single-handedly turned the battle around, mercilessly slaughtering many deer spirits in desperation, including Dvalinn.  
   
 These events are what led the deer spirits to split into two factions, with most deciding that what they did was wrong and wishing to repent, and a fringe group believing they were in the right and growing bitter and hateful.  
   
 ## Anatomy & physiology  
   
-All deer spirits inherently have [Alignment](../Concepts/Alignment) and [Attunement](../Concepts/Attunement).  
+All deer spirits inherently have [[../Concepts/Alignment|Alignment]] and [[../Concepts/Attunement|Attunement]].  
   
 Deer spirits all possess a pair of antlers on their head, including those born female. The position, size, and shape of these antlers varies wildly across individuals, but there appears to be an element of heredity with close family members usually having relatively similar antlers to each other. No deer spirits aside from Dvalinn ever grow whitetail antlers, however. These antlers do not produce velvet and do not fall off seasonally. They are incredibly hard to break, but do grow back if broken.  
   
@@ -74,9 +74,9 @@ Deer spirits grow at slightly under half the rate of humans, not reaching full p
   
 ## Geographic distribution  
   
-Deer spirits have a strong preference for seasonal forested regions. The majority of deer spirits are found in [Shinzen](../Map/Shinzen/Shinzen), but they can be found in rural areas with mild climates across most of the world. Meanwhile, the fringe faction is found deep inside dense forests all around the world.  
+Deer spirits have a strong preference for seasonal forested regions. The majority of deer spirits are found in [[../Map/Shinzen/Shinzen|Shinzen]], but they can be found in rural areas with mild climates across most of the world. Meanwhile, the fringe faction is found deep inside dense forests all around the world.  
   
-Deer spirits are also common throughout the lush island of [Panacea](Panacea), serving as its keepers and considered vital to the people of [Alastor](../Map/Alastor/Alastor).  
+Deer spirits are also common throughout the lush island of [[Panacea]], serving as its keepers and considered vital to the people of [[../Map/Alastor/Alastor|Alastor]].  
   
 ## Sociology  
   

@@ -6,7 +6,7 @@ comments: true
 > This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until enough detail is added to a given subgroup to be moved to its own page, it will remain here.  
   
 > [!example]- Real-world influences  
-> Of course because there is so much potential detail to be added to pages like these, inspiration must be drawn from somewhere. More subgroups may be added in the future as well, but under specific circumstances. For a lot more detail about all that, check the meta page on [appropriate real-world influences](../../../_meta/Appropriate%20real-world%20influences).  
+> Of course because there is so much potential detail to be added to pages like these, inspiration must be drawn from somewhere. More subgroups may be added in the future as well, but under specific circumstances. For a lot more detail about all that, check the meta page on [[../../../_meta/Appropriate real-world influences|appropriate real-world influences]].  
 >    
 > Here is the abridged version for this page specifically:  
 > - **Carlanders** | Inspired by = Celtic nations  
@@ -46,9 +46,9 @@ comments: true
   </table>  
 </div>  
   
-The Exilan people are one of the seven major [ethnic groups](../Cultures%20&%20Ethnicities) of [the world](../../Map/Earth), occupying approximately 39% of the global population, primarily in [Ustonia](../../Map/Ustonia/Ustonia) on the continent of [Yulentia](../../Map/Yulentia), and in [Corstaea](../../Map/Corstaea/Corstaea) and [Osun Tanum](../../Map/Osun%20Tanum/Osun%20Tanum) on the continent of [Ozen](../../Map/Ozen). It is also the only ethnic and cultural group in the world that is more populous outside of its native continent, the apparent result of widespread large-scale colonization of Yulentia.  
+The Exilan people are one of the seven major [[../Cultures & Ethnicities|ethnic groups]] of [[../../Map/Earth|the world]], occupying approximately 39% of the global population, primarily in [[../../Map/Ustonia/Ustonia|Ustonia]] on the continent of [[../../Map/Yulentia|Yulentia]], and in [[../../Map/Corstaea/Corstaea|Corstaea]] and [[../../Map/Osun Tanum/Osun Tanum|Osun Tanum]] on the continent of [[../../Map/Ozen|Ozen]]. It is also the only ethnic and cultural group in the world that is more populous outside of its native continent, the apparent result of widespread large-scale colonization of Yulentia.  
   
-The first Exilan people disappeared sometime in the 4th century, merging entirely into the many ethnic groups that came from them, leaving behind almost no trace of their original culture as they do not seem to have kept written records at the time. Among the very few artifacts that clearly symbolize something, however, is a set of climbing tools with the words "prosperity waits beyond the mountain" carved into them, lending further credence to the [Irovell](../Irovell/Irovell) and [Farodet](../Farodet/Farodet) stories of emerging from the mountain at the beginning of Anno Ortu.  
+The first Exilan people disappeared sometime in the 4th century, merging entirely into the many ethnic groups that came from them, leaving behind almost no trace of their original culture as they do not seem to have kept written records at the time. Among the very few artifacts that clearly symbolize something, however, is a set of climbing tools with the words "prosperity waits beyond the mountain" carved into them, lending further credence to the [[../Irovell/Irovell|Irovell]] and [[../Farodet/Farodet|Farodet]] stories of emerging from the mountain at the beginning of Anno Ortu.  
   
 More TBD  
   
@@ -87,7 +87,7 @@ More TBD
   </table>  
 </div>  
   
-Carlanders are the first new ethnic group to be formed from the [Exilan](Exilan) people, forming their shared identity after migrating to the island known today as [Carlow](Carlow), [Corstaea](../../Map/Corstaea/Corstaea), and are thought to be the most genetically, culturally, and linguistically similar to the original Exilans today due to their long isolation on the island. They are divided primarily into northern and southern subcultures, Gurilàin and Druláin, each also being the name of their own distinct languages, both of which still use the same alphabet and many of the same sounds as found in ancient Exilan artifacts from [Era Dira](../../History%20&%20Events/Era%20Dira), making them two of the most ancient living languages in the world. Some believe that it is possible the Carlanders were alive during Era Dira based on that, or even that they may be the true first Exilans, but no evidence has been found to support these ideas.  
+Carlanders are the first new ethnic group to be formed from the [[Exilan|Exilan]] people, forming their shared identity after migrating to the island known today as [[Carlow]], [[../../Map/Corstaea/Corstaea|Corstaea]], and are thought to be the most genetically, culturally, and linguistically similar to the original Exilans today due to their long isolation on the island. They are divided primarily into northern and southern subcultures, Gurilàin and Druláin, each also being the name of their own distinct languages, both of which still use the same alphabet and many of the same sounds as found in ancient Exilan artifacts from [[../../History & Events/Era Dira|Era Dira]], making them two of the most ancient living languages in the world. Some believe that it is possible the Carlanders were alive during Era Dira based on that, or even that they may be the true first Exilans, but no evidence has been found to support these ideas.  
   
 ### Mandese people  
   
@@ -119,7 +119,7 @@ Carlanders are the first new ethnic group to be formed from the [Exilan](Exilan)
   </table>  
 </div>  
   
-The Mandese people are the second new ethnic group to be formed from the [Exilan](Exilan) people, first settling in what is now [Manden](Manden), [Corstaea](../../Map/Corstaea/Corstaea), and seemingly the first among Exilans to develop a unique writing system. While their language, Munait, is very different today, it still uses a very similar alphabet as it did in ancient times, making ancient writings relatively easy to decipher.  
+The Mandese people are the second new ethnic group to be formed from the [[Exilan|Exilan]] people, first settling in what is now [[Manden]], [[../../Map/Corstaea/Corstaea|Corstaea]], and seemingly the first among Exilans to develop a unique writing system. While their language, Munait, is very different today, it still uses a very similar alphabet as it did in ancient times, making ancient writings relatively easy to decipher.  
   
 ### Allenesian people  
   
@@ -151,7 +151,7 @@ The Mandese people are the second new ethnic group to be formed from the [Exilan
   </table>  
 </div>  
   
-The Allenesian people are the third new ethnic group to be formed from the [Exilan](Exilan) people, first settling in what is now [Allenthal](Allenthal), [Corstaea](../../Map/Corstaea/Corstaea), before being pushed south by Mandese expansionism. Ancient Allenesians spoke Munait, but after regular contact and trade with the [Irovell](../Irovell/Irovell) Halli people, their language developed into the amalgam it is today, mutually intelligible with neither of its roots, more similar instead to Oster and Vastian.  
+The Allenesian people are the third new ethnic group to be formed from the [[Exilan|Exilan]] people, first settling in what is now [[Allenthal]], [[../../Map/Corstaea/Corstaea|Corstaea]], before being pushed south by Mandese expansionism. Ancient Allenesians spoke Munait, but after regular contact and trade with the [[../Irovell/Irovell|Irovell]] Halli people, their language developed into the amalgam it is today, mutually intelligible with neither of its roots, more similar instead to Oster and Vastian.  
   
 ### Oster people  
   
@@ -183,7 +183,7 @@ The Allenesian people are the third new ethnic group to be formed from the [Exil
   </table>  
 </div>  
   
-The Oster people are an ethnic group descended from the Allenesian people that developed their unique culture and shared identity after settling in what is now [Osterfeld](Osterfeld), [Osun Tanum](../../Map/Osun%20Tanum/Osun%20Tanum), during a mass Allenesian migration to the south caused by Mandese expansionism. The first Oster people spoke Munait, but after regular contact and trade with the [Irovell](../Irovell/Irovell) Halli people, their language developed into the amalgam it is today, mutually intelligible with neither of its roots, more similar instead to Munait and Harkan.  
+The Oster people are an ethnic group descended from the Allenesian people that developed their unique culture and shared identity after settling in what is now [[Osterfeld]], [[../../Map/Osun Tanum/Osun Tanum|Osun Tanum]], during a mass Allenesian migration to the south caused by Mandese expansionism. The first Oster people spoke Munait, but after regular contact and trade with the [[../Irovell/Irovell|Irovell]] Halli people, their language developed into the amalgam it is today, mutually intelligible with neither of its roots, more similar instead to Munait and Harkan.  
   
 ### Vastian people  
   
@@ -215,7 +215,7 @@ The Oster people are an ethnic group descended from the Allenesian people that d
   </table>  
 </div>  
   
-The Vastian people are an ethnic group descended from the Allenesian people that developed their unique culture and shared identity after settling in what is now [Vastdal](Vastdal), [Osun Tanum](../../Map/Osun%20Tanum/Osun%20Tanum), during a mass Allenesian migration to the south caused by Mandese expansionism. The first Vastian people spoke Munait, but after regular contact and trade with the [Irovell](../Irovell/Irovell) Halli people, their language developed into the amalgam it is today, mutually intelligible with neither of its roots, more similar instead to Harkan and Oster.  
+The Vastian people are an ethnic group descended from the Allenesian people that developed their unique culture and shared identity after settling in what is now [[Vastdal]], [[../../Map/Osun Tanum/Osun Tanum|Osun Tanum]], during a mass Allenesian migration to the south caused by Mandese expansionism. The first Vastian people spoke Munait, but after regular contact and trade with the [[../Irovell/Irovell|Irovell]] Halli people, their language developed into the amalgam it is today, mutually intelligible with neither of its roots, more similar instead to Harkan and Oster.  
   
 ### Macan people  
   
@@ -247,7 +247,7 @@ The Vastian people are an ethnic group descended from the Allenesian people that
   </table>  
 </div>  
   
-The Macan people are a cultural melting pot, formed from a variety of Mandese, Allenesian, Oster, Vastian, Halli, Svalli, and Kolli peoples, forming their own cohesive shared identity around their common belief that their land of [Macdon](Macdon), located in what is now [Osun Tanum](../../Map/Osun%20Tanum/Osun%20Tanum), would one day be the center of the world stage. They have no language of their own, instead primarily speaking Halli and often the language of their ancestors as a first and second language.  
+The Macan people are a cultural melting pot, formed from a variety of Mandese, Allenesian, Oster, Vastian, Halli, Svalli, and Kolli peoples, forming their own cohesive shared identity around their common belief that their land of [[Macdon]], located in what is now [[../../Map/Osun Tanum/Osun Tanum|Osun Tanum]], would one day be the center of the world stage. They have no language of their own, instead primarily speaking Halli and often the language of their ancestors as a first and second language.  
   
 ### Oxi people  
   
@@ -279,7 +279,7 @@ The Macan people are a cultural melting pot, formed from a variety of Mandese, A
   </table>  
 </div>  
   
-The Oxi people are descended from the Mandese people of [Manden](Manden), who identified themselves as Oxi after the colonization of [Roxware](Roxware), [Oxbalt](Oxbalt) in 1639, also forcing the name Old Oxi universally onto the many diverse [Cirazan](../Ciraza/Cirazan) natives they displaced. They speak Halli, an [Irovell](../Irovell/Irovell) language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [Ustonia](../../Map/Ustonia/Ustonia) has made Halli the world's most commonly spoken language.  
+The Oxi people are descended from the Mandese people of [[Manden]], who identified themselves as Oxi after the colonization of [[Roxware]], [[Oxbalt]] in 1639, also forcing the name Old Oxi universally onto the many diverse [[../Ciraza/Cirazan|Cirazan]] natives they displaced. They speak Halli, an [[../Irovell/Irovell|Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[../../Map/Ustonia/Ustonia|Ustonia]] has made Halli the world's most commonly spoken language.  
   
 ### Arkan people  
   
@@ -311,7 +311,7 @@ The Oxi people are descended from the Mandese people of [Manden](Manden), who id
   </table>  
 </div>  
   
-The Arkan people are descended from the Allenesian people of [Hartmond](Hartmond), who identified themselves as Arkan after the colonization of [Centralia](Centralia), [Arkbay](Arkbay) in 1643, also forcing the name Native Arkans universally onto the many diverse [Cirazan](../Ciraza/Cirazan) natives they displaced. They speak Halli, an [Irovell](../Irovell/Irovell) language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [Ustonia](../../Map/Ustonia/Ustonia) has made Halli the world's most commonly spoken language.  
+The Arkan people are descended from the Allenesian people of [[Hartmond]], who identified themselves as Arkan after the colonization of [[Centralia]], [[Arkbay]] in 1643, also forcing the name Native Arkans universally onto the many diverse [[../Ciraza/Cirazan|Cirazan]] natives they displaced. They speak Halli, an [[../Irovell/Irovell|Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[../../Map/Ustonia/Ustonia|Ustonia]] has made Halli the world's most commonly spoken language.  
   
 ### Graven people  
   
@@ -343,7 +343,7 @@ The Arkan people are descended from the Allenesian people of [Hartmond](Hartmond
   </table>  
 </div>  
   
-The Graven people are descended from the Oster people of [Osterfeld](Osterfeld), who identified themselves as Graven after the colonization of [Gravenwood](Gravenwood), [Lonfolk](Lonfolk) in 1647, also forcing the name First Gravens universally onto the many diverse [Cirazan](../Ciraza/Cirazan) natives they displaced. They speak Halli, an [Irovell](../Irovell/Irovell) language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [Ustonia](../../Map/Ustonia/Ustonia) has made Halli the world's most commonly spoken language.  
+The Graven people are descended from the Oster people of [[Osterfeld]], who identified themselves as Graven after the colonization of [[Gravenwood]], [[Lonfolk]] in 1647, also forcing the name First Gravens universally onto the many diverse [[../Ciraza/Cirazan|Cirazan]] natives they displaced. They speak Halli, an [[../Irovell/Irovell|Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[../../Map/Ustonia/Ustonia|Ustonia]] has made Halli the world's most commonly spoken language.  
   
 -----  
 > [!cite] Author info  

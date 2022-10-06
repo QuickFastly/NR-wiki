@@ -5,7 +5,7 @@ tags: RD
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-Friends and roommates with [Nozomi Hijiya](./Nozomi%20Hijiya) and [Suruko Zukeran](./Suruko%20Zukeran). Unfortunate victim of Protagonistitis.  
+Friends and roommates with [[./Nozomi Hijiya|Nozomi Hijiya]] and [[./Suruko Zukeran|Suruko Zukeran]]. Unfortunate victim of Protagonistitis.  
   
 天子ニアー  
   

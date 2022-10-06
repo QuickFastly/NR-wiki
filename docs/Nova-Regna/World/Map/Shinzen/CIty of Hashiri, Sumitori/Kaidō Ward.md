@@ -5,12 +5,12 @@ tags: PG
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-[Hashiri](./Hashiri)  
+[[./Hashiri|Hashiri]]  
   
-[Asakawa](./Asakawa)  
-[Iwaji](./Iwaji)  
-[Kayamori](./Kayamori)  
-[Shizuyama](./Shizuyama)  
+[[./Asakawa|Asakawa]]  
+[[./Iwaji|Iwaji]]  
+[[./Kayamori|Kayamori]]  
+[[./Shizuyama|Shizuyama]]  
   
 -----  
 > [!cite] Author info  

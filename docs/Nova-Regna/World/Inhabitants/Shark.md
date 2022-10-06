@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../assets/img/blankpage.png|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -46,7 +46,7 @@ comments: true
   </table>  
 </div>  
   
-Shark [spirits](./Spirits) are a type of major spirit, and make up approximately 3% of all spirits on [Earth](../Map/Earth). They have existed since [Era Dira](../History%20&%20Events/Era%20Dira).  
+Shark [[./Spirits|spirits]] are a type of major spirit, and make up approximately 3% of all spirits on [[../Map/Earth|Earth]]. They have existed since [[../History & Events/Era Dira|Era Dira]].  
   
 ## History  
   
@@ -56,7 +56,7 @@ Nothing for now.
   
 An oral legend passed down through nearly all shark spirit families for generations describes them as once being the apex predators of the world, craving nothing more than bloodshed. Their people would fight in every war that started without hesitation, unconcerned with the side they were on, just to continue fighting. As the wars got bigger, the shark spirits lost more and more of their people every day until they were nearing extinction.  
   
-It was then that [Kuhai](../../Characters/Incarnations%20&%20Gods/Kuhai) stepped in and urged the shark spirits to change. When they refused, Kuhai confronted the enemy alone, absorbing everything the enemy could muster without even lifting a finger. Unfazed, Kuhai delivered a speech both to the enemy and her own people. The enemy halted their attack, and the shark spirits kneeled before them, bringing an end to their senseless violence.  
+It was then that [[../../Characters/Incarnations & Gods/Kuhai|Kuhai]] stepped in and urged the shark spirits to change. When they refused, Kuhai confronted the enemy alone, absorbing everything the enemy could muster without even lifting a finger. Unfazed, Kuhai delivered a speech both to the enemy and her own people. The enemy halted their attack, and the shark spirits kneeled before them, bringing an end to their senseless violence.  
   
 While this story is believed by all shark spirits, other people have countless interpretations of it and the shark spirits don't care enough to clarify, relegating this story to legend. An important factor to note, however, is that this legend is very recent, potentially less than even 500 years old.  
   
@@ -68,7 +68,7 @@ Some shark spirits may also have fins protruding from their ears, forearms, calv
   
 All shark spirits possess a keen sense of smell on land, but it becomes truly extraordinary when underwater. They are also able to vaguely sense electrical fields, but once again, this perception truly comes into its own when underwater. Naturally, they are all exceptional swimmers.  
   
-Shark spirits have significantly stronger bones and muscles than [humans](./Human), and are typically very lean, causing them to sink quickly in water. They also build muscle at a blistering pace almost effortlessly, making them require a bodybuilder's diet just to survive.  
+Shark spirits have significantly stronger bones and muscles than [[./Human|humans]], and are typically very lean, causing them to sink quickly in water. They also build muscle at a blistering pace almost effortlessly, making them require a bodybuilder's diet just to survive.  
   
 ### Life cycle  
   
@@ -78,9 +78,9 @@ It is theorized that this is caused by their immense everyday energy expenditure
   
 ## Geographic distribution  
   
-They strongly prefer living near large bodies of water. The majority of them can be found on the southern coasts of [Destrea](../Map/Destrea/Destrea), but they are not an uncommon sight in port towns around the world.  
+They strongly prefer living near large bodies of water. The majority of them can be found on the southern coasts of [[../Map/Destrea/Destrea|Destrea]], but they are not an uncommon sight in port towns around the world.  
   
-Many can be found in [Alastor](../Map/Alastor/Alastor), where they often serve as volunteer border and coast guards.  
+Many can be found in [[../Map/Alastor/Alastor|Alastor]], where they often serve as volunteer border and coast guards.  
   
 ## Sociology  
   

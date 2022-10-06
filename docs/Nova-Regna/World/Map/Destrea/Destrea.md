@@ -9,9 +9,9 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../../assets/img/Destrea%20flag.png)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../../assets/img/Destrea flag.png|250]]</span>  
     
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](Destrea%20(Region).jpg)</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Destrea (Region).jpg|250]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -84,11 +84,11 @@ comments: true
   </table>  
 </div>  
   
-Destrea, officially known as the Kingdom of Destrea, is an expansive country located on the continent of [Yulentia](../Yulentia), encompassing its entire eastern half. Its capital, [Syrres](Syrres), is located near the eastern edge of the southern gulf in the prefecture of [Vaceniza](Vaceniza). It shares a border with [Ustonia](../Ustonia/Ustonia) to the west, and is also neighbored by [Alastor](../Alastor/Alastor), [Grenneria](../Grenneria/Grenneria), and [Osun Tanum](../Osun%20Tanum/Osun%20Tanum) across the water to the north.  
+Destrea, officially known as the Kingdom of Destrea, is an expansive country located on the continent of [[../Yulentia|Yulentia]], encompassing its entire eastern half. Its capital, [[Syrres]], is located near the eastern edge of the southern gulf in the prefecture of [[Vaceniza]]. It shares a border with [[../Ustonia/Ustonia|Ustonia]] to the west, and is also neighbored by [[../Alastor/Alastor|Alastor]], [[../Grenneria/Grenneria|Grenneria]], and [[../Osun Tanum/Osun Tanum|Osun Tanum]] across the water to the north.  
   
 Destrea is a highly developed country that possesses a large population, a massive industrial sector, extensive infrastructure, and a deeply troubled economy. Destrea is thought to have the world's largest and most formidable standing army, and is both renowned and feared for its many developments in land-based combat.  
   
-It was governed by a stratocratic regime since its origins, but as the economy began to crash in early 1980, it quietly became a dictatorship when a high ranking officer gained huge popularity with the citizens by blaming Ustonia for their economic crisis and launching the [Reclamation War](../../History%20&%20Events/Reclamation%20War). This newfound authoritarianism led to fascism, which bred rebellion, culminating in the rise of the [Risky Witches](../../Organizations/Risky%20Witches), who dealt a sweeping, crippling blow to the regime on New Year's Day in 1991, now known as [The Big Event](../../History%20&%20Events/The%20Big%20Event). The country is still attempting to recover from this.  
+It was governed by a stratocratic regime since its origins, but as the economy began to crash in early 1980, it quietly became a dictatorship when a high ranking officer gained huge popularity with the citizens by blaming Ustonia for their economic crisis and launching the [[../../History & Events/Reclamation War|Reclamation War]]. This newfound authoritarianism led to fascism, which bred rebellion, culminating in the rise of the [[../../Organizations/Risky Witches|Risky Witches]], who dealt a sweeping, crippling blow to the regime on New Year's Day in 1991, now known as [[../../History & Events/The Big Event|The Big Event]]. The country is still attempting to recover from this.  
   
 ## History  
   
@@ -105,20 +105,20 @@ Destrea is a despotic stratocratic regime, spearheaded by the commander-in-chief
 ### Administrative divisions  
   
 Destrea is divided into 15 prefectures, each governed exclusively by the central military government with no autonomy. Each of these prefectures used to be a sovereign nation before ultimately becoming what is now Destrea, and their unique histories and cultures are still visible. These prefectures are as follows.  
-- [Alcaras](Alcaras)  
-- [Baria](Baria)  
-- [Begliano](Begliano)  
-- [Casezzo](Casezzo)  
-- [Espada](Espada)  
-- [Filimeni](Filimeni)  
-- [Monzione](Monzione)  
-- [Mugenno](Mugenno)  
-- [Nalano](Nalano)  
-- [Rovillo](Rovillo)  
-- [Savorra](Savorra)  
-- [Selva Luce](Selva%20Luce)  
-- [Tarence](Tarence)  
-- [Vaceniza](Vaceniza)  
+- [[Alcaras]]  
+- [[Baria]]  
+- [[Begliano]]  
+- [[Casezzo]]  
+- [[Espada]]  
+- [[Filimeni]]  
+- [[Monzione]]  
+- [[Mugenno]]  
+- [[Nalano]]  
+- [[Rovillo]]  
+- [[Savorra]]  
+- [[Selva Luce]]  
+- [[Tarence]]  
+- [[Vaceniza]]  
   
 ### Military  
   
@@ -126,11 +126,11 @@ The Destrean military is divided into four branches, being Terra Militare, Marin
   
 ### Foreign relations  
   
-![Political relations chart (Destrea).svg](Political%20relations%20chart%20(Destrea).svg)  
+![[Political relations chart (Destrea).svg]]  
   
 ## Economy  
   
-The Destrean economy is worth 1.12 quadrillion [CR](Credit%20(currency)) per year with an expenditure of 91.4%, which is distributed as follows.  
+The Destrean economy is worth 1.12 quadrillion [[Credit (currency)|CR]] per year with an expenditure of 91.4%, which is distributed as follows.  
 - Administration: 10.6%  
 - Defense: 28.8%  
 - Education & Science: 6.2%  
@@ -152,9 +152,9 @@ Some primary exports of Destrea are weapons manufacturing, heavy industry, and c
   
 ## Demographics  
   
-The Destrean government is extremely prejudiced against [spirits](../../Inhabitants/Spirits) and oppresses them heavily. Every spirit is required to carry a unique identifier card with them and renew it every year alongside their regular state identification, and violating this policy in any way can be punishable by death. Much of the public does not share these sentiments and instead views spirits with great pity, but still remain prejudiced in their own way because of this.  
+The Destrean government is extremely prejudiced against [[../../Inhabitants/Spirits|spirits]] and oppresses them heavily. Every spirit is required to carry a unique identifier card with them and renew it every year alongside their regular state identification, and violating this policy in any way can be punishable by death. Much of the public does not share these sentiments and instead views spirits with great pity, but still remain prejudiced in their own way because of this.  
   
-Since the occupation of [Espada](Espada) by the Risky Witches, all records from that state were seized and are no longer accessible. There is an assumption that the actual spirit population is higher than records indicate due to that, the rebellion of 1991, and other criminal activity.  
+Since the occupation of [[Espada]] by the Risky Witches, all records from that state were seized and are no longer accessible. There is an assumption that the actual spirit population is higher than records indicate due to that, the rebellion of 1991, and other criminal activity.  
   
 Spirit population according to current state records: 8,550,695  
 - Cat: 4,531,556  
@@ -184,7 +184,7 @@ TBD
   
 ## See also  
   
-[World military balance](../../../_meta/World%20military%20balance) (Meta)  
+[[../../../_meta/World military balance|World military balance]] (Meta)  
   
 -----  
 > [!cite] Author info  

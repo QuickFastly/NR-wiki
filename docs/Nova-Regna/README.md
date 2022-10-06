@@ -1,7 +1,7 @@
 ---  
 share: true  
 ---  
-Hi, I'm Kit (AKA Kerosyn), and this is the Nova Regna wiki. Nova Regna is the working name for the world that practically all of my stories and characters exist in, because calling it the Keroverse instead would be boring, but officially the world itself has no name. And yes, even though I use the name online and for my music, [Kerosyn](./Characters/Incarnations%20&%20Gods/Kerosyn) is a character completely detached from myself.  
+Hi, I'm Kit (AKA Kerosyn), and this is the Nova Regna wiki. Nova Regna is the working name for the world that practically all of my stories and characters exist in, because calling it the Keroverse instead would be boring, but officially the world itself has no name. And yes, even though I use the name online and for my music, [[./Characters/Incarnations & Gods/Kerosyn|Kerosyn]] is a character completely detached from myself.  
   
 This is a worldbuilding project that I've been brewing in my head for longer than the name - but not the character! - Kerosyn has existed, mostly alone with a few great contributions from a couple of friends. I thought it was time to change that, and that's why this wiki exists.  
   

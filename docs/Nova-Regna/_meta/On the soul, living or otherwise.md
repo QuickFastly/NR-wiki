@@ -2,7 +2,7 @@
 share: true  
 comments: true  
 ---  
-You're probably familiar with the concept of humans possessing a separate soul inside them, one that continues to live after death, as an explanation for afterlife. Well, in this world, those really do exist, and they are (relatively) physical objects made of [[Mystic Matter]].  
+You're probably familiar with the concept of humans possessing a separate soul inside them, one that continues to live after death, as an explanation for afterlife. Well, in this world, those really do exist, and they are (relatively) physical objects made of [Mystic Matter](../World/Concepts/Mystic%20Matter).  
   
 All living things in this world, and everything they create, are inherently intertwined with mystic matter. Without it, there would be no life, there may not even be existence at all. It could be said, then, that in a way, everything that exists is part of the same greater whole, whether anyone or anything is aware of that or not. Souls are the tangible evidence of this fact. However...  
   
@@ -16,9 +16,9 @@ Nonetheless, souls exist, and you can take advantage of them.
   
 When a baby is conceived in this world, they absorb small amounts of mystic matter throughout the pregnancy, mainly from the surrounding area but some from the mother as well. This performs two functions: helping the baby develop healthily, and growing its soul.  
   
-For this reason, babies born in areas with low concentrations of mystic matter in the atmosphere are more likely to be disabled, deformed, stillborn, or miscarried, and babies born in areas with high concentrations are more likely to develop [[Alignment|alignment]] or [[Attunement|attunement]], and this also explains how those abilities can be influenced by heredity.  
+For this reason, babies born in areas with low concentrations of mystic matter in the atmosphere are more likely to be disabled, deformed, stillborn, or miscarried, and babies born in areas with high concentrations are more likely to develop [alignment](../World/Concepts/Alignment) or [attunement](../World/Concepts/Attunement), and this also explains how those abilities can be influenced by heredity.  
   
-[[Spirits]] tend to develop much stronger souls than [[Human|humans]] or other animals due to the fact that they all have a natural affinity with mystic matter, so they can be carried in less hospitable environments without much issue.  
+[Spirits](../World/Inhabitants/Spirits) tend to develop much stronger souls than [humans](../World/Inhabitants/Human) or other animals due to the fact that they all have a natural affinity with mystic matter, so they can be carried in less hospitable environments without much issue.  
   
 How healthy the soul is after initial development has dramatic effects on the child's health for the rest of their life. It functions as an invisible copy of the person, both physical and mental. When a body heals from an injury, it's essentially replacing the damaged parts with the healthy copy stored in the soul. Some people heal faster or slower than average, and this is why.  
   
@@ -60,7 +60,7 @@ Once again though, I must remind you that all of this paranormal activity is inc
   
 Finally, since souls are made of mystic matter, people with alignment can perceive these paranormal souls. This will give them a unique perspective on the situation, and might even allow them to interact with the soul. Perhaps they can find a way to dispel it forcefully, or maybe they show compassion and give the soul comfort. At the very least, people with alignment will have far less fear of these souls than anyone else, even though they don't really know what they truly are.  
   
-[^1]: This is also why the [[Incarnations]] are so incredibly durable, because they have the souls of gods that produce their own energy and eliminate reliance on the physical body from the healing process entirely. Mortal incarnations will still die after taking a grievous fatal injury though, because even with the soul of a god, the healing process still takes time. A bullet to the head, decapitation, extreme blood loss after the loss of a limb, that kind of thing is what it takes. The immortal incarnations, however, will heal even after injuries as severe as those, because not only do they each have the soul of a god, they also each possess one third of the soul of the first god that created the world. The rest of the world is ESPECIALLY not aware of this, as the history of the gods was entirely lost until recently, and today is a closely guarded secret.  
+[^1]: This is also why the [Incarnations](../World/Concepts/Incarnations) are so incredibly durable, because they have the souls of gods that produce their own energy and eliminate reliance on the physical body from the healing process entirely. Mortal incarnations will still die after taking a grievous fatal injury though, because even with the soul of a god, the healing process still takes time. A bullet to the head, decapitation, extreme blood loss after the loss of a limb, that kind of thing is what it takes. The immortal incarnations, however, will heal even after injuries as severe as those, because not only do they each have the soul of a god, they also each possess one third of the soul of the first god that created the world. The rest of the world is ESPECIALLY not aware of this, as the history of the gods was entirely lost until recently, and today is a closely guarded secret.  
   
 -----  
 > [!cite] Author info  

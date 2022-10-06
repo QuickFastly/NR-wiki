@@ -1,5 +1,8 @@
 ---  
 share: true  
+comments: true  
+hide:  
+    - footer  
 ---  
 Hi, I'm Kit (AKA Kerosyn), and this is the Nova Regna wiki. Nova Regna is the working name for the world that practically all of my stories and characters exist in, because calling it the Keroverse instead would be boring, but officially the world itself has no name. And yes, even though I use the name online and for my music, [[Kerosyn]] is a character completely detached from myself.  
   

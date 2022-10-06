@@ -9,7 +9,7 @@ comments: true
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![250](../../../assets/img/blankpage.png)</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -46,7 +46,7 @@ comments: true
   </table>  
 </div>  
   
-Mouse [[Spirits|spirits]] are a type of major spirit, and make up approximately 10% of all spirits on [[Earth]]. They have existed since [[Era Dira]].  
+Mouse [spirits](./Spirits) are a type of major spirit, and make up approximately 10% of all spirits on [Earth](../Map/Earth). They have existed since [Era Dira](../History%20&%20Events/Era%20Dira).  
   
 ## History  
   
@@ -56,15 +56,15 @@ Nothing for now.
   
 A common legend spread among mouse spirits is the story of the god of knowledge. It is said that in ancient times, the god of knowledge wrote all there ever was, and ever would be, to know in countless tomes, which were stored away in an inconceivably large library, hidden away deep in the earth. While the god of knowledge has since died, the god's daughter is still living, watching over the library, awaiting the arrivals of the faithful.  
   
-Mouse spirits who believe this legend will invariably set out on a worldwide journey in search of the mythical hidden library. It is believed that at least two succeed in their journey with each generation, even though there is no way to know. Some also believe that the successful ones are guided personally by [[Haida]], whose words can sway even the least faithful into seeking the library.  
+Mouse spirits who believe this legend will invariably set out on a worldwide journey in search of the mythical hidden library. It is believed that at least two succeed in their journey with each generation, even though there is no way to know. Some also believe that the successful ones are guided personally by [Haida](../../Characters/Incarnations%20&%20Gods/Haida), whose words can sway even the least faithful into seeking the library.  
   
 ## Anatomy & physiology  
   
-All mouse spirits inherently have [[Alignment]].  
+All mouse spirits inherently have [Alignment](../Concepts/Alignment).  
   
 All mouse spirits have either black or red eyes, animal ears, and pronounced upper central incisors. Many also possess a tail, and some even possess whiskers. In very rare cases, they can experience continuously growing incisors that require regular filing.  
   
-All mouse spirits suffer from moderate to severe nearsightedness, but also have incredible hearing, capable of hearing sounds up to 40 kHz. Their skeletons are noticeably more brittle than [[Human|humans]], and their muscles significantly weaker by weight.  
+All mouse spirits suffer from moderate to severe nearsightedness, but also have incredible hearing, capable of hearing sounds up to 40 kHz. Their skeletons are noticeably more brittle than [humans](./Human), and their muscles significantly weaker by weight.  
   
 ### Life cycle  
   
@@ -72,13 +72,13 @@ Mouse spirits grow at the same rate as human until the age of 12 years, after wh
   
 ## Geographic distribution  
   
-Mouse spirits prefer warm, mild climates, and the vast majority of them can be found in [[Osun Tanum]] for most of the year. They have been known to travel in droves seasonally.  
+Mouse spirits prefer warm, mild climates, and the vast majority of them can be found in [Osun Tanum](../Map/Osun%20Tanum/Osun%20Tanum) for most of the year. They have been known to travel in droves seasonally.  
   
-They are also common throughout [[Alastor]], regularly relied upon for the management of the country's complex systems of governance, and are credited as the primary reason it continues to run efficiently.  
+They are also common throughout [Alastor](../Map/Alastor/Alastor), regularly relied upon for the management of the country's complex systems of governance, and are credited as the primary reason it continues to run efficiently.  
   
 ## Sociology  
   
-Mouse spirits are filled with wonder and always eager to learn new things, notable for their close relationship with human society second only to the [[Cat|cat spirits]]. They are also known to be very skittish, and while many humans will claim they don't know why, the mouse spirits are quite outspoken about the common demeaning treatment they receive for their small stature and childlike appearances, mostly from humans and cat spirits.  
+Mouse spirits are filled with wonder and always eager to learn new things, notable for their close relationship with human society second only to the [cat spirits](./Cat). They are also known to be very skittish, and while many humans will claim they don't know why, the mouse spirits are quite outspoken about the common demeaning treatment they receive for their small stature and childlike appearances, mostly from humans and cat spirits.  
   
 Despite that, they carry on largely undeterred, and are typically among the highest echelons of academia and their chosen professions. Their endless natural curiosity combined with their short life expectancies make them uniquely motivated and driven individuals.  
   
@@ -90,8 +90,8 @@ Despite the demeaning treatment they often receive, they hold no prejudices and 
   
 ## See also  
   
-[[Minerva]]\  
-[[The Absolute Library]]  
+[Minerva](../../Characters/Incarnations%20&%20Gods/Minerva)\  
+[The Absolute Library](../Places/The%20Absolute%20Library)  
   
 -----  
 > [!cite] Author info  

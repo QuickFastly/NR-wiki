@@ -34,7 +34,7 @@ The world is currently in the tenth month of the year 2033 of Anno Ortu. It was 
   
 The inhabited world is comprised of three continents. [[./Avangia|Avangia]] in the west, [[./Ozen|Ozen]] in the northeast, and [[./Yulentia|Yulentia]] in the southeast. Additionally, there is an uninhabitable ice cap in the north, and an uninhabited frozen continent in the south.  
 	  
-- The Avangian continent is home to the countries of [[./Ilmaria/Ilmaria|Ilmaria]], [Sangyon](./Sangyon/Sangyon), [[./Shaohou/Shaohou|Shaohou]], and [[./Shinzen/Shinzen|Shinzen]].  
+- The Avangian continent is home to the countries of [[./Ilmaria/Ilmaria|Ilmaria]], [[./Sangyon/Sangyon|Sangyon]], [[./Shaohou/Shaohou|Shaohou]], and [[./Shinzen/Shinzen|Shinzen]].  
 - The continent of Ozen is home to the countries of [[./Alastor/Alastor|Alastor]], [[./Corstaea/Corstaea|Corstaea]], [[./Grenneria/Grenneria|Grenneria]], and [[./Osun Tanum/Osun Tanum|Osun Tanum]].  
 - The Yulentian continent is home to the countries of [[./Ustonia/Ustonia|Ustonia]] and [[./Destrea/Destrea|Destrea]].  
 - Each country is also part of one of three larger organizations, being the [[../Organizations/Avangian Alliance|Avangian Alliance]], [[../Organizations/Ozen Federation|Ozen Federation]], or [[../Organizations/Yulentia Trade Union|Yulentia Trade Union]].  

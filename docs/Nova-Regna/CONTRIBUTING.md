@@ -17,7 +17,7 @@ Additionally, if what you intend to contribute will *directly reference*, or be 
   
 Basically, be cool and stay true to the fiction, and you'll probably be fine.  
   
-Be sure to also look over the meta notes, as they contain valuable real-world points of comparison for creators, like [[On the languages of the world|how to handle foreign language]], [[Using mystic matter and magic|using mystic matter and attunement]], and [[Appropriate real-world influences|where to draw and apply real-world influences]].  
+Be sure to also look over the meta notes, as they contain valuable real-world points of comparison for creators, like [[./_meta/On the languages of the world|how to handle foreign language]], [[./_meta/Using mystic matter and magic|using mystic matter and attunement]], and [[./_meta/Appropriate real-world influences|where to draw and apply real-world influences]].  
   
 ## Style guide  
   
@@ -25,13 +25,13 @@ In an attempt to keep this wiki looking somewhat consistent, here are some guide
   
 ##### Templates  
   
-When creating a new page, check if there's a template available for it, like the [[Character profile]] or [[Organization]] templates. These give a basic structure that you should try to stick with for the sake of consistency, but feel free to add or remove sections as you need. If there is no existing template, you may still find the [[Infobox]] template useful when inserted at the top of a page.  
-
-*(If you're reading this from the wiki, the templates folder is missing, but is viewable in [the repo](https://github.com/QuickFastly/Nova-Regna/tree/main/_templates).)*
-
+When creating a new page, check if there's a template available for it, like the [[../../Character profile|Character profile]] or [[../../Organization|Organization]] templates. These give a basic structure that you should try to stick with for the sake of consistency, but feel free to add or remove sections as you need. If there is no existing template, you may still find the [[../../Infobox|Infobox]] template useful when inserted at the top of a page.  
+  
+*(If you're reading this from the wiki, the missing templates folder is viewable in [the repo](https://github.com/QuickFastly/Nova-Regna/tree/main/_templates).)*  
+  
 ##### Credit  
   
-When creating a new page, if you want to be credited for it, include the [[Author info]] template at the very bottom of the page and edit it to suit you. Use the same info for any other pages you create to keep it consistent. You can also use this block to declare a different license for the content of your page. If you do not include this on your page, you will receive no credit and your page will be licensed with the default CC-BY-SA 4.0.  
+When creating a new page, if you want to be credited for it, include the [[../../Author info|Author info]] template at the very bottom of the page and edit it to suit you. Use the same info for any other pages you create to keep it consistent. You can also use this block to declare a different license for the content of your page. If you do not include this on your page, you will receive no credit and your page will be licensed with the default CC-BY-SA 4.0.  
   
 ##### Links  
   

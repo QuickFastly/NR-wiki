@@ -127,10 +127,10 @@ These are the men who among the Devout display a vested interest in the faith, a
   
 ### Enforcers  
   
-The Enforcers branch of the Children of the Flame is a quite small but very powerful force of militaristic people, responsible for all the dirty work of the organization. They operate from the shadows for the most part, killing their targets quietly, simply gathering intelligence, or manipulating people for their own ends, though occasionally they will make large, organized, very public attacks when ordered.  
-  
 > [!warning]  
-> Very few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame.  
+> Very few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame. It is also an extremely small portion of the organization, counting less than 10,000 people in its membership.  
+  
+The Enforcers branch of the Children of the Flame is a quite small but very powerful force of militaristic people, responsible for all the dirty work of the organization. They operate from the shadows for the most part, killing their targets quietly, simply gathering intelligence, or manipulating people for their own ends, though occasionally they will make large, organized, very public attacks when ordered.  
   
 #### Inquisitors  
   
@@ -149,20 +149,33 @@ The Infernal are the front line infantry of the Enforcers, almost never being tr
   
 ### Internal Society  
   
-The Internal Society of the Children of the Flame shares very little with the other branches, or even the general concept of the faith, instead operating much like a dynastic harem.  
-  
-The continued presence of this part of the organization is a point of extreme contention among those who are aware of it, as nobody outside of the Internal Society believes it should be allowed to exist, nor do they understand how it persists. The true amount of influence the Internal Society holds over the organization is still unknown. The efforts of the Fifth and the continuing efforts of the Sixth storytellers have not been enough to remove the Internal Society, but they have been effectively quarantined within the organization.  
-  
 > [!warning]  
-> Extremely few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame.  
+> Extremely few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame. It is also an extremely small portion of the organization, counting less than 10,000 people in its membership.  
+  
+The Internal Society of the Children of the Flame shares very little with the other branches, or even the general concept of the faith, instead operating much like a dynastic harem and a predatory prostitution ring.  
+  
+The continued presence of this part of the organization is a point of extreme contention among those who are aware of it, as nobody outside of the Internal Society believes it should be allowed to exist, nor do they understand how it persists. The true amount of influence the Internal Society holds over the organization is still unknown. The efforts of the Fifth and the continuing efforts of the Sixth storytellers have not been enough to remove the Internal Society, but they have supposedly been effectively quarantined within the organization.  
   
 #### Matriarchs  
   
-These elite women are basically super Sirens. Everything a Siren can do, a Matriarch can do better. However, they remain sequestered in the Internal Society to manage things, instead targeting Patriarchs and Initiates with their various techniques. They evaluate prospective Initiates alongside the Patriarchs. Occasionally, they will take a Patriarch as a husband, though they ultimately hold higher authority than the Patriarchs do. Becoming a Matriarch requires being subject to the rite of Draining and the rite of Breaking one time each, and successfully resisting of all the effects.  
+These elite women are, in essence, super Sirens. Everything a Siren can do, a Matriarch can do better. However, they remain sequestered in the Internal Society to manage things, instead targeting Patriarchs and Initiates with their various controlling techniques. They evaluate prospective Initiates alongside the Patriarchs. Occasionally, they will take a Patriarch as a husband, though they ultimately hold higher authority than the Patriarchs do. All Matriarchs possess attunement.  
   
 #### Sirens  
   
+These women are masters of seduction, manipulation and trickery. Of the entire Internal Society, they are the only ones ever seen in public, though they aren't recognized because they have no vestments. They hypnotize - figuratively or literally depending on the person and their abilities - unsuspecting or vulnerable people and manipulate them into doing their bidding or give them what they want, most commonly using their bodies to their advantage. Most Sirens possess attunement. Sirens with attunement sometimes use it against their victims in one of two ways, referred to as Draining and Breaking.  
   
+> [!info]- Draining and Breaking  
+> Use this admonition to provide any in-world information you believe readers need to know that isn't directly relevant enough to be part of the main article.  
+  
+  
+  
+#### Eunuchs  
+  
+These are the men who, as Initiates, showed a strong will and resisted all temptation from the Sirens, while also showing enough respect to have made no advances on the Sisters. They are then brought before the Matriarchs to be castrated, and from then on dedicate themselves to guarding the Internal Society. They generally develop pseudo-familial relationships with the women which only strengthens their devotion.  
+  
+#### Sisters  
+  
+These are the women who among the Devout display a vested interest in the faith, and are noticed by the Internal Society as promising specimens. They are taken under the wing of the Sirens and treated as little sisters, hence the name, and indoctrinated into the Internal Society. Those who display enough willpower to resist indoctrination are brought before the Matriarchs and tested, where they will either pass and become Sirens or fail and be psychologically abused until they become totally dependent on the Matriarchs.  
   
   
 ## History  

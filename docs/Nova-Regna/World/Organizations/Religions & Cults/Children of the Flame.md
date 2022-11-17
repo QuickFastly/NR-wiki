@@ -102,6 +102,11 @@ The mystics of the organization, these elite few are [[../../Concepts/Attunement
   
 The Preachers branch of the Children of the Flame is not quite what one would expect by the name. Their primary responsibility lies not in spreading the word of their faith, but rather in public relations, leaving the actual preaching to the lowest ranked members. These people are the face of the group, the only part that the vast majority of people know.  
   
+The Preachers also give blessings to certain individuals, either by deeming them deserving of blessing or in need of one.  
+  
+> [!info]- Blessing of the Flame  
+> Use this admonition to provide any in-world information you believe readers need to know that isn't directly relevant enough to be part of the main article.  
+  
 ##### Patriarchs  
   
 The "fatherly" types of the organization, these are the people that the entire Preachers wing answer to. They wear extravagant vestments and are rarely seen in public except for ceremonial occasions, but those within the organization beneath them tend to look up to the Patriarchs as role models.  
@@ -112,7 +117,7 @@ Mostly unknown to everyone, however, the Patriarchs also play a part in the Inte
   
 These are the people that the public imagine when they hear about the organization. They all have subtle but distinct vestments allowing them to stand out from the public, and they are all trained to appear as warm, friendly and approachable as possible, making them exude a divine and pleasant aura.  
   
-They dedicate much of their time to helping those in need, and are commonly seen assisting with disaster relief, humanitarian fundraising events, and grand openings of public buildings.  
+They dedicate much of their time to helping those in need, and are commonly seen assisting with disaster relief, humanitarian fundraising events, and grand openings of public buildings. They are also responsible for hearing the confessions of those who feel they have sinned and absolve them, and to baptize new followers so they may be considered officially Devout.  
   
 Becoming a Reverend is as simple as expressing interest to a Patriarch, who will then look over the things they have done to help the public and decide whether or not the prospective Reverend is worthy. In special cases, they may be selected by a Firekeeper instead.  
   
@@ -122,7 +127,7 @@ These are the people on the front lines of the public, making every effort to he
   
 ##### Initiates  
   
-These are the men who among the Devout display a vested interest in the faith, and are noticed by the Internal Society as promising specimens. They are taken under the wing of both Patriarchs and Eunuchs and trained in the respective classes, and regularly evaluated to see which side of them shows more promise before eventually becoming either a Patriarch or a Eunuch themselves.  
+These are the men who among the Devout display a vested interest in the faith, and are noticed by the Firekeepers as promising. They are taken under the wing of a Firekeeper and given basic training in what it takes to become one, which they can then choose to continue if they wish to become Firekeepers, or opt to become Reverends instead. Few Initiates are instead taken by the Internal Society through temptation.  
   
   
 ### Enforcers  
@@ -134,12 +139,12 @@ The Enforcers branch of the Children of the Flame is a quite small but very powe
   
 When sent to deal with a specific target, they typically use one of three methods of punishment, being Banishment, Forgiveness, or Purification.  
   
-> [!info]- Banishment, Forgiveness, and Purification  
+> [!info]- Banishment, Forgiveness, and Purification (graphic violence description)  
 > Banishment is performed by an Inquisitor. The recipient is tortured until their mind is broken, and then the Inquisitor violently grabs hold of their face and delivers a scathing reprimand, finalized by throwing the recipient into the nearest hard surface or by submerging their head in water. Those who survive this horrific procedure are usually left in a vegetative state for the remainder of their lives, and those few who manage to recover or resist are marked for death.  
 >  
 > Forgiveness is performed by one of the Sanctified, as a much more merciful version of the rite of Banishment. The recipient is restrained, their crimes explained, a sacred text read to them, and finalized with a swift decapitation. Notably, they will always give the recipient a proper burial and even inform and console the next of kin if they're alive and not themselves guilty.  
-  
-Purification   
+>  
+> Purification is performed by either an Inquisitor or one of the Sanctified, and is reserved for the truly heinous heretics. The recipient is restrained and stretched on a rack, sacred texts are fervently read, then the recipient is cut open with a Y-shaped incision and immolated from the inside out.  
   
 ##### Inquisitors  
   
@@ -173,7 +178,7 @@ These elite women are, in essence, super Sirens. Everything a Siren can do, a Ma
   
 These women are masters of seduction, manipulation and trickery. Of the entire Internal Society, they are the only ones ever seen in public, though they aren't recognized because they have no vestments. They hypnotize - figuratively or literally depending on the person and their abilities - unsuspecting or vulnerable people and manipulate them into doing their bidding or give them what they want, most commonly using their bodies to their advantage. Most Sirens possess attunement. Sirens with attunement sometimes use it against their victims in one of two ways, referred to as Draining and Breaking.  
   
-> [!info]- Draining and Breaking  
+> [!info]- Draining and Breaking (sexual content)  
 > Draining utilizes their already exceptional abilities of hypnosis and manipulation and amplifies the effects through attunement. Recipients are slowly hypnotized during a sexual encounter and not allowed to orgasm until they are under full control of the performer, where they then use the moment of orgasm to implant an idea or an order in the recipient's mind with frightening efficacy.  
 >   
 > The recipient is left extremely exhausted after this but unable to sleep, and they feel hollow and lost for up to a week after the encounter, assuming the performer doesn't repeat the rite immediately. It can be repeated as many times as the performer wants, even to the point of killing the recipient.  

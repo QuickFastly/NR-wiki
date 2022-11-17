@@ -34,7 +34,7 @@ share: true
   </table>  
 </div>  
   
-A pseudo-noble family of [[../../Inhabitants/Fox|Fox]] [[../../Inhabitants/Spirits|Spirits]] with centuries of history and folklore centered around them from the [[../Map/CIty of Hashiri, Sumitori/Okamiwa|Okamiwa]] area of [[../Map/CIty of Hashiri, Sumitori/Hashiri|Hashiri]] in [[Sumitori]], [[../Map/Shinzen|Shinzen]].  
+A pseudo-noble family of [[../../Inhabitants/Fox|Fox]] [[../../Inhabitants/Spirits|Spirits]] with centuries of history and folklore centered around them from the [[../../Map/Shinzen/CIty of Hashiri, Sumitori/Okamiwa|Okamiwa]] area of [[../../Map/Shinzen/CIty of Hashiri, Sumitori/Hashiri|Hashiri]] in [[Sumitori]], [[../../Map/Shinzen/Shinzen|Shinzen]].  
   
 They own an operate a historic, traditional inn and hot spring on the mountainside overlooking the city.  
   

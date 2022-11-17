@@ -88,7 +88,7 @@ Shinzen is a highly developed nation with the second largest population in the w
   
 ## History  
   
-Nothing for now. [[../History & Events/History of Shinzen|History of Shinzen]] for later.  
+Nothing for now. [[../../History & Events/Shinzen/History of Shinzen|History of Shinzen]] for later.  
   
 ## Geography  
   

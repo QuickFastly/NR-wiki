@@ -83,11 +83,19 @@ These are the people responsible for all major decision making and organization 
   
 They are akin to politicians in their role. To become a Cardinal, one must be selected personally by the High Cardinal and then perform the Cardinal's Rite. The High Cardinal is assigned directly to The Storyteller as an advisor and to relay information.  
   
+> [!info]- Cardinal's Rite  
+> Use this admonition to provide any in-world information you believe readers need to know that isn't directly relevant enough to be part of the main article.  
+  
 ##### Seekers  
   
 These are the people responsible for managing all activities of the Preachers wing, as well as overseeing the Internal Society. They are not concerned with managing the law, instead focusing on keeping the lore and history of the organization, while also acting as the lead scientists of the organization. They wear extravagant white vestments with no hat, but the High Seeker is exempt from this instead wearing what The Storyteller says to wear.  
   
 The High Seeker acts as The Storyteller's right hand, and is almost always with him to discuss whatever needs discussing and help with whatever is needed. To become a Seeker, one must prove their merit through a series of tests and then perform the Seeker's Rite.  
+  
+> [!info]- Seeker's Rite  
+> Prospective seekers are selected to perform this rite. Those who succeed become a Seeker and those who fail are allowed to try again when they heal.  
+>   
+> The prospective seeker dons the ceremonial vestment and is brought to two Firekeepers who grab hold of the prospective seeker's forearms and begin to burn them. A Cardinal grabs hold of the prospective seeker's neck, raises them off the ground and begins to read sacred texts. If the prospective seeker remains conscious for the duration of the reading, they are asked if they are ready, and if they agree, the Firekeepers immolate the prospective seeker. If the prospective seeker's will is strong enough, the flames will not burn them and will be extinguished when the Cardinal releases them. Buckets of water and a medical team are kept on standby for the weak willed.  
   
 ##### Chancellors  
   
@@ -98,7 +106,7 @@ The bureaucrats of the organization, these are the people responsible for all ad
 The mystics of the organization, these elite few are [[../../Concepts/Attunement|Attunement]] users with an affinity for flames. These are the people responsible for the performance of most holy tasks, meting out internal punishments, and mystifying the people in public demonstrations. They wear light and wavy vestments with open or no footwear, exuding an aura of exotic elegance. Firekeepers are chosen for their powers and asked to perform the Mystic Dance, only allowed to become a Firekeeper if their dance impresses the High Cardinal and High Seeker.  
   
 > [!info]- Mystic Dance  
-> Use this admonition to provide any in-world information you believe readers need to know that isn't directly relevant enough to be part of the main article.  
+> Firekeepers perform a mesmerizing ceremonial dance similar to a ribbon dance, but with flames instead of ribbons. They use no tools, implements, or anything else for the dance, only their own attunement abilities to create mesmerizing displays of elegance and controlled chaos.  
   
   
 ### Preachers  

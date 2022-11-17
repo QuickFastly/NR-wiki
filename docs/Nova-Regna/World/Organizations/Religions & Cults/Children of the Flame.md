@@ -55,75 +55,104 @@ comments: true
   </table>  
 </div>  
   
-The Children of the Flame are the world's largest religious organization, and one of only three remaining major hierarchical religious organizations in modern times. It is headquartered in the city of [[Falkenvall]] in [[Kolgård]], [[Osun Tanum]].  
+The Children of the Flame are the world's largest religious organization, and one of only three remaining major hierarchical religious organizations in modern times. It is headquartered in the city of [[Falkenvall]] in [[Kolgård]], [[../../Map/Osun Tanum/Osun Tanum|Osun Tanum]].  
   
-They are presumed to be the oldest known religious organization of all time, as there is no record of their formation, yet they have always possessed and been recorded in some of the oldest documents known to man.  
+They are presumed to be the oldest known religious organization of all time, as there is no record of their formation, yet they have always possessed and been recorded in some of the oldest documents known to exist.  
   
 ## Structure  
   
-The Children of the Flame is divided into four unique branches, each performing a distinct function with their own positions and power structures. Only two of these branches - the [[Law and Lore]] and [[Preachers]] branches - are publicly acknowledged, with the other two - the [[Enforcers]] and [[Internal Society]] branches - shrouded in secrecy and only known due to undercover investigations and leaks.  
+The Children of the Flame is divided into four unique branches, each performing a distinct function with their own positions and power structures. Only two of these branches - the [[./Law and Lore|Law and Lore]] and [[./Preachers|Preachers]] branches - are publicly acknowledged, with the other two - the [[./Enforcers|Enforcers]] and [[./Internal Society|Internal Society]] branches - shrouded in secrecy and only known due to undercover investigations and leaks.  
   
-![[Children of the Flame Hierarchy.svg]]  
+![[../../../../assets/img/Children of the Flame Hierarchy.svg|Children of the Flame Hierarchy.svg]]  
   
-## Public Agenda  
+### Law and Lore  
   
-Under the reign of [[The Sixth Storyteller]], the primary public goals of the organization have been humanitarian and charitable efforts, cultural development, and scientific research. They are lauded worldwide for their efforts in these fields, particularly for being almost single-handedly responsible for multiple disaster relief efforts, the largest donators for multiple charities, credited for many culturally significant works, and being instrumental in the discovery of [[Mystic Matter]].  
+The Law and Lore branch of the Children of the Flame is responsible for the administration, bureaucracy, and other official dealings, as well as maintaining order within the organization through management and enforcement of laws, and keeping the lore, prophecies, and other history organized and prevalent in teachings. They are the highest ranking members of the organization with authority over all other branches.  
   
-==There have been many cases of people seeking legal action against the organization, many claiming that the Children of the Flame was responsible for a murder or worse. Most organizations would be permanently damaged by such allegations, but the Children of the Flame is unique for its ability to twist such things to their favor by quickly and publicly acknowledging what was done, punishing those responsible, and doing everything in their power to help the affected individuals.== These strong public relations efforts are a large contributing factor to their rapidly increasing followers around the world.  
+#### The Storyteller  
   
-## Assets  
+This is the highest position in the organization. What this person says is absolute, and all decisions can be overruled by them. They have an encyclopedic knowledge of the history of the organization, their texts, and laws.  
   
-==They hold a modest library of ancient texts, believed to be prophecies, stories, commandments, and other divine writings from their gods. Today they have been treated primarily as historical artifacts rather than sources of guidance.== These artifacts are proudly displayed in their major gathering places, and digitized copies are made available to the public upon request.  
+Traditionally, The Storyteller is meant to wear the most extravagant vestments and be treated like a god, and this was upheld until the Sixth reign where this and nearly every other tradition was broken.  
+  
+They are informed of every decision and action made by the organization at any point in time, but are rarely involved in the process unless it is a particularly major event, or when intervention is needed. There can be only one Storyteller at any given time, and the position - when available - is selected on merit alone.  
+  
+#### Cardinals  
+  
+  
+  
+  
+  
+### Preachers  
+  
+f  
+  
+  
+  
+### Enforcers  
+  
+f  
+  
+  
+  
+### Internal Society  
+  
+f  
+  
+  
+  
   
 ## History  
   
-While the specific origins of the Children of the Flame have been lost to time, it is believed that they have existed since the transition to Anno Ortu from [[Era Dira]]. Allegedly, they formed after seeing their gods help to rebuild in the aftermath of a global disaster, and their worship slowly strengthened after their gods disappeared and more emphasis was instead placed on the ancient texts they had collected. Their faith was global, but disorganized ==until they formally organized themselves, established a hierarchy and appointed a leader - called a Storyteller - somewhere around the year 1160.== Each Storyteller steered the organization in radically different directions.  
+While the specific origins of the Children of the Flame are unknown, it is likely that they have existed since the end of Era Dira. Allegedly, they formed after seeing their gods help to rebuild in the aftermath of the [[../../History & Events/The End of Everything|The End of Everything]], and their worship slowly strengthened after their gods disappeared and more emphasis was instead placed on the ancient texts they had collected. Their faith was global, but disorganized until the reformation of the faith under a leader known as a Storyteller, which occurred around the year 1160. There have been six Storytellers since then, and each Storyteller steered the organization in radically different directions.  
   
-During the reign of the First Storyteller, the organization was focused firmly on the peace and prosperity of human society. Despite good intentions, their teachings led to a spike in racism against [[Spirits|spirits]]. This reign lasted about 100 years.  
+The First Storyteller rallied the organization around the goals of peace and prosperity among humankind, which despite apparent good intentions, led to a spike and subsequent long term upward trend of racism against [[../../Inhabitants/Spirits|spirits]]. This reign lasted about 100 years.  
   
-The Second Storyteller was someone who took the racism of the previous reign to heart, and shifted the focus of the organization to domination. Many atrocities were committed during this time, ==including one large scale crusade against another religious organization.== This reign lasted about 60 years.  
+The Second Storyteller was a product of the racism inadvertently encouraged by the First, and pivoted the focus of the organization to the domination and subjugation of spirits, leading to the formation of the Enforcers. Numerous atrocities were carried out under the reign of the Second. This reign lasted about 60 years.  
   
-The Third Storyteller loosened the iron grip of the Second, and shifted the organization towards hedonism. ==Atrocities did not stop entirely, however, and the organization was still under fire for its extremely poor reputation.== This reign lasted about 90 years.  
+The Third Storyteller was a product of the complacency brought about by the actions of the Second. Tired of the militant attitude, they loosened the iron grip of the organization and encouraged hedonism among followers, leading to the formation of the Internal Society. This reign lasted about 90 years.  
   
-The Fourth Storyteller idolized stories of the reign of the Second and turned the organization back towards violence, this time not only craving dominance, but absolute supremacy. The entire reign became one global crusade infamous for some of the worst atrocities in known history, including mass rape and genocide of spirits. This reign lasted about 40 years.  
+The Fourth Storyteller idolized stories of the Second and turned the organization back towards violence, this time not only craving dominance, but absolute supremacy. The Enforcers branch of the organization grew in size and scope as the entire organization was mobilized on numerous crusades around the world for the entire reign, the atrocities committed against both spirits and humans in the process including some of the very worst in history. This reign lasted about 40 years.  
   
-The Fifth Storyteller was disgusted by the Fourth, and began their reign by taking the head of the Fourth and executing all those who took part in the atrocities. The organization was withdrawn from the public eye during this reign, only showing themselves in attempts to right their wrongs and improve their reputation. This laid the groundwork for their most dramatic shift yet. This reign lasted about 110 years.  
+The Fifth Storyteller, disgusted by the Fourth, began their reign by taking the head of the Fourth and executing all those who took part in the atrocities of the crusades. The organization largely withdrew from the public and much of what happened during this reign remains unknown, shrouded in secrecy, but it is known that a concerted effort was made to address and take responsibility for much of the Fourth’s wrongdoings, while also laying the groundwork for some progressive change within the organization. This reign lasted about 110 years.  
   
-==The Sixth Storyteller successfully brought the organization back into the public eye as both a beacon of light and a force of nature. While certain groups within the organization were still highly questionable at best, he took the spotlight off of them and kept the organization's best side visible at all times. He changed the organization from a stifling religion to a champion of the people. Membership skyrocketed, and for the first time in their history, public opinion of the organization was positive. The ancient texts that directed the actions of all previous Storytellers were relegated to the libraries as artifacts, and instead the Sixth Storyteller would commune directly with their gods for guidance, even moving them into the public eye.==  
+The Sixth Storyteller brought the organization back into the public as a drastically reformed beacon of light. For the first time, the focus of the organization shifted away from strict religious adherence, instead adopting an interpersonal approach to spirituality, while also dedicating most of the organization’s funding and manpower to global public benefit through charity, research, and disaster relief. The Enforcers and Internal Society branches of the organization were also removed entirely from the public, but remain active within the organization. This reign is ongoing.  
   
-## Mythology  
+## Public Agenda  
   
-The Children of the Flame worship three deities, being the immortal [[Incarnations]] [[Florian]], [[Freya]], and [[Kerosyn]].  
+Under the reign of [[../../../Characters/The Sixth Storyteller|The Sixth Storyteller]], the primary public goals of the organization have been humanitarian and charitable efforts, cultural development, and scientific research. They are lauded worldwide for their efforts in these fields, particularly for being among the largest contributing forces across many disaster relief efforts around the world, the largest financial contributors for numerous charities, credited as a major influence or contributor in many culturally significant works, and most notably, for being instrumental in the discovery of [[../../Concepts/Mystic Matter|Mystic Matter]].  
   
-==Despite possessing an extensive collection of ancient stories, three in particular stand out. These stories are not recorded among the ancient texts, but were instead recorded by the organization themselves during their origins, and even spread into both secular history as well as the history of other religions.==  
+The organization acts as its own public relations manager and spends a lot of time maintaining a positive appearance by widely publicizing the products of their contributions to the public, even when another religious organization is involved, while also working around the clock to counter or bury controversies and allegations raised against them. This effort is the primary driving force in the still rapidly increasing numbers of devout followers.  
   
-==As a result of this, these stories were malformed, mistranslated and misinterpreted throughout history with some passages even being outright lost. However, early on in the reign of the Sixth Storyteller, the stories were reconstructed. All versions have been kept for posterity, sometimes leading to confusion among those who don't know any better, but most Listeners and even secular people choose to believe the Storyteller's account to be the truth.==  
+The stated goals of the organization are to provide the resources and tools necessary to achieve a higher overall quality of life for followers and those around them, and the promise that faithful followers will be spared in the coming end times.  
   
-### The Beginning  
+### Political influence  
   
-This story describes the process of the world's creation. It spawned countless variations and interpretations throughout history, but every single variation shares at least one commonality: They all depict "The Creator" as a beautiful woman who sacrificed herself for humanity. Some interpretations claim she did it to save humans from destruction, others believe it was an attempt to eradicate them, and countless interpretations exist between those two extremes.  
+Testament to the immense influence and drive of The Sixth Storyteller, the Children of the Flame hold great power in the politics of the world, often finding themselves involved - directly or indirectly, intentionally or not - with elections around the world, as well as policy and law decisions. Due to their humanitarian and charitable efforts along with their dedication to cultural development and scientific research, the organization also has strong ties with many major corporations around the world. The most notable exceptions to this are [[../Corporations/11K|11K]] and the [[../Risky Witches|Risky Witches]], as these three groups are outwardly wary of each other and regularly find themselves at odds on issues, but chances are that no matter where you are in the world, one of these three groups was probably involved in any major political or corporate action you can think of.  
   
-%%The story isn't actually written yet, and doesn't really need to be.%%  
+## Assets  
   
-### The Reckoning  
+The Children of the Flame are in possession of nearly 40% of all known intact artifacts of [[../../History & Events/Era Dira|Era Dira]], most of which are texts, ranging from scrolls to loose papers to leather bound books. Many of these ancient texts are considered divine by the organization, but are today treated primarily as pieces of history rather than sources of guidance in modern life. The vast majority of these artifacts are proudly displayed in the grand library located at the Falkenvall headquarters, but there is at least one artifact kept in every major gathering place around the world. They have all been digitized by the organization, and digital copies are made available to the public free of charge. About 80% of these texts have been translated into multiple modern languages, but the remaining untranslated texts are written in an ancient language that is still in the early stages of study.  
   
-This is the story recounting the great wars of humanity before the end of everything. All interpretations contain the statement that human population dropped to near extinction, but each version of the story has its own idea of the cause. Some say it's because humans invoked the wrath of the gods, others say it was hubris or arrogance, a petty conflict that got out of hand, among many other causes. Many stories have mentioned a god by name, but these names were never corroborated by other variations. The one exception to that observation is [[Morrigan]], who appears as a common name in many variations of the story, contributing to the feared reputation of the [[Crow|crows]].  
+### Funding  
   
-%%The story isn't actually written yet, and doesn't really need to be.%%  
+Most of their funding is provided by donations, primarily from members. There is no tithing or other collection. Smaller sources of funding for the organization come from real estate, royalties for non-religious media attributed to the organization, and the sale of lifestyle products produced by companies owned by the organization. The Internal Society is also a source of funding for the organization, though this is a deeply controversial situation both outside and within the organization. The Children of the Flame have been listed as one of the 50 richest corporations in the [[../Ozen Federation|Ozen Federation]], and one of the 20 richest in Osun Tanum.  
   
-### The Inferno  
+## Beliefs  
   
-This story is the most consistent across multiple versions. It describes an event known by most as [[The End of Everything]], and Armageddon to some. A common theme found in all versions of this story is that the world was bathed in fire with only a minuscule fraction of life remaining to rebuild. This is the event dividing Era Dira and Anno Ortu on the calendar. The most notorious variation of this story was entirely fabrication, introduced by a power-hungry High Cardinal before The Sixth Storyteller had a chance to publicize his account, and was preserved to be used as an example. It is as follows:  
+The Children of the Flame worship the immortal [[../../Concepts/Incarnations|Incarnations]] and venerate them as deities. These are [[../../../Characters/Incarnations & Gods/Florian|Florian]] (The Destroyer), [[../../../Characters/Incarnations & Gods/Freya|Freya]] (The Deceiver), and [[../../../Characters/Incarnations & Gods/Kerosyn|Kerosyn]] (The Deliverer). They also view the mortal incarnations as divine, but not as deities and do not worship them.  
   
-*And in the end times, the false one bore control of the world and was to marshal it to ruination, yet the destroyer stood up to the false one and engaged him in war. They fought for a thousand years bringing perpetual wink and woe to all those around them, till one day appeared the deceiver, whom tricked them into believing neither one was content to battle any longer, and mocked the men into worshiping her as the one righteous god for a thousand years. And in the two thousandth year, the deliverer stood up and denounced those men for their sins, and he demonstrated his righteousness by taking the heart of the false one and burning him towards the pyre, from which the flames spread across all of the of the world, and the destroyer known his righteous bid and was sent to amerce those men of sin, while those men whom saw the righteousness of the deliverer and pledged themselves to him were spared, among them, the deceiver prostrated herself and declared herself to be reformed. And towards the day of the solar eclipse, the deliverer granted a righteous speech to those men whom pledged to him, and bestowed upon them the code to live by, lest the destroyer amerce their sins, and then he rose up and the entirety of the world was bathed in his holy flame, born anew from the ashes, our home.*  
+They originally based much of their beliefs on the numerous ancient texts they hold in their library, but have largely moved away from that belief system under the reign of The Sixth Storyteller. Instead, belief is focused more strongly on adherence to a set of morals and ethics laid out in texts written by the Storytellers, under the assumption that remaining faithful while behaving in accordance with the expectations of the faith will grant followers life in the next era, and that such followers who have died will be resurrected at that time.  
   
-### The Sixth Storyteller's Account  
+The organization does not encourage belief in any form of afterlife. They believe that death is a state of non-existence with no consciousness, and that there is no Heaven or Hell. Their belief in a grand resurrection at the start of the next era is reliant on the actions of their deities, which have been proven to exist both by the organization and many outside of it, and is supported by Freya's ability to resurrect after death, no matter what state her body is left in.  
   
-A story in itself, [[The Account|this account]] was written by The Sixth Storyteller after a private meeting with the three deities of the organization. In this account, details of all three previous stories are covered and rectified, along with new information not previously known, though it is more of a life story of the deities than an informative report. It was kept secret for a number of years following the spread of the fabricated story of The Inferno and was even tampered with, presumably by the power-hungry High Cardinal. The original tampered documents are preserved in the library for posterity, but the restored original version is widely available.  
+Historically, the organization considered their texts to be inerrant, scientifically and historically accurate and reliable, and interpreted the vast majority of it literally. Followers were encouraged to frequently read the texts personally, but discouraged from formulating doctrines and "private ideas" reached through independent research, and were cautioned against reading other religious literature. Adherents were told to have complete confidence in the leadership, to avoid skepticism about what is taught through the texts and other literature from the organization, and to "not advocate or insist on personal opinions or harbor private ideas when it comes to diving understanding." The organization made no provision for followers to criticize or contribute to official teachings.  
   
-## Tenets  
+Today, many of those beliefs have been relaxed by The Sixth Storyteller. It is now an accepted belief that some of their texts are factually incorrect, and many are not meant to be interpreted literally. Followers are still encouraged to frequently read these texts personally, and are no longer discouraged from conducting independent research or presenting criticism or new ideas to the organization if it is done privately and in good faith.  
   
-One is expected to adhere to the six virtues at all times unless given no choice, or when possessing an infallible reason to go against them.  
+### Tenets  
+  
+Every follower is expected to adhere to these six virtues at all times unless given no choice, or when possessing an infallible reason to go against them. These virtues all originate from existing ancient texts, but have evolved over time to suit the changing world, particularly under The Sixth Storyteller.  
   
 1. One is expected to practice Wisdom. Remain curious, creative, and open minded, so that you may shine brightly and flourish.  
 1. One is expected to practice Courage. Hold fast in times of hardship, and do not falter when your integrity is challenged.  
@@ -132,27 +161,56 @@ One is expected to adhere to the six virtues at all times unless given no choice
 1. One is expected to practice Temperance. Seek calmness, remain humble, and show mercy to those who have wronged you.  
 1. One is expected to strive for Transcendence. Always remain hopeful, express deserved gratitude, and become a beacon of light.  
   
-## Ethics  
+### Ethics and morality  
   
-Members of the Children of the Flame are expected to live peaceful and positive lives, to be good influences on those around them, and to be selfless, as the tenets dictate. Of course, there are many exceptions to this rule, most obviously being the Enforcers and the Internal Society operating on their own sets of rules.  
+Before the reign of The Sixth Storyteller, the organization held an extremely conservative moral code, and enforced them strictly. All sexual relations outside of marriage were grounds for expulsion if the individual was not deemed repentant. Homosexual activity was considered an unforgivable sin, and same-sex marriages were forbidden. Abortion was considered murder, and suicide was considered self-murder, both treated as unforgivable sins. Divorce was discouraged, and remarriage was forbidden in all cases except when divorce was obtained on the grounds of adultery. Remarriage itself was considered adulterous in those cases. Marrying someone outside of the organization or endorsing such a union was strongly discouraged. The husband of a family was considered to have absolute authority in all family decisions. Followers were even discouraged from maintaining friendships with people outside of the organization, and were instead expected to treat such others as "associates". It was also the case that women were barred from holding positions of authority within the organization and were not allowed to address the organization directly, except in rare circumstances when there was no eligible man to do so.  
   
-The code of ethics for the Enforcers is, by all definitions, heretical. They embody the sins of the masses, and are not held to the tenets as a result. ==Despite their twisted and evil ways, they remain dedicated to their faith and fully realize that they are heretical, leading their wing of the organization to remain in the shadows, even to the organization itself, and their primary guiding light to be simply following orders to the letter.==  
+Under The Sixth Storyteller, all of those aspects of the moral code within the organization have been relaxed or undone. While it is still recommended that followers focus their relationships towards other followers, it is no longer a requirement. The husband is no longer considered the absolute authority of the family, and women are now considered equal to men within the organization. Sex outside of marriage, divorce and remarriage, homosexuality, same-sex marriage, and abortion are no longer considered sins at all. Suicide is also no longer considered a sin, and the organization now approaches suicidal followers with compassion rather than a stern rebuke. Transgender identities were never specifically addressed by the organization prior to The Sixth Storyteller, who made it clear that transgender individuals are valid and to be treated as the gender they present themselves as without prejudice.  
   
-==The Internal Society tries to walk the tightrope between virtue and sin, with their members being expected to adhere to the tenets at all times not "at work." Be it simple manipulation or anything more sinister, or even simple personal indulgence, they are allowed to largely ignore the tenets for that time. However, their cardinal rule that they also enforce on all other wings of the organization, is that Sisters must be treated with fairness, care and kindness no matter what the circumstances may be unless they themselves agree to indoctrination, and to be allowed to live as happily as possible.==  
+Today, in a complete inversion from the traditional beliefs of the organization prior to the reign of The Sixth Storyteller, it is considered a sin to view one's self as above, or worth more than another, particularly when comparing to people outside of the organization. Bearing witness to an injustice that one could feasibly stand against, and choosing not to do so, is also considered a sin, and depending on the weight of the injustice, may even be an unforgivable sin. Homophobia, transphobia, and racism are also considered sins.  
   
-## Worship  
+### Worship  
   
-Generally, displays of worship are not expected among members of the organization except during special occasions, such as the performing of a sacramental rite[^1]. All members of the organization are treated as faithful worshipers so long as they remain without sin, or repent promptly. Because of this lax nature, even secular individuals can often be found living in line with the expectations of the organization. Even in the presence of the deities themselves, people are not expected to stifle themselves.  
+Generally, displays of worship are not expected among members of the organization except during special occasions, such as the performance of a rite. All members of the organization are treated as faithful worshipers so long as they remain without sin, or repent promptly. Because of this lax nature, even secular individuals can often be found living in line with the expectations of the organization. Even in the presence of the deities themselves, people are not expected to stifle themselves.  
   
 A common prayer among the organization is a glorification of the three deities. Some scholars believe it was once a specialized prayer among dozens of others, but today it is used only for traditional purposes and is the only prayer still persistent in the organization.   
   
-> *Quod liberatio, perditionem devorans, et Deceptio, gloriam nomini tuo. Sicut in principio, et nunc et in perpetuum. Amen.*  
+> *Quod liberator, deceptor, et eversor, gloria nomini tuo. Sicut in principio, nunc et in perpetuum. Amen.*  
   
-## Political influence  
+### Sources of belief  
   
-Testament to the cunning nature of The Sixth Storyteller, the organization has leveraged its stellar public opinion to stealthily insert itself into not only the political organizations of the world, but nearly everything else. Save for a remarkable few exceptions such as [[11K]] and the [[Risky Witches]], the Children of the Flame hold the world in the palm of their hand, quietly pulling strings in the background. Each of the aforementioned organizations are equally as powerful, however, leading the three of them to be in a constant power struggle behind the scenes of the international stage.  
+Many core beliefs of the Children of the Flame are based on the many ancient texts found in their library, but unlike other religions throughout history, these texts were never collected into a single source. Instead, the texts are regarded separately as "stories" which are taught and studied independently of all other stories, unless there are direct references connecting them.  
   
-[^1]: Each branch of the organization has their own sacramental rites, which are described in their respective articles.  
+These stories are regarded as divine, though many of them do not have an attributed author, and notably, none of them were written by the three deities of the organization. In recent years, based on guidance from those three deities, it is believed by the organization that many of the stories were written by the deities that came before.  
+  
+Several of these stories are corroborated by independent historians around the world and throughout the decades and centuries, but many have been malformed, mistranslated, and misinterpreted throughout history, with others still having passages and pages lost entirely. The organization keeps all of the incorrect versions of their stories available to the public, but recommends against reading them unless doing so as part of historical research.  
+  
+Four stories are particularly notable both within and outside of the organization, with religious and secular people alike.  
+  
+#### The Beginning  
+  
+This story, known more generally as [[Creation myths#The Common Myth|the common myth]], describes the process of the world's creation. It has spawned countless variations and interpretations throughout history, but every single variation shares at least one commonality: They all depict "The Creator" as a beautiful woman who sacrificed herself for humanity. Some interpretations claim she did it to save humans from destruction, others believe it was an attempt to eradicate them, and countless interpretations exist between those two extremes.  
+  
+%%The story isn't actually written yet, and doesn't really need to be.%%  
+  
+#### The Reckoning  
+  
+This is the story recounting the great wars of humanity before the end of everything. All interpretations contain the statement that human population dropped to near extinction, but each version of the story has its own idea of the cause. Some say it's because humans invoked the wrath of the gods, others say it was hubris or arrogance, a petty conflict that got out of hand, among many other causes. Many stories have mentioned a god by name, but these names were never corroborated by other variations. The one exception to that observation is Morrigan, who appears as a goddess of death and misery in many variations of the story, contributing to the feared reputation of the [[../../Inhabitants/Crow|crows]].  
+  
+%%The story isn't actually written yet, and doesn't really need to be.%%  
+  
+#### The Inferno  
+  
+This story is the most consistent across multiple versions. It describes an event known by most as The End of Everything, and as Armageddon to some others. A common theme found in all versions of this story is that the world was bathed in fire with only a minuscule fraction of life remaining to rebuild. This is the event dividing Era Dira and Anno Ortu on the calendar.  
+  
+The most notorious variation of this story was a complete fabrication, introduced by a power-hungry High Cardinal as part of a plan to slowly gain direct control over the followers before The Sixth Storyteller had a chance to publicize his account, and was preserved to be used as an example in educational materials used to teach followers how to identify false information.  
+  
+> [!info]- The false story  
+> *And in the end times, the false one bore control of the world and was to marshal it to ruination, yet the destroyer stood up to the false one and engaged him in war. They fought for a thousand years bringing perpetual wink and woe to all those around them, till one day appeared the deceiver, whom tricked them into believing neither one was content to battle any longer, and mocked the men into worshiping her as the one righteous god for a thousand years. And in the two thousandth year, the deliverer stood up and denounced those men for their sins, and he demonstrated his righteousness by taking the heart of the false one and burning him towards the pyre, from which the flames spread across all of the of the world, and the destroyer known his righteous bid and was sent to amerce those men of sin, while those men whom saw the righteousness of the deliverer and pledged themselves to him were spared, among them, the deceiver prostrated herself and declared herself to be reformed. And towards the day of the solar eclipse, the deliverer granted a righteous speech to those men whom pledged to him, and bestowed upon them the code to live by, lest the destroyer amerce their sins, and then he rose up and the entirety of the world was bathed in his holy flame, born anew from the ashes, our home.*  
+  
+#### The Sixth Storyteller's Account  
+  
+A story in itself, [[../../History & Events/The Account|this account]] was written by The Sixth Storyteller after a private meeting with the three deities of the organization. In this account, details of all three previous stories are covered and rectified, along with new information not previously known, though it is more of a life story of the deities than an informative report. It was kept secret for a number of years following the spread of the fabricated story of The Inferno and was even tampered with, presumably by the power-hungry High Cardinal. The original tampered documents are preserved in the library for posterity, and the digitally restored version is widely available.  
   
 -----  
 > [!cite] Author info  

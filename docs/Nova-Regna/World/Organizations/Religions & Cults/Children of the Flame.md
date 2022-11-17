@@ -61,7 +61,7 @@ They are presumed to be the oldest known religious organization of all time, as 
   
 ## Structure  
   
-The Children of the Flame is divided into four unique branches, each performing a distinct function with their own positions and power structures. Only two of these branches - the [[./Law and Lore|Law and Lore]] and [[./Preachers|Preachers]] branches - are publicly acknowledged, with the other two - the [[./Enforcers|Enforcers]] and [[./Internal Society|Internal Society]] branches - shrouded in secrecy and only known due to undercover investigations and leaks.  
+The Children of the Flame is divided into four unique branches, each performing a distinct function with their own positions and power structures. Only two of these branches - the Law and Lore and Preachers branches - are publicly acknowledged, with the other two - the Enforcers and Internal Society branches - shrouded in secrecy and only known due to undercover investigations and leaks.  
   
 ![[../../../../assets/img/Children of the Flame Hierarchy.svg|Children of the Flame Hierarchy.svg]]  
   
@@ -71,28 +71,80 @@ The Law and Lore branch of the Children of the Flame is responsible for the admi
   
 #### The Storyteller  
   
-This is the highest position in the organization. What this person says is absolute, and all decisions can be overruled by them. They have an encyclopedic knowledge of the history of the organization, their texts, and laws.  
+This is the highest position in the organization. What this person says is absolute, and all decisions can be overruled by them. They have an encyclopedic knowledge of the history of the organization, their texts, and their laws.  
   
-Traditionally, The Storyteller is meant to wear the most extravagant vestments and be treated like a god, and this was upheld until the Sixth reign where this and nearly every other tradition was broken.  
+Traditionally, The Storyteller is meant to wear the most extravagant vestments and be treated like a god, and this was upheld until the Sixth reign where this and nearly every other tradition was either relaxed or thrown out.  
   
 They are informed of every decision and action made by the organization at any point in time, but are rarely involved in the process unless it is a particularly major event, or when intervention is needed. There can be only one Storyteller at any given time, and the position - when available - is selected on merit alone.  
   
 #### Cardinals  
   
+These are the people responsible for all major decision making and organization of the faith. They oversee the Enforcers wing alone, and assist the Seekers in overseeing the Preachers wing. They wear extravagant black vestments with tall hats, but the High Cardinal is exempt from this, instead wearing what The Storyteller says to wear.  
   
+They are akin to politicians in their role. To become a Cardinal, one must be selected personally by the High Cardinal and then perform the Cardinal's Rite. The High Cardinal is assigned directly to The Storyteller as an advisor and to relay information.  
   
+#### Seekers  
+  
+These are the people responsible for managing all activities of the Preachers wing, as well as overseeing the Internal Society. They are not concerned with managing the law, instead focusing on keeping the lore and history of the organization, while also acting as the lead scientists of the organization. They wear extravagant white vestments with no hat, but the High Seeker is exempt from this instead wearing what The Storyteller says to wear.  
+  
+The High Seeker acts as The Storyteller's right hand, and is almost always with him to discuss whatever needs discussing and help with whatever is needed. To become a Seeker, one must prove their merit through a series of tests and then perform the Seeker's Rite.  
+  
+#### Chancellors  
+  
+The bureaucrats of the organization, these are the people responsible for all administrative tasks and paper pushing. Almost all paperwork that needs to be done by any other member of the organization is usually routed to the Chancellors, and the Chancellors are often the ones delivering official orders. They wear understated vestments that distinguish them from all other classes. Becoming a Chancellor is as simple as filling out a form and turning in a resume.  
+  
+#### Firekeepers  
+  
+The mystics of the organization, these elite few are [[../../Concepts/Attunement|Attunement]] users with an affinity for flames. These are the people responsible for the performance of most holy tasks, meting out internal punishments, and mystifying the people in public demonstrations. They wear light and wavy vestments with open or no footwear, exuding an aura of exotic elegance. Firekeepers are chosen for their powers and asked to perform the Mystic Dance, only allowed to become a Firekeeper if their dance impresses the High Cardinal and High Seeker.  
   
   
 ### Preachers  
   
-f  
+The Preachers branch of the Children of the Flame is not quite what one would expect by the name. Their primary responsibility lies not in spreading the word of their faith, but rather in public relations, leaving the actual preaching to the lowest ranked members. These people are the face of the group, the only part that the vast majority of people know.  
   
+#### Patriarchs  
+  
+The "fatherly" types of the organization, these are the people that the entire Preachers wing answer to. They wear extravagant vestments and are rarely seen in public except for ceremonial occasions, but those within the organization beneath them tend to look up to the Patriarchs as role models.  
+  
+Mostly unknown to everyone, however, the Patriarchs also play a part in the Internal Society of the organization, evaluating Initiates to see whether or not they would fit as Eunuchs and sometimes engaging in debauchery with the Internal Society behind closed doors. Patriarchs are appointed personally by the Seekers.  
+  
+#### Reverends  
+  
+These are the people that the public imagine when they hear about the organization. They all have subtle but distinct vestments allowing them to stand out from the public, and they are all trained to appear as warm, friendly and approachable as possible, making them exude a divine and pleasant aura.  
+  
+They dedicate much of their time to helping those in need, and are commonly seen assisting with disaster relief, humanitarian fundraising events, and grand openings of public buildings.  
+  
+Becoming a Reverend is as simple as expressing interest to a Patriarch, who will then look over the things they have done to help the public and decide whether or not the prospective Reverend is worthy. In special cases, they may be selected by a Firekeeper instead.  
+  
+#### Priests  
+  
+These are the people on the front lines of the public, making every effort to help people in need and sharing their knowledge of the organization to those showing interest. They blend in seamlessly with the public due to wearing no vestments and not being outspoken about the organization. Becoming a Priest is as simple as expressing interest to a Reverend.  
+  
+#### Initiates  
+  
+These are the men who among the Devout display a vested interest in the faith, and are noticed by the Internal Society as promising specimens. They are taken under the wing of both Patriarchs and Eunuchs and trained in the respective classes, and regularly evaluated to see which side of them shows more promise before eventually becoming either a Patriarch or a Eunuch themselves.  
   
   
 ### Enforcers  
   
-f  
+The Enforcers branch of the Children of the Flame is a quite small but very powerful force of militaristic people, responsible for all the dirty work of the organization. They operate from the shadows for the most part, killing their targets quietly, simply gathering intelligence, or manipulating people for their own ends, though occasionally they will make large, organized, very public attacks when ordered.  
   
+> [!warning]  
+> Very few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame.  
+  
+#### Inquisitors  
+  
+These are the people responsible for identifying and dealing with heretics and any others marked by the higher-ups of the organization. They are most known for their use of gruesome torture methods and seeming to take pleasure in carrying them out, but are most commonly sent out purely for espionage. Notably, no Inquisitors possess attunement. Becoming an Inquisitor requires a test to prove oneself dedicated. This test is decided on a case by case basis and must be carried out alone.  
+  
+#### The Sanctified  
+  
+These people are, in essence, a merciful version of the Inquisitors, and much more focused on the divine aspect of their work. Where the Inquisitors derive pleasure or entertainment in their tasks, The Sanctified are disgusted by the barbaric nature. They take great pride as divine and merciful executioners. Notably, all of The Sanctified possess attunement.  
+  
+There are an extremely small number of The Sanctified due both to the rarity of attunement and the difficulty of the training required.  
+  
+#### The Infernal  
+  
+The Infernal are the front line infantry of the Enforcers, almost never being trusted with important tasks and most often being utilized in great numbers. They are selected by Inquisitors or the Sanctified based on ability and desire, and are eligible to become one of the higher ranks based on merit and seniority.  
   
   
 ### Internal Society  

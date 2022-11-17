@@ -149,7 +149,14 @@ The Infernal are the front line infantry of the Enforcers, almost never being tr
   
 ### Internal Society  
   
-f  
+The Internal Society of the Children of the Flame shares very little with the other branches, or even the general concept of the faith, instead operating much like a dynastic harem.  
+  
+The continued presence of this part of the organization is a point of extreme contention among those who are aware of it, as nobody outside of the Internal Society believes it should be allowed to exist, nor do they understand how it persists. The true amount of influence the Internal Society holds over the organization is still unknown. The efforts of the Fifth and the continuing efforts of the Sixth storytellers have not been enough to remove the Internal Society, but they have been effectively quarantined within the organization.  
+  
+> [!warning]  
+> Extremely few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame.  
+  
+#### Matriarchs  
   
   
   

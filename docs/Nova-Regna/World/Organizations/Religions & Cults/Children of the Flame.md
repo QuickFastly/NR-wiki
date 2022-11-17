@@ -2,9 +2,6 @@
 share: true  
 comments: true  
 ---  
-> [!bug] Issue  
-> A rewrite is planned for this group. Highlighted sections are guaranteed to change, and everything else, including everything in the related subpages, is in question.  
-  
 <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
   <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
 	<tr>  
@@ -69,6 +66,11 @@ The Children of the Flame is divided into four unique branches, each performing 
   
 The Law and Lore branch of the Children of the Flame is responsible for the administration, bureaucracy, and other official dealings, as well as maintaining order within the organization through management and enforcement of laws, and keeping the lore, prophecies, and other history organized and prevalent in teachings. They are the highest ranking members of the organization with authority over all other branches.  
   
+Those who commit sins serious enough that the Preachers cannot absolve them are instead brought to this branch, and if they are deemed repentant, they are given the choice to either undergo Cleansing or be expelled from the organization.  
+  
+> [!info]- Cleansing  
+> During Cleansing, the recipient is doused in water by a Cardinal, then a Firekeeper engulfs the recipient in flame while they prostrate themselves begging for forgiveness. This is repeated six times, and if all goes smoothly, the recipient is pardoned and lauded by everyone.  
+  
 ##### The Storyteller  
   
 This is the highest position in the organization. What this person says is absolute, and all decisions can be overruled by them. They have an encyclopedic knowledge of the history of the organization, their texts, and their laws.  
@@ -84,7 +86,7 @@ These are the people responsible for all major decision making and organization 
 They are akin to politicians in their role. To become a Cardinal, one must be selected personally by the High Cardinal and then perform the Cardinal's Rite. The High Cardinal is assigned directly to The Storyteller as an advisor and to relay information.  
   
 > [!info]- Cardinal's Rite  
-> Use this admonition to provide any in-world information you believe readers need to know that isn't directly relevant enough to be part of the main article.  
+> Prospective cardinals are selected to perform this rite personally by the High Cardinal. It is a purely ceremonial act, where the High Cardinal douses the prospective cardinal's head in black oil, and then burns the brand onto the back of their dominant hand.  
   
 ##### Seekers  
   

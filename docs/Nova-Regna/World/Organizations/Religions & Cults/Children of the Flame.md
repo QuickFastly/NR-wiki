@@ -165,7 +165,11 @@ These elite women are, in essence, super Sirens. Everything a Siren can do, a Ma
 These women are masters of seduction, manipulation and trickery. Of the entire Internal Society, they are the only ones ever seen in public, though they aren't recognized because they have no vestments. They hypnotize - figuratively or literally depending on the person and their abilities - unsuspecting or vulnerable people and manipulate them into doing their bidding or give them what they want, most commonly using their bodies to their advantage. Most Sirens possess attunement. Sirens with attunement sometimes use it against their victims in one of two ways, referred to as Draining and Breaking.  
   
 > [!info]- Draining and Breaking  
-> Use this admonition to provide any in-world information you believe readers need to know that isn't directly relevant enough to be part of the main article.  
+> Draining utilizes their already exceptional abilities of hypnosis and manipulation and amplifies the effects through attunement. Recipients are slowly hypnotized during a sexual encounter and not allowed to orgasm until they are under full control of the performer, where they then use the moment of orgasm to implant an idea or an order in the recipient's mind with frightening efficacy.  
+>   
+> The recipient is left extremely exhausted after this but unable to sleep, and they feel hollow and lost for up to a week after the encounter, assuming the performer doesn't repeat the rite immediately. It can be repeated as many times as the performer wants, even to the point of killing the recipient.  
+>  
+> Breaking  
   
   
   

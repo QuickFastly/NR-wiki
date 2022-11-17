@@ -149,7 +149,18 @@ The Infernal are the front line infantry of the Enforcers, almost never being tr
   
 ### Internal Society  
   
-f  
+The Internal Society of the Children of the Flame shares very little with the other branches, or even the general concept of the faith, instead operating much like a dynastic harem.  
+  
+The continued presence of this part of the organization is a point of extreme contention among those who are aware of it, as nobody outside of the Internal Society believes it should be allowed to exist, nor do they understand how it persists. The true amount of influence the Internal Society holds over the organization is still unknown. The efforts of the Fifth and the continuing efforts of the Sixth storytellers have not been enough to remove the Internal Society, but they have been effectively quarantined within the organization.  
+  
+> [!warning]  
+> Extremely few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame.  
+  
+#### Matriarchs  
+  
+These elite women are basically super Sirens. Everything a Siren can do, a Matriarch can do better. However, they remain sequestered in the Internal Society to manage things, instead targeting Patriarchs and Initiates with their various techniques. They evaluate prospective Initiates alongside the Patriarchs. Occasionally, they will take a Patriarch as a husband, though they ultimately hold higher authority than the Patriarchs do. Becoming a Matriarch requires being subject to the rite of Draining and the rite of Breaking one time each, and successfully resisting of all the effects.  
+  
+#### Sirens  
   
   
   

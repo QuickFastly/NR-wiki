@@ -97,6 +97,9 @@ The bureaucrats of the organization, these are the people responsible for all ad
   
 The mystics of the organization, these elite few are [[../../Concepts/Attunement|Attunement]] users with an affinity for flames. These are the people responsible for the performance of most holy tasks, meting out internal punishments, and mystifying the people in public demonstrations. They wear light and wavy vestments with open or no footwear, exuding an aura of exotic elegance. Firekeepers are chosen for their powers and asked to perform the Mystic Dance, only allowed to become a Firekeeper if their dance impresses the High Cardinal and High Seeker.  
   
+> [!info]- Mystic Dance  
+> Use this admonition to provide any in-world information you believe readers need to know that isn't directly relevant enough to be part of the main article.  
+  
   
 ### Preachers  
   
@@ -105,7 +108,9 @@ The Preachers branch of the Children of the Flame is not quite what one would ex
 The Preachers also give blessings to certain individuals, either by deeming them deserving of blessing or in need of one.  
   
 > [!info]- Blessing of the Flame  
-> Use this admonition to provide any in-world information you believe readers need to know that isn't directly relevant enough to be part of the main article.  
+> This is a ceremonial rite performed by a Reverend or Patriarch. The recipient is asked to kneel in front of them and bow their head, then the Reverend or Patriarch delivers a powerful speech designed to manipulate the minds of those who hear it into feeling empowered, invigorated, or absolved.  
+>  
+> Charisma is vital to successfully perform this rite, as the strength of the blessing is only as strong as the conviction of the Reverend or Patriarch delivering it. The effects vary depending on what the recipient thinks, what is being said, and how charismatic the performer is.  
   
 ##### Patriarchs  
   

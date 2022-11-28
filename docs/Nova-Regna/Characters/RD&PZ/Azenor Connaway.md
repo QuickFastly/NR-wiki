@@ -1,13 +1,11 @@
 ---  
+tags: PZ, RD  
 share: true  
-tags: RD  
 ---  
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later. Part of a project that is on hold.  
   
-Daughter of [[./Azenor Connaway|Azenor Connaway]]. Friends and roommates with [[./Near Amago|Near Amago]] and [[./Nozomi Hijiya|Nozomi Hijiya]].  
-  
-瑞慶覧する子  
+Mother of [[./Suruko Zukeran|Suruko Zukeran]]. Experienced involuntary Raidenification.  
   
 -----  
 > [!cite] Author info  

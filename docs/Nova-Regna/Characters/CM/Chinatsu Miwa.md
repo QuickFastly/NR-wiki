@@ -3,7 +3,7 @@ share: true
 tags: CM  
 ---  
 > [!bug] Issue  
-> This page is a stub, here as a reminder for later.  
+> This page is a stub, here as a reminder for later. Part of a project that is on hold.  
   
 A [[../../World/Inhabitants/Fox|Fox]] spirit. Member of the [[../../World/History & Events/Shinzen/Miwa Family|Miwa Family]]. "Eldest" triplet sister of [[./Masuyo Miwa|Masuyo Miwa]] and [[./Fuyumi Miwa|Fuyumi Miwa]].  
   

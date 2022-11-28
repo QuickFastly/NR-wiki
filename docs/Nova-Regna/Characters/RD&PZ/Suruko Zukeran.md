@@ -3,9 +3,9 @@ share: true
 tags: RD  
 ---  
 > [!bug] Issue  
-> This page is a stub, here as a reminder for later.  
+> This page is a stub, here as a reminder for later. Part of a project that is on hold.  
   
-Daughter of [[../../../../Azenor Connaway|Azenor Connaway]]. Friends and roommates with [[./Near Amago|Near Amago]] and [[./Nozomi Hijiya|Nozomi Hijiya]].  
+Daughter of [[./Azenor Connaway|Azenor Connaway]]. Friends and roommates with [[./Near Amago|Near Amago]] and [[./Nozomi Hijiya|Nozomi Hijiya]].  
   
 瑞慶覧する子  
   

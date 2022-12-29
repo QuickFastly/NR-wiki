@@ -92,9 +92,9 @@ In summary: Swords are to be treated entirely realistically, assuming better mat
   
 #### Urban infrastructure  
   
-More sustainability. More walkability. Public transit. Higher population density. Less cars. Way less urban sprawl. More renewable energy. Lots more nuclear energy. Way less single family housing. More mixed use zoning, or simply no zoning at all. Generally good stuff.  
+More sustainability. More walkability. Public transit. Higher population density. Less cars. Way less urban sprawl. More renewable energy. Lots more nuclear energy. Way less single family housing. More mixed use zoning, or simply no zoning at all. Generally good stuff. Interesting and unusual concepts like underground cities and tunnel networks or cities built radially around a central tower are also cool and worth exploring.  
   
-That's it.  
+That's it. This isn’t really a mechanical thing but it’s here anyway.  
   
 -----  
 > [!cite] Author info  

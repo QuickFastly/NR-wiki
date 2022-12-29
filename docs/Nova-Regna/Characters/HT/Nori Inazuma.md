@@ -108,7 +108,9 @@ Nori Inazuma is a [[../../World/Inhabitants/Fox|fox spirit]], and one of two sur
   
 ## Physical description  
   
-She has deep silver eyes, brilliant white hair and fur, very large silky smooth fox ears and tail, digitigrade feet, retractable claw-like fingernails, leather bracers and greaves with steel plates, and a short floral kimono. More detail TBD  
+She has deep silver eyes, brilliant white hair and fur, very large silky smooth fox ears and tail, digitigrade feet, retractable claw-like fingernails, leather bracers and greaves with steel plates, and a short floral kimono.  
+  
+More detail TBD  
   
 She suffers from severe [pulmonary hypoplasia](https://en.wikipedia.org/wiki/Pulmonary_hypoplasia), leaving her constantly short of breath, prone to coughing fits, and physically weakened with extremely little stamina.  
   
@@ -130,7 +132,7 @@ She has been married to Shun Inazuma for centuries.
   
 ## History  
   
-Her mother was [[Anzu Inazuma]] and her father was [[Kaki Inazuma]].  
+Her mother was [[Anzu Inazuma]] and her father was [[Kaki Inazuma]], and she had a younger sister, [[Kuri Inazuma]]. She was extremely close with her mentor, [[Toki Inazuma]].  
   
 -----  
 > [!cite] Author info  

@@ -10,4 +10,4 @@ The legendary tuning shop owned and run by [[../../Characters/PG/Masashi Kitami|
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

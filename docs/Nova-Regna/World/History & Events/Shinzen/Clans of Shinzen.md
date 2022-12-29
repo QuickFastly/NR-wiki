@@ -1,5 +1,6 @@
 ---  
 share: true  
+tags: Shinzen  
 ---  
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
@@ -19,6 +20,12 @@ share: true
   
 [[../../Cultures & Ethnicities/Shisuya/Shisuya|Shisuya]]  
   
+  
+-----  
+> [!cite] Author info  
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)  
+  
 %%  
 廝子野 shisuya (servant child field)  
 關 seki (gateway)  
@@ -32,9 +39,4 @@ share: true
 篠家 suzuka (bamboo house)  
 美和 miwa (beautiful place)  
 電 inazuma (lightning)  
-%%  
-  
------  
-> [!cite] Author info  
-> **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+%%

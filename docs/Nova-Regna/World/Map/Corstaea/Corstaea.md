@@ -1,6 +1,7 @@
 ---  
 share: true  
 comments: true  
+tags: Corstaea  
 ---  
 <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
   <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -90,7 +91,7 @@ While the health and happiness of the people are the top priority of Corstaea, t
   
 ## History  
   
-The region of [[Tolred]] has been a constant source of tension between Corstaea and Grenneria since the formation of Corstaea in 1448. Hundreds of large scale battles over the region were fought there, and potentially thousands of small scale raids and other attacks up until the proposal was made to form the Ozen Federation, finally ending the fighting and permanently establishing Tolred as a Corstaean county. The final large scale battle fought in the region was the [[1898 Liberation of Amaransk]], where the Corstaean army pioneered the use of snipers to their great advantage.  
+The region of [[Tolred]] has been a constant source of tension between Corstaea and Grenneria since the formation of Corstaea in 1448. Hundreds of large scale battles over the region were fought there, and potentially thousands of small scale raids and other attacks up until the proposal was made to form the Ozen Federation, finally ending the fighting and permanently establishing Tolred as a Corstaean county. The final large scale battle fought in the region was the [[1898 Liberation of Amaransk|1898 Liberation of Amaransk]], where the Corstaean army pioneered the use of snipers to their great advantage.  
   
 ## Geography  
   

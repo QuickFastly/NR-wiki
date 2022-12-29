@@ -11,5 +11,5 @@ A racing team founded by [[../../Characters/PG/Yoshida|Yoshida]] many years befo
   
 -----  
 > [!cite] Author info  
-> **Kit** *(AKA Kerosyn, or Quick Fastly)*\  
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

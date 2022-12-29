@@ -10,4 +10,4 @@ CEO of [[../../World/Organizations/Corporations/11K|11K]]. Big Bad Evil. [[Pesti
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

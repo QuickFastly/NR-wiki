@@ -9,7 +9,7 @@ tags: HT, Shinzen
 <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
   <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
 	<tr>  
-		<th style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Inazuma Clan</th>  
+		<td colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center">Inazuma Clan</th>  
 	</tr></table>  
   </div>  
   

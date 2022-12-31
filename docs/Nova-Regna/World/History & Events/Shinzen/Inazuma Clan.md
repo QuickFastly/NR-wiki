@@ -13,7 +13,7 @@ tags: HT, Shinzen
 	</tr></table>  
   </div>  
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[../../../../assets/img/Inazuma kamon.jpg|250]]<br>![[../../../../assets/img/Inazuma hanko.jpg|150]]</span>  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse; text-align:center">![[../../../../assets/img/Inazuma kamon.jpg|250]]<br>![[../../../../assets/img/Inazuma hanko.jpg|150]]</span>  
   
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
     <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
@@ -41,7 +41,7 @@ tags: HT, Shinzen
   </table>  
 </div>  
   
-The Inazuma [[./Clans of Shinzen|Clan]] (電) was a small family of [[../../Inhabitants/Fox|fox spirits]] that lived in relative seclusion, known primarily for their affinity with lightning - known now to have been a method of utilizing [[../../Concepts/Attunement|Attunement]] passed down through the family as tradition - who were given their noble status and lordship over their land by the Imperial Court. Their ancestral lands are historically known as [[../../Map/Shinzen/Shizumori|Shizumori]], found in northern [[Hayagawa]]. The family resisted the [[Kagetsu Clan|Kagetsu]] shogunate and was almost completely wiped out prior to the [[Siege of Soukotan]] at the end of the [[History of Shinzen#Ikute period 1253-1504|Ikute period]].  
+The Inazuma [[./Clans of Shinzen|Clan]] (電) was a small family of [[../../Inhabitants/Fox|fox spirits]] that lived in relative seclusion, known primarily for their affinity with lightning - known now to have been a method of utilizing [[../../Concepts/Attunement|Attunement]] passed down through the family as tradition - who were given their noble status and lordship over their land by the Imperial Court. Their ancestral lands are historically known as [[../../Map/Shinzen/Shizumori|Shizumori]], found in northern [[Hayagawa]]. The family resisted the [[Kagetsu Clan|Kagetsu]] shogunate and was almost completely wiped out prior to the [[./Siege of Soukotan|Siege of Soukotan]] at the end of the [[History of Shinzen#Ikute period 1253-1504|Ikute period]].  
   
 They maintained isolationist behavior for their entire reign and were entirely self supported. Being secluded deep within a forest, extremely few outsiders ever visited their lands, and most that did got there on accident while traveling, but outsiders were almost always treated with uncanny hospitality, leading to the clan eventually building a rather mystical reputation that slowly spread throughout northern [[../../Map/Shinzen/Shinzen|Shinzen]].  
   

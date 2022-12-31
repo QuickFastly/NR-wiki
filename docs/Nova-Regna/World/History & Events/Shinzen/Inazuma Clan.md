@@ -6,10 +6,10 @@ tags: HT, Shinzen
 > [!bug] Issue  
 > This page is a first draft, part of a project being actively worked on, and is guaranteed to change in the future.  
   
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">  
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse; text-align:center">  
   <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">  
 	<tr>  
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Inazuma Clan</th>  
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px">Inazuma Clan</th>  
 	</tr></table>  
   </div>  
   

@@ -7,12 +7,13 @@ tags: HT, Shinzen
 > This page is a first draft, part of a project being actively worked on, and is guaranteed to change in the future.  
   
 <div>  
-  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Inazuma Clan</span>  
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Inazuma Clan</span>  
   </div>  
   
   <span style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; text-align:center; padding-top:4px">![[../../../../assets/img/Inazuma kamon.jpg|250]]<br>![[../../../../assets/img/Inazuma hanko.jpg|150]]</span>  
   
-  <table style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; line-height:1.5; font-size:smaller">  
+  <div style="float:right; clear:right; margin:0px; padding:0px">  
+  <table style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; line-height:1.5; font-size:small">  
 	  
 		<tr style="border:1px solid #666">  
 			<td style="padding:4px"><b>Type</b></td>  
@@ -35,6 +36,7 @@ tags: HT, Shinzen
 		</tr>  
 	  
   </table>  
+</div>  
   
 The Inazuma [[./Clans of Shinzen|Clan]] (電) was a small family of [[../../Inhabitants/Fox|fox spirits]] that lived in relative seclusion, known primarily for their affinity with lightning - known now to have been a method of utilizing [[../../Concepts/Attunement|Attunement]] passed down through the family as tradition - who were given their noble status and lordship over their land by the Imperial Court. Their ancestral lands are historically known as [[../../Map/Shinzen/Shizumori|Shizumori]], found in northern [[Hayagawa]]. The family resisted the [[Kagetsu Clan|Kagetsu]] shogunate and was almost completely wiped out prior to the [[./Siege of Soukotan|Siege of Soukotan]] at the end of the [[History of Shinzen#Ikute period 1253-1504|Ikute period]].  
   

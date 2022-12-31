@@ -10,9 +10,9 @@ tags: HT, Shinzen
   <span style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Inazuma Clan</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; text-align:center">![[../../../../assets/img/Inazuma kamon.jpg|250]]<br>![[../../../../assets/img/Inazuma hanko.jpg|150]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; text-align:center; padding-top:4px">![[../../../../assets/img/Inazuma kamon.jpg|250]]<br>![[../../../../assets/img/Inazuma hanko.jpg|150]]</span>  
   
-  <div style="float:right; clear:right; width:260px; margin-left:14px">  
+  <div style="float:right; clear:right; margin:0px">  
   <table style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; line-height:1.5; font-size:smaller">  
 	  
 		<tr style="border:1px solid #666">  

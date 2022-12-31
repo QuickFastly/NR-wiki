@@ -10,29 +10,29 @@ tags: HT, Shinzen
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Inazuma Clan</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; text-align:center; padding-top:4px">![[../../../../assets/img/Inazuma kamon.jpg|250]]<br>![[../../../../assets/img/Inazuma hanko.jpg|150]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; text-align:center; padding-top:4px">![[../../../../assets/img/Inazuma kamon.jpg|250]]<br>![[../../../../assets/img/Inazuma hanko.jpg|150]]</span>  
   
   <div class="" style="float:right; clear:right">  
-    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; line-height:1.5; font-size:small">  
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse line-height:1.5; font-size:small">  
 	  
 		<tr style="border:1px solid #666">  
-			<td style="padding:4px"><b>Type</b></td>  
-			<td style="padding:4px">Noble Clan</td>  
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>  
+			<td style="padding:4px; vertical-align:middle">Noble Clan</td>  
 		</tr>  
 		  
 		<tr style="border:1px solid #666">  
-			<td style="padding:4px"><b>Years active</b></td>  
-			<td style="padding:4px">1141-1504<br>1966-present</td>  
+			<td style="padding:4px; vertical-align:middle"><b>Years active</b></td>  
+			<td style="padding:4px; vertical-align:middle">1141-1504<br>1966-present</td>  
 		</tr>  
 		  
 		<tr style="border:1px solid #666">  
-			<td style="padding:4px"><b>Historical location</b></td>  
-			<td style="padding:4px">Shizumori, Hayagawa, Shinzen</td>  
+			<td style="padding:4px; vertical-align:middle"><b>Historical location</b></td>  
+			<td style="padding:4px; vertical-align:middle">Shizumori, Hayagawa, Shinzen</td>  
 		</tr>  
 		  
 		<tr style="border:1px solid #666">  
-			<td style="padding:4px"><b>Current location</b></td>  
-			<td style="padding:4px">Shiga, Onsai, Shinzen</td>  
+			<td style="padding:4px; vertical-align:middle"><b>Current location</b></td>  
+			<td style="padding:4px; vertical-align:middle">Shiga, Onsai, Shinzen</td>  
 		</tr>  
 	  
     </table>  

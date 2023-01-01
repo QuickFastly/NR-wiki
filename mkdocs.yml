@@ -102,7 +102,7 @@ plugins:
       cards_color:
           fill: "#910000"
           text: "#FFFFFF"
-  - glightbox
+  - glightbox:
       draggable: false
 extra_javascript:
   - assets/js/mathjax.js

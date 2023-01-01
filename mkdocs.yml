@@ -103,6 +103,7 @@ plugins:
           fill: "#910000"
           text: "#FFFFFF"
   - glightbox
+      draggable: false
 extra_javascript:
   - assets/js/mathjax.js
   - assets/js/utils.js

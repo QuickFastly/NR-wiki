@@ -22,7 +22,7 @@ comments: true
 <div class="" style="float:right; clear:right">  
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">  
 	<tr>  
-		<td colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Chiyan people</td>  
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Chiyan people</th>  
 	</tr>  
 		  
 		<tr style="border-bottom:1px solid #666">  

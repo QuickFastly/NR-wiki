@@ -39,9 +39,9 @@
 <meta content="https://wiki.kitabe.link/assets/images/social/Nova-Regna/World/Inhabitants/Spirits.png" name="twitter:image"/>
 <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
 <script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
-<link href="https://unpkg.com/tippy.js@6/animations/scale-subtle.css" rel="stylesheet">
-<link href="https://unpkg.com/tippy.js@6/themes/translucent.css" rel="stylesheet">
-<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" referrerpolicy="no-referrer" rel="stylesheet">
+<link href="https://unpkg.com/tippy.js@6/animations/scale-subtle.css" rel="stylesheet"/>
+<link href="https://unpkg.com/tippy.js@6/themes/translucent.css" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" referrerpolicy="no-referrer" rel="stylesheet"/>
 <meta content="Spirits" property="og:title"/>
 <meta content="Spirits" name="twitter:title"/>
 <meta content="Spirits are a unique species alongside humans, visually distinguished primarily by their animalistic or otherwise unusual features. These can manifest as features from nearly any type of animal - or in rare cases, even many types of plant - on Earth, but are typically limited to minor additions or changes to the otherwise humanlike body. They share the same cultures and ethnicities as humans do, although some groups of spirits additionally have their own subcultures, which can be either consistent worldwide or regional. They are also notable for having a strong affinity with mystic matter, even among individuals that possess neither alignment nor attunement." name="description"/>
@@ -49,7 +49,18 @@
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="https://wiki.kitabe.link/" property="og:image"/>
 <meta content="https://wiki.kitabe.link/" name="twitter:image"/>
-</link></link></link></head>
+<link href="../../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            
+                .gscrollbar-fixer { padding-right: 15px; }
+                .gdesc-inner { font-size: 0.75rem; }
+                body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+                body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+                body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+                </style><script src="../../../../assets/javascripts/glightbox.min.js"></script></head>
 <body data-md-color-accent="red" data-md-color-primary="red" data-md-color-scheme="slate" dir="ltr">
 <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
 <input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
@@ -1616,7 +1627,7 @@
 <p>Two different types of spirit can also reproduce, but the resulting offspring will carry the physical traits of just one parent, and only very rarely inherit non-physical traits from both parents. Hybrids are almost entirely unviable between spirits, and the dominant genes in the offspring appear to be entirely random. Research has yet to ascertain the cause of this.  </p>
 <h2 id="distribution">Distribution<a class="headerlink" href="#distribution" title="Permanent link">¶</a></h2>
 <p>Spirits are found all over the world, with certain types preferring certain climates and landscapes. Today, spirits make up approximately 5% of the world population, with major spirits making up approximately 91.5% of all spirits, and minor spirits only 8.5%.  </p>
-<p><img alt="spirit demography.png" src="../../../../assets/img/spirit%20demography.png" title="spirit demography.png"> </img></p>
+<p><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="../../../../assets/img/spirit%20demography.png"><img alt="spirit demography.png" src="../../../../assets/img/spirit%20demography.png" title="spirit demography.png"/></a> </p>
 <p>Major spirits:  </p>
 <ul>
 <li><a href="../Cat/" title="Cat">Cat</a> </li>
@@ -1772,5 +1783,5 @@ https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/source-fil
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script src="../../../../assets/js/tooltipster.bundle.js"></script>
-</body>
+<script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>

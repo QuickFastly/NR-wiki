@@ -25,7 +25,7 @@ tags: Ustonia, Destrea, Ilmaria, Alastor
 			<td style="padding:4px; vertical-align:middle">1939</td>  
 		</tr>  
     
-		<tr style="border-bottom:1px solid #666; solid #666">  
+		<tr style="border-bottom:1px solid #666">  
 			<td style="padding:4px; vertical-align:middle"><b>Alternative Names</b></td>  
 			<td style="padding:4px; vertical-align:middle">Yulentia<br>The Union</td>  
 		</tr>  

@@ -180,7 +180,7 @@ She also particularly wishes to be close with [[../RD&PZ/Seth Alden|Seth Alden]]
   
 ### Affiliations  
   
-She is a member of the Risky Witches [[Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
+She is a member of the Risky Witches [[../../World/Organizations/Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
   
 ## History  
   
@@ -189,7 +189,7 @@ sorry nothing
 ## Trivia  
   
 - Her nickname, "Dizzy", is probably from her clumsy and scatterbrained nature during downtime with the Risky Witches. Or maybe it's from how she can switch from that to the cold and efficient super soldier so quickly that it makes people's heads spin. Who knows?  
-- Another reason she is so close with Haida is because Haida's [[Haida#Special abilities|abilities]] quiet the chaos in her head, allowing her some rare respite without solitude or stress. She will often be leaning on Haida, holding her shoulders, or carrying Haida on her own shoulders for that reason.  
+- Another reason she is so close with Haida is because Haida's [[./Haida#Special abilities|abilities]] quiet the chaos in her head, allowing her some rare respite without solitude or stress. She will often be leaning on Haida, holding her shoulders, or carrying Haida on her own shoulders for that reason.  
   
 ## See Also  
   

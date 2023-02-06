@@ -294,7 +294,7 @@ In 1998, the Risky Witches joined the [[../History & Events/Reclamation War|Recl
   
 As a paramilitary group not officially recognized as a state or nation, foreign relations take on a unique tone with the Risky Witches as leaders and diplomats fear the potential implications of relations with them. Most contact is handled unofficially as a result, perpetuating a "don't ask, don't tell" attitude regarding the Risky Witches in the international community.  
   
-![[Political relations chart (Risky Witches).svg]]  
+![[../../../assets/img/Political relations chart (Risky Witches).svg|Political relations chart (Risky Witches).svg]]  
   
 **[[../Map/Alastor/Alastor|Alastor]]**\  
 Shortly after their establishment in 1991, the Risky Witches issued an international statement swearing to defend Alastor from all threats under any circumstances. In return, the Risky Witches are the only foreign entity allowed to pass freely through Alastor territory as they please, and Alastor provides them whatever support they can offer as needed.  

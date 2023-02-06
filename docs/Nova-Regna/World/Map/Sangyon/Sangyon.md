@@ -8,7 +8,7 @@ tags: Sangyon
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Sangyon</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Sangyon flag.png|250]]<br>![[Sangyon (Region).jpg|250]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Sangyon flag.png|250]]<br>![[../../../../assets/img/Sangyon (Region).jpg|250]]</span>  
   
   <div class="" style="float:right; clear:right">  
     <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">  
@@ -127,11 +127,11 @@ The military of Sangyon, better known as the Republic of Sangyon Armed forces or
   
 ### Foreign relations  
   
-![[Political relations chart (Sangyon).svg]]  
+![[../../../../assets/img/Political relations chart (Sangyon).svg|Political relations chart (Sangyon).svg]]  
   
 ## Economy  
   
-The economy of Sangyon is worth 119.3 trillion [[Credit (currency)|CR]] per year with an expenditure of 38.1%, which is distributed as follows.  
+The economy of Sangyon is worth 119.3 trillion [[../../Things/Credit (currency)|CR]] per year with an expenditure of 38.1%, which is distributed as follows.  
 - Administration: 13%  
 - Defense: 1.2%  
 - Education & Science: 21.5%  

@@ -8,7 +8,7 @@ tags: Grenneria
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Grenneria</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Grenneria flag.png|250]]<br>![[Grenneria (Region).jpg|250]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Grenneria flag.png|250]]<br>![[../../../../assets/img/Grenneria (Region).jpg|250]]</span>  
   
   <div class="" style="float:right; clear:right">  
     <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">  
@@ -121,11 +121,11 @@ The Grennerian military is divided into four branches, being the Ground Forces, 
   
 ### Foreign relations  
   
-![[Political relations chart (Grenneria).svg]]  
+![[../../../../assets/img/Political relations chart (Grenneria).svg|Political relations chart (Grenneria).svg]]  
   
 ## Economy  
   
-The Grennerian economy is worth 112.7 trillion [[Credit (currency)|CR]] per year with an expenditure of 61.2%, which is distributed as follows.  
+The Grennerian economy is worth 112.7 trillion [[../../Things/Credit (currency)|CR]] per year with an expenditure of 61.2%, which is distributed as follows.  
 - Administration: 9.6%  
 - Defense: 14.7%  
 - Education & Science: 7.8%  

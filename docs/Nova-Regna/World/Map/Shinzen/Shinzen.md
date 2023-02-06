@@ -8,7 +8,7 @@ tags: Shinzen
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Shinzen</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Shinzen flag.png|250]]<br>![[Shinzen (Region).jpg|250]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Shinzen flag.png|250]]<br>![[../../../../assets/img/Shinzen (Region).jpg|250]]</span>  
   
   <div class="" style="float:right; clear:right">  
     <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">  
@@ -118,11 +118,11 @@ The Shinzenese military, better known as the Shinzen Regional Defense Forces or 
   
 ### Foreign relations  
   
-![[Political relations chart (Shinzen).svg]]  
+![[../../../../assets/img/Political relations chart (Shinzen).svg|Political relations chart (Shinzen).svg]]  
   
 ## Economy  
   
-The economy of Shinzen is worth 2.25 quadrillion [[Credit (currency)|CR]] per year with an expenditure of 24.8%, distributed as follows.  
+The economy of Shinzen is worth 2.25 quadrillion [[../../Things/Credit (currency)|CR]] per year with an expenditure of 24.8%, distributed as follows.  
 - Administration: 2.8%  
 - Defense: 3.1%  
 - Education & Science: 19.3%  

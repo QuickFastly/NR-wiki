@@ -103,13 +103,13 @@ tags: CotF
     </table>  
 </div>  
   
-<span style="float:right; clear:right; width:260px; margin:14px 0px 7px 14px; text-align:center; font-size:small">![[kerosyn ref (rain).jpg]]<br>First Kerosyn reference - <i>Artist: <a href=https://twitter.com/RanqiLi>Rain</a></i></span>  
+<span style="float:right; clear:right; width:260px; margin:14px 0px 7px 14px; text-align:center; font-size:small">![[../../../assets/img/kerosyn ref (rain).jpg|kerosyn ref (rain).jpg]]<br>First Kerosyn reference - <i>Artist: <a href=https://twitter.com/RanqiLi>Rain</a></i></span>  
   
 Kerosyn is a [[../../World/Inhabitants/Fox|fox spirit]] and one of the three immortal [[../../World/Concepts/Incarnations|Incarnations]]. They are one of the three deities of the [[../../World/Organizations/Religions & Cults/Children of the Flame|Children of the Flame]], along with [[./Freya|Freya]] and [[./Florian|Florian]].  
   
 ## Physical description  
   
-Kerosyn has a short, slim, androgynous build. They are largely featureless, something like a living silhouette. They have large fox ears, very pronounced fangs, four large tails, and digitigrade feet. Perhaps most immediately noticeable is their complete lack of eyes and eye sockets, with only the [[The Brand (Children of the Flame).png|Brand]] glowing bright red between where they should be.  
+Kerosyn has a short, slim, androgynous build. They are largely featureless, something like a living silhouette. They have large fox ears, very pronounced fangs, four large tails, and digitigrade feet. Perhaps most immediately noticeable is their complete lack of eyes and eye sockets, with only the [[../../../assets/img/The Brand (Children of the Flame).png|Brand]] glowing bright red between where they should be.  
   
 Their body is primarily made of white flames, which is most apparent by looking at their ears, "hair", or tails. These flames grow and shrink in size, become brighter and dimmer, and "burn" at different speeds depending on their mood. Small wisps of the same white flames are also kicked up where they step. None of these flames burn things, and are cool to the touch. Despite being made of flame, one can still touch Kerosyn and aside from the cold temperature, it would feel as you would expect as though it were skin and fur.  
   
@@ -164,7 +164,7 @@ Kerosyn has three distinct fighting styles.
   
 First is the playful style. They will dodge attacks with exaggerated, almost comedic movements, but will take a hit or two on purpose to keep it going. They won't attack seriously, but will throw play punches that wouldn't hurt anyone. They're not big on taunting, but will laugh a lot.   
   
-Next is the focused style. They go quiet and their stance changes to something more appropriate for a fight. Their dodges become beautifully elegant, not allowing themselves to take a single avoidable hit and blocking or parrying the rest. They will now attack seriously, but only when it's a sure shot, and they will not aim to kill unless there's no other choice. In this state, trails of fire string from their hands and feet, making his movements look something like a ribbon dance. This sight is what inspired the [[Children of the Flame#Firekeepers|Firekeepers]] of the Children of the Flame.  
+Next is the focused style. They go quiet and their stance changes to something more appropriate for a fight. Their dodges become beautifully elegant, not allowing themselves to take a single avoidable hit and blocking or parrying the rest. They will now attack seriously, but only when it's a sure shot, and they will not aim to kill unless there's no other choice. In this state, trails of fire string from their hands and feet, making his movements look something like a ribbon dance. This sight is what inspired the [[../../World/Organizations/Religions & Cults/Children of the Flame#Firekeepers|Firekeepers]] of the Children of the Flame.  
   
 Finally, the enraged style. All bets are off now. No more dodging, they'll just take every hit and ignore the damage, even something as serious as losing a limb. They will be hellbent on the offensive, wild and unpredictable, and will absolutely not be shy about biting hard and tearing flesh. Fortunately, even in this state they're still not quite "angry", so destruction of the world isn't a concern, though it's just as hard to snap him out of it.  
   

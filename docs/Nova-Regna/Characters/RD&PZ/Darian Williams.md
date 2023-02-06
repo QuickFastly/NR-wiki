@@ -5,7 +5,7 @@ share: true
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
   
-CEO of [[../../World/Organizations/Corporations/11K|11K]]. Big Bad Evil. [[Pestilence#Deathlessness|Deathless]].  
+CEO of [[../../World/Organizations/Corporations/11K|11K]]. Big Bad Evil. [[../../World/Concepts/Pestilence#Deathlessness|Deathless]].  
   
 -----  
 > [!cite] Author info  

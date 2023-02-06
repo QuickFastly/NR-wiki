@@ -180,7 +180,7 @@ In truth, he is quite bad at hiding his true feelings, especially when teased ab
   
 ### Affiliations  
   
-He is a member of the Risky Witches [[Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
+He is a member of the Risky Witches [[../../World/Organizations/Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
   
 ## History  
   

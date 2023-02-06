@@ -8,7 +8,7 @@ tags: Corstaea
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Corstaea</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Corstaea flag.png|250]]<br>![[Corstaea (Region).jpg|250]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Corstaea flag.png|250]]<br>![[../../../../assets/img/Corstaea (Region).jpg|250]]</span>  
   
   <div class="" style="float:right; clear:right">  
     <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">  
@@ -125,11 +125,11 @@ The Corstaean military is divided into five main branches, being the Army, Navy,
   
 ### Foreign relations  
   
-![[Political relations chart (Corstaea).svg]]  
+![[../../../../assets/img/Political relations chart (Corstaea).svg|Political relations chart (Corstaea).svg]]  
   
 ## Economy  
   
-The Corstaean economy is worth 292.3 trillion [[Credit (currency)|CR]] per year with an expenditure of 47.3%, which is distributed as follows.  
+The Corstaean economy is worth 292.3 trillion [[../../Things/Credit (currency)|CR]] per year with an expenditure of 47.3%, which is distributed as follows.  
 - Administration: 8.1%  
 - Defense: 6.8%  
 - Education & Science: 18.8%  

@@ -5,7 +5,7 @@ tags: CotF
 ---  
 Written by [[../../Characters/The Sixth Storyteller|The Sixth Storyteller]] of the [[../Organizations/Religions & Cults/Children of the Flame|Children of the Flame]] at least 200 years ago, this account was written after a private meeting with their gods, [[../../Characters/Incarnations & Gods/Florian|Florian]], [[../../Characters/Incarnations & Gods/Freya|Freya]], and [[../../Characters/Incarnations & Gods/Kerosyn|Kerosyn]].  
   
-![[The Account (storyteller).pdf]]  
+![[../../../assets/img/The Account (storyteller).pdf|The Account (storyteller).pdf]]  
   
 *[(external link)](https://www.dropbox.com/s/h1lkaamp1rnqo8j/storyteller.pdf?dl=0)*  
   
@@ -48,7 +48,7 @@ Written by [[../../Characters/The Sixth Storyteller|The Sixth Storyteller]] of t
   
 Along with this account, he wrote about the gods themselves more recently.  
   
-![[The Account (kerosyn).pdf]]  
+![[../../../assets/img/The Account (kerosyn).pdf|The Account (kerosyn).pdf]]  
   
 *[(external link)](https://www.dropbox.com/s/5ydfws15kj27wyb/kerosyn.pdf?dl=0)*  
   
@@ -77,7 +77,7 @@ Along with this account, he wrote about the gods themselves more recently.
 >  
 >ADDITIONAL INFORMATION: His personality is very reminiscent of an innocent, fidgety child, even in highly inappropriate situations. He makes up for his lack of expressive eyes with highly expressive and animated body language, particularly with his ears and tails. Curiously, he maintains his happy demeanor even when he is absolutely not happy, sometimes even giggling when one would expect him to cry. It takes a lot to get him to express more than subtle hints of any other emotion. His attention span is quite short unless his interest has been piqued. He is overflowing with charisma and confidence, completely oblivious to just how much he stands out and how others may feel about that. He has a penchant for playing pranks. As a result of all of this, he gets along very well with children. He is very eager to learn anything and everything, constantly looking for new experiences, but makes a horrible student as he gets distracted very easily and is always goofing off. As such, despite his very wide skill set, he will probably never truly master anything. He is quite creatively talented, very fond of physical sports and games, and particularly enjoys anything to do with food, from agriculture to the culinary arts. His curiosity knows no bounds, and his naivete makes him very quick to trust and easy to fool. He also tends to pick up on many trends among the youth and run them into the ground.  
   
-![[The Account (freya).pdf]]  
+![[../../../assets/img/The Account (freya).pdf|The Account (freya).pdf]]  
   
 *[(external link)](https://www.dropbox.com/s/eti6smyhh947yf9/freya.pdf?dl=0)*  
   
@@ -106,7 +106,7 @@ Along with this account, he wrote about the gods themselves more recently.
 >  
 >ADDITIONAL INFORMATION: Her personality is fierce and flirtatious, almost always striking something between arrogance and seduction in her body language. She is very expressive, almost always smiling and rarely seen with relaxed eyes. Bursting with confidence, charisma and charm, she can nonchalantly talk her way into, out of, or around just about anything while humiliating others in the process. She has not an ounce of shame or shyness, is very good at catching eyes and is no stranger to using her body to get her way. When words or wiles fail, she is not afraid to resort to violence. With her incredible strength, dexterity and reflexes, it almost never fails, and can get incredibly cruel and humiliating. She is very aware of her ego, so while she enjoys toying with people and thinks very little of most, she will show great respect to anyone with the self-assurance to stand up to her. She has a penchant for flashy theatrics and bravado, often making a show out of innocuous interactions and drawing things out. Particularly interested in guns, motorcycles, and metalworking. Her marksmanship is second to none. By her own admission, she constantly craves indulgence, be it innocent, sexual, violent, or any mixture of those things, and tends to give into her temptations much easier when bored. She gets bored very easily. Underneath the rough exterior, she is genuinely warm and compassionate.  
   
-![[The Account (florian).pdf]]  
+![[../../../assets/img/The Account (florian).pdf|The Account (florian).pdf]]  
   
 *[(external link)](https://www.dropbox.com/s/vv1rfx3ho9b498e/florian.pdf?dl=0)*  
   
@@ -139,7 +139,7 @@ Along with this account, he wrote about the gods themselves more recently.
   
 Beside these records, the falsified version of The Inferno is also stored.  
   
-![[The Account (cardinal).pdf]]  
+![[../../../assets/img/The Account (cardinal).pdf|The Account (cardinal).pdf]]  
   
 *[(external link)](https://www.dropbox.com/s/ui2cdhwn8n3rkm1/cardinal.pdf?dl=0)*  
   

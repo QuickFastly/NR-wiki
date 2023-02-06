@@ -64,7 +64,7 @@ In prose, all numbers less than 11 should be spelled out, and all numbers greate
   
 ##### Dates  
   
-Dates should be exclusively written numerically in the YYYY/MM/DD format. You may use hyphens as separators as well (YYYY-MM-DD) but the in-world preferred standard is to use slashes. If you want to drop the year, the month must still come first (MM/DD). The week-day format (W##/DD) is also acceptable if you're into that. This world uses the Gregorian calendar, including leap years, but the months and days in this world do not have names. You can learn more about the specifics of in-world timekeeping [[Unified Timekeeping Standard (UT)|here]].  
+Dates should be exclusively written numerically in the YYYY/MM/DD format. You may use hyphens as separators as well (YYYY-MM-DD) but the in-world preferred standard is to use slashes. If you want to drop the year, the month must still come first (MM/DD). The week-day format (W##/DD) is also acceptable if you're into that. This world uses the Gregorian calendar, including leap years, but the months and days in this world do not have names. You can learn more about the specifics of in-world timekeeping [[./World/History & Events/Unified Timekeeping Standard (UT)|here]].  
   
 ##### Pronouns  
   

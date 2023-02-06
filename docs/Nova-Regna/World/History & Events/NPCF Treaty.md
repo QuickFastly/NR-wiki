@@ -20,7 +20,7 @@ Also defined in the document are classifications for non-projectile weapons. Cat
   
 ### Enforcement  
   
-Civilians found to be in unlawful possession of Category 2 Weapons are to be faced with a minimum fine of 500,000 [[Credit (currency)|CR]] or equivalent in local currency, or up to a maximum of 30% of their annual income, AND a minimum of one year jail time, or up to five years if they cannot afford the fine.  
+Civilians found to be in unlawful possession of Category 2 Weapons are to be faced with a minimum fine of 500,000 [[../Things/Credit (currency)|CR]] or equivalent in local currency, or up to a maximum of 30% of their annual income, AND a minimum of one year jail time, or up to five years if they cannot afford the fine.  
   
 Civilians found to be in unlawful possession of Category 1 Weapons are to be faced with a minimum fine of 2,000,000 CR or equivalent in local currency, or up to a maximum of 65% of their annual income, AND a minimum of five years jail time, or up to thirty years if they cannot afford the fine.  
   

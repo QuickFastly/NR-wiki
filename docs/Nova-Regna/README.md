@@ -5,7 +5,7 @@ Hi, I'm Kit (AKA Kerosyn), and this is the Nova Regna wiki. Nova Regna is the wo
   
 This is a worldbuilding project that I've been brewing in my head for longer than the name - but not the character! - Kerosyn has existed, mostly alone with a few great contributions from a couple of friends. I thought it was time to change that, and that's why this wiki exists.  
   
-**This is an [open](https://opendefinition.org/) world**, and everything within it - *unless explicitly stated otherwise* - is licensed under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Anybody can [contribute](./CONTRIBUTING) anything to this world, and [use](./USAGE-GUIDELINES) anything in it however they want.  
+**This is an [open](https://opendefinition.org/) world**, and everything within it - *unless explicitly stated otherwise* - is licensed under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Anybody can [contribute](./CONTRIBUTING.md) anything to this world, and [use](./USAGE-GUIDELINES.md) anything in it however they want.  
   
 If you're new and just want to browse, I understand that having so many pages and folders visible can be kind of overwhelming, so you can start with [[./World/Map/Earth|Earth]] and follow the links from there.  
   

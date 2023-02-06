@@ -109,7 +109,7 @@ He wears a black cap with his hair threaded through its back, a black neck gaite
   
 ## Special abilities  
   
-Six is [[Pestilence#Deathlessness|Deathless]], and is the reason that anyone in the general public is aware of such a concept. He has said that death is not natural, it is a curse, and that for an incredible cost, the curse can be broken. Nobody knows how he became deathless, or what his "incredible cost" was, however. His existence is of great interest to governments and scientists around the world, but his power within the Children of the Flame allows him to keep their meddling at bay, keeping his secret safe.  
+Six is [[../World/Concepts/Pestilence#Deathlessness|Deathless]], and is the reason that anyone in the general public is aware of such a concept. He has said that death is not natural, it is a curse, and that for an incredible cost, the curse can be broken. Nobody knows how he became deathless, or what his "incredible cost" was, however. His existence is of great interest to governments and scientists around the world, but his power within the Children of the Flame allows him to keep their meddling at bay, keeping his secret safe.  
   
 ## Personality  
   

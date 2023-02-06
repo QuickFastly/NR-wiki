@@ -8,7 +8,7 @@ tags: Ustonia
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Ustonia</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Ustonia flag.png|250]]<br>![[Ustonia (Region).jpg|250]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Ustonia flag.png|250]]<br>![[../../../../assets/img/Ustonia (Region).jpg|250]]</span>  
   
   <div class="" style="float:right; clear:right">  
     <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">  
@@ -131,11 +131,11 @@ The Ustonian military is divided into six primary branches, being the Army, Navy
   
 ### Foreign relations  
   
-![[Political relations chart (Ustonia).svg]]  
+![[../../../../assets/img/Political relations chart (Ustonia).svg|Political relations chart (Ustonia).svg]]  
   
 ## Economy  
   
-The Ustonian economy is worth 1.98 quadrillion [[Credit (currency)|CR]] per year with an expenditure of 17.3%, which is distributed as follows.  
+The Ustonian economy is worth 1.98 quadrillion [[../../Things/Credit (currency)|CR]] per year with an expenditure of 17.3%, which is distributed as follows.  
 - Administration: 12.5%  
 - Defense: 30.1%  
 - Education & Science: 6.3%  

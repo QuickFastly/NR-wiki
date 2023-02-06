@@ -8,7 +8,7 @@ tags: Alastor
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Alastor</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Alastor flag.png|250]]<br>![[Alastor (Region).jpg|250]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Alastor flag.png|250]]<br>![[../../../../assets/img/Alastor (Region).jpg|250]]</span>  
   
   <div class="" style="float:right; clear:right">  
     <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">  
@@ -111,7 +111,7 @@ There is no standing military force in Alastor. The full extent of their militar
   
 ### Foreign relations  
   
-![[Political relations chart (Alastor).svg]]  
+![[../../../../assets/img/Political relations chart (Alastor).svg|Political relations chart (Alastor).svg]]  
   
 ## Economy  
   

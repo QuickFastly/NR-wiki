@@ -103,7 +103,7 @@ tags: CotF, RW
     </table>  
   </div>  
   
-<span style="float:right; clear:right; width:260px; margin:14px 0px 7px 14px; text-align:center; font-size:small">![[freya ref (madbuns).jpg]]<br>First Freya reference - <i>Artist: <a href=https://twitter.com/Mad_buns>Madbuns</a></i></span>  
+<span style="float:right; clear:right; width:260px; margin:14px 0px 7px 14px; text-align:center; font-size:small">![[../../../assets/img/freya ref (madbuns).jpg|freya ref (madbuns).jpg]]<br>First Freya reference - <i>Artist: <a href=https://twitter.com/Mad_buns>Madbuns</a></i></span>  
   
 Freya is a [[../../World/Inhabitants/Cat|cat spirit]] and one of the three immortal [[../../World/Concepts/Incarnations|Incarnations]]. She is one of the three deities of the [[../../World/Organizations/Religions & Cults/Children of the Flame|Children of the Flame]], along with [[./Florian|Florian]] and [[./Kerosyn|Kerosyn]]. She is also the leader of the [[../../World/Organizations/Risky Witches|Risky Witches]] and was responsible for [[../../World/History & Events/The Big Event|The Big Event]].  
   
@@ -111,7 +111,7 @@ Freya is a [[../../World/Inhabitants/Cat|cat spirit]] and one of the three immor
   
 Freya is a very tall, caramel skinned woman with an athletic, pear shaped build. She has sharp, narrow, bright yellow eyes with vertical pupils that have a subtle glow, with wrinkles and dark rings underneath. She also has sharp pointed teeth, long and subtly pointed fingernails capable of extending and morphing into cat claws, and two long black cat tails with white tips, matching her short and messy hair.  
   
-The [[The Brand (Children of the Flame).png|Brand]] is burned into her back in white with a red outline. It glows just bright enough to shine through one layer of clothing in daylight, and it stands out strongly in the dark unless covered.  
+The [[../../../assets/img/The Brand (Children of the Flame).png|Brand]] is burned into her back in white with a red outline. It glows just bright enough to shine through one layer of clothing in daylight, and it stands out strongly in the dark unless covered.  
   
 Four blue flame wisps float around her, but are rarely seen. They don't appear on any camera or in any mirror, and they only become faintly visible to the naked eye when she allows them to, or is too focused on something else to continue hiding them. Some people with [[../../World/Concepts/Alignment|Alignment]] can see them more clearly and in more circumstances though.  
   

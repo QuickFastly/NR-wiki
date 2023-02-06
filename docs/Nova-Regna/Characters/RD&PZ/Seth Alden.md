@@ -33,7 +33,7 @@ AS SETH: Seth is rather passive and relaxed in nature. Would rather observe firs
   
 AS VEX: Being masked brings out a more reckless side of Seth. His righteous side gets amplified numerously turning from this advising role into more of a upholder or hero of truth and balance. His actions become a lot more expressive, almost like he's performing in some grand theatrical piece. He also no longer has to worry about people recognizing his face, letting him get away from speaking how he really feels about people and their actions.  
   
-![[seth reference sheet (rain).jpeg]]  
+![[../../../assets/img/seth reference sheet (rain).jpeg|seth reference sheet (rain).jpeg]]  
   
 -----  
 > [!cite] Author info  

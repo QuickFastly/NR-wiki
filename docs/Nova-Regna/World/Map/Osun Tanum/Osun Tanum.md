@@ -8,7 +8,7 @@ tags: OsunTanum
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Osun Tanum</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Osun Tanum flag.png|250]]<br>![[Osun Tanum (Region).jpg|250]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Osun Tanum flag.png|250]]<br>![[../../../../assets/img/Osun Tanum (Region).jpg|250]]</span>  
   
   <div class="" style="float:right; clear:right">  
     <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">  
@@ -121,11 +121,11 @@ More than any other nation, Osun Tanum is extremely dedicated to international p
   
 ### Foreign relations  
   
-![[Political relations chart (Osun Tanum).svg]]  
+![[../../../../assets/img/Political relations chart (Osun Tanum).svg|Political relations chart (Osun Tanum).svg]]  
   
 ## Economy  
   
-The economy of Osun Tanum is worth 133.4 trillion [[Credit (currency)|CR]] per year with an expenditure of 39.8%, which is distributed as follows.  
+The economy of Osun Tanum is worth 133.4 trillion [[../../Things/Credit (currency)|CR]] per year with an expenditure of 39.8%, which is distributed as follows.  
 - Administration: 10.3%  
 - Defense: 5.7%  
 - Education & Science: 14.2%  

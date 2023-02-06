@@ -103,7 +103,7 @@ tags: CotF
     </table>  
   </div>  
   
-<span style="float:right; clear:right; width:260px; margin:14px 0px 7px 14px; text-align:center; font-size:small">![[florian ref (wrathes).png]]<br>First Florian reference - <i>Artist: <a href=https://twitter.com/wrathes>wrathes</a></i></span>  
+<span style="float:right; clear:right; width:260px; margin:14px 0px 7px 14px; text-align:center; font-size:small">![[../../../assets/img/florian ref (wrathes).png|florian ref (wrathes).png]]<br>First Florian reference - <i>Artist: <a href=https://twitter.com/wrathes>wrathes</a></i></span>  
   
 Florian is a [[../../World/Inhabitants/Crow|crow spirit]] and one of the three immortal [[../../World/Concepts/Incarnations|Incarnations]]. He is one of the three deities of the [[../../World/Organizations/Religions & Cults/Children of the Flame|Children of the Flame]], along with [[./Freya|Freya]] and [[./Kerosyn|Kerosyn]].  
   
@@ -113,7 +113,7 @@ Florian is an extremely tall, pale skinned man with a very lanky build. His arms
   
 His arms are covered in iridescent black feathers, and his fingers are also primarily feathers, though they can still grab and hold things without issue. These feathers are also capable of hardening and sharpening at will, allowing him to use his fingers as incredibly sharp knives. An inky black smoke pours off his arms at all times and rises from his sleeves and collar. He seems to be capable of altering the rate of this process along with the consistency of the smoke, but cannot stop it.  
   
-The [[The Brand (Children of the Flame).png|Brand]] is burned into his chest in white, glowing so faintly that it's only noticeable in the dark, making it quite difficult to see against his colorless skin. His skin is cold to the touch, rough, and incredibly thick and durable. His whole abdomen is wrapped in bandages, except for the area displaying the Brand, and aside from himself, Freya, and Kerosyn, nobody knows what's under them, only that he's always bleeding. He apparently changes them frequently though, as he is only rarely seen with bloodied bandages.  
+The [[../../../assets/img/The Brand (Children of the Flame).png|Brand]] is burned into his chest in white, glowing so faintly that it's only noticeable in the dark, making it quite difficult to see against his colorless skin. His skin is cold to the touch, rough, and incredibly thick and durable. His whole abdomen is wrapped in bandages, except for the area displaying the Brand, and aside from himself, Freya, and Kerosyn, nobody knows what's under them, only that he's always bleeding. He apparently changes them frequently though, as he is only rarely seen with bloodied bandages.  
   
 Despite what his slim frame may suggest, Florian is actually extremely heavy. His weight comes from having supernaturally dense skin, muscles, and bones, along with having a significantly higher mass of blood in his veins than their total available volume should be capable of containing.  
   

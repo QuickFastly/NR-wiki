@@ -166,7 +166,7 @@ She is also close with [[./Minerva|Minerva]] and all of the mouse spirits workin
   
 ### Affiliations  
   
-She is a member of the Risky Witches [[Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
+She is a member of the Risky Witches [[../../World/Organizations/Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
   
 ## History  
   

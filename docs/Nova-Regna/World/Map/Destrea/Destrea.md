@@ -8,7 +8,7 @@ tags: Destrea
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Destrea</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Destrea flag.png|250]]<br>![[Destrea (Region).jpg|250]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Destrea flag.png|250]]<br>![[../../../../assets/img/Destrea (Region).jpg|250]]</span>  
   
   <div class="" style="float:right; clear:right">  
     <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">  
@@ -123,11 +123,11 @@ The Destrean military is divided into four branches, being Terra Militare, Marin
   
 ### Foreign relations  
   
-![[Political relations chart (Destrea).svg]]  
+![[../../../../assets/img/Political relations chart (Destrea).svg|Political relations chart (Destrea).svg]]  
   
 ## Economy  
   
-The Destrean economy is worth 1.12 quadrillion [[Credit (currency)|CR]] per year with an expenditure of 91.4%, which is distributed as follows.  
+The Destrean economy is worth 1.12 quadrillion [[../../Things/Credit (currency)|CR]] per year with an expenditure of 91.4%, which is distributed as follows.  
 - Administration: 10.6%  
 - Defense: 28.8%  
 - Education & Science: 6.2%  

@@ -8,7 +8,7 @@ tags: Shaohou
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Shaohou</span>  
   </div>  
   
-  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Shaohou flag.png|250]]<br>![[Shaohou (Region).jpg|250]]</span>  
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[../../../../assets/img/Shaohou flag.png|250]]<br>![[../../../../assets/img/Shaohou (Region).jpg|250]]</span>  
   
   <div class="" style="float:right; clear:right">  
     <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">  
@@ -118,11 +118,11 @@ The Shaohan military, better known as the People's Protection Army or PPA, is di
   
 ### Foreign relations  
   
-![[Political relations chart (Shaohou).svg]]  
+![[../../../../assets/img/Political relations chart (Shaohou).svg|Political relations chart (Shaohou).svg]]  
   
 ## Economy  
   
-The economy of Shaohou is worth 84.2 trillion [[Credit (currency)|CR]] per year with an expenditure of 83.4%, which is distributed as follows.  
+The economy of Shaohou is worth 84.2 trillion [[../../Things/Credit (currency)|CR]] per year with an expenditure of 83.4%, which is distributed as follows.  
 - Administration: 16.4%  
 - Defense: 18.5%  
 - Education & Science: 5.6%  

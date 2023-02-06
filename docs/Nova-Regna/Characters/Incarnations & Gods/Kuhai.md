@@ -107,7 +107,7 @@ Kuhai is a [[../../World/Inhabitants/Shark|Shark spirit]] and one of the five mo
   
 ## Summary  
   
-As a mortal incarnation, Kuhai has been several people throughout history. Every incarnation of Kuhai shares a number of constant traits, including their towering stature, piercing blue eyes, and ever since [[Shark#Myths and legends|the sacrifice]], a scar in the middle of their forehead resembling a bullet wound. They possess [[../../World/Concepts/Attunement|Attunement]] that manifests as monstrous physical strength and durability, and an invisible force that increases their offensive range and perception, both of which they wield consciously with calculated consideration. Typically, Kuhai is an independent person with natural leadership skills, but occasionally chooses to follow another to some extent if their goals align. They do not possess [[../../World/Concepts/Alignment|Alignment]].  
+As a mortal incarnation, Kuhai has been several people throughout history. Every incarnation of Kuhai shares a number of constant traits, including their towering stature, piercing blue eyes, and ever since [[../../World/Inhabitants/Shark#Myths and legends|the sacrifice]], a scar in the middle of their forehead resembling a bullet wound. They possess [[../../World/Concepts/Attunement|Attunement]] that manifests as monstrous physical strength and durability, and an invisible force that increases their offensive range and perception, both of which they wield consciously with calculated consideration. Typically, Kuhai is an independent person with natural leadership skills, but occasionally chooses to follow another to some extent if their goals align. They do not possess [[../../World/Concepts/Alignment|Alignment]].  
   
 Aside from this summary, the rest of this page applies only to the current incarnation of Kuhai.  
   
@@ -181,7 +181,7 @@ She treats [[./Dvalinn|Dvalinn]], [[./Haida|Haida]], and [[./Neven|Neven]] with 
   
 ### Affiliations  
   
-She is a member of the Risky Witches [[Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
+She is a member of the Risky Witches [[../../World/Organizations/Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
   
 ## History  
   

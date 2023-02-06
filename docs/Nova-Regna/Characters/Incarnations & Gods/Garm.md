@@ -182,7 +182,7 @@ She treats Dvalinn like a little brother (despite being younger than him) and pi
   
 ### Affiliations  
   
-She is a member of the Risky Witches [[Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
+She is a member of the Risky Witches [[../../World/Organizations/Risky Witches#Special forces|Task Force 5555]] with the effective rank of O-6.  
   
 ## History  
   

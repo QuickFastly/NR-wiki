@@ -56,35 +56,6 @@ I don't study this stuff, I don't have any science to justify this stuff. If you
   
 Essentially, unless you *want* to overthink it, just think of this world in exactly the same way you think of the real world and use identical logic, but remember the smaller physical size and higher resource richness, and let anything weird be explained by mystic matter.  
   
-```leaflet  
-id: nrmap  
-image:   
-    - [[../../../assets/img/Flat (Political unlabeled).png|Political]]  
-    - [[../../../assets/img/Terrain (Blank).png|Blank]]  
-    - [[Terrain (Biomes).png|Biomes]]  
-imageOverlay:   
-    - [ [[../../../assets/img/_Grid overlay.png|Grid]] ]  
-    - [ [[_Political labels 1.png|Countries]] ]  
-    - [ [[_Political labels 2.png|States]] ]  
-    - [ [[_Political labels 3.png|Cities]] ]  
-bounds:   
-    - [0, 0]  
-    - [3306.930693069307, 7928.783382789318]  
-# math is [image dimension / (pixels / kilometers) = bounds]  
-# one cell width is 337px, one cell height is 404px  
-# latitude for full 4810 height instead of 4000: 3976.584158415842  
-height: 600px  
-lat: 1653.465346534654  
-long: 3964.391691394659  
-minZoom: -3.5  
-maxZoom: 1  
-defaultZoom: -3.5  
-zoomDelta: 0.5  
-unit: kilometers  
-scale: 1  
-darkMode: false  
-```  
-  
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  

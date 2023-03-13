@@ -29,7 +29,7 @@ The battle ultimately saw the all Corstaean forces wiped out, and was considered
   
 Grennerian propaganda hugely pushed the importance of the Iron Wings regiment in the battle, painting them as national heroes worthy of honors. It was the last known usage of horse cavalry in a large scale battle by any nation, which contributed to the story of the Iron Wings making international news and becoming famous around the world.  
   
-Exactly one year after the battle, a statue of the regiment commander who died in the battle, [[Mili Denisovich Serov]], was erected in Roslaya near the road used by the army to reach the battle, depicting him with feathered wings on his own back in place of the decorative metal wings carried by the horses of the unit in remembrance of him. It has been a constant target for vandalism since its construction, mainly by [[../../Inhabitants/Spirits|spirits]] and those who believe the story of him dying in battle to be a fabrication.  
+Exactly one year after the battle, a statue of the regiment commander who died in the battle, [[Mili Denisovich Serov]], was erected in Roslaya near the road used by the army to reach the battle, depicting him with feathered wings on his own back in place of the decorative metal wings carried by the horses of the unit in remembrance of him. It has been a constant target for vandalism since its construction, mainly by [[../../Inhabitants/Spirits|spirits]] and those who believe the story of him dying valiantly in battle to be a fabrication.  
   
 -----  
 > [!cite] Author info  

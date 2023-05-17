@@ -10,7 +10,9 @@ theme:
     logo: assets/meta/flowericon.png
     favicon: assets/meta/flowericon.png
     custom_dir: overrides
-    font: false
+    font: 
+        text: Atkinson Hyperlegible
+        code: Red Hat Mono
     language: en
     palette:
 

@@ -10,9 +10,7 @@ theme:
     logo: assets/meta/flowericon.png
     favicon: assets/meta/flowericon.png
     custom_dir: overrides
-    font:
-        text: Exo
-        code: Red Hat Mono
+    font: false
     language: en
     palette:
 

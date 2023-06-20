@@ -44,7 +44,7 @@ They maintained isolationist behavior for their entire reign and were entirely s
   
 Another result of their seclusion is that unfortunately, not much is known about the Inazuma, due to the fact that a huge amount of the knowledge about their existence comes from likely exaggerated stories and rumors, and the biased and defunct Kagetsu shogunate. The words of [[../../../Characters/HT/Nori Inazuma|Nori]] and [[../../../Characters/HT/Shun Inazuma|Shun]] - the only surviving members of the Inazuma - are hotly debated.  
   
-In 1966, Nori and Shun returned to Shinzen and their noble status was officially recognized as a symbolic gesture. They now reside in rural [[Shiga]] in the state of [[Onsai]].  
+In 1966, Nori and Shun returned to Shinzen and their noble status was officially recognized as a symbolic gesture. They now reside in rural [[../../Map/Shinzen/Shiga|Shiga]] in the state of [[Onsai]].  
   
 ## History  
   

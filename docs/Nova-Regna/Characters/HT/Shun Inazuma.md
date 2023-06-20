@@ -101,7 +101,7 @@ tags: HT
     </table>  
   </div>  
   
-Shun Inazuma is a [[../../World/Inhabitants/Fox|fox spirit]], and one of two surviving members of the [[../../World/History & Events/Shinzen/Inazuma Clan|Inazuma Clan]]. Together with their wife, [[./Nori Inazuma|Nori Inazuma]], they traveled the world for several centuries and appear in many disparate historical events as a result. They currently live in rural [[Shiga]] in [[Onsai]], [[../../World/Map/Shinzen/Shinzen|Shinzen]].  
+Shun Inazuma is a [[../../World/Inhabitants/Fox|fox spirit]], and one of two surviving members of the [[../../World/History & Events/Shinzen/Inazuma Clan|Inazuma Clan]]. Together with their wife, [[./Nori Inazuma|Nori Inazuma]], they traveled the world for several centuries and appear in many disparate historical events as a result. They currently live in rural [[../../World/Map/Shinzen/Shiga|Shiga]] in [[Onsai]], [[../../World/Map/Shinzen/Shinzen|Shinzen]].  
   
 ## Physical description  
   

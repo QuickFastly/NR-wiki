@@ -7,7 +7,7 @@ tags: Grenneria, Corstaea
 > [!bug] Issue  
 > More detail is needed here eventually  
   
-The 1931 Battle of Himlavård was a battle that took place between the morning of 13/02/1931 and the evening of 15/02/1931 between the armies of [[../../Map/Grenneria/index|Grenneria]] and [[../../Map/Corstaea/index|Corstaea]], with Corstaea on the offensive, intending to cross over the [[../../Places/Himlavård|Himlavård]] mountain range and set up a supply line from [[Tolred]] to [[Roslaya]] to facilitate an invasion of Grenneria. The attack was ultimately repelled by Grennerian forces, including the final known large scale deployment of horse cavalry in history. The [[1st Cavalry Regiment "Iron Wings"]] was hailed as the decisive factor in the outcome of the battle.  
+The 1931 Battle of Himlavård was a battle that took place between the morning of 13/02/1931 and the evening of 15/02/1931 between the armies of [[../../Map/Grenneria/Grenneria|Grenneria]] and [[../../Map/Corstaea/Corstaea|Corstaea]], with Corstaea on the offensive, intending to cross over the [[../../Places/Himlavård|Himlavård]] mountain range and set up a supply line from [[Tolred]] to [[Roslaya]] to facilitate an invasion of Grenneria. The attack was ultimately repelled by Grennerian forces, including the final known large scale deployment of horse cavalry in history. The [[1st Cavalry Regiment "Iron Wings"]] was hailed as the decisive factor in the outcome of the battle.  
   
 ### Prelude  
   

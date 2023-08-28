@@ -32,7 +32,7 @@ tags: Shinzen
     </table>  
   </div>  
   
-A pseudo-noble family of [[../../Inhabitants/Fox|Fox]] [[../../Inhabitants/Spirits|Spirits]] with centuries of history and folklore centered around them from the [[../../Map/Shinzen/CIty of Hashiri, Sumitori/Okamiwa|Okamiwa]] area of [[../../Map/Shinzen/CIty of Hashiri, Sumitori/Hashiri|Hashiri]] in [[Sumitori]], [[../../Map/Shinzen/Shinzen|Shinzen]].  
+A pseudo-noble family of [[../../Inhabitants/Fox|Fox]] [[../../Inhabitants/Spirits|Spirits]] with centuries of history and folklore centered around them from the [[../../Map/Shinzen/City of Hashiri/Okamiwa|Okamiwa]] area of [[../../Map/Shinzen/City of Hashiri/index|City of Hashiri]] in [[Sumitori]], [[../../Map/Shinzen/index|Shinzen]].  
   
 They own an operate a historic, traditional inn and hot spring on the mountainside overlooking the city.  
   

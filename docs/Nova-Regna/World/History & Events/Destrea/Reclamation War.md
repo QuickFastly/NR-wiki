@@ -6,7 +6,7 @@ tags: Ustonia, Destrea, Shinzen, RW
 > [!bug] Issue  
 > More detail is needed here eventually.  
   
-The Reclamation War is an ongoing conflict between [[../../Map/Destrea/Destrea|Destrea]], [[../../Map/Ustonia/Ustonia|Ustonia]], and [[../../Map/Shinzen/Shinzen|Shinzen]] that began in 1980. It halted temporarily between 1991 and 1998 due to [[./The Big Event|The Big Event]] crippling Destrea, after which it began again with a surprise attack on the Ustonian capital of [[Northfair]] utilizing stolen [[../../Organizations/Corporations/Nagase|Nagase]] aircraft from Shinzen.  
+The Reclamation War is an ongoing conflict between [[../../Map/Destrea/index|Destrea]], [[../../Map/Ustonia/index|Ustonia]], and [[../../Map/Shinzen/index|Shinzen]] that began in 1980. It halted temporarily between 1991 and 1998 due to [[./The Big Event|The Big Event]] crippling Destrea, after which it began again with a surprise attack on the Ustonian capital of [[Northfair]] utilizing stolen [[../../Organizations/Corporations/Nagase|Nagase]] aircraft from Shinzen.  
   
 After the 1972 Ustonian [[../Ustonia/Mistletoe Revolution|Mistletoe Revolution]] took place and Destrea's territory was returned, the states of [[Prestona]] and [[Verace]] independently defected to Ustonia in 1973, which was quickly followed by an overwhelming military force being stationed on their borders. Destrea spent the next seven years building their case against Ustonia while preparing their military for a full scale invasion, ultimately declaring war claiming that not only were Prestona and Verace rightfully theirs, but all of the land of [[../../Map/Yulentia|Yulentia]] rightfully belonged to Destrea.  
   

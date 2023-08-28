@@ -456,6 +456,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Hashiri/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Iwaji/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
@@ -522,6 +527,11 @@
     </url>
     <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Yurihama/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Ustonia/Ustonia/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>

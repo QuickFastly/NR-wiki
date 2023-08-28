@@ -38,7 +38,7 @@ tags: Corstaea, Grenneria, OsunTanum
     </table>  
   </div>  
   
-The Ozen Federation is an independent militarized political and legislative entity formed as a joint effort in 1978 by [[../Map/Corstaea/index|Corstaea]], [[../Map/Grenneria/index|Grenneria]], and [[../Map/Osun Tanum/index|Osun Tanum]] in response to the potential economic and military threat of the [[./Yulentia Trade Union|Yulentia Trade Union]]. The Foundation works to improve the quality of life of the citizens within it by allowing free trade and travel between the countries within the Federation, as well as providing free education and healthcare to everyone within the Federation, citizen or not. They facilitate this by imposing a flat 17.5% sales tax on luxury goods sold within the Federation, called the Ozen Maintenance Tax or OMT.  
+The Ozen Federation is an independent militarized political and legislative entity formed as a joint effort in 1978 by [[../Map/Corstaea/Corstaea|Corstaea]], [[../Map/Grenneria/Grenneria|Grenneria]], and [[../Map/Osun Tanum/Osun Tanum|Osun Tanum]] in response to the potential economic and military threat of the [[./Yulentia Trade Union|Yulentia Trade Union]]. The Foundation works to improve the quality of life of the citizens within it by allowing free trade and travel between the countries within the Federation, as well as providing free education and healthcare to everyone within the Federation, citizen or not. They facilitate this by imposing a flat 17.5% sales tax on luxury goods sold within the Federation, called the Ozen Maintenance Tax or OMT.  
   
 ## History  
   

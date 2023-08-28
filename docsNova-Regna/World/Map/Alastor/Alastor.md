@@ -83,7 +83,7 @@ mapmarker: country
     </table>  
   </div>  
   
-Alastor, officially known as the Commonwealth of the Alastor Isles, is a very small island country on the southern edge of the continent of [[../Ozen|Ozen]]. Its capital, [[Alexandria]], is the central major island of the country. It is neighbored by [[../Osun Tanum/Osun Tanum|Osun Tanum]], [[../Destrea/Destrea|Destrea]], and [[../Ustonia/Ustonia|Ustonia]].  
+Alastor, officially known as the Commonwealth of the Alastor Isles, is a very small island country on the southern edge of the continent of [[../Ozen|Ozen]]. Its capital, [[Alexandria]], is the central major island of the country. It is neighbored by [[../Osun Tanum/Osun Tanum|Osun Tanum]], [[../Destrea/Destrea|Destrea]], and [[../Ustonia/Ustonia|Ustonia]]. test  
   
 Alastor is a lightly developed country with the world's smallest population while also having a very high population density, a very weak economy, no industrial sector, and no established military force. They maintain strict diplomatic neutrality towards all things that do not pose a threat to the country, its people, or their way of life.  
   

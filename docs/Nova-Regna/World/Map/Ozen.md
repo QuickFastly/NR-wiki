@@ -29,7 +29,7 @@ comments: true
     </table>  
   </div>  
   
-Ozen is the northeastern continent of [[./Earth|Earth]]. The countries of [[./Alastor/Alastor|Alastor]], [[./Corstaea/Corstaea|Corstaea]], [[./Grenneria/Grenneria|Grenneria]], and [[./Osun Tanum/Osun Tanum|Osun Tanum]] are located here.  
+Ozen is the northeastern continent of [[./Earth|Earth]]. The countries of [[./Alastor/index|Alastor]], [[./Corstaea/index|Corstaea]], [[./Grenneria/index|Grenneria]], and [[./Osun Tanum/index|Osun Tanum]] are located here.  
   
 ## Geography  
   

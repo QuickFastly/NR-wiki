@@ -30,7 +30,7 @@ comments: true
     </table>  
   </div>  
   
-Humans (H. sapiens) are humans, you know what they are already, I'm not about to write my own whole [wikipedia article](https://en.wikipedia.org/wiki/Human) for them. They come in [[../Cultures & Ethnicities/index|many varieties]].  
+Humans (H. sapiens) are humans, you know what they are already, I'm not about to write my own whole [wikipedia article](https://en.wikipedia.org/wiki/Human) for them. They come in [[../Cultures & Ethnicities/Cultures & Ethnicities|many varieties]].  
   
 They are distinct from [[./Spirits|Spirits]] due to their lack of anything special or unique.  
   

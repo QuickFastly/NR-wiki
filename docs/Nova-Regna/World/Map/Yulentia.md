@@ -29,7 +29,7 @@ comments: true
     </table>  
   </div>  
   
-Yulentia is the southeastern continent of [[./Earth|Earth]]. The countries of [[./Destrea/Destrea|Destrea]] and [[./Ustonia/Ustonia|Ustonia]] are located here.  
+Yulentia is the southeastern continent of [[./Earth|Earth]]. The countries of [[./Destrea/index|Destrea]] and [[./Ustonia/index|Ustonia]] are located here.  
   
 ## Geography  
   

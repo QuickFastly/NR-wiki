@@ -146,7 +146,7 @@ Some primary exports of Shinzen are electronics, cars and trucks, and biotechnol
   
 ## Demographics  
   
-Shinzen has a unique struggle with acceptance of [[Spirits|spirit[Shaohou](Map/Shaohou/index.md)], as their official stance is a welcoming one and most people in the country are openly accepting and supportive of spirits, but systemic discrimination still remains, particularly in education and career opportunities. Nevertheless, many spirits are quite happy with their treatment in Shinzen, even though they have fewer opportunities.  
+Shinzen has a unique struggle with acceptance of [[../../Inhabitants/Spirits|spirits]], as their official stance is a welcoming one and most people in the country are openly accepting and supportive of spirits, but systemic discrimination still remains, particularly in education and career opportunities. Nevertheless, many spirits are quite happy with their treatment in Shinzen, even though they have fewer opportunities.  
   
 Spirit population as of the 2030 census: 14,158,605  
 - Cat: 8,312,945  

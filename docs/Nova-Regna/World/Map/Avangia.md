@@ -29,7 +29,7 @@ comments: true
     </table>  
   </div>  
   
-Avangia is the western continent of [[./Earth|Earth]]. The countries of [[./Shinzen/Shinzen|Shinzen]], [[./Shaohou/Shaohou|Shaohou]], [[./Sangyon/Sangyon|Sangyon]], and [[./Ilmaria/Ilmaria|Ilmaria]] are located here.  
+Avangia is the western continent of [[./Earth|Earth]]. The countries of [[./Shinzen/index|Shinzen]], [[./Shaohou/index|Shaohou]], [[./Sangyon/index|Sangyon]], and [[./Ilmaria/index|Ilmaria]] are located here.  
   
 ## Geography  
   

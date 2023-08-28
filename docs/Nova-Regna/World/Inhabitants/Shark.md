@@ -76,9 +76,9 @@ It is theorized that this is caused by their immense everyday energy expenditure
   
 ## Geographic distribution  
   
-They strongly prefer living near large bodies of water. The majority of them can be found on the southern coasts of [[../Map/Destrea/index|Destrea]], but they are not an uncommon sight in port towns around the world.  
+They strongly prefer living near large bodies of water. The majority of them can be found on the southern coasts of [[../Map/Destrea/Destrea|Destrea]], but they are not an uncommon sight in port towns around the world.  
   
-Many can be found in [[../Map/Alastor/index|Alastor]], where they often serve as volunteer border and coast guards.  
+Many can be found in [[../Map/Alastor/Alastor|Alastor]], where they often serve as volunteer border and coast guards.  
   
 ## Sociology  
   

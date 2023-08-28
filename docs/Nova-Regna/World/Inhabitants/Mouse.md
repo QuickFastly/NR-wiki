@@ -70,9 +70,9 @@ Mouse spirits grow at the same rate as human until the age of 12 years, after wh
   
 ## Geographic distribution  
   
-Mouse spirits prefer warm, mild climates, and the vast majority of them can be found in [[../Map/Osun Tanum/index|Osun Tanum]] for most of the year. They have been known to travel in droves seasonally.  
+Mouse spirits prefer warm, mild climates, and the vast majority of them can be found in [[../Map/Osun Tanum/Osun Tanum|Osun Tanum]] for most of the year. They have been known to travel in droves seasonally.  
   
-They are also common throughout [[../Map/Alastor/index|Alastor]], regularly relied upon for the management of the country's complex systems of governance, and are credited as the primary reason it continues to run efficiently.  
+They are also common throughout [[../Map/Alastor/Alastor|Alastor]], regularly relied upon for the management of the country's complex systems of governance, and are credited as the primary reason it continues to run efficiently.  
   
 ## Sociology  
   

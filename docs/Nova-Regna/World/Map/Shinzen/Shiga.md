@@ -22,7 +22,7 @@ tags: HT, Shinzen, maplocation
     </table>  
   </div>  
   
-Shiga is the capital city of [[Onsai]], a state of [[./index|Shinzen]], and is the largest city in the state by population. It is known primarily for its lush forests, brought into the public eye due to the modern development of the city only being allowed to happen under the condition that the forests remain virtually untouched, which led to the unusual "modular" layout of the city, with each "module" separated by dense treelines. It is also home to the Onsai Technical Institute, the only major university campus in the state.  
+Shiga is the capital city of [[Onsai]], a state of [[./Shinzen|Shinzen]], and is the largest city in the state by population. It is known primarily for its lush forests, brought into the public eye due to the modern development of the city only being allowed to happen under the condition that the forests remain virtually untouched, which led to the unusual "modular" layout of the city, with each "module" separated by dense treelines. It is also home to the Onsai Technical Institute, the only major university campus in the state.  
   
 Notably, Shiga only allowed some of its land to be redeveloped. The districts of Yuan Chun and Tai Jing got paved roads, but their layouts are unchanged and are as old as the city itself. The districts of Fu Shui, Ha Chau, and San Zou have remained entirely undeveloped, save for few modern amenities like electricity, making them some of the oldest living settlements in the country.  
   

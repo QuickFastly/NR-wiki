@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>  
   </div>  
   
-Kaidō is the southeastern ward of the city of [[./index|City of Hashiri]], home to the landmark [[Asakawa Tower (better name TBD)]], and is the commercial and industrial heart of the city. It contains the towns of [[./Asakawa|Asakawa]], [[./Iwaji|Iwaji]], [[./Kayamori|Kayamori]], and [[./Shizuyama|Shizuyama]].  
+Kaidō is the southeastern ward of the city of [[./Hashiri|Hashiri]], home to the landmark [[Asakawa Tower (better name TBD)]], and is the commercial and industrial heart of the city. It contains the towns of [[./Asakawa|Asakawa]], [[./Iwaji|Iwaji]], [[./Kayamori|Kayamori]], and [[./Shizuyama|Shizuyama]].  
   
 -----  
 > [!cite] Author info  

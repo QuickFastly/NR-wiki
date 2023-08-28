@@ -4,7 +4,7 @@ comments: true
 tags: Corstaea, Grenneria  
 ---  
   
-The 1898 Liberation of Amaransk was a battle that took place on the morning of 14/12/1898 between the armies of [[../../Map/Corstaea/index|Corstaea]] and [[../../Map/Grenneria/index|Grenneria]] for control of the city of [[Amaransk]], with Corstaea on the offensive, that ultimately led to Corstaea's victory in reclaiming the entire [[Tolred]] region. It saw the first usage of strategically positioned snipers by the Corstaean army, which proved to be the key to Corstaean victory in this battle and pioneered the adoption of snipers around the world.  
+The 1898 Liberation of Amaransk was a battle that took place on the morning of 14/12/1898 between the armies of [[../../Map/Corstaea/Corstaea|Corstaea]] and [[../../Map/Grenneria/Grenneria|Grenneria]] for control of the city of [[Amaransk]], with Corstaea on the offensive, that ultimately led to Corstaea's victory in reclaiming the entire [[Tolred]] region. It saw the first usage of strategically positioned snipers by the Corstaean army, which proved to be the key to Corstaean victory in this battle and pioneered the adoption of snipers around the world.  
   
 ### Prelude  
   

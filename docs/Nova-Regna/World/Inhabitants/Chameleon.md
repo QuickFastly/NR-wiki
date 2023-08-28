@@ -64,7 +64,7 @@ Chameleon spirits grow at the same rate as humans until the age of 20 years, aft
   
 ## Geographic distribution  
   
-Chameleon spirits typically prefer warm and dry regions, and are primarily found in [[../Map/Shaohou/index|Shaohou]]. They are also a somewhat common sight in [[../Map/Alastor/index|Alastor]], where they are often relied upon to make impartial rulings in the judicial system.  
+Chameleon spirits typically prefer warm and dry regions, and are primarily found in [[../Map/Shaohou/Shaohou|Shaohou]]. They are also a somewhat common sight in [[../Map/Alastor/Alastor|Alastor]], where they are often relied upon to make impartial rulings in the judicial system.  
   
 ## Sociology  
   

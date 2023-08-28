@@ -4,7 +4,7 @@ comments: true
 ---  
 SensNet is a lifestyle technology product introduced in Q2 2016 by [[../Organizations/Corporations/11K|11K]] that functions through a direct two-way neural interface with an always-on internet connection regardless of location with no need for any external power source, and has both augmented reality and virtual reality capabilities. Since the completion of the [[../Places/Avalon|Avalon]] data center, the SensNet interface is also used to provide access to [[./Sublimation|sublimation]].  
   
-In Q1 2029, 11K removed the purchase price for SensNet and launched a global distribution and installation initiative, with the stated aim of connecting every person alive with the SensNet service. Today, all citizens of [[../Map/Ilmaria/index|Ilmaria]] are required by law to have SensNet devices, and over 80% of people in the rest of the world have had SensNet devices installed so far.  
+In Q1 2029, 11K removed the purchase price for SensNet and launched a global distribution and installation initiative, with the stated aim of connecting every person alive with the SensNet service. Today, all citizens of [[../Map/Ilmaria/Ilmaria|Ilmaria]] are required by law to have SensNet devices, and over 80% of people in the rest of the world have had SensNet devices installed so far.  
   
 ## How it works  
   

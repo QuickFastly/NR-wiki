@@ -276,7 +276,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Cultures%20%26%20Ethnicities/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Chiya/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -286,7 +296,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Ciraza/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Ciraza/Cirazan/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Exilan/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -296,7 +316,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Farodet/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Farodet/Farodet/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Irovell/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -306,7 +336,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Shisuya/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Shisuya/Shisuya/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Cultures%20%26%20Ethnicities/Yinsha/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -471,7 +511,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Alastor/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Alastor/Alastor/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Corstaea/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -481,7 +531,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Destrea/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Destrea/Destrea/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Grenneria/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -491,7 +551,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Ilmaria/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Ilmaria/Ilmaria/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Osun%20Tanum/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -501,12 +571,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Sangyon/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Sangyon/Sangyon/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shaohou/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shaohou/Shaohou/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -522,6 +607,101 @@
     </url>
     <url>
          <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/Shizumori/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Asakawa/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Etazu/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Ginya/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Iwaji/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Jat%C5%8Dge/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Kaid%C5%8D%20ward/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Kanj%C5%8D%20ward/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Kayamori/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Kitabe/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Okamiwa/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Ry%C5%8Dgan/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Sanzan/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Shakotan%20ward/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Shizuyama/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Teruno/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Wahara/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Shinzen/City%20of%20Hashiri/Yurihama/</loc>
+         <lastmod>2023-08-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.kerosyn.link/Nova-Regna/World/Map/Ustonia/</loc>
          <lastmod>2023-08-28</lastmod>
          <changefreq>daily</changefreq>
     </url>

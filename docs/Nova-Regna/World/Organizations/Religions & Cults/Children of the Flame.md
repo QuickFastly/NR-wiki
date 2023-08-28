@@ -50,7 +50,7 @@ tags: CotF
     </table>  
   </div>  
   
-The Children of the Flame are the world's largest religious organization, and one of only three remaining major hierarchical religious organizations in modern times. It is headquartered in the city of [[Falkenvall]] in [[Kolgård]], [[../../Map/Osun Tanum/index|Osun Tanum]].  
+The Children of the Flame are the world's largest religious organization, and one of only three remaining major hierarchical religious organizations in modern times. It is headquartered in the city of [[Falkenvall]] in [[Kolgård]], [[../../Map/Osun Tanum/Osun Tanum|Osun Tanum]].  
   
 They are presumed to be the oldest known religious organization of all time, as there is no record of their formation, yet they have always possessed and been recorded in some of the oldest documents known to exist.  
   

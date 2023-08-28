@@ -2,14 +2,14 @@
 share: true  
 comments: true  
 ---  
-It's hard to build a world with no influence from reality at all. So I didn't. Everything in [[../World/Map/Earth|this world]] is influenced heavily by various parts of the real world, and it's no secret. If you want to create something new for the world and you want to know where to look for inspiration, this page is here to place influences on the map politically, as well as for the [[../World/Cultures & Ethnicities/index|Cultures & Ethnicities]] of the world.  
+It's hard to build a world with no influence from reality at all. So I didn't. Everything in [[../World/Map/Earth|this world]] is influenced heavily by various parts of the real world, and it's no secret. If you want to create something new for the world and you want to know where to look for inspiration, this page is here to place influences on the map politically, as well as for the [[../World/Cultures & Ethnicities/Cultures & Ethnicities|Cultures & Ethnicities]] of the world.  
   
 > [!warning]  
 > It is important to keep in mind that just because all these people and places are based heavily on the real world, they are still *fictional*. A lot of real-world history does not exist here, and a lot of creative liberty must be taken. Original ideas are just as important as the real-world sources, this page only serves to list sources of *influence*, not of 1-to-1 recreations.  
 >   
 > Some cultural stereotypes may also be written to quickly convey a theme in a simple way, but they are under no circumstances to be portrayed as derogatory or at the expense of others, nor is that ever the intention, so while you should not take them overly seriously or read too deeply into them if/where they are present, please contribute suggestions and reasoning for improvements if you have any.  
   
-- [[../World/Map/Corstaea/index|Corstaea]] contains depictions Norway, Finland, Iceland, Faroe Islands, Germany, the United Kingdom, and Ireland.  
+- [[../World/Map/Corstaea/Corstaea|Corstaea]] contains depictions Norway, Finland, Iceland, Faroe Islands, Germany, the United Kingdom, and Ireland.  
 	- [[Carlow]] contains depictions of the Celtic nations with no Anglo-Saxon settlement.  
 	- [[Tolred]] was once a Grennerian colony before being claimed by Corstaea, leading to a unique mixture of Finnish and Russian culture depictions in much of the modern populace. The indigenous people of Tolred, however, are a depiction of the Greenlandic Inuit.  
 	- A depiction of Finland is found in southern Tolred and northern [[Vallastad]], and Norway in the rest of Vallastad, [[Torstrøm]], and [[Halstrand]].  
@@ -17,7 +17,7 @@ It's hard to build a world with no influence from reality at all. So I didn't. E
 	- [[Sarrac]] is an autonomous territory depicting the Faroe Islands.  
 	- Germany is depicted in [[Affolstein]], [[Hartmond]], and most of [[Allenthal]].  
 	- Finally, the Anglo-Saxon side of the United Kingdom (pretty much just England) is depicted without Celtic influence in [[Vinesse]], [[Manden]], and northeastern Allenthal.  
-- [[../World/Map/Destrea/index|Destrea]] primarily depicts versions of Italy and Spain, but also Mexico, Dominican Republic, Haiti, Cuba, Jamaica, Melanesia, Micronesia, and Brazil.  
+- [[../World/Map/Destrea/Destrea|Destrea]] primarily depicts versions of Italy and Spain, but also Mexico, Dominican Republic, Haiti, Cuba, Jamaica, Melanesia, Micronesia, and Brazil.  
 	- The group of islands off the southern coast of the country specifically depicts Micronesia and Melanesia. None of the many cultures found on those islands are officially recognized by Destrea, and they are largely left alone today, but were the primary source of people for the slave trade in early history.  
 	- Jamaica, Haiti, Cuba, and the Dominican Republic are all depicted in what is now [[Selva Luce]]. Before the formation of Destrea, Selva Luce was four separate nations and had more land. Tensions are extremely high here as Destrean oppression is slowly eroding their cultures, which are not officially recognized as separate by the government.  
 	- Italy is depicted primarily in [[Vaceniza]], with Rome being mirrored by the city of [[Alessa]]. All roads in Destrea and much of Ustonia eventually lead there. [[Begliano]], [[Nalano]], and [[Mugenno]] also represent primarily Italian culture.  
@@ -25,7 +25,7 @@ It's hard to build a world with no influence from reality at all. So I didn't. E
 	- Mexico is depicted in Destrea by the western regions of [[Tarence]] and Casezzo, and extends into Ustonia. More on that in the Ustonia section below.  
 	- All Destrean prefectures were once sovereign nations with their own territories, which is how so many different real-world cultures are prominent in this country. Everything that hasn't been specifically named above - including additional Latin American cultures - can be anywhere in small numbers, and that will develop over time, but Italian culture is strong throughout most of the south, and Spanish in the north.  
 	- While the many unique cultures are prominent and celebrated by the people to this day, the country is now *politically* most similar to fascist Italy.  
-- [[../World/Map/Grenneria/index|Grenneria]] primarily depicts versions of Russia, Ukraine, Poland, Czech Republic, Croatia, Slovenia, Serbia, Bulgaria, Belarus, Latvia, and Romania.  
+- [[../World/Map/Grenneria/Grenneria|Grenneria]] primarily depicts versions of Russia, Ukraine, Poland, Czech Republic, Croatia, Slovenia, Serbia, Bulgaria, Belarus, Latvia, and Romania.  
 	- [[Khotka]], however, depicts Portugal and Galicia. It was first settled by people from what is now Destrea and developed independently very early in history, before being taken by Grenneria much later. There is notable Romanian influence, but the Portuguese and Galician cultures remain intact and dominant.  
 	- Romania is depicted specifically by [[Nazavat]].  
 	- Ukraine is depicted specifically by [[Ulavyr]].  
@@ -35,27 +35,27 @@ It's hard to build a world with no influence from reality at all. So I didn't. E
 	- Serbian and Bulgarian culture are both depicted primarily in [[Markask]].  
 	- Belarusian and Latvian culture are both depicted primarily in [[Ivashni]].  
 	- Other Slavic cultures may also be placed throughout the country in small numbers, but exactly which and where they are will develop over time.  
-- [[../World/Map/Osun Tanum/index|Osun Tanum]] primarily depicts a version of Sweden, while also depicting Denmark, Austria, Belgium, Netherlands, and Hungary.  
+- [[../World/Map/Osun Tanum/Osun Tanum|Osun Tanum]] primarily depicts a version of Sweden, while also depicting Denmark, Austria, Belgium, Netherlands, and Hungary.  
 	- Hungary is depicted almost exclusively in the southeast region of [[Elgård]], Austria in [[Vastdal]], Belgium in [[Macdon]], and Netherlands in [[Osterfeld]].  
 	- While the culture is dominantly Swedish throughout the country, Danish culture mixes in more and more the farther south you go.  
 	- Of the eight large countries, this one has the most fictional aspects to it, explaining Osun Tanum's near-utopian government and society.  
-- [[../World/Map/Sangyon/index|Sangyon]] primarily depicts South Korea, while also depicting Indonesia, Thailand, Singapore, and the Philippines.  
+- [[../World/Map/Sangyon/Sangyon|Sangyon]] primarily depicts South Korea, while also depicting Indonesia, Thailand, Singapore, and the Philippines.  
 	- Singapore is specifically depicted in [[Tanje]], Thailand in [[Tanbaek]], Indonesia in [[Jeonsan]], and the Philippines in [[Cheosu]]. South Korean influence is present in all of them.  
 	- The northwest corner of this country - mainly [[Rasan]] and [[Ranan]] - was also settled by Corstaean people early in history, and includes a small but notable mixture of Norwegian culture as a result.  
 	- Since Shinzen was once an empire that ruled over this entire country, some Japanese influence on the culture is still present in small ways.  
-- [[../World/Map/Shaohou/index|Shaohou]] primarily depicts China, while also depicting Mongolia, Vietnam, Cambodia, and Malaysia.  
+- [[../World/Map/Shaohou/Shaohou|Shaohou]] primarily depicts China, while also depicting Mongolia, Vietnam, Cambodia, and Malaysia.  
 	- Malaysia is depicted exclusively in [[Suwei]], and Vietnam in [[Xinwei]]. Mongolian and Cambodian culture and people are spread thin throughout all of Shaohou.  
 	- Unlike China, the Han people are not the overwhelming majority of Shaohou. They are still the majority, but there is a lot more (recognized!) diversity throughout the country.  
 	- Since Shinzen was once an empire that ruled over this entire country, some Japanese influence on the culture is still present in small ways.  
-- [[../World/Map/Shinzen/index|Shinzen]] primarily depicts Japan, while also depicting Taiwan and Hong Kong.  
+- [[../World/Map/Shinzen/Shinzen|Shinzen]] primarily depicts Japan, while also depicting Taiwan and Hong Kong.  
 	- Taiwan is specifically depicted in [[Futou]], and Hong Kong in [[Onsai]]. These states were part of Shaohou until relatively recently, so Japanese influence on these states is minimal, but present.  
 	- The Ainu people are indigenous to and depicted mainly in [[Tozawa]] with some presence in the south of [[Sumitori]] as well. They are much more prominent here than in reality, but are still a very small and fractured minority.  
 	- The Ryukyuan people are indigenous to and depicted mainly in [[Okina]] with some presence in the south of Sumitori as well. Unlike reality, they are officially recognized and were not subject to cultural suppression by Shinzen.  
 	- All of the [regions of Japan](https://en.wikipedia.org/wiki/List_of_regions_of_Japan) have a specific place here. [[Kiyoshiri]] depicts Kyūshū (with Satsuma retaining particular prominence), [[Kenshiri]] depicts Shikoku, [[Hayagawa]] depicts Chūgoku, Sumitori depicts Kansai, Tozawa depicts Hokkaidō, Okina depicts the Ryukyu islands, [[Asahi]] depicts Kantō, [[Kuminachi]] depicts Tōhoku, and [[Miwae]] depicts Chūbu.  
 	- One major difference from these regions, however, is that the city and culture of Kyoto is depicted in [[Soukotan]], a city in the state of Miwae, rather than in the state of Sumitori with the rest of the Kansai region.  
 	- Additionally, the Hayato people are depicted in Kiyoshiri, and the Azumi people in Kenshiri, even though both were from Kyūshū in reality, while the Emishi people are depicted in Kuminachi as expected.  
-	- The many dialects of Japanese are present here, but distinguished more by ethnicity than by region. More on that on the [[../World/Cultures & Ethnicities/Shisuya/index|Shisuya]] page.  
-- [[../World/Map/Ustonia/index|Ustonia]] primarily depicts a version of the USA, while also depicting Canada, Australia, and Polynesia.  
+	- The many dialects of Japanese are present here, but distinguished more by ethnicity than by region. More on that on the [[../World/Cultures & Ethnicities/Shisuya/Shisuya|Shisuya]] page.  
+- [[../World/Map/Ustonia/Ustonia|Ustonia]] primarily depicts a version of the USA, while also depicting Canada, Australia, and Polynesia.  
 	- [[Isla Sofia]] is a completely self sustained island that specifically depicts Polynesian cultures, most prominently Māori people. Its name comes from Destrean colonization attempts, as Ustonia chose to keep that name when annexing the land. The native name of the land is unknown (or TBD).  
 	- Canada is depicted almost exclusively in [[Lonfolk]], [[Exford]], and [[Norston]], while [[South Macdon]] is primarily Belgian with some Canadian influence.  
 	- Similarly, [[West Vastdal]] is primarily Austrian with some Australian influence.  
@@ -63,7 +63,7 @@ It's hard to build a world with no influence from reality at all. So I didn't. E
 	- [[Prestona]] and [[Verace]], having recently defected from Destrea, have dominant Mexican culture not found anywhere else in Ustonia. There is little American influence in these states, but some Mexican influence can be found easily in the neighboring states.  
 	- Ustonia, as you may be able to guess, is a colonized nation. While depicting the named countries, it also prominently depicts versions of the indigenous peoples of them as minority groups, many with their own reservations. All of these indigenous cultures can be anywhere, and that will develop over time.  
   
-[[../World/Map/Alastor/index|Alastor]] and [[../World/Map/Ilmaria/index|Ilmaria]] are the only completely fictional locations on the map with no major real-world connections of their own, albeit still influenced in part by the people that live there - Icelandic and Danish for Alastor, Japanese and American for Ilmaria.  
+[[../World/Map/Alastor/Alastor|Alastor]] and [[../World/Map/Ilmaria/Ilmaria|Ilmaria]] are the only completely fictional locations on the map with no major real-world connections of their own, albeit still influenced in part by the people that live there - Icelandic and Danish for Alastor, Japanese and American for Ilmaria.  
   
 Some particularly important differences from reality to consider with your influences are:  
 - Some of the real-world countries depicted by Destrea have ties with the EU, but the closest equivalent in this world is the [[../World/Organizations/Ozen Federation|Ozen Federation]], which Destrea is not a part of. Any multinational EU projects you would like to reference should instead be part of the Ozen Federation. Destrea could still be a customer for these programs though.  

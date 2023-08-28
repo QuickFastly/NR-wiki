@@ -78,7 +78,7 @@ Crow spirits grow at the same rate as humans until the age of 15 years, after wh
   
 ## Geographic distribution  
   
-They have no preferences for climate or geography and can be found all around the world. They are spread quite thin, making them a rare sight. Some live on the desolate island of [[Electra]] in the country of [[../Map/Alastor/Alastor|Alastor]], and seem to be the only people capable of remaining there for extended periods of time.  
+They have no preferences for climate or geography and can be found all around the world. They are spread quite thin, making them a rare sight. Some live on the desolate island of [[Electra]] in the country of [[../Map/Alastor/index|Alastor]], and seem to be the only people capable of remaining there for extended periods of time.  
   
 ## Sociology  
   

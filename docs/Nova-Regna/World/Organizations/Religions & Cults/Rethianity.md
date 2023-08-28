@@ -6,7 +6,7 @@ share: true
   
 it is a monotheistic religion centered around someone named [[Turias Reth]]. currently undecided on whether or not this person should be real, and if they are, how much power and influence they should have. based on abrahamic religions  
   
-headquartered in [[Haldon]], [[Morwick]], [[../../Map/Ustonia/Ustonia|Ustonia]].  
+headquartered in [[Haldon]], [[Morwick]], [[../../Map/Ustonia/index|Ustonia]].  
   
 -----  
 > [!cite] Author info  

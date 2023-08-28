@@ -123,7 +123,7 @@ He frequently meets with [[./Incarnations & Gods/Florian|Florian]], both to rela
   
 ### Affiliations  
   
-Leon is the firstborn of his generation in the Van Wolfe family, which is one of the oldest families registered in the [[Osterfeld]] Patriciaat, granting him status equivalent to the nobility within the state, and even a measure of special privilege throughout the rest of [[../World/Map/Osun Tanum/Osun Tanum|Osun Tanum]].  
+Leon is the firstborn of his generation in the Van Wolfe family, which is one of the oldest families registered in the [[Osterfeld]] Patriciaat, granting him status equivalent to the nobility within the state, and even a measure of special privilege throughout the rest of [[../World/Map/Osun Tanum/index|Osun Tanum]].  
   
 ## History  
   

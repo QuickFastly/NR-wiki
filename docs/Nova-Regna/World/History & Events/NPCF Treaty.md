@@ -4,7 +4,7 @@ comments: true
 ---  
 As part of the global peace initiative that began in 1973, the Non-Proliferation of Civilian Firearms and Projectile Weapons Treaty, commonly abbreviated as NPCF, was proposed as an important step for the initiative.  
   
-The intention of the treaty was to ban or strictly regulate civilian access to dangerous weapons to reduce the frequency and severity of violent crime around the world. Every country except [[../Map/Destrea/Destrea|Destrea]] agreed to the treaty.  
+The intention of the treaty was to ban or strictly regulate civilian access to dangerous weapons to reduce the frequency and severity of violent crime around the world. Every country except [[../Map/Destrea/index|Destrea]] agreed to the treaty.  
   
 The treaty went into effect in 1975 and all known civilian owned firearms were confiscated by 1980, and all other projectile weapons that were banned under the treaty were confiscated by 1985. No civilians that willingly gave up their weapons were fined or incarcerated during the initial confiscations.  
   
@@ -34,7 +34,7 @@ The proliferation of 3D printing technology bringing with it a new problem of un
   
 ### Public reception  
   
-Public reception was largely positive when this treaty was proposed, notable exceptions being Destrea, who fully opposed the treaty and refused to sign, and both [[../Map/Grenneria/Grenneria|Grenneria]] and [[../Map/Ustonia/Ustonia|Ustonia]], citing high border tensions with Destrea as a concern, though they ultimately did sign as it became clear that national militaries and private military companies were exempt.  
+Public reception was largely positive when this treaty was proposed, notable exceptions being Destrea, who fully opposed the treaty and refused to sign, and both [[../Map/Grenneria/index|Grenneria]] and [[../Map/Ustonia/index|Ustonia]], citing high border tensions with Destrea as a concern, though they ultimately did sign as it became clear that national militaries and private military companies were exempt.  
   
 Part of the reason reception was so positive and the proposal was so easy to pass compared to other international treaties is that at the time, civilian owned firearms were rare in most of the world, and virtually unheard of in some areas. Ustonia and Destrea accounted for more than 80% of all civilain owned firearms in the world, with Grenneria accounting for the next 8%.  
   

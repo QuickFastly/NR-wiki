@@ -18,7 +18,7 @@ tags: Shinzen
   
 [[./Miwa Family|Miwa Family]]  
   
-[[../../Cultures & Ethnicities/Shisuya/Shisuya|Shisuya]]  
+[[../../Cultures & Ethnicities/Shisuya/index|Shisuya]]  
   
   
 -----  

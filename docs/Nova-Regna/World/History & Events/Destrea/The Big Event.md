@@ -3,7 +3,7 @@ share: true
 comments: true  
 tags: Destrea, RW  
 ---  
-The Big Event is the most popular name given to the 1991 New Year's Insurrection in [[../../Map/Destrea/index|Destrea]], carried out by the [[../../Organizations/Risky Witches|Risky Witches]]. It lasted only two days, and saw the assassinations of all high ranking Destrean officials, politicians, and military officers who supported the regime, the total domination and occupation of the province of [[Espada]], and the start of a yet ongoing Destrean civil war led by a newly empowered generation of revolutionaries.  
+The Big Event is the most popular name given to the 1991 New Year's Insurrection in [[../../Map/Destrea/Destrea|Destrea]], carried out by the [[../../Organizations/Risky Witches|Risky Witches]]. It lasted only two days, and saw the assassinations of all high ranking Destrean officials, politicians, and military officers who supported the regime, the total domination and occupation of the province of [[Espada]], and the start of a yet ongoing Destrean civil war led by a newly empowered generation of revolutionaries.  
   
 Beginning in late 1990, the yet-to-be-named Risky Witches mobilized elite forces to key locations all over the country under orders to closely monitor Destrean officials and officers in the area and be prepared to attack at a moment's notice. With an effective force of nearly 8,000 deployed rebels, the group successfully placed the entirety of the Destrean government under surveillance, and they remained undetected due to the general public also being suspicious of the regime at the time thanks to sharply dropping approval rates caused by the recent national order to execute any [[../../Inhabitants/Spirits|spirits]] showing "signs of rebellion" without trial.  
   

@@ -74,9 +74,9 @@ Very rarely, some may retain their blue eyes for most of their life, but nearly 
   
 ## Geographic distribution  
   
-Wolf spirits have a strong preference for cold climates, and enjoy mountainous terrain. The vast majority of them are found in the northern and central regions of [[../Map/Corstaea/Corstaea|Corstaea]].  
+Wolf spirits have a strong preference for cold climates, and enjoy mountainous terrain. The vast majority of them are found in the northern and central regions of [[../Map/Corstaea/index|Corstaea]].  
   
-They are also a common sight in [[../Map/Alastor/Alastor|Alastor]].  
+They are also a common sight in [[../Map/Alastor/index|Alastor]].  
   
 ## Sociology  
   

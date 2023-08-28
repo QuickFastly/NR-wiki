@@ -82,7 +82,7 @@ Fox spirits undergo a physical change every century after their first. Most comm
   
 Fox spirits have no preference for climate or terrain, and can be found anywhere in the world. With their tiny population, they are an incredibly rare sight.  
   
-Statistically, they are most likely to be seen in [[../Map/Alastor/index|Alastor]], but even there they remain a rare sight. The only known surviving multi-generational settlement of fox spirits in the world is located there with a population of 193.  
+Statistically, they are most likely to be seen in [[../Map/Alastor/Alastor|Alastor]], but even there they remain a rare sight. The only known surviving multi-generational settlement of fox spirits in the world is located there with a population of 193.  
   
 ## Sociology  
   

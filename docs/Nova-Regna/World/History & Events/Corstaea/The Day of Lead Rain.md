@@ -4,7 +4,7 @@ comments: true
 tags: Corstaea  
 ---  
   
-The Day of Lead Rain was a violent military coup that took place in the [[../../Map/Corstaea/index|Corstaean]] Parliament House during the 04/07/1942 sitting that saw the assassinations of the Prime Minister, Minister of Defense, Minister of State, Minister of Commerce, and all but three present nationalists and militarists, resulting in the installation of progressive civilian ministers, the liberal party becoming the majority, and the Council and House of Commons being given equal power.  
+The Day of Lead Rain was a violent military coup that took place in the [[../../Map/Corstaea/Corstaea|Corstaean]] Parliament House during the 04/07/1942 sitting that saw the assassinations of the Prime Minister, Minister of Defense, Minister of State, Minister of Commerce, and all but three present nationalists and militarists, resulting in the installation of progressive civilian ministers, the liberal party becoming the majority, and the Council and House of Commons being given equal power.  
   
 ### Prelude  
   
@@ -14,7 +14,7 @@ Dissatisfied with the rapidly growing militarism and extreme nationalism in the 
   
 At 11:31 on 04/07/1942, the Home Guard and the national police surrounded and invaded Parliament House during the day’s sitting, sealing all exits. They were initially met with confusion and outrage, which led one soldier to kill the Minister of Defense to assert their power.  
   
-They then presented their demands. First, to send home all forces stationed on the [[../../Map/Grenneria/index|Grennerian]] border, and cancel all plans of attack or invasion. Second, to remove the Prime Minister, shuffle the cabinet, depose the nationalist party, and dissolve the militarist party. Finally, to give the House of Commons equal power relative to the Council.  
+They then presented their demands. First, to send home all forces stationed on the [[../../Map/Grenneria/Grenneria|Grennerian]] border, and cancel all plans of attack or invasion. Second, to remove the Prime Minister, shuffle the cabinet, depose the nationalist party, and dissolve the militarist party. Finally, to give the House of Commons equal power relative to the Council.  
   
 Upon hearing this, the Minister of State objected and was killed. After allowing another man to speak, expressing his desire to acquiesce to the demands and end the day without further violence, the Minister of Commerce objected and was killed as well, after being accused of personally benefitting from war.  
   

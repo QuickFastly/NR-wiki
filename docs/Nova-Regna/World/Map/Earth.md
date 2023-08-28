@@ -21,15 +21,15 @@ comments: true
   
   <span class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border-left:2px solid #666; border-right:2px solid #666; border-bottom:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px; font-size:10px">![[../../../assets/img/general population.png|250]]<br><i>Population by country</i><br>![[../../../assets/img/cc _parents.png|250]]<br><i>Population by major ethnic groups</i></span>  
   
-Earth is the third planet from the sun and the only astronomical object known to harbor and support life. It is home to an incredibly diverse range of living things, most notably including [[../Inhabitants/Human|humans]] and [[../Inhabitants/Spirits|spirits]], both of which belong to a wide range of [[../Cultures & Ethnicities/Cultures & Ethnicities|cultures and ethnicities]]. The planet and everything on it also contains [[../Concepts/Mystic Matter|mystic matter]], a substance crucial to the existence and prosperity of life.  
+Earth is the third planet from the sun and the only astronomical object known to harbor and support life. It is home to an incredibly diverse range of living things, most notably including [[../Inhabitants/Human|humans]] and [[../Inhabitants/Spirits|spirits]], both of which belong to a wide range of [[../Cultures & Ethnicities/index|cultures and ethnicities]]. The planet and everything on it also contains [[../Concepts/Mystic Matter|mystic matter]], a substance crucial to the existence and prosperity of life.  
   
 The world is currently in the tenth month of the year 2033 of Anno Ortu. It was likely formed some time during [[../History & Events/Era Dira|Era Dira]], but the true age of the planet is unknown. Nearly all history from that time period is also unknown due to a thick layer of ash and charcoal deep beneath the surface all over the world from an event known as [[../History & Events/The End of Everything|The End of Everything]].  
   
 The inhabited world is comprised of three continents. [[./Avangia|Avangia]] in the west, [[./Ozen|Ozen]] in the northeast, and [[./Yulentia|Yulentia]] in the southeast. Additionally, there is an uninhabitable ice cap in the north, and an uninhabited frozen continent in the south.  
 	  
-- The Avangian continent is home to the countries of [[./Ilmaria/Ilmaria|Ilmaria]], [[./Sangyon/Sangyon|Sangyon]], [[./Shaohou/Shaohou|Shaohou]], and [[./Shinzen/Shinzen|Shinzen]].  
-- The continent of Ozen is home to the countries of [[./Alastor/Alastor|Alastor]], [[./Corstaea/Corstaea|Corstaea]], [[./Grenneria/Grenneria|Grenneria]], and [[./Osun Tanum/Osun Tanum|Osun Tanum]].  
-- The Yulentian continent is home to the countries of [[./Ustonia/Ustonia|Ustonia]] and [[./Destrea/Destrea|Destrea]].  
+- The Avangian continent is home to the countries of [[./Ilmaria/index|Ilmaria]], [[./Sangyon/index|Sangyon]], [[./Shaohou/index|Shaohou]], and [[./Shinzen/index|Shinzen]].  
+- The continent of Ozen is home to the countries of [[./Alastor/index|Alastor]], [[./Corstaea/index|Corstaea]], [[./Grenneria/index|Grenneria]], and [[./Osun Tanum/index|Osun Tanum]].  
+- The Yulentian continent is home to the countries of [[./Ustonia/index|Ustonia]] and [[./Destrea/index|Destrea]].  
 - Each country is also part of one of three larger organizations, being the [[../Organizations/Avangian Alliance|Avangian Alliance]], [[../Organizations/Ozen Federation|Ozen Federation]], or [[../Organizations/Yulentia Trade Union|Yulentia Trade Union]].  
   
 ## Meta stuff  

@@ -101,7 +101,7 @@ tags: HT
     </table>  
   </div>  
   
-Nori Inazuma is a [[../../World/Inhabitants/Fox|fox spirit]], and one of two surviving members of the [[../../World/History & Events/Shinzen/Inazuma Clan|Inazuma Clan]]. Together with her husband, [[./Shun Inazuma|Shun Inazuma]], she traveled the world for several centuries and appears in many disparate historical events as a result. She currently lives in rural [[../../World/Map/Shinzen/Shiga|Shiga]] in [[Onsai]], [[../../World/Map/Shinzen/Shinzen|Shinzen]].  
+Nori Inazuma is a [[../../World/Inhabitants/Fox|fox spirit]], and one of two surviving members of the [[../../World/History & Events/Shinzen/Inazuma Clan|Inazuma Clan]]. Together with her husband, [[./Shun Inazuma|Shun Inazuma]], she traveled the world for several centuries and appears in many disparate historical events as a result. She currently lives in rural [[../../World/Map/Shinzen/Shiga|Shiga]] in [[Onsai]], [[../../World/Map/Shinzen/index|Shinzen]].  
   
 ## Physical description  
   

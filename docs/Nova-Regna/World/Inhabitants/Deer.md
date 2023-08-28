@@ -72,9 +72,9 @@ Deer spirits grow at slightly under half the rate of humans, not reaching full p
   
 ## Geographic distribution  
   
-Deer spirits have a strong preference for seasonal forested regions. The majority of deer spirits are found in [[../Map/Shinzen/Shinzen|Shinzen]], but they can be found in rural areas with mild climates across most of the world. Meanwhile, the fringe faction is found deep inside dense forests all around the world.  
+Deer spirits have a strong preference for seasonal forested regions. The majority of deer spirits are found in [[../Map/Shinzen/index|Shinzen]], but they can be found in rural areas with mild climates across most of the world. Meanwhile, the fringe faction is found deep inside dense forests all around the world.  
   
-Deer spirits are also common throughout the lush island of [[Panacea]], serving as its keepers and considered vital to the people of [[../Map/Alastor/Alastor|Alastor]].  
+Deer spirits are also common throughout the lush island of [[Panacea]], serving as its keepers and considered vital to the people of [[../Map/Alastor/index|Alastor]].  
   
 ## Sociology  
   

@@ -38,7 +38,7 @@ tags: Shinzen, Shaohou, Sangyon
     </table>  
   </div>  
   
-The Avangian Alliance is a political agreement formed between [[../Map/Sangyon/Sangyon|Sangyon]], [[../Map/Shaohou/Shaohou|Shaohou]], and [[../Map/Shinzen/Shinzen|Shinzen]] in 1957 as a way to ensure a lasting peace between the nations after the new leadership of Shinzen abruptly withdrew all troops from Sangyon and Shaohou, ending an era of Shinzenese expansionism. This sudden withdrawal was met with intense negative public backlash from the patriotic Shinzenese population, which was a primary motivating factor for the new leadership of Shinzen to propose the Alliance in an attempt to quiet the concerns of the public.  
+The Avangian Alliance is a political agreement formed between [[../Map/Sangyon/index|Sangyon]], [[../Map/Shaohou/index|Shaohou]], and [[../Map/Shinzen/index|Shinzen]] in 1957 as a way to ensure a lasting peace between the nations after the new leadership of Shinzen abruptly withdrew all troops from Sangyon and Shaohou, ending an era of Shinzenese expansionism. This sudden withdrawal was met with intense negative public backlash from the patriotic Shinzenese population, which was a primary motivating factor for the new leadership of Shinzen to propose the Alliance in an attempt to quiet the concerns of the public.  
   
 ## History  
   

@@ -101,7 +101,7 @@ tags: HT
     </table>  
   </div>  
   
-Shun Inazuma is a [[../../World/Inhabitants/Fox|fox spirit]], and one of two surviving members of the [[../../World/History & Events/Shinzen/Inazuma Clan|Inazuma Clan]]. Together with their wife, [[./Nori Inazuma|Nori Inazuma]], they traveled the world for several centuries and appear in many disparate historical events as a result. They currently live in rural [[../../World/Map/Shinzen/Shiga|Shiga]] in [[Onsai]], [[../../World/Map/Shinzen/Shinzen|Shinzen]].  
+Shun Inazuma is a [[../../World/Inhabitants/Fox|fox spirit]], and one of two surviving members of the [[../../World/History & Events/Shinzen/Inazuma Clan|Inazuma Clan]]. Together with their wife, [[./Nori Inazuma|Nori Inazuma]], they traveled the world for several centuries and appear in many disparate historical events as a result. They currently live in rural [[../../World/Map/Shinzen/Shiga|Shiga]] in [[Onsai]], [[../../World/Map/Shinzen/index|Shinzen]].  
   
 ## Physical description  
   
@@ -115,7 +115,7 @@ They lost their right arm entirely in (year).
   
 Like all fox spirits, they have both [[../../World/Concepts/Alignment|Alignment]] and [[../../World/Concepts/Attunement|Attunement]]. They were a master of the traditional Inazuma sword arts despite only receiving one short year of training from another master, and mastered them with the standard right handed technique despite being left handed. This combined with their ability to slow their perception of time and force their body to move proportionally faster made them one of the most feared swordmasters of Shinzen.  
   
-After losing their right arm, they immediately displayed an even more fearsome mastery of left handed swordsmanship by combining the Inazuma sword arts with a traditional sword and swordsmanship of their homeland of [[../../World/Map/Shaohou/Shaohou|Shaohou]]. They never drew a sword again since then.  
+After losing their right arm, they immediately displayed an even more fearsome mastery of left handed swordsmanship by combining the Inazuma sword arts with a traditional sword and swordsmanship of their homeland of [[../../World/Map/Shaohou/index|Shaohou]]. They never drew a sword again since then.  
   
 ## Personality  
   
@@ -129,7 +129,7 @@ They have been married to Nori Inazuma for centuries.
   
 ## History  
   
-They were born in [[Taihua]], [[Yuezou]], Shaohou, to a [[../../World/Cultures & Ethnicities/Shisuya/Shisuya|Shisuya]] mother and [[../../World/Cultures & Ethnicities/Yinsha/Yinsha#Yao people|Yao]] father, the names of both unknown, but history suggests that their mother was the third daughter of the first Inazuma. According to Shun, their mother raised them as a daughter to protect them from the rulers of the time, and it was her that taught them swordsmanship in secret and crafted the Shaohan sword they still hold today. They were sent away on their long solitary journey eastward through Shinzen by their mother after the rulers discovered that she was hiding Shun's true nature from them.  
+They were born in [[Taihua]], [[Yuezou]], Shaohou, to a [[../../World/Cultures & Ethnicities/Shisuya/index|Shisuya]] mother and [[../../World/Cultures & Ethnicities/Yinsha/index#Yao people|Yao]] father, the names of both unknown, but history suggests that their mother was the third daughter of the first Inazuma. According to Shun, their mother raised them as a daughter to protect them from the rulers of the time, and it was her that taught them swordsmanship in secret and crafted the Shaohan sword they still hold today. They were sent away on their long solitary journey eastward through Shinzen by their mother after the rulers discovered that she was hiding Shun's true nature from them.  
   
 -----  
 > [!cite] Author info  

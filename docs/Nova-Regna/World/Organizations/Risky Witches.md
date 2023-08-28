@@ -43,7 +43,7 @@ tags: RW, Destrea
     </table>  
   </div>  
   
-The Risky Witches are a paramilitary group led by [[../../Characters/Incarnations & Gods/Freya|Freya]] and comprised primarily of Destrean separatists, [[../Inhabitants/Spirits|spirits]], and humans with [[../Concepts/Attunement|attunement]]. They present themselves primarily as a revolutionary group seeking independence, but also offer their services as private military contractors and security professionals. They are headquartered at [[Presidia de la Bruja]] in the [[Espada]] prefecture of [[../Map/Destrea/index|Destrea]], and also control [[Presidio de Tiburón]] in the [[Nalano]] prefecture.  
+The Risky Witches are a paramilitary group led by [[../../Characters/Incarnations & Gods/Freya|Freya]] and comprised primarily of Destrean separatists, [[../Inhabitants/Spirits|spirits]], and humans with [[../Concepts/Attunement|attunement]]. They present themselves primarily as a revolutionary group seeking independence, but also offer their services as private military contractors and security professionals. They are headquartered at [[Presidia de la Bruja]] in the [[Espada]] prefecture of [[../Map/Destrea/Destrea|Destrea]], and also control [[Presidio de Tiburón]] in the [[Nalano]] prefecture.  
   
 They are known globally for their extraordinary military strength, rumored to be capable of turning the tides of battle while outnumbered ten to one, and are most infamously known for carrying out [[../History & Events/Destrea/The Big Event|The Big Event]]. They lean heavily into their reputation by choosing to mobilize the smallest force possible for most operations. Because of this, the intimidation factor can be so great when they do rarely mobilize a large force that their enemies may sometimes surrender entirely without a fight.  
   
@@ -296,34 +296,34 @@ As a paramilitary group not officially recognized as a state or nation, foreign 
   
 ![[Political relations chart (Risky Witches).svg]]  
   
-**[[../Map/Alastor/index|Alastor]]**\  
+**[[../Map/Alastor/Alastor|Alastor]]**\  
 Shortly after their establishment in 1991, the Risky Witches issued an international statement swearing to defend Alastor from all threats under any circumstances. In return, the Risky Witches are the only foreign entity allowed to pass freely through Alastor territory as they please, and Alastor provides them whatever support they can offer as needed.  
   
-**[[../Map/Corstaea/index|Corstaea]]**\  
+**[[../Map/Corstaea/Corstaea|Corstaea]]**\  
 Corstaea remains neutral towards the Risky Witches, having no need for their services and no reason to offer them support. The feeling is mutual.  
   
-**[[../Map/Destrea/index|Destrea]]**\  
+**[[../Map/Destrea/Destrea|Destrea]]**\  
 Obviously, they are sworn enemies. There is no repairing the relationship between the Risky Witches and Destrea, not without a total revolution by the Destrean people.  
   
-**[[../Map/Grenneria/index|Grenneria]]**\  
+**[[../Map/Grenneria/Grenneria|Grenneria]]**\  
 Grenneria is of the opinion that the Risky Witches are terrorists, but isn't brave enough to publicly denounce them. Relations are very passive aggressive as a result.  
   
-**[[../Map/Ilmaria/index|Ilmaria]]**\  
+**[[../Map/Ilmaria/Ilmaria|Ilmaria]]**\  
 While Ilmaria has turned a blind eye to the Risky Witches, the Risky Witches have a keen interest in Ilmaria as an enemy. They just need an excuse to attack.  
   
-**[[../Map/Osun Tanum/index|Osun Tanum]]**\  
+**[[../Map/Osun Tanum/Osun Tanum|Osun Tanum]]**\  
 Osun Tanum is cautious towards the Risky Witches, but fully support their goal of independence. The Risky Witches are cautiously optimistic regarding Osun Tanum as they are in full support of their policies and cultural treatment towards spirits and those with attunement, but neither offers services nor accepts support from them due to the possible consequences for Osun Tanum.  
   
-**[[../Map/Sangyon/index|Sangyon]]**\  
+**[[../Map/Sangyon/Sangyon|Sangyon]]**\  
 Sangyon is very wary of the Risky Witches because they know their military strength cannot compare. However, the Risky Witches have no issue with Sangyon and regularly offer their services at discounted rates.  
   
-**[[../Map/Shaohou/index|Shaohou]]**\  
+**[[../Map/Shaohou/Shaohou|Shaohou]]**\  
 Shaohou, as a friend to Destrea, shares their hostile opinion against the Risky Witches, but not quite to the same degree. Relations are still possible between the two, though under extreme tension.  
   
-**[[../Map/Shinzen/index|Shinzen]]**\  
+**[[../Map/Shinzen/Shinzen|Shinzen]]**\  
 Shinzen has a very negative opinion of the Risky Witches as they are highly opposed to war. However, the Risky Witches have no issue with Shinzen, so tensions may be high but they amount to nothing.  
   
-**[[../Map/Ustonia/index|Ustonia]]**\  
+**[[../Map/Ustonia/Ustonia|Ustonia]]**\  
 As Ustonia had negative relations with Destrea already, they seized an opportunity when the Risky Witches formed and formed a pact. Ustonia provides the Risky Witches with supplies and arms regularly in return for a heavy discount on their services and mutual defense when called for.  
   
 ## Trivia  

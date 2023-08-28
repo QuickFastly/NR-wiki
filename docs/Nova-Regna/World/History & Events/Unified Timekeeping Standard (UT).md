@@ -8,11 +8,11 @@ The standard was not made retroactive, so any dates and times found in documents
   
 | Country       | Year adopted    | Country        | Year Adopted    |  
 | ------------- | --------------- | -------------- | --------------- |  
-| [[../Map/Alastor/index|Alastor]]   | 1530            | [[../Map/Osun Tanum/index|Osun Tanum]] | Since formation |  
-| [[../Map/Corstaea/index|Corstaea]]  | 1537            | [[../Map/Sangyon/index|Sangyon]]    | 1524            |  
-| [[../Map/Destrea/index|Destrea]]   | Since formation | [[../Map/Shaohou/index|Shaohou]]    | 1549            |  
-| [[../Map/Grenneria/index|Grenneria]] | 1532            | [[../Map/Shinzen/index|Shinzen]]    | 1540            |  
-| [[../Map/Ilmaria/index|Ilmaria]]   | Since formation | [[../Map/Ustonia/index|Ustonia]]    | Since formation |  
+| [[../Map/Alastor/Alastor|Alastor]]   | 1530            | [[../Map/Osun Tanum/Osun Tanum|Osun Tanum]] | Since formation |  
+| [[../Map/Corstaea/Corstaea|Corstaea]]  | 1537            | [[../Map/Sangyon/Sangyon|Sangyon]]    | 1524            |  
+| [[../Map/Destrea/Destrea|Destrea]]   | Since formation | [[../Map/Shaohou/Shaohou|Shaohou]]    | 1549            |  
+| [[../Map/Grenneria/Grenneria|Grenneria]] | 1532            | [[../Map/Shinzen/Shinzen|Shinzen]]    | 1540            |  
+| [[../Map/Ilmaria/Ilmaria|Ilmaria]]   | Since formation | [[../Map/Ustonia/Ustonia|Ustonia]]    | Since formation |  
   
 ## Dates  
   

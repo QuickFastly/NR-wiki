@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>  
   </div>  
   
-Kanjō is the northeastern ward of the city of [[./index|City of Hashiri]], and is a fully self-sufficient area with a balanced mix of industry, commercial, and residential uses. It contains the towns of [[./Ginya|Ginya]], [[./Sanzan|Sanzan]], [[./Wahara|Wahara]], [[./Yurihama|Yurihama]], and [[./Ryōgan|Ryōgan]].  
+Kanjō is the northeastern ward of the city of [[./Hashiri|Hashiri]], and is a fully self-sufficient area with a balanced mix of industry, commercial, and residential uses. It contains the towns of [[./Ginya|Ginya]], [[./Sanzan|Sanzan]], [[./Wahara|Wahara]], [[./Yurihama|Yurihama]], and [[./Ryōgan|Ryōgan]].  
   
 -----  
 > [!cite] Author info  

@@ -83,13 +83,13 @@ mapmarker: country
     </table>  
   </div>  
   
-Shinzen, officially known as the State of Shinzen (真善国), is an expansive country and international superpower located on the continent of [[../Avangia|Avangia]]. Its capital, [[Takagawa]], is located near the southern coast of the state of [[Asahi]]. It is bordered by [[../Shaohou/index|Shaohou]] to the west, and closely neighbored by [[../Sangyon/index|Sangyon]] to the northwest and [[../Ilmaria/index|Ilmaria]] in the eastern gulf.  
+Shinzen, officially known as the State of Shinzen (真善国), is an expansive country and international superpower located on the continent of [[Avangi[Shaohou](Map/Shaohou/index.md)]. Its capital, [[Takagaw[Shaohou](Map/Shaohou/index.md)], is located near the southern coast of the state of [[Asahi]]. It is bordered by [[Shaoho[Shaohou](Map/Shaohou/index.md)] to the west, and closely neighbored by [[Sangyo[Sangyon](Map/Sangyon/index.md)] to the northwest and [[Ilmari[Shaohou](Map/Shaohou/index.md)] in the eastern gulf.  
   
 Shinzen is a highly developed nation with the second largest population in the world, a booming semi-industrial economy, and a very well outfitted military. Shinzen is also considered to be one of the world leaders in aviation and automotive engineering, as well as development in space travel, robotics, microelectronics, artificial intelligence, and biotechnology.  
   
 ## History  
   
-Nothing for now. [[../../History & Events/Shinzen/History of Shinzen|History of Shinzen]] for later.  
+Nothing for now. [[History of Shinze[Sangyon](Map/Sangyon/index.md)] for later.  
   
 ## Geography  
   
@@ -103,16 +103,16 @@ Shinzen is a federal republic under constitutional monarchy, in which the power 
   
 The country is divided into 11 states, each with their own state government overseen by an elected governor with some degree of autonomy under the federal government, most with their own unique cultural views that influence their legislation. These states are as follows.  
 - [[Asahi]]  
-- [[Futou]]  
-- [[Hayagawa]]  
+- [[Futo[Shaohou](Map/Shaohou/index.md)]  
+- [[Hayagaw[Shaohou](Map/Shaohou/index.md)]  
 - [[Kenshiri]]  
 - [[Kiyoshiri]]  
 - [[Kuminachi]]  
 - [[Miwae]]  
-- [[Okina]]  
+- [[Okin[Shaohou](Map/Shaohou/index.md)]  
 - [[Onsai]]  
 - [[Sumitori]]  
-- [[Tozawa]]  
+- [[Tozaw[Shaohou](Map/Shaohou/index.md)]  
   
 ### Military  
   
@@ -120,7 +120,7 @@ The Shinzenese military, better known as the Shinzen Regional Defense Forces or 
   
 ### Foreign relations  
   
-![[Political relations chart (Shinzen).svg]]  
+![[Political relations chart (Shinzen).sv[Sangyon](Map/Sangyon/index.md)]  
   
 ## Economy  
   
@@ -146,7 +146,7 @@ Some primary exports of Shinzen are electronics, cars and trucks, and biotechnol
   
 ## Demographics  
   
-Shinzen has a unique struggle with acceptance of [[../../Inhabitants/Spirits|spirits]], as their official stance is a welcoming one and most people in the country are openly accepting and supportive of spirits, but systemic discrimination still remains, particularly in education and career opportunities. Nevertheless, many spirits are quite happy with their treatment in Shinzen, even though they have fewer opportunities.  
+Shinzen has a unique struggle with acceptance of [[Spirits|spirit[Shaohou](Map/Shaohou/index.md)], as their official stance is a welcoming one and most people in the country are openly accepting and supportive of spirits, but systemic discrimination still remains, particularly in education and career opportunities. Nevertheless, many spirits are quite happy with their treatment in Shinzen, even though they have fewer opportunities.  
   
 Spirit population as of the 2030 census: 14,158,605  
 - Cat: 8,312,945  

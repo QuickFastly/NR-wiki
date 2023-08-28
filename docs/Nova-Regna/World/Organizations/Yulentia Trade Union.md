@@ -38,7 +38,7 @@ tags: Ustonia, Destrea, Ilmaria, Alastor
     </table>  
   </div>  
   
-The Yulentia Trade Union is an independently governed legislative body formed originally for the economic benefit of its members, but later developed further into becoming an technology and intelligence sharing initiative. The founding members were [[../Map/Ustonia/Ustonia|Ustonia]], [[../Map/Destrea/Destrea|Destrea]], and [[../Map/Ilmaria/Ilmaria|Ilmaria]], and [[../Map/Alastor/Alastor|Alastor]] was later strong-armed into the Union to force an economic advantage for the Union over the soon-to-be-formed [[./Ozen Federation|Ozen Federation]]. After the [[../History & Events/Destrea/Reclamation War|Reclamation War]] destroyed any positive relations with Destrea the rest of the Union may have had, the Union ultimately shifted function to de facto Ustonian benefit.  
+The Yulentia Trade Union is an independently governed legislative body formed originally for the economic benefit of its members, but later developed further into becoming an technology and intelligence sharing initiative. The founding members were [[../Map/Ustonia/index|Ustonia]], [[../Map/Destrea/index|Destrea]], and [[../Map/Ilmaria/index|Ilmaria]], and [[../Map/Alastor/index|Alastor]] was later strong-armed into the Union to force an economic advantage for the Union over the soon-to-be-formed [[./Ozen Federation|Ozen Federation]]. After the [[../History & Events/Destrea/Reclamation War|Reclamation War]] destroyed any positive relations with Destrea the rest of the Union may have had, the Union ultimately shifted function to de facto Ustonian benefit.  
   
 ## History  
   

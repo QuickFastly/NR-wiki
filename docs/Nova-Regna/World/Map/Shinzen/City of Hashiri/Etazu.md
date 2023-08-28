@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>  
   </div>  
   
-Etazu is a town located within the [[./Shakotan ward|Shakotan ward]] of the city of [[./index|City of Hashiri]]. It is a mixed use area with a large oil extraction and refining industry located in the center of the town.  
+Etazu is a town located within the [[./Shakotan ward|Shakotan ward]] of the city of [[./Hashiri|Hashiri]]. It is a mixed use area with a large oil extraction and refining industry located in the center of the town.  
   
 -----  
 > [!cite] Author info  

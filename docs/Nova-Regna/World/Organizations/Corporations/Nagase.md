@@ -5,7 +5,7 @@ comments: true
 > [!bug] Issue  
 > Very rough and very incomplete, just here for posterity until I actually get around to developing this.  
   
-car, aircraft, and spacecraft company based in [[../../Map/Shinzen/index|Shinzen]]. the company is completely fictional with all of its designs created by me, not based on a real company.  
+car, aircraft, and spacecraft company based in [[../../Map/Shinzen/Shinzen|Shinzen]]. the company is completely fictional with all of its designs created by me, not based on a real company.  
   
 Notable car models: Lanza, Aquila, Paloma, Phoenix, Estela, Starcaster, Lovelace, Ridgeback\  
 Notable aircraft: Dealer, Decorator, Dancer, Debonair, Dawnbreaker, Duskwalker, Deadlock, Dauntless\  

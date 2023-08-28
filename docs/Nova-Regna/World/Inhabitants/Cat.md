@@ -72,7 +72,7 @@ Cat spirits grow at the same rate as humans until the age of 30 years, after whi
   
 Cat spirits are by far the largest group among spirits and are found all around the world, living happily alongside humans. Their preferences for climate and geography are typically the same as humans.  
   
-They are also a very common sight throughout [[../Map/Alastor/Alastor|Alastor]].  
+They are also a very common sight throughout [[../Map/Alastor/index|Alastor]].  
   
 ## Sociology  
   

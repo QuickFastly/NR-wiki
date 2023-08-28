@@ -83,13 +83,13 @@ mapmarker: country
     </table>  
   </div>  
   
-Shinzen, officially known as the State of Shinzen (真善国), is an expansive country and international superpower located on the continent of [[Avangi[Shaohou](Map/Shaohou/index.md)]. Its capital, [[Takagaw[Shaohou](Map/Shaohou/index.md)], is located near the southern coast of the state of [[Asahi]]. It is bordered by [[Shaoho[Shaohou](Map/Shaohou/index.md)] to the west, and closely neighbored by [[Sangyo[Sangyon](Map/Sangyon/index.md)] to the northwest and [[Ilmari[Shaohou](Map/Shaohou/index.md)] in the eastern gulf.  
+Shinzen, officially known as the State of Shinzen (真善国), is an expansive country and international superpower located on the continent of [[../Avangia|Avangia]]. Its capital, [[Takagawa]], is located near the southern coast of the state of [[Asahi]]. It is bordered by [Shaohou](Map/Shaohou/index.md) to the west, and closely neighbored by [Sangyon](Map/Sangyon/index.md) to the northwest and [[../Ilmaria/index|Ilmaria]] in the eastern gulf.  
   
 Shinzen is a highly developed nation with the second largest population in the world, a booming semi-industrial economy, and a very well outfitted military. Shinzen is also considered to be one of the world leaders in aviation and automotive engineering, as well as development in space travel, robotics, microelectronics, artificial intelligence, and biotechnology.  
   
 ## History  
   
-Nothing for now. [[History of Shinze[Sangyon](Map/Sangyon/index.md)] for later.  
+Nothing for now. [[../../History & Events/Shinzen/History of Shinzen|History of Shinzen]] for later.  
   
 ## Geography  
   
@@ -103,16 +103,16 @@ Shinzen is a federal republic under constitutional monarchy, in which the power 
   
 The country is divided into 11 states, each with their own state government overseen by an elected governor with some degree of autonomy under the federal government, most with their own unique cultural views that influence their legislation. These states are as follows.  
 - [[Asahi]]  
-- [[Futo[Shaohou](Map/Shaohou/index.md)]  
-- [[Hayagaw[Shaohou](Map/Shaohou/index.md)]  
+- [[Futou]]  
+- [[Hayagawa]]  
 - [[Kenshiri]]  
 - [[Kiyoshiri]]  
 - [[Kuminachi]]  
 - [[Miwae]]  
-- [[Okin[Shaohou](Map/Shaohou/index.md)]  
+- [[Okina]]  
 - [[Onsai]]  
 - [[Sumitori]]  
-- [[Tozaw[Shaohou](Map/Shaohou/index.md)]  
+- [[Tozawa]]  
   
 ### Military  
   
@@ -120,7 +120,7 @@ The Shinzenese military, better known as the Shinzen Regional Defense Forces or 
   
 ### Foreign relations  
   
-![[Political relations chart (Shinzen).sv[Sangyon](Map/Sangyon/index.md)]  
+![[Political relations chart (Shinzen).svg]]  
   
 ## Economy  
   

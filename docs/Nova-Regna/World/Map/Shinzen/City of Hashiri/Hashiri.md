@@ -1,5 +1,6 @@
 ---  
 share: true  
+comments: true  
 tags: PG, CM, Shinzen, maplocation  
 location: [1221.6641, 3008.9375]  
 mapmarker: location  
@@ -23,17 +24,17 @@ mapmarker: location
   
 Hashiri is a designated city[^1] located in the state of [[Sumitori]] in [[../Shinzen|Shinzen]]. the third largest city in Shinzen by population, behind [[Soukotan]] and [[Takagawa]]. It is widely known throughout the country for its extensive and complex expressway network, and around the world for its towering commercial districts that make it a tourism hotspot.  
   
-The city is divided into three wards, each containing four to five towns. These include the [[./Kanjō ward|Kanjō ward]] in the northeast, the [[./Kaidō ward|Kaidō ward]] in the southeast, and the [[./Shakotan ward|Shakotan ward]] in the west.  
+The city is divided into three wards, each containing four to five towns. These include the [[Kanjō ward|Kanjō ward]] in the northeast, the [[Kaidō ward|Kaidō ward]] in the southeast, and the [[Shakotan ward|Shakotan ward]] in the west.  
   
-The Kanjō ward includes the towns of [[./Ginya|Ginya]], [[./Sanzan|Sanzan]], [[./Wahara|Wahara]], [[./Yurihama|Yurihama]], and [[./Ryōgan|Ryōgan]].  
+The Kanjō ward includes the towns of [[Ginya|Ginya]], [[Sanzan|Sanzan]], [[Wahara|Wahara]], [[Yurihama|Yurihama]], and [[Ryōgan|Ryōgan]].  
   
-The Kaidō ward includes the towns of [[./Asakawa|Asakawa]], [[./Iwaji|Iwaji]], [[./Kayamori|Kayamori]], and [[./Shizuyama|Shizuyama]].  
+The Kaidō ward includes the towns of [[Asakawa|Asakawa]], [[Iwaji|Iwaji]], [[Kayamori|Kayamori]], and [[Shizuyama|Shizuyama]].  
   
-The Shakotan ward includes the towns of [[./Okamiwa|Okamiwa]], [[./Teruno|Teruno]], [[./Etazu|Etazu]], [[./Kitabe|Kitabe]], and [[./Jatōge|Jatōge]].  
+The Shakotan ward includes the towns of [[Okamiwa|Okamiwa]], [[Teruno|Teruno]], [[Etazu|Etazu]], [[Kitabe|Kitabe]], and [[Jatōge|Jatōge]].  
   
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)  
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)  
   
 [^1]: I'm not writing my own page for what a designated city is. At least not yet. Look at [this Wikipedia page](https://en.wikipedia.org/wiki/Cities_designated_by_government_ordinance_of_Japan) instead. It also explains what a ward is in this context.

@@ -1,5 +1,6 @@
 ---  
 share: true  
+comments: true  
 tags: HT, Shinzen, maplocation  
 location: [1191.7069, 2426.7021]  
 mapmarker: location  
@@ -12,4 +13,4 @@ A place in the forests of [[Hayagawa]] where the [[../../History & Events/Shinze
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

@@ -129,7 +129,11 @@ Leon is the firstborn of his generation in the Van Wolfe family, which is one of
   
 nothing for now  
   
+## Trivia  
+  
+- Plays violin and piano, primarily in classical styles.  
+  
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

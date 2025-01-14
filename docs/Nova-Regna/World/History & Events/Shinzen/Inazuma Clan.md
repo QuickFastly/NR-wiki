@@ -38,7 +38,7 @@ tags: HT, Shinzen
     </table>  
   </div>  
   
-The Inazuma [[./Clans of Shinzen|Clan]] (電) was a small family of [[../../Inhabitants/Fox|fox spirits]] that lived in relative seclusion, known primarily for their affinity with lightning - known now to have been a method of utilizing [[../../Concepts/Attunement|Attunement]] passed down through the family as tradition - who were given their noble status and lordship over their land by the Imperial Court. Their ancestral lands are historically known as [[../../Map/Shinzen/Shizumori|Shizumori]], found in northern [[Hayagawa]]. The family resisted the [[Kagetsu Clan|Kagetsu]] shogunate and was almost completely wiped out prior to the [[./Siege of Soukotan|Siege of Soukotan]] at the end of the [[./History of Shinzen#Ikute period 1253-1504|Ikute period]].  
+The Inazuma [[Clans of Shinzen|Clan]] (電) was a small family of [[../../Inhabitants/Fox|fox spirits]] that lived in relative seclusion, known primarily for their affinity with lightning - known now to have been a method of utilizing [[../../Concepts/Attunement|Attunement]] passed down through the family as tradition - who were given their noble status and lordship over their land by the Imperial Court. Their ancestral lands are historically known as [[../../Map/Shinzen/Shizumori|Shizumori]], found in northern [[Hayagawa]]. The family resisted the [[Kagetsu Clan|Kagetsu]] shogunate and was almost completely wiped out prior to the [[./Siege of Soukotan|Siege of Soukotan]] at the end of the [[History of Shinzen#Ikute period 1253-1504|Ikute period]].  
   
 They maintained isolationist behavior for their entire reign and were entirely self supported. Being secluded deep within a forest, extremely few outsiders ever visited their lands, and most that did got there on accident while traveling, but outsiders were almost always treated with uncanny hospitality, leading to the clan eventually building a rather mystical reputation that slowly spread throughout northern [[../../Map/Shinzen/Shinzen|Shinzen]].  
   
@@ -118,4 +118,4 @@ Aki 秋 (autumn)
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

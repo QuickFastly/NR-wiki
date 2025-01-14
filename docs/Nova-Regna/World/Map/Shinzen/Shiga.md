@@ -1,9 +1,9 @@
 ---  
 share: true  
 comments: true  
+tags: HT, Shinzen, maplocation  
 location: [1752.6797, 1575.5469]  
 mapmarker: location  
-tags: HT, Shinzen, maplocation  
 ---  
 <div>  
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">City of Shiga</span>  
@@ -31,4 +31,4 @@ Development of the city's road and highway network was entirely funded and overs
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

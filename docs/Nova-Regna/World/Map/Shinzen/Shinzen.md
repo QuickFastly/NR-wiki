@@ -89,7 +89,7 @@ Shinzen is a highly developed nation with the second largest population in the w
   
 ## History  
   
-Nothing for now. [[../../History & Events/Shinzen/History of Shinzen|History of Shinzen]] for later.  
+Nothing for now. [[History of Shinzen|History of Shinzen]] for later.  
   
 ## Geography  
   
@@ -189,7 +189,7 @@ TBD
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)  
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)  
   
 %% Takagawa coordinates: La. -10°8' Lo. -37°28' (?) %%  
 %% Shiga Coordinates: 5°26'S 108°23'W (?) %%  

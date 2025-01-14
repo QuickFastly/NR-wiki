@@ -1,5 +1,6 @@
 ---  
 share: true  
+comments: true  
 ---  
 > [!bug] Issue  
 >stub for now, here to remind me to write this.  
@@ -11,4 +12,4 @@ headquartered in [[Haldon]], [[Morwick]], [[../../Map/Ustonia/Ustonia|Ustonia]].
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

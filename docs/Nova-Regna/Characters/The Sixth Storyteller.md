@@ -129,7 +129,11 @@ He wrote [[../World/History & Events/The Account|The Account]] over 200 years ag
   
 When he became Storyteller in 1560, a huge number of ranking individuals across all four branches of the Children of the Flame disappeared overnight, seemingly without a trace. He has never spoken of this event, but in recent times after deeper study of historical records, some theorize that Six had actually usurped control of the faith and disposed of those who opposed somehow. He has never responded to this theory, nor have any of those studying the history been met with any kind of resistance.  
   
+## Trivia  
+  
+- Skilled organist, though he never plays in public.  
+  
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

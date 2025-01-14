@@ -131,7 +131,11 @@ She has been married to Shun Inazuma for centuries.
   
 Her mother was [[Anzu Inazuma]] and her father was [[Kaki Inazuma]], and she had a younger sister, [[Kuri Inazuma]]. She was extremely close with her mentor, [[Toki Inazuma]].  
   
+## Trivia  
+  
+- Plays the shakuhachi.  
+  
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

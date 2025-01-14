@@ -131,7 +131,11 @@ They have been married to Nori Inazuma for centuries.
   
 They were born in [[Taihua]], [[Yuezou]], Shaohou, to a [[../../World/Cultures & Ethnicities/Shisuya/Shisuya|Shisuya]] mother and [[../../World/Cultures & Ethnicities/Yinsha/Yinsha#Yao people|Yao]] father, the names of both unknown, but history suggests that their mother was the third daughter of the first Inazuma. According to Shun, their mother raised them as a daughter to protect them from the rulers of the time, and it was her that taught them swordsmanship in secret and crafted the Shaohan sword they still hold today. They were sent away on their long solitary journey eastward through Shinzen by their mother after the rulers discovered that she was hiding Shun's true nature from them.  
   
+## Trivia  
+  
+- Plays the erhu family of instruments using their right leg to move the bow with custom made equipment.  
+  
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

@@ -1,7 +1,7 @@
 ---  
 share: true  
 comments: true  
-tags: CotF  
+tags: CotF, RD  
 ---  
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later.  
@@ -105,7 +105,7 @@ tags: CotF
     </table>  
   </div>  
   
-Mae Seraphine Walker is the current High Seeker of the [[../World/Organizations/Religions & Cults/Children of the Flame|Children of the Flame]], and the right hand of [[./The Sixth Storyteller|The Sixth Storyteller]].  
+Mae Seraphine Walker is officially the current High Seeker of the [[../World/Organizations/Religions & Cults/Children of the Flame|Children of the Flame]], and the right hand of [[./The Sixth Storyteller|The Sixth Storyteller]]. However, she is currently alone in [[../World/Map/Ilmaria/Ilmaria|Ilmaria]], separated from the organization.  
   
 ## Physical description  
   
@@ -127,13 +127,17 @@ She has met [[./Incarnations & Gods/Kerosyn|Kerosyn]] on two occasions, and was 
   
 ### Affiliations  
   
-Mae is loosely affiliated with both the church of [[../World/Organizations/Religions & Cults/Rethianity|Rethianity]] and [[../World/Organizations/Religions & Cults/The Open Hand|The Open Hand]] due to her nature as a descendant of [[./Saint Serafina|Saint Serafina]], but does not associate with them personally. This lineage also grants her some degree of status in [[Savorra]], where her parents emigrated from.  
+Mae is loosely affiliated with both the church of [[../World/Organizations/Religions & Cults/Rethianity|Rethianity]] and [[../World/Organizations/Religions & Cults/The Open Hand|The Open Hand]] due to her nature as a descendant of [[Saint Serafina|Saint Serafina]], but does not associate with them personally. This lineage also grants her some degree of status in [[Savorra]], where her parents emigrated from.  
   
 ## History  
   
 When she was 19, she decided to marry a man from [[Arkbay]] and move there with him. Rather than simply take his last name, she took the opportunity to change her full name to sound more Arkan. Their marriage lasted less than two years, but she took quite a liking to her new name and kept it.  
   
+## Trivia  
+  
+- Plays violin and piano, primarily in folk styles.  
+  
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

@@ -1,11 +1,12 @@
 ---  
 share: true  
+comments: true  
 tags: PG  
 ---  
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later. If you think this is a real person, stop that, this is a fictional character. The car photo is only for inspiration, not final. Nickname not final. Images are **not** Creative Commons. Part of a project that is on hold.  
   
-[[../../World/Organizations/EXCEED|EXCEED]]  
+[[EXCEED|EXCEED]]  
   
 *Asura* | EXCEED #3  
   
@@ -18,4 +19,4 @@ Hotheaded and boisterous, childhood friends and rivals with Ryoko. She is very c
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

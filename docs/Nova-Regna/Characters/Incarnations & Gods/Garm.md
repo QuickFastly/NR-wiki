@@ -192,8 +192,9 @@ sorry nothing
   
 - She got the nickname "Biscuit" from soldiers before the Risky Witches formed for acting so much like a dog loyal to Freya, even being eager to receive treats for good behavior.  
 - She has broken almost every bone in her body at least twice each, and has broken her arms so many times in so many places that those bones have become freakishly hard, even by her standards.  
+- She is an exceptional drummer, but has a tendency to break cymbals.  
   
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

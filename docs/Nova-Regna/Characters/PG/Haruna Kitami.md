@@ -1,26 +1,27 @@
 ---  
 share: true  
+comments: true  
 tags: PG  
 ---  
 > [!bug] Issue  
 > This page is a stub, here as a reminder for later. If you think this is a real person, stop that, this is a fictional character. The car photo is only for inspiration, not final. Nickname not final. Images are **not** Creative Commons. Part of a project that is on hold.  
   
-[[../../World/Organizations/EXCEED|EXCEED]]  
+[[EXCEED|EXCEED]]  
   
 [[./Masashi Kitami|Masashi Kitami]]  
 [[./Reina Morita|Reina Morita]]  
 [[./Ryoko Kijima|Ryoko Kijima]]  
   
-[[./Komine|Komine]]  
-[[./Nagata|Nagata]]  
-[[./Nakai|Nakai]]  
+[[Komine|Komine]]  
+[[Nagata|Nagata]]  
+[[Nakai|Nakai]]  
   
-[[./Amemiya|Amemiya]]  
-[[./Hosoki|Hosoki]]  
-[[./Kitabayashi|Kitabayashi]]  
-[[./Mizota|Mizota]]  
-[[./Uwabo|Uwabo]]  
-[[./Yoshida|Yoshida]]  
+[[Amemiya|Amemiya]]  
+[[Hosoki|Hosoki]]  
+[[Kitabayashi|Kitabayashi]]  
+[[Mizota|Mizota]]  
+[[Uwabo|Uwabo]]  
+[[Yoshida|Yoshida]]  
   
 *Upstart Trickster* | EXCEED #1  
   
@@ -33,4 +34,4 @@ Plucky tomboy with a strong sense of justice. Not actually Masashi's daughter, s
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

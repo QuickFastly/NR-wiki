@@ -175,8 +175,9 @@ sorry nothing
 ## Trivia  
   
 - It's not hard to guess how she got her nickname. She acts like a sweet old grandmother to everyone, despite looking far too young to be one, and is by far the oldest member of the unit other than Freya, so everyone naturally called her "Gramma".  
+- Plays flutes, and makes them herself out of whatever suitable wood she stumbles upon.  
   
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

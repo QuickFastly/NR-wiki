@@ -93,11 +93,11 @@ Company activity by revenue share:
   
 ## History  
   
-Originally founded by [[../../../Characters/Harutaka Hijiya|Harutaka Hijiya]] as a simple household appliance manufacturer to provide for the family, his son, [[../../../Characters/Kaede Hijiya|Kaede Hijiya]], showed great ambition and desire to work towards them, so it wasn't long before ownership of the company was passed down to him.  
+Originally founded by [[Harutaka Hijiya|Harutaka Hijiya]] as a simple household appliance manufacturer to provide for the family, his son, [[Kaede Hijiya|Kaede Hijiya]], showed great ambition and desire to work towards them, so it wasn't long before ownership of the company was passed down to him.  
   
 Kaede quickly revolutionized the company by establishing a technological research division, where he spent most of his time, and branching out into the energy and electronics fields. The company board had full confidence in Kaede's ability to manage the company despite his rare appearances at meetings, evidenced by the rapid growth of the company and his impeccable foresight.  
   
-When he later married a woman named [[../../../Characters/Hana Hijiya|Hana]] and immediately gave her the position of chairman of the board, suspicions began to arise as his appearances became even less frequent, and even she regularly failed to appear for meetings. Only stressing matters further, for a few years, nearly all company profit was directed to the research division, the work of which was kept strictly secret to all but the people working in it.  
+When he later married a woman named [[Hana Hijiya|Hana]] and immediately gave her the position of chairman of the board, suspicions began to arise as his appearances became even less frequent, and even she regularly failed to appear for meetings. Only stressing matters further, for a few years, nearly all company profit was directed to the research division, the work of which was kept strictly secret to all but the people working in it.  
   
 All suspicions and concerns were immediately dispelled in 1998 when both Kaede and Hana interrupted a meeting with the fruits of their labor: The EVA Driver prototype. After several demonstrations within the company, the technology was prepared for production and a dedicated department was formed in the energy division to further develop, manufacture, and maintain these devices.  
   
@@ -107,9 +107,9 @@ With their laser focus, the company became the world leader in almost everything
   
 As the company continued to branch out, it also continued to struggle with its performance in the international market, as they were stuck behind an unbreakable international perception of the Hijiya Corporation as "the company that made the EVA Driver" and couldn't bring enough awareness to their other products, even as they continued to push the boundaries of science.  
   
-That was ultimately their downfall, when in 2016, the Hijiya family was involved in a lethal plane crash in a private plane made by their company, which was powered by an experimental EVA Driver. The only survivor of the crash was their five year old daughter [[../../../Characters/RD&PZ/Nozomi Hijiya|Nozomi]], though she was permanently crippled.  
+That was ultimately their downfall, when in 2016, the Hijiya family was involved in a lethal plane crash in a private plane made by their company, which was powered by an experimental EVA Driver. The only survivor of the crash was their five year old daughter [[Nozomi Hijiya|Nozomi]], though she was permanently crippled.  
   
-News of this incident quickly became global news, and the company reputation tanked all around the world, devastating the company as their international market virtually dissolved within a week. However, their standing in Shinzen was largely unaffected, even slightly improved, as by this point the company had become a celebrated and treasured national icon. As the country mourned the loss of Kaede and Hana Hijiya, the company devoted itself almost entirely to developing far more advanced safety protocols for all EVA Drivers after the former head of the experimental research division, [[../../../Characters/Minori Sakaguchi|Minori Sakaguchi]], was appointed as interim president.  
+News of this incident quickly became global news, and the company reputation tanked all around the world, devastating the company as their international market virtually dissolved within a week. However, their standing in Shinzen was largely unaffected, even slightly improved, as by this point the company had become a celebrated and treasured national icon. As the country mourned the loss of Kaede and Hana Hijiya, the company devoted itself almost entirely to developing far more advanced safety protocols for all EVA Drivers after the former head of the experimental research division, [[Minori Sakaguchi|Minori Sakaguchi]], was appointed as interim president.  
   
 To stay afloat after the loss of their international market, several branches of the company were shut down entirely, including the majority of its research centers, and funding was decreased significantly for many others. While they still remained the world leader in some fields by quite a significant margin, it was a massive hit to morale as the company began to stagnate.  
   
@@ -122,4 +122,4 @@ After her first public appearance on behalf of the company ended in her fainting
 -----  
 > [!cite] Author info  
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\  
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)
